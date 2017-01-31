@@ -9,9 +9,9 @@ First steps here were based partly on http://stackoverflow.com/a/38192468/556232
 """
 
 
-import time, argparse, os, sys, json
+import time, json
 
-from social_media_auth import Trump_client
+from social_media_auth import Trump_client                      # Unshared module that contains my authentication constants
 
 #Import the necessary methods from tweepy library
 from tweepy.streaming import StreamListener
@@ -28,8 +28,12 @@ access_token_secret = Trump_client['access_token_secret']
 Trump_twitter_accounts = ['25073877', '822215679726100480']     # @realDonaldTrump = 25073877; @POTUS = 822215679726100480
 # Trump_twitter_accounts = ['814046047546679296']               # @false_trump = 814046047546679296
 
-class StdOutListener(StreamListener):
-    '''A basic listener that just writes received tweets to file.'''
+
+class TrumpListener(StreamListener):
+    """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. It's
+    best to avoid actually paying attention to what he writes. Let's create a
+    bot to listen for us. 
+    """
 
     def __init__(self):
         StreamListener.__init__(self)
@@ -45,7 +49,7 @@ class StdOutListener(StreamListener):
 
 
 if __name__ == '__main__':
-    l = StdOutListener()
+    l = TrumpListener()
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
 
@@ -53,12 +57,10 @@ if __name__ == '__main__':
         try:
             stream = Stream(auth, l)
             stream.filter(follow=Trump_twitter_accounts, stall_warnings=True)
-
         except IncompleteRead as e:
             # Oh well. Sleep some before trying again
             time.sleep(15)
             continue
-
         except KeyboardInterrupt:
             stream.disconnect()
             break
