@@ -9,7 +9,7 @@ First steps here were based partly on http://stackoverflow.com/a/38192468/556232
 """
 
 
-import time, json
+import time, json, requests
 
 from social_media_auth import Trump_client                      # Unshared module that contains my authentication constants
 
@@ -20,6 +20,8 @@ from tweepy import Stream
 from http.client import IncompleteRead
 
 
+debugging = True
+
 consumer_key = Trump_client['consumer_key']
 consumer_secret = Trump_client['consumer_secret']
 access_token = Trump_client['access_token']
@@ -28,6 +30,9 @@ access_token_secret = Trump_client['access_token_secret']
 Trump_twitter_accounts = ['25073877', '822215679726100480']     # @realDonaldTrump = 25073877; @POTUS = 822215679726100480
 # Trump_twitter_accounts = ['814046047546679296']               # @false_trump = 814046047546679296
 
+
+def get_tweet_url(username, id):
+    return "https://twitter.com/%s/status/%s" % (username, id)
 
 class TrumpListener(StreamListener):
     """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. It's
@@ -41,7 +46,7 @@ class TrumpListener(StreamListener):
     def on_data(self, data):
         data = json.loads(data)
         if data['user']['id_str'] in Trump_twitter_accounts:
-            print(data['text'])
+            if debugging: print("New tweet from %s: %s" % (data['text'], data['user']['screen_name']))
         return True
 
     def on_error(self, status):
@@ -49,9 +54,11 @@ class TrumpListener(StreamListener):
 
 
 if __name__ == '__main__':
+    if debugging: print('Starting up...')
     l = TrumpListener()
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
+    if debugging: print("... OK, we're set up")
 
     while True:
         try:
