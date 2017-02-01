@@ -46,7 +46,7 @@ class TrumpListener(StreamListener):
     def on_data(self, data):
         data = json.loads(data)
         if data['user']['id_str'] in Trump_twitter_accounts:
-            if debugging: print("New tweet from %s: %s" % (data['text'], data['user']['screen_name']))
+            if debugging: print("New tweet from %s: %s" % (data['user']['screen_name'], data['text']))
         return True
 
     def on_error(self, status):
