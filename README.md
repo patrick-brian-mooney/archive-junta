@@ -1,7 +1,7 @@
 `archive_trump.py`
 ========================
 
-<a rel="me" href="http://patrickbrianmooney.nfshost.com/~patrick/">Patrick Mooney</a>
+<a rel="me" href="http://patrickbrianmooney.nfshost.com/~patrick/">Patrick Mooney</a><br />
 v 0.1: 1 February 2017
 
 Overview
@@ -23,6 +23,26 @@ On the other hand, if *way too many people* decide to volunteer in this way, tha
 
 To the best of my knowledge, there are currently no other people running this script remotely.
 
+What does it require?
+---------------------
+
+Python 3 and an Internet connection, plus ...
+
+Several PyPI modules not in the standard library:
+
+<ul>
+<li><a rel="muse" href="http://www.tweepy.org">Tweepy</a></li>
+<li><a rel="muse" href="https://pypi.python.org/pypi/pid/"><code>pid</code></a></li>
+<li><a rel="muse" href="https://github.com/michaelhelmick/python-tumblpy">Tumblpy</a></li>
+</ul>
+
+A couple of modules from my personal library on GitHub:
+<ul>
+<li><a rel="me" href="https://github.com/patrick-brian-mooney/python-personal-library/blob/master/social_media.py"><code>social_media.py</code></a></li>
+<li><a rel="Me" href="https://github.com/patrick-brian-mooney/python-personal-library/blob/master/patrick_logger.py"><code>patrick_logger.py</code></a></li>
+</ul>
+
+
 Can I adapt it to follow other people in the same way?
 ------------------------------------------------------
 
@@ -31,4 +51,4 @@ Sure, and don't feel obligated to tell me that you're doing so. You can fork it 
 How does it work?
 -----------------
 
-Etc.
+A spare laptop running Linux runs it as a `cron` job every two minutes. The first thing it does when it starts up is check to see if there's another copy running and, if so, quits, so the `cron` job simply starts it over and over in case it quits for some reason. If there are no other copies of the xcript running, it checks to see what ID of the last tweet it saw was from each account that it follows. If there have been any tweets since then, it asks the Internet Archive to create a backup of the tweet's display web page. Once it's caught up archiving all of the tweets that have been made since its last run, it sits, waiting on new tweets to come from any of the accounts it monitors. When new tweets come in, it archives them, too.  
