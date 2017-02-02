@@ -4,13 +4,21 @@
 then causes them to be archived at the Internet Archive, hopefully before The
 Donald deletes them.
 
-First steps here were based partly on a reading of the quesiton and answers at 
+First steps here were based partly on a reading of the question and answers at 
 http://stackoverflow.com/a/38192468/5562328 -- thanks kmario23 for pointing me
 in the right direction.
 
 This program is free software, licensed under the GPL, either version 3, or (at
 your choice) any later version, and you are welcome to modify or redistribute
 it, subject to certain requirements; see the file LICENSE.md for more info.
+
+This program is alpha software. You are welcome to use it, but assume all risk
+incurred by doing so. The author assumes no liability for any damages that this
+script may do to your computer or data or other valuables, and makes no
+guarantees about the performance of this software -- not even the guarantee of
+merchantability or fitness for any particular purpose. In no case will the
+author be liable for damages in excess of the purchase price you have paid for
+this program. 
 """
 
 
@@ -37,7 +45,8 @@ access_token_secret = Trump_client['access_token_secret']
 Trump_twitter_accounts = {'25073877': 'realDonaldTrump', '822215679726100480': 'POTUS'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
-last_tweet_id_store = '/home/patrick/Documents/programming/python_projects/archive-trump/last_tweet'
+home_dir = '/archive-trump'
+last_tweet_id_store = '%s/last_tweet' % home_dir
 
 debugging = True
 
@@ -127,6 +136,7 @@ def startup():
             with open("%s.%s" % (last_tweet_id_store, username), mode="w") as store:
                 store.write("-1")
             newest_id = -1
+        if debugging: print("about to get all tweets newer than ID #%s for account @%s" % (newest_id, username))
         for tw in [t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id]:
             archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
             time.sleep(1)
@@ -134,7 +144,7 @@ def startup():
 
 if __name__ == '__main__':
     try:
-        with pid.PidFile(piddir='.'):
+        with pid.PidFile(piddir=home_dir):
             startup()
             l = TrumpListener()
             auth = OAuthHandler(consumer_key, consumer_secret)
