@@ -112,6 +112,12 @@ def get_new_tweets(screen_name, oldest=-1):
     return [t for t in ret if (t.id > oldest)]
 
 def startup():
+    """Perform startup tasks. Currently, this means:
+        
+        1. archive any tweets we may have missed between now and whenever we last
+           stopped running.
+        2. that's it. Nothing else.
+    """
     if debugging: print('Starting up...')
     for id, username in Trump_twitter_accounts.items():
         try:
@@ -122,7 +128,7 @@ def startup():
                 store.write("-1")
             newest_id = -1
         for tw in [t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id]:
-            archive_tweet(tw.user.name, tw.id_str, tw.text)
+            archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
             time.sleep(1)
 
 
