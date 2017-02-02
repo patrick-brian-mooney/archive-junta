@@ -33,8 +33,8 @@ consumer_secret = Trump_client['consumer_secret']
 access_token = Trump_client['access_token']
 access_token_secret = Trump_client['access_token_secret']
 
-Trump_twitter_accounts = {'814046047546679296': 'false_trump',}
-# Trump_twitter_accounts = {'25073877': 'realDonaldTrump', '822215679726100480': 'POTUS'}
+# Trump_twitter_accounts = {'814046047546679296': 'false_trump',}
+Trump_twitter_accounts = {'25073877': 'realDonaldTrump', '822215679726100480': 'POTUS'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 last_tweet_id_store = '/home/patrick/Documents/programming/python_projects/archive-trump/last_tweet'
