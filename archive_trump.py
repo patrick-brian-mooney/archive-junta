@@ -38,10 +38,8 @@ import social_media as sm                                       # https://github
 from social_media_auth import Trump_client                      # Unshared module that contains my authentication constants
 
 
-consumer_key = Trump_client['consumer_key']
-consumer_secret = Trump_client['consumer_secret']
-access_token = Trump_client['access_token']
-access_token_secret = Trump_client['access_token_secret']
+consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
+access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
 # Trump_twitter_accounts = {'814046047546679296': 'false_trump',}
 Trump_twitter_accounts = {'25073877': 'realDonaldTrump', '822215679726100480': 'POTUS'}
@@ -98,14 +96,14 @@ class TrumpListener(StreamListener):
             if data['user']['id_str'] in Trump_twitter_accounts:        # If it's one of the accounts we're watching, archive it.
                 archive_tweet(data['user']['screen_name'], data['id_str'], data['text'])
         except:
-            print('ERROR: \n  Exception is:')
-            pprint.pprint(sys.exc_info()[0])
-            print('  Value of data is:')
-            pprint.pprint(data)
+            log_it('ERROR: \n  Exception is:', -1)
+            log_it(pprint.pformat(sys.exc_info()[0]), -1)
+            log_it('  Value of data is:', -1)
+            log_it(pprint.pformat(data), -1)
             raise
         return True
     def on_error(self, status):
-        print("ERROR: %s" % status)
+        log_it("ERROR: %s" % status, 0)
 
 
 # This next group of functions handles the downloading, processing, and storing of The Donald's tweets.
