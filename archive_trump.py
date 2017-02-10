@@ -166,7 +166,7 @@ if __name__ == '__main__':
                 try:
                     stream = Stream(auth, l)
                     stream.filter(follow=Trump_twitter_accounts, stall_warnings=True)
-                except IncompleteRead as e:
+                except (IncompleteRead, ProtocolError) as e:
                     # Sleep some before trying again.
                     time.sleep(15)
                     continue
@@ -176,4 +176,3 @@ if __name__ == '__main__':
     except pid.PidFileError:
         log_it("Already running! Quitting ...", 0)
         sys.exit()
-            
