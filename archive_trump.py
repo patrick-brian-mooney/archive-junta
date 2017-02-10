@@ -93,8 +93,13 @@ class TrumpListener(StreamListener):
     def on_data(self, data):
         try:
             data = json.loads(data)
-            if data['user']['id_str'] in Trump_twitter_accounts:        # If it's one of the accounts we're watching, archive it.
-                archive_tweet(data['user']['screen_name'], data['id_str'], data['text'])
+            try:
+                if data['user']['id_str'] in Trump_twitter_accounts:        # If it's one of the accounts we're watching, archive it.
+                    archive_tweet(data['user']['screen_name'], data['id_str'], data['text'])
+            except KeyError:
+                log_it('WARNING: we got minimal data again', 1)
+                log_it('Value of data is:', 1)
+                log_it(pprint.pformat(data), 1)        
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
