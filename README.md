@@ -23,7 +23,7 @@ To guard against the possibility that the running script quits for any reason, m
 
 -   Python 3.X
 -   a more-or-less continuously available Internet connection
--   Several PyPI modules not in the standard library:
+-   Several PyPI modules not in the standard library (which you can install using `pip` or `easy_install`):
     -   [Tweepy](http://www.tweepy.org)
     -   [`pid`](https://pypi.python.org/pypi/pid/)
     -   [Tumblpy](https://github.com/michaelhelmick/python-tumblpy)
