@@ -153,7 +153,7 @@ def startup():
                 store.write("-1")
             newest_id = -1
         log_it("about to get all tweets newer than ID #%s for account @%s" % (newest_id, username))
-        for tw in [t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id]:
+        for tw in sorted([t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id]):
             archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
             time.sleep(1)
 
