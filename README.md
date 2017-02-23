@@ -30,8 +30,9 @@ To guard against the possibility that the running script quits for any reason, m
 -   A couple of modules from my personal library on GitHub (which you can just drop into the same folder from which you're running the main script):
     -   `social_media.py`
     -   [`patrick_logger.py`](https://github.com/patrick-brian-mooney/python-personal-library/blob/master/patrick_logger.py)
+-   A [Twitter API key](http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys) for the script to use.
 
-If you're having trouble running the script in a Debian-based Linux distribution (and perhaps others?), and especially if you're getting errors claiming that `IncompleteRead` and/or `ProtocolError` are undefined names, you might try [updating your copy of `pip` or `pip3`](http://stackoverflow.com/questions/27341064/how-do-i-fix-importerror-cannot-import-name-incompleteread).
+I run it under Linux, but there's no basic reason why it couldn't run under Windows or OS X. If you're having trouble running the script in a Debian-based Linux distribution (and perhaps others?), and especially if you're getting errors claiming that `IncompleteRead` and/or `ProtocolError` are undefined names, you might try [updating your copy of `pip` or `pip3`](http://stackoverflow.com/questions/27341064/how-do-i-fix-importerror-cannot-import-name-incompleteread).
 
 “Can I adapt it to archive other people in the same way?”
 ---------------------------------------------------------
