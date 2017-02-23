@@ -9,7 +9,7 @@ Overview
 
 This script runs on one of my spare laptops, constantly listening for new tweets on certain Twitter accounts and, when new tweets occur, using the Internet Archive to create an offsite copy of those tweets. It started out just watching Donald Trump's Twitter accounts, but as of 22 February 2017, it also watches the Twitter accounts of Mike Pence.
 
-If you have non-technical questions about this script, you should take a look at the (off-GitHub) <a rel="me" href="">project home page</a>. This 
+If you have non-technical questions about this script, you should take a look at the (off-GitHub) <a rel="me" href="http://patrickbrianmooney.nfshost.com/~patrick/projects/FascistArchiver/">project home page</a>. This 
 
 “How does it work?”
 -------------------
