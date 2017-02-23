@@ -41,8 +41,12 @@ from social_media_auth import Trump_client                      # Unshared modul
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-# Trump_twitter_accounts = {'814046047546679296': 'false_trump',}
-Trump_twitter_accounts = {'25073877': 'realDonaldTrump', '822215679726100480': 'POTUS'}
+# target_accounts = {'814046047546679296': 'false_trump',}
+target_accounts = { '25073877': 'realDonaldTrump',
+                    '822215679726100480': 'POTUS',
+                    '22203756': 'mike_pence',
+                    '15985455': 'GovPenceIN',
+                    '818910970567344128': 'VP'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-trump'
@@ -85,16 +89,16 @@ def archive_tweet(screen_name, id, text):
     store.close()
 
 
-class TrumpListener(StreamListener):
-    """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. It's
-    best to avoid actually paying attention to what he writes. Let's create a
-    bot to listen for us.
+class FascistListener(StreamListener):
+    """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. Mike
+    Pence is even worse. It's best to avoid actually paying attention to what
+    they write. Let's create a bot to listen for us.
     """
     def on_data(self, data):
         try:
             data = json.loads(data)
             try:
-                if data['user']['id_str'] in Trump_twitter_accounts:        # If it's one of the accounts we're watching, archive it.
+                if data['user']['id_str'] in target_accounts:        # If it's one of the accounts we're watching, archive it.
                     archive_tweet(data['user']['screen_name'], data['id_str'], data['text'])
             except KeyError:
                 log_it('WARNING: we got minimal data again', 1)
@@ -140,7 +144,7 @@ def startup():
         2. that's it. Nothing else.
     """
     log_it('Starting up...', 0)
-    for id, username in Trump_twitter_accounts.items():
+    for id, username in target_accounts.items():
         try:
             with open("%s.%s" % (last_tweet_id_store, username)) as store:
                 newest_id = int(store.read())
@@ -158,14 +162,14 @@ if __name__ == '__main__':
     try:
         with pid.PidFile(piddir=home_dir):
             startup()
-            l = TrumpListener()
+            l = FascistListener()
             auth = OAuthHandler(consumer_key, consumer_secret)
             auth.set_access_token(access_token, access_token_secret)
-            log_it("... OK, we're set up, and about to watch %s" % ', '.join(Trump_twitter_accounts), 0)
+            log_it("... OK, we're set up, and about to watch %s" % ', '.join(target_accounts), 0)
             while True:
                 try:
                     stream = Stream(auth, l)
-                    stream.filter(follow=Trump_twitter_accounts, stall_warnings=True)
+                    stream.filter(follow=target_accounts, stall_warnings=True)
                 except (IncompleteRead, ProtocolError) as e:
                     # Sleep some before trying again.
                     time.sleep(15)
