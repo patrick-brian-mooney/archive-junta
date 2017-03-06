@@ -170,7 +170,7 @@ if __name__ == '__main__':
                 try:
                     stream = Stream(auth, l)
                     stream.filter(follow=target_accounts, stall_warnings=True)
-                except (IncompleteRead, ProtocolError) as e:
+                except (IncompleteRead) as e:
                     # Sleep some before trying again.
                     time.sleep(15)
                     continue
