@@ -41,6 +41,12 @@ from social_media_auth import Trump_client                      # Unshared modul
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
+# OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
+try:
+    x = ProtocolError                   # Test for existence.
+except:                                 # If it's not defined, define it.
+    ProtocolError = IncompleteRead
+
 # target_accounts = {'814046047546679296': 'false_trump',}
 target_accounts = { '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
@@ -170,7 +176,7 @@ if __name__ == '__main__':
                 try:
                     stream = Stream(auth, l)
                     stream.filter(follow=target_accounts, stall_warnings=True)
-                except (IncompleteRead) as e:
+                except (IncompleteRead, ProtocolError) as e:
                     # Sleep some before trying again.
                     time.sleep(15)
                     continue
