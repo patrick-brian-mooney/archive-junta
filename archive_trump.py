@@ -43,9 +43,12 @@ access_token, access_token_secret = Trump_client['access_token'], Trump_client['
 
 # OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
 try:
-    x = ProtocolError                   # Test for existence.
-except:                                 # If it's not defined, define it.
-    ProtocolError = IncompleteRead
+    x = ProtocolError               # Test for existence.
+except:                             # If it's not defined, try to import it.
+    try: 
+        from xmlrpclib import ProtocolError
+    except:                         # If we can't import it, define it so the Except clause in the main loop doesn't crash on any exception.
+        ProtocolError = IncompleteRead
 
 # target_accounts = {'814046047546679296': 'false_trump',}
 target_accounts = { '25073877': 'realDonaldTrump',
@@ -178,6 +181,7 @@ if __name__ == '__main__':
                     stream.filter(follow=target_accounts, stall_warnings=True)
                 except (IncompleteRead, ProtocolError) as e:
                     # Sleep some before trying again.
+                    patrick_logger.log_it("WARNING: received error %s; sleeping and trying again ..." % e)
                     time.sleep(15)
                     continue
                 except KeyboardInterrupt:
