@@ -41,15 +41,6 @@ from social_media_auth import Trump_client                      # Unshared modul
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-# OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
-try:
-    x = ProtocolError               # Test for existence.
-except:                             # If it's not defined, try to import it.
-    try: 
-        from xmlrpclib import ProtocolError
-    except:                         # If we can't import it, define it so the Except clause in the main loop doesn't crash on any exception.
-        ProtocolError = IncompleteRead
-
 # target_accounts = {'814046047546679296': 'false_trump',}
 target_accounts = { '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
@@ -62,6 +53,24 @@ home_dir = '/archive-trump'
 last_tweet_id_store = '%s/last_tweet' % home_dir
 
 patrick_logger.verbosity_level = 1
+
+# OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
+try:
+    x = ProtocolError               # Test for existence.
+    patrick_logger.log_it('NOTE: We are running on a system where ProtocolError is properly defined', 2)
+except Exception as e:              # If it's not defined, try to import it.
+    try:
+        patrick_logger.log_it('WARNING: no ProtocolError (got exception "%s"); trying from requests.packages.urllib3.exceptions instead' % e)
+        from requests.packages.urllib3.exceptions import ProtocolError
+        patrick_logger.log_it('NOTE: successfully imported from requests')
+    except Exception as e:
+        try:
+            patrick_logger.log_it('WARNING: still got exception "%s"; trying from xmlrpclib instead' % e)
+            from xmlrpclib import ProtocolError
+            patrick_logger.log_it('NOTE: successfully imported from xmlprclib')
+        except Exception as e:      # If we can't import it, define it so the Except clause in the main loop doesn't crash on any exception.
+            patrick_logger.log_it('WARNING: still got exception "%s"; defining by fiat instead' % e)
+            ProtocolError = IncompleteRead
 
 
 def get_tweet_urls(username, id):
