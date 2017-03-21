@@ -89,8 +89,20 @@ def archive_tweet(screen_name, id, text):
         log_it("\narchiving URL %s" % which_url, 0)
         for which_prefix in archiving_url_prefixes:
             log_it("    ... archiving using prefix %s" % which_prefix)
-            req = requests.get(which_prefix + which_url)
-            for the_item in req.iter_content(chunk_size=100000): pass   # read the file to make the IArchive archive it.
+            read_it = False
+            while not read_it:
+                sleep_interval = 5
+                try:
+                    req = requests.get(which_prefix + which_url)
+                    for the_item in req.iter_content(chunk_size=100000): pass   # read the file to make the IArchive archive it.
+                    read_it = True
+                except IncompleteRead:
+                    if sleep_interval >= 300:   # Give up
+                        raise IncompleteRead("Unable to archive tweet even with wait of five minutes")
+                    log_it("WARNING: attempt to archive timed out, sleeping for %d seconds" % sleep_interval)
+                    sleep(sleep_interval)
+                    sleep_interval *= 1.25      # Keep sleeping longer and longer until it works
+                    continue
 
             # Now add it to the publicly visible list of tweets we've archived
             with open('%s/archive_%s.csv' % (home_dir, screen_name), mode='a', newline='') as csvfile:
