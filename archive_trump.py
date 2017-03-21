@@ -4,7 +4,7 @@
 then causes them to be archived at the Internet Archive, hopefully before The
 Donald deletes them.
 
-First steps here were based partly on a reading of the question and answers at 
+First steps here were based partly on a reading of the question and answers at
 http://stackoverflow.com/a/38192468/5562328 -- thanks kmario23 for pointing me
 in the right direction.
 
@@ -18,11 +18,11 @@ script may do to your computer or data or other valuables, and makes no
 guarantees about the performance of this software -- not even the guarantee of
 merchantability or fitness for any particular purpose. In no case will the
 author be liable for damages in excess of the purchase price you have paid for
-this program. 
+this program.
 """
 
 
-import time, json, requests, sys, pprint
+import time, json, requests, sys, pprint, csv
 
 from tweepy.streaming import StreamListener                     # http://www.tweepy.org
 from tweepy import OAuthHandler
@@ -82,7 +82,7 @@ def get_tweet_urls(username, id):
 
 def archive_tweet(screen_name, id, text):
     """Have the Internet Archive (and in the future, perhaps, other archives) save
-    a copy of this tweet. 
+    a copy of this tweet.
     """
     log_it("New tweet from %s: %s" % (screen_name, text), 0)
     for which_url in get_tweet_urls(screen_name, id):
@@ -91,6 +91,11 @@ def archive_tweet(screen_name, id, text):
             log_it("    ... archiving using prefix %s" % which_prefix)
             req = requests.get(which_prefix + which_url)
             for the_item in req.iter_content(chunk_size=100000): pass   # read the file to make the IArchive archive it.
+
+            # Now add it to the publicly visible list of tweets we've archived
+            with open('%s/archive_%s.csv' % (home_dir, screen_name), mode='a', newline='') as csvfile:
+                csvwriter = csv.writer(csvfile, dialect='unix')
+                csvwriter.writerow([text, which_prefix + which_url])
     try:
         store = open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
     except FileNotFoundError:
@@ -121,7 +126,7 @@ class FascistListener(StreamListener):
             except KeyError:
                 log_it('WARNING: we got minimal data again', 1)
                 log_it('Value of data is:', 1)
-                log_it(pprint.pformat(data), 1)        
+                log_it(pprint.pformat(data), 1)
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
@@ -156,7 +161,7 @@ def get_new_tweets(screen_name, oldest=-1):
 
 def startup():
     """Perform startup tasks. Currently, this means:
-        
+
         1. archive any tweets we may have missed between now and whenever we last
            stopped running.
         2. that's it. Nothing else.
