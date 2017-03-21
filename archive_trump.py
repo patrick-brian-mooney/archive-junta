@@ -96,9 +96,9 @@ def archive_tweet(screen_name, id, text):
                     req = requests.get(which_prefix + which_url)
                     for the_item in req.iter_content(chunk_size=100000): pass   # read the file to make the IArchive archive it.
                     read_it = True
-                except IncompleteRead:
+                except (IncompleteRead, requests.exceptions.ConnectionError) as e:
                     if sleep_interval >= 300:   # Give up
-                        raise IncompleteRead("Unable to archive tweet even with wait of five minutes")
+                        raise e("Unable to archive tweet even with wait of five minutes")
                     log_it("WARNING: attempt to archive timed out, sleeping for %d seconds" % sleep_interval)
                     sleep(sleep_interval)
                     sleep_interval *= 1.25      # Keep sleeping longer and longer until it works
