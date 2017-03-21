@@ -95,7 +95,7 @@ def archive_tweet(screen_name, id, text):
             # Now add it to the publicly visible list of tweets we've archived
             with open('%s/archive_%s.csv' % (home_dir, screen_name), mode='a', newline='') as csvfile:
                 csvwriter = csv.writer(csvfile, dialect='unix')
-                csvwriter.writerow([text, which_prefix + which_url])
+                csvwriter.writerow([text, which_prefix + which_url.replace('/save/', '/*/')])
     try:
         store = open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
     except FileNotFoundError:
