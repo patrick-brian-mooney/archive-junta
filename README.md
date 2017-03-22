@@ -32,7 +32,14 @@ To guard against the possibility that the running script quits for any reason, m
     -   [`patrick_logger.py`](https://github.com/patrick-brian-mooney/python-personal-library/blob/master/patrick_logger.py)
 -   A [Twitter API key](http://stackoverflow.com/questions/1808855/getting-new-twitter-api-consumer-and-secret-keys) for the script to use.
 
-I run it under Linux, but there's no basic reason why it couldn't run under Windows or OS X. If you're having trouble running the script in a Debian-based Linux distribution (and perhaps others?), and especially if you're getting errors claiming that `IncompleteRead` and/or `ProtocolError` are undefined names, you might try [updating your copy of `pip` or `pip3`](http://stackoverflow.com/questions/27341064/how-do-i-fix-importerror-cannot-import-name-incompleteread).
+I run it under Linux, but there's no basic reason why it couldn't run under Windows or OS X.
+
+“It's crashing with errors!”
+----------------------------
+
+Is it crashing with `AttributeError: 'NoneType' object has no attribute 'strip'`? If your installed version of Tweepy (try `pip3 show tweepy` or `pip show tweepy`) is 3.5, try installing another version. 3.2 is reported to work.
+
+If you're having trouble running the script in a Debian-based Linux distribution (and perhaps others?), and especially if you're getting errors claiming that `IncompleteRead` and/or `ProtocolError` are undefined names, you might try [updating your copy of `pip` or `pip3`](http://stackoverflow.com/questions/27341064/how-do-i-fix-importerror-cannot-import-name-incompleteread).
 
 “Can I adapt it to archive tweets from other accounts in the same way?”
 ---------------------------------------------------------
