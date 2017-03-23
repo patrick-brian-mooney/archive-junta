@@ -37,7 +37,7 @@ I run it under Linux, but there's no basic reason why it couldn't run under Wind
 “It's crashing with errors!”
 ----------------------------
 
-Is it crashing with `AttributeError: 'NoneType' object has no attribute 'strip'`? If your installed version of Tweepy (try `pip3 show tweepy` or `pip show tweepy`) is 3.5, try installing another version. 3.2 is reported to work.
+Is it crashing with `AttributeError: 'NoneType' object has no attribute 'strip'`? If your installed version of Tweepy (try `pip3 show tweepy` or `pip show tweepy`) is 3.5, try installing another version. As of the time of this writing, the best option seems to be manually cloning the Tweepy repository on GitHub and using that to install Tweepy 3.6. (See the [installation instructions](https://github.com/tweepy/tweepy). Though various places around the web sometimes suggest Tweepy 3.2 for other versions of this problem, it does not work well with `archive_trump.py`. You've been warned.)
 
 If you're having trouble running the script in a Debian-based Linux distribution (and perhaps others?), and especially if you're getting errors claiming that `IncompleteRead` and/or `ProtocolError` are undefined names, you might try [updating your copy of `pip` or `pip3`](http://stackoverflow.com/questions/27341064/how-do-i-fix-importerror-cannot-import-name-incompleteread).
 
