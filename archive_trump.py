@@ -41,11 +41,16 @@ from social_media_auth import Trump_client                      # Unshared modul
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-target_accounts = { '25073877': 'realDonaldTrump',
+target_accounts = { #First, the president 
+                    '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
+                    # And the VP
                     '22203756': 'mike_pence',
                     '15985455': 'GovPenceIN',
-                    '818910970567344128': 'VP'}
+                    '818910970567344128': 'VP',
+                    # And Dan Scavino Jr., Trump's current director of social media, who writes many WH tweets 
+                    '823367015830323201': 'Scavino45',
+                    '620571475': 'DanScavino'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-trump'
