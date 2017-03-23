@@ -41,7 +41,6 @@ from social_media_auth import Trump_client                      # Unshared modul
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-# target_accounts = {'814046047546679296': 'false_trump',}
 target_accounts = { '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
                     '22203756': 'mike_pence',
@@ -78,7 +77,7 @@ def get_tweet_urls(username, id):
     just means that the http:// and https:// versions are returned.
     """
     ret = "twitter.com/%s/status/%s" % (username, id)
-    return "http://" + ret, "https://" + ret
+    return ("http://" + ret, "https://" + ret)
 
 def archive_tweet(screen_name, id, text):
     """Have the Internet Archive (and in the future, perhaps, other archives) save
@@ -107,7 +106,7 @@ def archive_tweet(screen_name, id, text):
             # Now add it to the publicly visible list of tweets we've archived
             with open('%s/archive_%s.csv' % (home_dir, screen_name), mode='a', newline='') as csvfile:
                 csvwriter = csv.writer(csvfile, dialect='unix')
-                csvwriter.writerow([text, which_prefix + which_url.replace('/save/', '/*/')])
+                csvwriter.writerow([text, which_prefix.replace('/save/', '/*/') + which_url])
     try:
         store = open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
     except FileNotFoundError:
