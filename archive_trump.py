@@ -209,7 +209,7 @@ if __name__ == '__main__':
                 try:
                     stream = Stream(auth, l)
                     stream.filter(follow=target_accounts, stall_warnings=True)
-                except (IncompleteRead, ProtocolError) as e:
+                except (IncompleteRead, ProtocolError, requests.packages.urllib3.exceptions.ReadTimeoutError) as e:
                     # Sleep some before trying again.
                     patrick_logger.log_it("WARNING: received error %s; sleeping and trying again ..." % e)
                     time.sleep(15)
