@@ -54,7 +54,8 @@ target_accounts = { #First, the president
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-trump'
-last_tweet_id_store = '%s/last_tweet' % home_dir
+data_dir = '%s/data/' % home_dir
+last_tweet_id_store = '%s/last_tweet' % data_dir
 
 patrick_logger.verbosity_level = 1
 
@@ -109,7 +110,7 @@ def archive_tweet(screen_name, id, text):
                     continue
 
             # Now add it to the publicly visible list of tweets we've archived
-            with open('%s/archive_%s.csv' % (home_dir, screen_name), mode='a', newline='') as csvfile:
+            with open('%s/archive_%s.csv' % (data_dir, screen_name), mode='a', newline='') as csvfile:
                 csvwriter = csv.writer(csvfile, dialect='unix')
                 csvwriter.writerow([text, which_prefix.replace('/save/', '/*/') + which_url])
     try:
