@@ -79,7 +79,7 @@ except Exception as e:              # If it's not defined, try to import it.
             patrick_logger.log_it('WARNING: still got exception "%s"; trying from xmlrpclib instead' % e)
             from xmlrpclib import ProtocolError
             patrick_logger.log_it('NOTE: successfully imported from xmlprclib')
-        except Exception as e:      # If we can't import it, define it so the Except clause in the main loop doesn't crash on any exception.
+        except Exception as e:      # If we can't import it, define it so the main loop's Except clause doesn't crash on every exception.
             patrick_logger.log_it('WARNING: still got exception "%s"; defining by fiat instead' % e)
             ProtocolError = IncompleteRead
 
