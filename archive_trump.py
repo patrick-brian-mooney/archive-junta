@@ -50,7 +50,13 @@ target_accounts = { #First, the president
                     '818910970567344128': 'VP',
                     # And Dan Scavino Jr., Trump's current director of social media, who writes many WH tweets 
                     '823367015830323201': 'Scavino45',
-                    '620571475': 'DanScavino'}
+                    '620571475': 'DanScavino',
+                    # Melania Trump
+                    '823367015830323201': 'FLOTUS',
+                    '108471631': 'MELANIATRUMP',
+                    # Ivanka Trump
+                    '52544275': 'IvankaTrump',
+                    '798195585824104449': 'IvankaTrumpHQ'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-trump'
