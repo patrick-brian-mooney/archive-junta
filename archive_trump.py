@@ -111,7 +111,7 @@ def archive_tweet(screen_name, id, text):
                     if sleep_interval >= 300:   # Give up
                         raise e("Unable to archive tweet even with wait of five minutes")
                     log_it("WARNING: attempt to archive timed out, sleeping for %d seconds" % sleep_interval)
-                    sleep(sleep_interval)
+                    time.sleep(sleep_interval)
                     sleep_interval *= 1.25      # Keep sleeping longer and longer until it works
                     continue
 
