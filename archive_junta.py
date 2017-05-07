@@ -56,7 +56,15 @@ target_accounts = { #First, the president
                     '108471631': 'MELANIATRUMP',
                     # Ivanka Trump
                     '52544275': 'IvankaTrump',
-                    '798195585824104449': 'IvankaTrumpHQ'}
+                    '798195585824104449': 'IvankaTrumpHQ',
+                    # Jared Kushner, senior adviser to Drumpf and presumptive banger of Ivanka
+                    '29547260': 'jaredkushner',
+                    # Paul Ryan, speaker of the House
+                    '18916432': 'SpeakerRyan',
+                    '733751245': 'PRyan',
+                    # AshLee Strong, press secretary for Paul Ryan
+                    '296060169': 'AshLeeStrong',
+                  }
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-junta'
@@ -64,6 +72,7 @@ data_dir = '%s/data/' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 
 patrick_logger.verbosity_level = 1
+
 
 # OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
 try:
@@ -171,7 +180,10 @@ def get_new_tweets(screen_name, oldest=-1):
     new_tweets = the_API.user_timeline(screen_name=screen_name, count=200)
     ret = new_tweets.copy()
 
-    oldest_tweet = ret[-1].id - 1  # save the id of the tweet before the oldest tweet
+    try:
+        oldest_tweet = ret[-1].id - 1   # save the id of the tweet before the oldest tweet
+    except IndexError:
+        oldest_tweet = -1               # Don't crash if someone has NEVER tweeted.
 
     # keep grabbing tweets until there are no tweets left
     while len(new_tweets) > 0 and oldest < new_tweets[0].id:
