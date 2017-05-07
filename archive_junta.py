@@ -59,7 +59,7 @@ target_accounts = { #First, the president
                     '798195585824104449': 'IvankaTrumpHQ'}
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
-home_dir = '/archive-trump'
+home_dir = '/archive-junta'
 data_dir = '%s/data/' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 
