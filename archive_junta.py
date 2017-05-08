@@ -63,9 +63,9 @@ target_accounts = { #First, the president
                     '733751245': 'PRyan',
                     # AshLee Strong, press secretary for Paul Ryan
                     '296060169': 'AshLeeStrong',
-                    # Some extra accounts for script testing
-                    '814046047546679296': 'false_trump',
-                    '2268719071': 'IrishLitTweets',
+                    # Some extra accounts of my own for script testing
+                    # '814046047546679296': 'false_trump',
+                    # '2268719071': 'IrishLitTweets',
                   }
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
