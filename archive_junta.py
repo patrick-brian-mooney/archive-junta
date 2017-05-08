@@ -23,6 +23,7 @@ this program.
 
 
 import time, json, requests, sys, pprint, csv
+import _thread
 
 from tweepy.streaming import StreamListener                     # http://www.tweepy.org
 from tweepy import OAuthHandler
@@ -33,10 +34,8 @@ import pid                                                      # https://pypi.p
 
 
 import patrick_logger                                           # https://github.com/patrick-brian-mooney/python-personal-library/
-from patrick_logger import log_it
 import social_media as sm                                       # https://github.com/patrick-brian-mooney/python-personal-library/
 from social_media_auth import Trump_client                      # Unshared module that contains my authentication constants
-
 
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
@@ -64,6 +63,9 @@ target_accounts = { #First, the president
                     '733751245': 'PRyan',
                     # AshLee Strong, press secretary for Paul Ryan
                     '296060169': 'AshLeeStrong',
+                    # Some extra accounts for script testing
+                    '814046047546679296': 'false_trump',
+                    '2268719071': 'IrishLitTweets',
                   }
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
@@ -91,6 +93,15 @@ except Exception as e:              # If it's not defined, try to import it.
         except Exception as e:      # If we can't import it, define it so the main loop's Except clause doesn't crash on every exception.
             patrick_logger.log_it('WARNING: still got exception "%s"; defining by fiat instead' % e)
             ProtocolError = IncompleteRead
+
+
+logger_lock = _thread.allocate_lock()
+
+def log_it(*pargs, **kwargs):
+    """Just a thread-safe wrapper for patrick_logger.log_it."""
+    logger_lock.acquire()
+    patrick_logger.log_it(*pargs, **kwargs)
+    logger_lock.release()
 
 
 def get_tweet_urls(username, id):
@@ -194,6 +205,20 @@ def get_new_tweets(screen_name, oldest=-1):
         log_it("    ...%s tweets downloaded so far" % (len(ret)), 0)
     return [t for t in ret if (t.id > oldest)]
 
+def do_archive_tweets(the_tweets):
+    """Send each unarchived tweet to each archiving service that the script knows about.
+    (At the time of this writing, the only known archiving service is the Internet
+    Archive.) Each instance of this function will be started in a separate thread to
+    help avoid the possibility that adding a new account to archive delays looking
+    at other accounts long enough for tweets on those accounts to disappear before
+    they're archived.
+    
+    the_tweets is a list of tweepy.Tweet objects. 
+    """
+    for tw in the_tweets:
+        archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
+        time.sleep(1)
+
 def startup():
     """Perform startup tasks. Currently, this means:
 
@@ -211,10 +236,9 @@ def startup():
                 store.write("-1")
             newest_id = -1
         log_it("about to get all tweets newer than ID #%s for account @%s" % (newest_id, username))
-        for tw in sorted([t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id], key=lambda t: t.id):
-            archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
-            time.sleep(1)
-
+        new_tweets = sorted([t for t in get_new_tweets(screen_name=username, oldest=newest_id) if t.id > newest_id], key=lambda t: t.id)
+        if new_tweets:
+            _ = _thread.start_new_thread(do_archive_tweets, (new_tweets, ))
 
 if __name__ == '__main__':
     try:
