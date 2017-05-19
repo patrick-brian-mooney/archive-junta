@@ -22,7 +22,7 @@ this program.
 """
 
 
-import time, json, requests, sys, pprint, csv
+import time, json, requests, sys, pprint, csv, os
 import _thread
 
 from tweepy.streaming import StreamListener                     # http://www.tweepy.org
@@ -104,6 +104,13 @@ def log_it(*pargs, **kwargs):
     logger_lock.acquire()
     patrick_logger.log_it(*pargs, **kwargs)
     logger_lock.release()
+    
+def exclusive_open(path, *pargs, **kwargs):
+    """Open a file exclusively for read/write access, blocking until it's available to
+    be exclusively opened.
+    """
+    fd_file = os.open(path, (os.O_RDWR | os.O_EXCL))
+    return os.fdopen(fd_file, 'r+', *pargs, **kwargs)
 
 
 def get_tweet_urls(username, id):
@@ -136,17 +143,20 @@ def archive_tweet(screen_name, id, text):
                     time.sleep(sleep_interval)
                     sleep_interval *= 1.25      # Keep sleeping longer and longer until it works
                     continue
-
             # Now add it to the publicly visible list of tweets we've archived
-            with open('%s/archive_%s.csv' % (data_dir, screen_name), mode='a', newline='') as csvfile:
+            try:
+                csvfile = exclusive_open('%s/archive_%s.csv' % (data_dir, screen_name), newline='')
+                csvfile.seek(0, 2)      # Seek to end of file
                 csvwriter = csv.writer(csvfile, dialect='unix')
                 csvwriter.writerow([text, which_prefix.replace('/save/', '/*/') + which_url])
+            finally:
+                csvfile.close()
     try:
-        store = open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
+        store = exclusive_open("%s.%s" % (last_tweet_id_store, screen_name))
     except FileNotFoundError:
         with open("%s.%s" % (last_tweet_id_store, screen_name), mode="w") as store:
             store.write('-1')
-        store = open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
+        store = exclusive_open("%s.%s" % (last_tweet_id_store, screen_name), mode="r+")
     try:
         if int(store.read()) < int(id):     # If this is a newer tweet we're getting, store its ID as the newest tweet seen.
             store.seek(0)
@@ -167,7 +177,7 @@ class FascistListener(StreamListener):
             data = json.loads(data)
             try:
                 if data['user']['id_str'] in target_accounts:        # If it's one of the accounts we're watching, archive it.
-                    archive_tweet(data['user']['screen_name'], data['id_str'], data['text'])
+                    _ = _thread.start_new_thread(archive_tweet, (data['user']['screen_name'], data['id_str'], data['text']))
             except KeyError:
                 log_it('WARNING: we got minimal data again', 1)
                 log_it('Value of data is:', 1)
@@ -175,9 +185,16 @@ class FascistListener(StreamListener):
                 if 'delete' in data:
                     log_it("OK, it's a deletion", 1)
                     if tweet_about_deletions:
-                        log_it(" ... and we're going to tweet about it", 1)
-                        
-                        
+                        try:
+                            log_it(" ... and we're going to tweet about it", 1)
+                            username = target_accounts[data['delete']['status']['user_id_str']]
+                            tweet_id = data['delete']['status']['id_str']
+                            archived_url = 'http://web.archive.org/web/*/https://twitter.com/%s/status/%s' % (username, tweet_id)
+                            the_tweet="Looks like %s just deleted a tweet. There might be an archived copy at %s, though."
+                            the_tweet = the_tweet % (username, archived_url)
+                            sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
+                        except KeyError:
+                            pass            # Well, Twitter didn't give us enough info to say anything about it, did they?
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
@@ -185,6 +202,7 @@ class FascistListener(StreamListener):
             log_it(pprint.pformat(data), -1)
             raise
         return True
+    
     def on_error(self, status):
         log_it("ERROR: %s" % status, 0)
 
