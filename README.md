@@ -2,7 +2,7 @@ The Fascist Tweet-Archiving Script `archive_junta.py`
 =====================================================
 
 <a rel="me" href="http://patrickbrianmooney.nfshost.com/~patrick/">Patrick Mooney</a><br />
-v 0.2: 22 February 2017
+v 0.3: 8 May 2017
 
 Overview
 --------

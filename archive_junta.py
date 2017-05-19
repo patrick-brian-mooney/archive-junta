@@ -35,7 +35,7 @@ import pid                                                      # https://pypi.p
 
 import patrick_logger                                           # https://github.com/patrick-brian-mooney/python-personal-library/
 import social_media as sm                                       # https://github.com/patrick-brian-mooney/python-personal-library/
-from social_media_auth import Trump_client                      # Unshared module that contains my authentication constants
+from social_media_auth import Trump_client, Trump_client_for_personal_account   # Unshared module that contains my authentication constants
 
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
@@ -74,6 +74,8 @@ data_dir = '%s/data/' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 
 patrick_logger.verbosity_level = 1
+
+tweet_about_deletions = True
 
 
 # OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
@@ -170,6 +172,12 @@ class FascistListener(StreamListener):
                 log_it('WARNING: we got minimal data again', 1)
                 log_it('Value of data is:', 1)
                 log_it(pprint.pformat(data), 1)
+                if 'delete' in data:
+                    log_it("OK, it's a deletion", 1)
+                    if tweet_about_deletions:
+                        log_it(" ... and we're going to tweet about it", 1)
+                        
+                        
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
