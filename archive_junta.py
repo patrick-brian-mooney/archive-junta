@@ -123,6 +123,10 @@ def get_tweet_urls(username, id):
 def archive_tweet(screen_name, id, text):
     """Have the Internet Archive (and in the future, perhaps, other archives) save
     a copy of this tweet.
+    
+    Should be thread-safe, so it can be = called from the main Listener object and
+    won't block its operations. This should help both to avoid missing other tweets
+    on other accounts and avoid having Twitter kill us off for being too slow. 
     """
     log_it("New tweet from %s: %s" % (screen_name, text), 0)
     for which_url in get_tweet_urls(screen_name, id):
@@ -141,7 +145,7 @@ def archive_tweet(screen_name, id, text):
                         raise e("Unable to archive tweet even with wait of five minutes")
                     log_it("WARNING: attempt to archive timed out, sleeping for %d seconds" % sleep_interval)
                     time.sleep(sleep_interval)
-                    sleep_interval *= 1.25      # Keep sleeping longer and longer until it works
+                    sleep_interval *= 1.5      # Keep sleeping longer and longer until it works
                     continue
             # Now add it to the publicly visible list of tweets we've archived
             try:
@@ -190,7 +194,7 @@ class FascistListener(StreamListener):
                             username = target_accounts[data['delete']['status']['user_id_str']]
                             tweet_id = data['delete']['status']['id_str']
                             archived_url = 'http://web.archive.org/web/*/https://twitter.com/%s/status/%s' % (username, tweet_id)
-                            the_tweet="Looks like %s just deleted a tweet. There might be an archived copy at %s, though."
+                            the_tweet="Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
                             the_tweet = the_tweet % (username, archived_url)
                             sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
                         except KeyError:
