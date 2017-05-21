@@ -40,14 +40,14 @@ from social_media_auth import Trump_client, Trump_client_for_personal_account   
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-target_accounts = { #First, the president 
+target_accounts = { #First, the president
                     '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
                     # And the VP
                     '22203756': 'mike_pence',
                     '15985455': 'GovPenceIN',
                     '818910970567344128': 'VP',
-                    # And Dan Scavino Jr., Trump's current director of social media, who writes many WH tweets 
+                    # And Dan Scavino Jr., Trump's current director of social media, who writes many WH tweets
                     '823367015830323201': 'Scavino45',
                     '620571475': 'DanScavino',
                     # Melania Trump
@@ -63,6 +63,18 @@ target_accounts = { #First, the president
                     '733751245': 'PRyan',
                     # AshLee Strong, press secretary for Paul Ryan
                     '296060169': 'AshLeeStrong',
+                    # Reince Priebus, WH chief of staff
+                    '20733972': 'Reince',
+                    '803703725730779136': 'Reince45',
+                    # Kellyanne Conway, counselor and assistant to the president
+                    '471672239': 'KellyannePolls',
+                    # Stephen Miller, assistant to the president and senior adviser for policy
+                    '728361177986797568': 'StephenMillerAL',
+                    # Jessica Ditto, WH deputy communications director
+                    '836724024688410625': 'JessicaDitto45',
+                    # Sean Spicer, WH Press Secretary
+                    '20776147': 'seanspicer',
+                    '818927131883356161': 'PressSec',
                     # Some extra accounts of my own for script testing
                     # '814046047546679296': 'false_trump',
                     # '2268719071': 'IrishLitTweets',
@@ -104,7 +116,7 @@ def log_it(*pargs, **kwargs):
     logger_lock.acquire()
     patrick_logger.log_it(*pargs, **kwargs)
     logger_lock.release()
-    
+
 def exclusive_open(path, *pargs, **kwargs):
     """Open a file exclusively for read/write access, blocking until it's available to
     be exclusively opened.
@@ -123,10 +135,10 @@ def get_tweet_urls(username, id):
 def archive_tweet(screen_name, id, text):
     """Have the Internet Archive (and in the future, perhaps, other archives) save
     a copy of this tweet.
-    
+
     Should be thread-safe, so it can be = called from the main Listener object and
     won't block its operations. This should help both to avoid missing other tweets
-    on other accounts and avoid having Twitter kill us off for being too slow. 
+    on other accounts and avoid having Twitter kill us off for being too slow.
     """
     log_it("New tweet from %s: %s" % (screen_name, text), 0)
     for which_url in get_tweet_urls(screen_name, id):
@@ -149,7 +161,12 @@ def archive_tweet(screen_name, id, text):
                     continue
             # Now add it to the publicly visible list of tweets we've archived
             try:
-                csvfile = exclusive_open('%s/archive_%s.csv' % (data_dir, screen_name), newline='')
+                try:
+                    csvfile = exclusive_open('%s/archive_%s.csv' % (data_dir, screen_name), newline='')
+                except FileNotFoundError:
+                    with open('%s/archive_%s.csv' % (data_dir, screen_name), mode="w"):     # Create the file
+                        '%s/archive_%s.csv' % (data_dir, screen_name)
+                    csvfile = exclusive_open('%s/archive_%s.csv' % (data_dir, screen_name), newline='')
                 csvfile.seek(0, 2)      # Seek to end of file
                 csvwriter = csv.writer(csvfile, dialect='unix')
                 csvwriter.writerow([text, which_prefix.replace('/save/', '/*/') + which_url])
@@ -206,7 +223,7 @@ class FascistListener(StreamListener):
             log_it(pprint.pformat(data), -1)
             raise
         return True
-    
+
     def on_error(self, status):
         log_it("ERROR: %s" % status, 0)
 
@@ -242,8 +259,8 @@ def do_archive_tweets(the_tweets):
     help avoid the possibility that adding a new account to archive delays looking
     at other accounts long enough for tweets on those accounts to disappear before
     they're archived.
-    
-    the_tweets is a list of tweepy.Tweet objects. 
+
+    the_tweets is a list of tweepy.Tweet objects.
     """
     for tw in the_tweets:
         archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
