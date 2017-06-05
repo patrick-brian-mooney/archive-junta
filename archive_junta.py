@@ -40,9 +40,10 @@ from social_media_auth import Trump_client, Trump_client_for_personal_account   
 consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['consumer_secret']
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
-target_accounts = { #First, the president
+target_accounts = { # First, the president
                     '25073877': 'realDonaldTrump',
                     '822215679726100480': 'POTUS',
+                    '822215673812119553': 'WhiteHouse',     # Apparently another mouthpiece run on Trump's behalf
                     # And the VP
                     '22203756': 'mike_pence',
                     '15985455': 'GovPenceIN',
