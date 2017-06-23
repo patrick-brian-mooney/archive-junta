@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 """This script uses the Twitter streaming API to wait for tweets by Donald Trump,
 then causes them to be archived at the Internet Archive, hopefully before The
-Donald deletes them.
+Donald deletes them. It also follows other members of the currently ruling
+American corporatist junta. More information and an index to archived tweets is
+available at https://is.gd/fascist_archiver.
 
 First steps here were based partly on a reading of the question and answers at
 http://stackoverflow.com/a/38192468/5562328 -- thanks kmario23 for pointing me
@@ -76,6 +78,33 @@ target_accounts = { # First, the president
                     # Sean Spicer, WH Press Secretary
                     '20776147': 'seanspicer',
                     '818927131883356161': 'PressSec',
+                    # Elaine Chao, Secretary of Transportation
+                    '105267762': 'ElaineChao',
+                    '826065858548133888': 'SecElaineChao',
+                    # Sonny Purdue, Secretary of USDA
+                    '842072478834909184': 'SecretarySonny',
+                    # Ryan Zinke, Secretary of Interior
+                    '827258161841135623': 'SecretaryZinke',
+                    # Wilbur Ross, Secretary of Commerce
+                    '836305915452272641': 'SecretaryRoss', 
+                    '809836066316451840': 'WilburRoss', 
+                    # Labor Secretary Alexander Acosta
+                    '819980276570976256': 'SecretaryAcosta',
+                    # HUD Secretary Ben Carson
+                    '828613457020870657': 'SecretaryCarson',
+                    '1180379185': 'RealBenCarson',
+                    # Dr Thomas Price, Secretary of Health and Human Services
+                    '829782369670410240': 'SecPriceMD', 
+                    '6577802': 'RepTomPrice',
+                    # Thomas Bossert, Assistant to the President for Homeland Security and Counterterrorism
+                    '866746592853979137': 'TomBossert45', 
+                    # Stephanie Grisham, Office of the First Lady & Director of Communications for Melania Trump
+                    '823638938590085124': 'StephGrisham45',
+                    # EPA Administrator Scott Pruitt
+                    '832672006113931269': 'EPAScottPruitt',
+                    # Second Lady Karen Pence
+                    '822127086194348032': 'SecondLady',
+                    '1923451808': 'FirstLadyIN',
                     # Some extra accounts of my own for script testing
                     # '814046047546679296': 'false_trump',
                     # '2268719071': 'IrishLitTweets',
@@ -97,7 +126,7 @@ try:
     patrick_logger.log_it('NOTE: We are running on a system where ProtocolError is properly defined', 2)
 except Exception as e:              # If it's not defined, try to import it.
     try:
-        patrick_logger.log_it('WARNING: no ProtocolError (got exception "%s"); trying from requests.packages.urllib3.exceptions instead' % e)
+        patrick_logger.log_it('WARNING: no ProtocolError (got exception "%s"); trying requests.packages.urllib3.exceptions instead' % e)
         from requests.packages.urllib3.exceptions import ProtocolError
         patrick_logger.log_it('NOTE: successfully imported from requests')
     except Exception as e:
@@ -137,7 +166,7 @@ def archive_tweet(screen_name, id, text):
     """Have the Internet Archive (and in the future, perhaps, other archives) save
     a copy of this tweet.
 
-    Should be thread-safe, so it can be = called from the main Listener object and
+    Should be thread-safe, so it can be called from the main Listener object and
     won't block its operations. This should help both to avoid missing other tweets
     on other accounts and avoid having Twitter kill us off for being too slow.
     """
@@ -191,8 +220,9 @@ def archive_tweet(screen_name, id, text):
 
 class FascistListener(StreamListener):
     """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. Mike
-    Pence is even worse. It's best to avoid actually paying attention to what
-    they write. Let's create a bot to listen for us.
+    Pence is even worse. The rest of the group is no treat, either. It's best to
+    avoid actually paying attention to what they write. Let's create a bot to
+    listen for us.
     """
     def on_data(self, data):
         try:
@@ -212,7 +242,7 @@ class FascistListener(StreamListener):
                             username = target_accounts[data['delete']['status']['user_id_str']]
                             tweet_id = data['delete']['status']['id_str']
                             archived_url = 'http://web.archive.org/web/*/https://twitter.com/%s/status/%s' % (username, tweet_id)
-                            the_tweet="Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
+                            the_tweet = "Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
                             the_tweet = the_tweet % (username, archived_url)
                             sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
                         except KeyError:
@@ -229,7 +259,7 @@ class FascistListener(StreamListener):
         log_it("ERROR: %s" % status, 0)
 
 
-# This next group of functions handles the downloading, processing, and storing of The Donald's tweets.
+# This next group of functions handles the downloading, processing, and storing of tweets.
 def get_new_tweets(screen_name, oldest=-1):
     """Get those tweets newer than the tweet whose ID is specified as the OLDEST
     parameter from the account SCREEN_NAME.
@@ -261,7 +291,7 @@ def do_archive_tweets(the_tweets):
     at other accounts long enough for tweets on those accounts to disappear before
     they're archived.
 
-    the_tweets is a list of tweepy.Tweet objects.
+    THE_TWEETS is a list of tweepy.Tweet objects.
     """
     for tw in the_tweets:
         archive_tweet(tw.user.screen_name, tw.id_str, tw.text)
