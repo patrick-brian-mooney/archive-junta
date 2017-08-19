@@ -105,8 +105,10 @@ target_accounts = { # First, the president
                     # Second Lady Karen Pence
                     '822127086194348032': 'SecondLady',
                     '1923451808': 'FirstLadyIN',
-                    # Anthony Scaramucci, White House Director-of-Communications-to-be
+                    # Anthony Scaramucci, former White House Director of Communications
                     '24578794': 'Scaramucci',
+                    # Steven Mnuchin, Secretary of Treasury
+                    '799764016885329921': 'stevenmnuchin1',
                     # Some extra accounts of my own for script testing
                     # '814046047546679296': 'false_trump',
                     # '2268719071': 'IrishLitTweets',
