@@ -24,7 +24,7 @@ this program.
 """
 
 
-import time, json, requests, sys, pprint, csv, os
+import csv, datetime, json,  os, pprint, requests, sys, time 
 import _thread
 
 from tweepy.streaming import StreamListener                     # http://www.tweepy.org
@@ -86,18 +86,18 @@ target_accounts = { # First, the president
                     # Ryan Zinke, Secretary of Interior
                     '827258161841135623': 'SecretaryZinke',
                     # Wilbur Ross, Secretary of Commerce
-                    '836305915452272641': 'SecretaryRoss', 
-                    '809836066316451840': 'WilburRoss', 
+                    '836305915452272641': 'SecretaryRoss',
+                    '809836066316451840': 'WilburRoss',
                     # Labor Secretary Alexander Acosta
                     '819980276570976256': 'SecretaryAcosta',
                     # HUD Secretary Ben Carson
                     '828613457020870657': 'SecretaryCarson',
                     '1180379185': 'RealBenCarson',
                     # Dr Thomas Price, Secretary of Health and Human Services
-                    '829782369670410240': 'SecPriceMD', 
+                    '829782369670410240': 'SecPriceMD',
                     '6577802': 'RepTomPrice',
                     # Thomas Bossert, Assistant to the President for Homeland Security and Counterterrorism
-                    '866746592853979137': 'TomBossert45', 
+                    '866746592853979137': 'TomBossert45',
                     # Stephanie Grisham, Office of the First Lady & Director of Communications for Melania Trump
                     '823638938590085124': 'StephGrisham45',
                     # EPA Administrator Scott Pruitt
@@ -113,34 +113,25 @@ target_accounts = { # First, the president
                     # '814046047546679296': 'false_trump',
                     # '2268719071': 'IrishLitTweets',
                   }
+
+notify_on_delete_accounts = {   '25073877': 'realDonaldTrump',          # Currently, we're only tweeting about deletions made by Trump himself.
+                                '822215679726100480': 'POTUS',
+                                '822215673812119553': 'WhiteHouse',
+                             }
+
 archiving_url_prefixes = ['http://web.archive.org/save/']
 
 home_dir = '/archive-junta'
 data_dir = '%s/data/' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 
+log_directory = '%s/logs' % home_dir
+
 patrick_logger.verbosity_level = 1
 
 tweet_about_deletions = True
 
-
-# OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
-try:
-    x = ProtocolError               # Test for existence.
-    patrick_logger.log_it('NOTE: We are running on a system where ProtocolError is properly defined', 2)
-except Exception as e:              # If it's not defined, try to import it.
-    try:
-        patrick_logger.log_it('WARNING: no ProtocolError (got exception "%s"); trying requests.packages.urllib3.exceptions instead' % e)
-        from requests.packages.urllib3.exceptions import ProtocolError
-        patrick_logger.log_it('NOTE: successfully imported from requests')
-    except Exception as e:
-        try:
-            patrick_logger.log_it('WARNING: still got exception "%s"; trying from xmlrpclib instead' % e)
-            from xmlrpclib import ProtocolError
-            patrick_logger.log_it('NOTE: successfully imported from xmlprclib')
-        except Exception as e:      # If we can't import it, define it so the main loop's Except clause doesn't crash on every exception.
-            patrick_logger.log_it('WARNING: still got exception "%s"; defining by fiat instead' % e)
-            ProtocolError = IncompleteRead
+log = patrick_logger.Logger(name='Fascist Tweet Archiver', logfile_path = "%s/%s" % (log_directory, str(datetime.datetime.now())))
 
 
 logger_lock = _thread.allocate_lock()
@@ -148,8 +139,28 @@ logger_lock = _thread.allocate_lock()
 def log_it(*pargs, **kwargs):
     """Just a thread-safe wrapper for patrick_logger.log_it."""
     logger_lock.acquire()
-    patrick_logger.log_it(*pargs, **kwargs)
+    log.log_it(*pargs, **kwargs)
     logger_lock.release()
+
+
+# OK, let's work around a problem that comes from the confluence of Debian's ancient packaging and rapid changes in Python's Requests package.
+try:
+    x = ProtocolError               # Test for existence.
+    log_it('NOTE: We are running on a system where ProtocolError is properly defined', 2)
+except Exception as e:              # If it's not defined, try to import it.
+    try:
+        log_it('WARNING: no ProtocolError (got exception "%s"); trying requests.packages.urllib3.exceptions instead' % e)
+        from requests.packages.urllib3.exceptions import ProtocolError
+        log_it('NOTE: successfully imported from requests')
+    except Exception as e:
+        try:
+            log_it('WARNING: still got exception "%s"; trying from xmlrpclib instead' % e)
+            from xmlrpclib import ProtocolError
+            log_it('NOTE: successfully imported from xmlprclib')
+        except Exception as e:      # If we can't import it, define it so the main loop's Except clause doesn't crash on every exception.
+            log_it('WARNING: still got exception "%s"; defining by fiat instead' % e)
+            ProtocolError = IncompleteRead
+
 
 def exclusive_open(path, *pargs, **kwargs):
     """Open a file exclusively for read/write access, blocking until it's available to
@@ -221,6 +232,20 @@ def archive_tweet(screen_name, id, text):
         store.write(id)
     store.close()
 
+def handle_deletion(data):
+    try:
+        username = target_accounts[data['delete']['status']['user_id_str']]
+        tweet_id = data['delete']['status']['id_str']
+        archived_url = 'http://web.archive.org/web/*/https://twitter.com/%s/status/%s' % (username, tweet_id)
+        log_it("INFO: We're handling a deletion notification for tweet ID# %s on account %s" % (tweet_id, username), 1)
+        if tweet_about_deletions and username in notify_on_delete_accounts:
+            log_it(" ... and we're going to tweet about it", 1)
+            the_tweet = "Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
+            the_tweet = the_tweet % (username, archived_url)
+            sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
+    except KeyError:
+        log_it('ERROR: unable to handle deletion notification: Twitter passed us incomplete data: %s' % pprint.pformat(data), 1)
+
 
 class FascistListener(StreamListener):
     """Donald Trump is an abusive, sexist, racist, jingoistic pseudo-fascist. Mike
@@ -235,22 +260,11 @@ class FascistListener(StreamListener):
                 if data['user']['id_str'] in target_accounts:        # If it's one of the accounts we're watching, archive it.
                     _ = _thread.start_new_thread(archive_tweet, (data['user']['screen_name'], data['id_str'], data['text']))
             except KeyError:
-                log_it('WARNING: we got minimal data again', 1)
-                log_it('Value of data is:', 1)
-                log_it(pprint.pformat(data), 1)
-                if 'delete' in data:
-                    log_it("OK, it's a deletion", 1)
-                    if tweet_about_deletions:
-                        try:
-                            log_it(" ... and we're going to tweet about it", 1)
-                            username = target_accounts[data['delete']['status']['user_id_str']]
-                            tweet_id = data['delete']['status']['id_str']
-                            archived_url = 'http://web.archive.org/web/*/https://twitter.com/%s/status/%s' % (username, tweet_id)
-                            the_tweet = "Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
-                            the_tweet = the_tweet % (username, archived_url)
-                            sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
-                        except KeyError:
-                            pass            # Well, Twitter didn't give us enough info to say anything about it, did they?
+                 if 'delete' in data:
+                     handle_deletion(data)
+                 else:
+                    log_it('NOTE: we got minimal data again', 1)
+                    log_it('Value of data is:\n\n%s\n\n' % pprint.pformat(data), 1)
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
@@ -336,7 +350,7 @@ if __name__ == '__main__':
                     stream.filter(follow=target_accounts, stall_warnings=True)
                 except (IncompleteRead, ProtocolError, requests.packages.urllib3.exceptions.ReadTimeoutError) as e:
                     # Sleep some before trying again.
-                    patrick_logger.log_it("WARNING: received error %s; sleeping and trying again ..." % e)
+                    log_it("WARNING: received error %s; sleeping and trying again ..." % e)
                     time.sleep(15)
                     continue
                 except KeyboardInterrupt:
