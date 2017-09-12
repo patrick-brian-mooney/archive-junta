@@ -24,7 +24,7 @@ this program.
 """
 
 
-import csv, datetime, json,  os, pprint, requests, sys, time
+import csv, datetime, json, os, pprint, requests, sys, time
 import _thread
 
 from tweepy.streaming import StreamListener                     # http://www.tweepy.org
@@ -50,7 +50,7 @@ consumer_key, consumer_secret = Trump_client['consumer_key'], Trump_client['cons
 access_token, access_token_secret = Trump_client['access_token'], Trump_client['access_token_secret']
 
 patrick_logger.verbosity_level = 2
-log = patrick_logger.Logger(name='Fascist Tweet Archiver', logfile_path = "%s/%s.log" % (log_directory, str(datetime.datetime.now())))
+log = patrick_logger.Logger(name='Fascist Tweet Archiver', logfile_paths = [ "%s/%s.log" % (log_directory, str(datetime.datetime.now())) ])
 logger_lock = _thread.allocate_lock()
 
 def log_it(*pargs, **kwargs):
@@ -325,6 +325,16 @@ if __name__ == '__main__':
                     break
     except pid.PidFileError:
         log_it("Already running! Quitting ...", 0)
+        # But first, delete the small log file we may have created.
+        paths = log.logfile_paths
+        del(log)
+        if paths:
+            for path in paths:
+                try:
+                    os.unlink(path)
+                except Exception as e:
+                    print("ERROR: unable to delete %s" % path)
+                    print("The system said: %s" % e)
         sys.exit()
 
 
