@@ -1,0 +1,55 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='linawesome', release='4.9.0-3-amd64', version='#1 SMP Debian 4.9.30-2+deb9u3 (2017-08-06)', machine='x86_64')
+Log started 2017-09-12 13:43:51.595423
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined"); trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #907672943605506048 for account @SecretaryAcosta
+about to get all tweets newer than ID #904032783621816321 for account @GovernorPerry
+about to get all tweets newer than ID #816290296048873472 for account @WilburRoss
+about to get all tweets newer than ID #795981284761894912 for account @MELANIATRUMP
+about to get all tweets newer than ID #832282841471918080 for account @BetsyDeVos
+about to get all tweets newer than ID #907598674116706304 for account @PRyan
+about to get all tweets newer than ID #907703900664365056 for account @SecretarySonny
+about to get all tweets newer than ID #907306884293697536 for account @SecretaryCarson
+about to get all tweets newer than ID #906086426386853888 for account @DanScavino
+about to get all tweets newer than ID #816846808789958656 for account @SenDanCoats
+about to get all tweets newer than ID #907684464523968512 for account @BetsyDeVosED
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #907616034672214016 for account @SecretaryZinke
+about to get all tweets newer than ID #907312416114999296 for account @PressSec
+about to get all tweets newer than ID #907543767149838336 for account @TomBossert45
+about to get all tweets newer than ID #907699079634964482 for account @Scavino45
+about to get all tweets newer than ID #907685730406760454 for account @VP
+about to get all tweets newer than ID #907698570920431619 for account @SecondLady
+getting all tweets before ID #865698659727548419
+    ...377 tweets downloaded so far
+New tweet from SecondLady: Great to see so many friends and #Hoosiers at the Congressional Club Luncheon. @Founded1908
+https://t.co/PWIvqcnaZr
+
+archiving URL http://twitter.com/SecondLady/status/907702379386228736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #906521136531492870 for account @MickMulvaneyOMB
+about to get all tweets newer than ID #907682219677900800 for account @FLOTUS
+about to get all tweets newer than ID #824610180881117184 for account @GovPenceIN
+
+archiving URL https://twitter.com/SecondLady/status/907702379386228736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #907700143339819010 for account @AshLeeStrong
+about to get all tweets newer than ID #907688730508578816 for account @SpeakerRyan
+about to get all tweets newer than ID #907336429868646401 for account @EPAScottPruitt
+about to get all tweets newer than ID #907685584247902209 for account @StephGrisham45
+about to get all tweets newer than ID #907388630989144066 for account @nikkihaley
+about to get all tweets newer than ID #907698529606541312 for account @realDonaldTrump
+about to get all tweets newer than ID #900176895505043457 for account @mike_pence
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #907598207961767936 for account @stevenmnuchin1
+about to get all tweets newer than ID #907611064954744832 for account @Scaramucci
+about to get all tweets newer than ID #907699456451244032 for account @WhiteHouse
+about to get all tweets newer than ID #907444210264977408 for account @KellyannePolls
+about to get all tweets newer than ID #898401955847876608 for account @Linda_McMahon
