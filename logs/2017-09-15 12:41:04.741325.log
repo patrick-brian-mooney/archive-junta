@@ -1,0 +1,899 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-15 12:41:04.741963
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #908772157379014657 for account @PRyan
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #908046499262627840 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #907972681387180032 for account
+@SecondLady
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #908529592155213824 for account
+@SecPriceMD
+about to get all tweets newer than ID #908748711303553024 for account @FLOTUS
+about to get all tweets newer than ID #908769411183542273 for account @Scavino45
+about to get all tweets newer than ID #908773341535916032 for account
+@StephGrisham45
+about to get all tweets newer than ID #908768057140629506 for account
+@realDonaldTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #908752550375120896 for account
+@SecShulkin
+about to get all tweets newer than ID #908769599025446917 for account @VP
+about to get all tweets newer than ID #908366012965322752 for account @SBALinda
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #908744355552178178 for account
+@Scaramucci
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #908756224916717570 for account
+@nikkihaley
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #908728643530248195 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #908765308227407872 for account
+@IvankaTrump
+about to get all tweets newer than ID #908300997566648320 for account
+@TomBossert45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #908767123023032323 for account
+@SecretaryPerry
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #908737255161913344 for account
+@DanScavino
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #908771432565534720 for account
+@AshLeeStrong
+about to get all tweets newer than ID #908684157966061572 for account
+@seanspicer
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #908768863059406849 for account @POTUS
+about to get all tweets newer than ID #908752326785159168 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #908691528062767104 for account
+@SecretaryCarson
+about to get all tweets newer than ID #908775618254434304 for account
+@SecretarySonny
+about to get all tweets newer than ID #908757447971676160 for account
+@SecretaryZinke
+about to get all tweets newer than ID #908747296258609152 for account
+@JessicaDitto45
+about to get all tweets newer than ID #908751774798024706 for account
+@KellyannePolls
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #908451912768421888 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #908719414891102209 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #908763152543883264 for account
+@WhiteHouse
+about to get all tweets newer than ID #908768963676557312 for account @PressSec
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #908774444662968320 for account
+@SpeakerRyan
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+... OK, we're set up, and about to watch 65522706, 733751245, 6577802,
+819980276570976256, 822127086194348032, 22203756, 829782369670410240,
+818876014390603776, 823367015830323201, 823638938590085124, 25073877, 15985455,
+831482588246196225, 818910970567344128, 819992522109894658, 1180379185,
+18906561, 892173412818354177, 24578794, 803703725730779136, 37666984,
+809836066316451840, 832672006113931269, 52544275, 866746592853979137, 212262370,
+ 830128820447539208, 20733972, 888031054141022209, 620571475, 108471631,
+296060169, 20776147, 826065858548133888, 822215679726100480, 798195585824104449,
+ 828613457020870657, 842072478834909184, 827258161841135623, 836724024688410625,
+ 471672239, 29547260, 728361177986797568, 799764016885329921,
+828997388920619008, 822215673812119553, 818927131883356161, 105267762, 18916432,
+ 836305915452272641, 1923451808, 599530439
+New tweet from SpeakerRyan: RT @RogerMarshallMD: Very deserving. Thank you,
+@SenatorDole, for your continued service. 
+
+Thanks to @RepLynnJenkins and
+@SenPatRoberts…
+
+archiving URL http://twitter.com/SpeakerRyan/status/908778290328023040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/908778290328023040
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from nikkihaley: "We cut 90% of trade &amp; 30% of oil. I have no
+problem kicking it to Gen. Mattis because I think he has plenty of opt…
+https://t.co/KqYcAXBSet
+
+archiving URL http://twitter.com/nikkihaley/status/908779957375119360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/908779957375119360
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Georgia pecans were just days away from harvest
+when #Irma came in. Now growers could be looking at about 30 percen…
+https://t.co/obJw21ICnU
+
+archiving URL http://twitter.com/SecretarySonny/status/908780876481298434
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/908780876481298434
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from BetsyDeVosED: Thank you @GaryMiddleColle for the opportunity to
+meet them. They have bright futures ahead! https://t.co/xmMY0HWiif
+
+archiving URL http://twitter.com/BetsyDeVosED/status/908781544629817344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/908781544629817344
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @HHSMedia: #HHS announces $144.1 million in grants
+ to prevent and treat #Opioid #Addiction https://t.co/MCgHC6PYtz
+
+archiving URL http://twitter.com/SecPriceMD/status/908781943713665024
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/908781943713665024
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: We visited @mirmont1 in #Pennsylvania today to
+announce $144 million in new funding to fight the #opioids crisis.…
+https://t.co/TRriVZuYEY
+
+archiving URL http://twitter.com/SecPriceMD/status/908782035296296962
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/908782035296296962
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: Today is a day of remembrance for those men and
+women who stepped up to serve and never came home. We salute them.…
+https://t.co/jzywxoaITT
+
+archiving URL http://twitter.com/SpeakerRyan/status/908782121120133124
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/908782121120133124
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: Watch LIVE as President Trump delivers remarks to
+military personnel and families: https://t.co/o0lkeQfs0B https://t.co/OHi5vJNt18
+
+archiving URL http://twitter.com/WhiteHouse/status/908782476822183945
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908782476822183945
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: .@FLOTUS giving remarks to military personnel
+&amp; their families at @JBA_NAFW 🇺🇸Thank you to all who serve!
+https://t.co/CvmN0yT7Hu
+
+archiving URL http://twitter.com/StephGrisham45/status/908782747501699074
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/908782747501699074
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @WhiteHouse: Watch LIVE as President Trump
+delivers remarks to military personnel and families: https://t.co/o0lkeQfs0B
+https://t.co/OHi…
+
+archiving URL http://twitter.com/SecretaryPerry/status/908783979846881280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/908783979846881280
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: Pleased to be joined by @KellyannePolls to announce
+new #opioids funding. @POTUS &amp; our entire administration are co…
+https://t.co/XfUTnwY7hM
+
+archiving URL http://twitter.com/SecPriceMD/status/908785519945031680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/908785519945031680
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: "To the men &amp; women who proudly wear the
+@USAirForce uniform – who keep our country safe &amp; who fill our hearts w/pr…
+https://t.co/HpW7mMJF9m
+
+archiving URL http://twitter.com/Scavino45/status/908786896343584768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908786896343584768
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @ENERGY: A fond farewell to Cassini, @NASA's
+intrepid explorer powered by a nuclear heart 🚀⚛♥➡ https://t.co/4HFDaF9a7H…
+
+archiving URL http://twitter.com/SecretaryPerry/status/908788686413795328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/908788686413795328
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: President Trump: You patrol the sky, protect the
+homeland, and deliver American justice to anyone who dares to thre…
+https://t.co/c2XFLNLe7F
+
+archiving URL http://twitter.com/WhiteHouse/status/908789531947782145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908789531947782145
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: Today's announcement of new @samhsagov #opioids
+grants includes $600,000 to @TheCouncilSEPA in nearby Doylestown,…
+https://t.co/3g93aEh5ud
+
+archiving URL http://twitter.com/SecPriceMD/status/908792803794280448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/908792803794280448
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: RT @SBAgov: Join the SBA Team- Employment opportunities
+ available to assist with #Irma &amp; #Harvey disaster relief efforts →…
+
+archiving URL http://twitter.com/SBALinda/status/908795110732779521
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/908795110732779521
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Big thanks to @VPPressSec for doing a great job for @POTUS
+&amp; our team. He might be leaving WH but I know we'll see…
+https://t.co/gG3UXQbZ4f
+
+archiving URL http://twitter.com/VP/status/908795699545993218
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/908795699545993218
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Our hearts &amp; prayers go out to the people of
+ London, who suffered a vicious terrorist attack.... https://t.co/Q2hTBV2l5t
+
+archiving URL http://twitter.com/realDonaldTrump/status/908796281002307584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908796281002307584
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @USFWSPacific: The right to #HuntFishShoot on
+#PlublicLands is a cherished tradition. Today's signing by @SecretaryZinke
+expands t…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908796688537718784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908796688537718784
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecShulkin: Our goal at @DeptVetAffairs is to help give at-risk
+#Veterans stable housing and a good start to independence
+https://t.co/vGmJBiByeN
+
+archiving URL http://twitter.com/SecShulkin/status/908796763062046720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/908796763062046720
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: #HHS and @POTUS are committed to ending the #opioids
+epidemic. Today we announced $144 million in new funding.…
+https://t.co/Myr8Md8EKZ
+
+archiving URL http://twitter.com/SecPriceMD/status/908798089246527488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/908798089246527488
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Those clouds! Just need some mountains out there.
+https://t.co/Bb6A68IxLR
+
+archiving URL http://twitter.com/AshLeeStrong/status/908798826957492224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908798826957492224
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @dennisbragg: BREAKING: @SecretaryZinke wants
+immediate stabilization of Sperry Chalet, saying rebuilding burned structure is
+“to…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908799689272721408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908799689272721408
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: Today we remember and honor the sacrifices made by
+our POW/MIA and all they gave for our freedom.… https://t.co/uNDlWshBT6
+
+archiving URL http://twitter.com/WhiteHouse/status/908799846512984065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908799846512984065
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @JakeSherman That would be the actual "best"
+
+archiving URL http://twitter.com/AshLeeStrong/status/908801600285790211
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908801600285790211
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 908801600285790211 on
+ account AshLeeStrong
+... adding to list of deleted tweets
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+New tweet from Scavino45: "Our thoughts also remain w/ those recovering in the
+wake of Hurricanes Irma &amp; Harvey...."
+@POTUS @realDonaldTrump…
+https://t.co/ayThaYYo3C
+
+archiving URL http://twitter.com/Scavino45/status/908803535189479425
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908803535189479425
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecShulkin: I’m proud to be joining @FLOTUS Trump at the
+@InvictusToronto games in support of Team USA https://t.co/42icdXCNbE via
+@TheHill #Veterans
+
+archiving URL http://twitter.com/SecShulkin/status/908804596386156548
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/908804596386156548
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Cotton got hit pretty hard by #Irma - here at
+Watson Farms in Moultrie, GA. Heading to Florida Monday. Texas Thurs…
+https://t.co/G0e0qsDnn8
+
+archiving URL http://twitter.com/SecretarySonny/status/908806603843018752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/908806603843018752
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be follow #24 of the
+@ScaramucciPost? Poll will be decided at ~1,000 votes @EMPIREREPORTNY @newsday
+@ConSwan…
+
+archiving URL http://twitter.com/Scaramucci/status/908808174400102401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/908808174400102401
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: RT @SecPriceMD: Pleased to be joined by
+@KellyannePolls to announce new #opioids funding. @POTUS &amp; our entire
+administration are co…
+
+archiving URL http://twitter.com/KellyannePolls/status/908808475949584384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/908808475949584384
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: RT @ddiamond: It was @SecPriceMD's first visit as
+ a Cabinet secretary to Pennsylvania, so @KellyannePolls knew where to take
+him.…
+
+archiving URL http://twitter.com/KellyannePolls/status/908808628051816448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/908808628051816448
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: .@VPPressSec wishing you the best.
+https://t.co/0sJCRl3H7c
+
+archiving URL http://twitter.com/KellyannePolls/status/908809511120535560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/908809511120535560
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from TomBossert45: Gracias @ricardorossello por tu liderazgo. Puerto
+Rico tiene el apoyo de @POTUS y el mio. https://t.co/85klNwUzfo
+
+archiving URL http://twitter.com/TomBossert45/status/908814085340483584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/908814085340483584
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Karen and I offer our prayers to the people of London. As
+@POTUS said, "America and our allies will never be intimi…
+https://t.co/zoICXfUeCl
+
+archiving URL http://twitter.com/VP/status/908814328412950533
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/908814328412950533
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: As a #POW in Vietnam, he was tortured. He was
+beaten. He was starved. And he is an absolute hero. @SamsPressShop…
+https://t.co/Fn4qINiZgD
+
+archiving URL http://twitter.com/SpeakerRyan/status/908815019500032000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/908815019500032000
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from BetsyDeVosED: Inspiring visit to Hope Academy, a recovery school
+that helps keep the roads to recovery &amp; success open for student…
+https://t.co/3XhvXIctyc
+
+archiving URL http://twitter.com/BetsyDeVosED/status/908818776748998656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/908818776748998656
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @nature_wonks: Thank you, @SecretaryZinke, for
+ taking action to reduce risk to forests and communities. A #FireFix would help
+fund…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908824207596904450
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908824207596904450
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @USFWSDirector: Thank you @SecretaryZinke for
+standing with hunters and anglers and fighting for access on #publiclands!
+https://t.co/0i…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908824325880414214
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908824325880414214
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @CalSportsMan: @Interior @SecretaryZinke to
+government agencies: find more hunting and fishing access.
+https://t.co/ymvsIYw2en
+
+archiving URL http://twitter.com/SecretaryZinke/status/908826139149373440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908826139149373440
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @FishingWatch: Zinke signs order to expand
+hunting, fishing on public lands - WFTV Orlando https://t.co/JAoRUjQL8W
+
+archiving URL http://twitter.com/SecretaryZinke/status/908826788343828480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908826788343828480
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: We will defend our people, our nations and our
+civilization from all who dare to threaten our way of life...cont:…
+https://t.co/LMkSj1vzOI
+
+archiving URL http://twitter.com/realDonaldTrump/status/908827394856947712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908827394856947712
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: Our hearts &amp; prayers go out
+to the people of London, who suffered a vicious terrorist attack....
+https://t.co/Q2hTBV2l…
+
+archiving URL http://twitter.com/Scavino45/status/908827660754747392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908827660754747392
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: We will defend our people, our
+nations and our civilization from all who dare to threaten our way of
+life...cont:…
+
+archiving URL http://twitter.com/Scavino45/status/908827669063757824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908827669063757824
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: Our hearts &amp; prayers go out to
+the people of London, who suffered a vicious terrorist attack....
+https://t.co/Q2hTBV2l…
+
+archiving URL http://twitter.com/POTUS/status/908827715675066368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/908827715675066368
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: We will defend our people, our
+nations and our civilization from all who dare to threaten our way of
+life...cont:…
+
+archiving URL http://twitter.com/POTUS/status/908827720691388416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/908827720691388416
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: Thank you @JBA_NAFW for allowing me to spend time w the
+kids at your youth center! Fun &amp; smart kids w very good que…
+https://t.co/R1qGdKZVAw
+
+archiving URL http://twitter.com/FLOTUS/status/908828741484281856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/908828741484281856
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @NWSportsman: Sportsmen's groups laud
+Secretary Ryan Zinke's directives today to federal land managers to provide more
+ hunting,... https…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908830050304380928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908830050304380928
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @ODUHunting: MuleDeerOrg: RT SecretaryZinke:
+Today I signed an order to expand #hunting &amp; #fishing access on #publiclands
+ &amp; for… https:/…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908830274594668545
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908830274594668545
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @jimcarltonsf: Trump administration moves to
+expand hunting and fishing at national monuments https://t.co/0uv8hSBvrf via
+@WSJ #zinke #t…
+
+archiving URL http://twitter.com/SecretaryZinke/status/908830488344891392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908830488344891392
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: "We know we can always count on the courageous members
+ of our nation’s military to be there every step of the way!"…
+https://t.co/q2XDGgnM7T
+
+archiving URL http://twitter.com/Scavino45/status/908835176985264128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908835176985264128
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: HAPPY 70th BIRTHDAY to the @USAirForce! The
+American people are eternally grateful. Thank you for keeping America P…
+https://t.co/AwuBR6TA9C
+
+archiving URL http://twitter.com/realDonaldTrump/status/908841360131743744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908841360131743744
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/Scavino45/status/908841435516071936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908841435516071936
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/POTUS/status/908842843560665088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/908842843560665088
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/PressSec/status/908842901031014401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/908842901031014401
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @TMZ: Anthony @Scaramucci is BACK! But instead of
+making news, he's reporting it on @TMZLive &amp; @TMZ on TV. The MOOCH take…
+
+archiving URL http://twitter.com/Scaramucci/status/908844404047089664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/908844404047089664
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: Fake News https://t.co/WtoHsvWraY
+
+archiving URL http://twitter.com/Scaramucci/status/908844524989853697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/908844524989853697
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: I'll see what I can do. It would be my pleasure.
+https://t.co/E6qtoy7DXn
+
+archiving URL http://twitter.com/SecretarySonny/status/908846944071688192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/908846944071688192
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: Thank you @JBA_NAFW for allowing me
+to spend time w the kids at your youth center! Fun &amp; smart kids w very good
+que…
+
+archiving URL http://twitter.com/StephGrisham45/status/908847098656903168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/908847098656903168
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the @USAirForce!
+The American people are eternally grateful. Thank you for keeping America P…
+
+archiving URL http://twitter.com/VP/status/908849914679046146
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/908849914679046146
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: Tune in live from Alexandria, VA I'm on @FoxNews on
+@TuckerCarlson show with guest host @kilmeade
+
+archiving URL http://twitter.com/seanspicer/status/908851309578801153
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908851309578801153
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from BetsyDeVosED: The #ReThinkSchool tour is a wrap! Thank you to all
+ the great educators and students who made it possible
+https://t.co/LLX2YJrVbY
+
+archiving URL http://twitter.com/BetsyDeVosED/status/908861000085942272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/908861000085942272
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/DanScavino/status/908863340046405632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/908863340046405632
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @MicahTNDC @StateDept @robstrayer Congrats
+@robstrayer! Big get for State.
+
+archiving URL http://twitter.com/AshLeeStrong/status/908870525568655360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908870525568655360
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: 👇🏼 Someone who read the Approps #s on the 12
+spending bills the House passed yesterday. https://t.co/TeGR1nf5Ao
+
+archiving URL http://twitter.com/AshLeeStrong/status/908870953467301888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908870953467301888
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @IngrahamAngle: Amazon Accused of Slashing Over
+900 Negative Reviews of Hillary’s Book https://t.co/pxlKX2yhME
+
+archiving URL http://twitter.com/seanspicer/status/908884882910318594
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908884882910318594
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @FoxNews: .@seanspicer on media coverage of
+#Trump: "It's one thing to be tough and critical, it's another thing to be
+inhere…
+
+archiving URL http://twitter.com/seanspicer/status/908884901184856064
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908884901184856064
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @colbertlateshow: TONIGHT: Stephen thinks he knows
+ why it took Trump 2 days to condemn white supremacism, and luckily Anthony…
+
+archiving URL http://twitter.com/Scaramucci/status/908891894150684673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/908891894150684673
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from TomBossert45: More than 80% of customers restored after #Irma in
+#FL and #GA Thanks @Edison_Electric #TomKuhn and @SecretaryPerry.  Crews working
+ 24/7. 💡
+
+archiving URL http://twitter.com/TomBossert45/status/908899672915312641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/908899672915312641
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Speaker Ryan's current Instagram story caught him
+fixing a podium sign that fell during a presser this week. 😳
+https://t.co/H3TSJVUYbe
+
+archiving URL http://twitter.com/AshLeeStrong/status/908900002294112256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908900002294112256
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: Aren't you the sports columnist from the NY Post!? I
+haven't seen any of your stories of late - what happened?
+https://t.co/n98S9VtjDJ
+
+archiving URL http://twitter.com/DanScavino/status/908903198076915712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/908903198076915712
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: "Our air superiority is unquestioned not merely b/c we
+ have the best equipment-but because we have the best people.…
+https://t.co/5bbcKDQVaq
+
+archiving URL http://twitter.com/Scavino45/status/908906086136197121
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908906086136197121
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: "@USAirForce - We are celebrating 70 years of HISTORY.
+ 70 years of HEROES - and 70 YEARS of VICTORY! @POTUS… https://t.co/PMKYFCRxtO
+
+archiving URL http://twitter.com/Scavino45/status/908906764002840576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/908906764002840576
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/SecretaryZinke/status/909023969067532288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/909023969067532288
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @lisamurkowski: On
+#NationalPowMIARecognitionDay, never forget the sacrifices made &amp; honor the
+POW’s, the missing &amp; their families. http…
+
+archiving URL http://twitter.com/SecretaryZinke/status/909024218674757632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/909024218674757632
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @RepDonBacon: Well deserved @SenatorDole
+https://t.co/0h5E3qQa5y
+
+archiving URL http://twitter.com/SpeakerRyan/status/909025590325514240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/909025590325514240
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: In this week's address, @POTUS begins "by continuing to send
+our prayers to all of those affected by Hurricanes Har… https://t.co/bSe4NmUjuJ
+
+archiving URL http://twitter.com/VP/status/909026371900502018
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/909026371900502018
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @RepKevinYoder: @SenatorDole @POTUS Here we are
+pictured with @speakerryan as he signed the @SenatorDole Congressional Gold
+Medal A…
+
+archiving URL http://twitter.com/SpeakerRyan/status/909033718056144897
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/909033718056144897
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @JenSaidIt: @ScaramucciPost @Scaramucci I don't
+know why I love these polls so much.
+
+archiving URL http://twitter.com/Scaramucci/status/909037787067895808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/909037787067895808
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: On a scale of 1-10 how much do
+you love @Scaramucci?
+
+archiving URL http://twitter.com/Scaramucci/status/909038013082165249
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/909038013082165249
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be our 2nd follow on
+instagram 
+https://t.co/tTw9eC8SKJ @realDonaldTrump @mets @BarackObama @KatTimpf
+ - Poll…
+
+archiving URL http://twitter.com/Scaramucci/status/909038593452204033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/909038593452204033
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Important information from @FEMA for those impacted by
+Hurricane Irma. https://t.co/ICgQONXFXT
+
+archiving URL http://twitter.com/VP/status/909038815020507141
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/909038815020507141
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @RedSox: You still with us, #RedSoxNation?! 👋
+https://t.co/Y5zPVdd2jZ
+
+archiving URL http://twitter.com/seanspicer/status/909038988899569664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/909038988899569664
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @JerryMoran: Congratulations, @SenatorDole! Can't
+ thank you enough for your leadership over the years, but I hope this is a good…
+
+
+archiving URL http://twitter.com/SpeakerRyan/status/909041186245050369
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/909041186245050369
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @VP: Important information from @FEMA for
+those impacted by Hurricane Irma. https://t.co/ICgQONXFXT
+
+archiving URL http://twitter.com/SecretaryZinke/status/909041442831691777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/909041442831691777
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: With one voice, Congress condemns the violence that
+took place in Charlottesville and rejects the hate groups invol…
+https://t.co/gg0qDRcsgs
+
+archiving URL http://twitter.com/SpeakerRyan/status/909046988087447553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/909046988087447553
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @realDonaldTrump: HAPPY 70th BIRTHDAY to the
+@USAirForce! The American people are eternally grateful. Thank you for keeping
+America P…
+
+archiving URL http://twitter.com/WhiteHouse/status/909052255822909442
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/909052255822909442
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from EPAScottPruitt: RT @EPA: .@EPAScottPruitt visited Houston, Texas,
+ today to see our response efforts in areas affected by Hurricane Harvey.
+https://t.co/uqp…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/909052320503263233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/909052320503263233
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: .@USDANutrition helping feed kids. Authorizing
+free school meals for 1.4 million Florida students after #Irma. Info:
+https://t.co/Kt345UzNZa
+
+archiving URL http://twitter.com/SecretarySonny/status/909057378171179009
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/909057378171179009
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 909038593452204033 on
+ account Scaramucci
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 909038593452204033,
+'id_str': '909038593452204033',
+                       'user_id': 24578794,
+
+                       'user_id_str': '24578794'},
+            'timestamp_ms':
+'1505572237975'}}

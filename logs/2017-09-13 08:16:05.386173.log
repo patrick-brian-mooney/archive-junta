@@ -1,0 +1,235 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-13 08:16:05.386825
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #907980802163658752 for account
+@KellyannePolls
+about to get all tweets newer than ID #907748996571176960 for account @VP
+about to get all tweets newer than ID #907598207961767936 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #907982174103543809 for account
+@SpeakerRyan
+about to get all tweets newer than ID #907744133875367939 for account
+@WhiteHouse
+about to get all tweets newer than ID #907972681387180032 for account
+@SecondLady
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #907682219677900800 for account @FLOTUS
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #907968250406772736 for account
+@seanspicer
+getting all tweets before ID #842130264222498815
+    ...399 tweets downloaded so far
+about to get all tweets newer than ID #-1 for account @ElaineChao
+New tweet from seanspicer: RT @HarvardIOP: Welcome more Visiting Fellows to the
+IOP! @MayorSlyJames @xychelsea @RobbyMook @seanspicer https://t.co/4aLn3MSCQA
+#IOPFell…
+
+archiving URL http://twitter.com/seanspicer/status/907986254305697792
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #907966627655942146 for account
+@SecPriceMD
+about to get all tweets newer than ID #907970378538131456 for account @SBALinda
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #907947084317433856 for account
+@JessicaDitto45
+about to get all tweets newer than ID #907672943605506048 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #907959566075355136 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #907306884293697536 for account
+@SecretaryCarson
+about to get all tweets newer than ID #907944145733513217 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #907728330966933504 for account
+@nikkihaley
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #906086426386853888 for account
+@DanScavino
+
+archiving URL https://twitter.com/seanspicer/status/907986254305697792
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #907598674116706304 for account @PRyan
+about to get all tweets newer than ID #907699079634964482 for account @Scavino45
+about to get all tweets newer than ID #907980844433887232 for account
+@SecretaryPerry
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #907790607871086593 for account @PressSec
+about to get all tweets newer than ID #907982250574270464 for account
+@SecretaryZinke
+about to get all tweets newer than ID #907759689244581894 for account
+@SecretarySonny
+about to get all tweets newer than ID #907699121657716739 for account @POTUS
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #907648686980784128 for account
+@IvankaTrump
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #907730684671905792 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #907791732250738688 for account
+@StephGrisham45
+about to get all tweets newer than ID #907959409829138432 for account
+@AshLeeStrong
+about to get all tweets newer than ID #907984221347643393 for account
+@Scaramucci
+about to get all tweets newer than ID #907832213764538373 for account
+@TomBossert45
+about to get all tweets newer than ID #907713336334221312 for account
+@SecShulkin
+about to get all tweets newer than ID #907946177022369792 for account
+@realDonaldTrump
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+... OK, we're set up, and about to watch 471672239, 818910970567344128,
+799764016885329921, 18916432, 822215673812119553, 822127086194348032,
+836305915452272641, 212262370, 818876014390603776, 1180379185, 1923451808,
+20776147, 105267762, 829782369670410240, 819992522109894658, 22203756, 18906561,
+ 836724024688410625, 819980276570976256, 809836066316451840, 599530439,
+29547260, 15985455, 65522706, 892173412818354177, 888031054141022209,
+798195585824104449, 828613457020870657, 828997388920619008, 37666984,
+803703725730779136, 620571475, 733751245, 823367015830323201,
+830128820447539208, 728361177986797568, 818927131883356161, 827258161841135623,
+842072478834909184, 822215679726100480, 108471631, 52544275, 20733972,
+826065858548133888, 832672006113931269, 823638938590085124, 296060169, 24578794,
+ 866746592853979137, 831482588246196225, 25073877, 6577802
+New tweet from SBALinda: .@SBAgov is committed to creating an even better
+environment for American #SmallBiz owners, so they may grow &amp; thri…
+https://t.co/LIwgNYqNkK
+
+archiving URL http://twitter.com/SBALinda/status/907986637463924736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/907986637463924736
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: I am thrilled to join @HarvardIOP as a Visiting
+Fellow this semester! #IOPFellows
+
+archiving URL http://twitter.com/seanspicer/status/907986821220417536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/907986821220417536
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Karen &amp; I will travel to Florida with @POTUS &amp;
+@FLOTUS to meet those helping with Hurricane Irma recovery efforts.…
+https://t.co/IHlHNFyyRT
+
+archiving URL http://twitter.com/VP/status/907989789844148224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/907989789844148224
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from JessicaDitto45: RT @VP: Karen &amp; I will travel to Florida with
+ @POTUS &amp; @FLOTUS to meet those helping with Hurricane Irma recovery
+efforts.…
+
+archiving URL http://twitter.com/JessicaDitto45/status/907990623344627712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/907990623344627712
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: It will only be 1/11th of a Scaramucci @TMZ @TMZLive
+@HarveyLevinTMZ https://t.co/Wu5Fu3z5n2
+
+archiving URL http://twitter.com/Scaramucci/status/907990635948462080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/907990635948462080
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @FLOTUS: My concern continues for all impacted by the
+hurricanes.Will fly to #Florida on Thursday w @potus to survey the damages from
+#H…
+
+archiving URL http://twitter.com/VP/status/907992193549336576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/907992193549336576
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @ENERGY: ✳ Wednesday AM  #Irma Update: Total
+⚡Outages✳
+
+FL: 3,515,268
+GA: 513,761
+SC: 60,228
+NC: 27,629
+PR: 303,998
+
+More ➡…
+
+archiving URL http://twitter.com/SecretaryPerry/status/907993522673999872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/907993522673999872
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @realDonaldTrump: I will be traveling to Florida
+tomorrow to meet with our great Coast Guard, FEMA and many of the brave first
+responder…
+
+archiving URL http://twitter.com/WhiteHouse/status/907994541147516929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/907994541147516929
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @VP: Karen &amp; I will travel to Florida with
+@POTUS &amp; @FLOTUS to meet those helping with Hurricane Irma recovery
+efforts.…
+
+archiving URL http://twitter.com/WhiteHouse/status/907995792274849794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/907995792274849794
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLOTUS: My concern continues for all impacted by
+the hurricanes.Will fly to #Florida on Thursday w @potus to survey the damages
+from #H…
+
+archiving URL http://twitter.com/WhiteHouse/status/907996295985553409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/907996295985553409
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 907801796244119552 on
+ account Scaramucci
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 907801796244119552,
+'id_str': '907801796244119552',
+                       'user_id': 24578794,
+
+                       'user_id_str': '24578794'},
+            'timestamp_ms':
+'1505318540444'}}

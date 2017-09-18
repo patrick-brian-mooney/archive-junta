@@ -1,0 +1,139 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-16 07:31:04.999896
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #909057378171179009 for account
+@SecretarySonny
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #908899672915312641 for account
+@TomBossert45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #908842901031014401 for account @PressSec
+about to get all tweets newer than ID #909038988899569664 for account
+@seanspicer
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #908779957375119360 for account
+@nikkihaley
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #908772157379014657 for account @PRyan
+about to get all tweets newer than ID #909052320503263233 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #908900002294112256 for account
+@AshLeeStrong
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #909041442831691777 for account
+@SecretaryZinke
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #907972681387180032 for account
+@SecondLady
+about to get all tweets newer than ID #908795110732779521 for account @SBALinda
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #908798089246527488 for account
+@SecPriceMD
+about to get all tweets newer than ID #908747296258609152 for account
+@JessicaDitto45
+about to get all tweets newer than ID #908842843560665088 for account @POTUS
+about to get all tweets newer than ID #908906764002840576 for account @Scavino45
+about to get all tweets newer than ID #908451912768421888 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #908903198076915712 for account
+@DanScavino
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #909038593452204033 for account
+@Scaramucci
+getting all tweets before ID #889645154767847423
+    ...398 tweets downloaded so far
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+New tweet from Scaramucci: RT @ScaramucciPost: It's happening and you're in it.
+https://t.co/nZwC127tvx
+
+archiving URL http://twitter.com/Scaramucci/status/909062060360785920
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #908809511120535560 for account
+@KellyannePolls
+
+archiving URL https://twitter.com/Scaramucci/status/909062060360785920
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #908765308227407872 for account
+@IvankaTrump
+about to get all tweets newer than ID #908828741484281856 for account @FLOTUS
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #909038815020507141 for account @VP
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #909052255822909442 for account
+@WhiteHouse
+about to get all tweets newer than ID #908788686413795328 for account
+@SecretaryPerry
+about to get all tweets newer than ID #909046988087447553 for account
+@SpeakerRyan
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #908804596386156548 for account
+@SecShulkin
+about to get all tweets newer than ID #908691528062767104 for account
+@SecretaryCarson
+about to get all tweets newer than ID #908752326785159168 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #908847098656903168 for account
+@StephGrisham45
+about to get all tweets newer than ID #908841360131743744 for account
+@realDonaldTrump
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #908046499262627840 for account
+@SecretaryAcosta
+... OK, we're set up, and about to watch 842072478834909184, 599530439,
+866746592853979137, 105267762, 818927131883356161, 20776147, 809836066316451840,
+ 37666984, 1923451808, 29547260, 733751245, 832672006113931269, 296060169,
+65522706, 827258161841135623, 20733972, 828997388920619008, 836305915452272641,
+822127086194348032, 819992522109894658, 892173412818354177, 829782369670410240,
+836724024688410625, 822215679726100480, 823367015830323201, 799764016885329921,
+620571475, 15985455, 24578794, 803703725730779136, 471672239, 212262370,
+52544275, 818876014390603776, 6577802, 818910970567344128, 1180379185,
+822215673812119553, 830128820447539208, 18916432, 826065858548133888, 18906561,
+831482588246196225, 828613457020870657, 798195585824104449, 823638938590085124,
+25073877, 108471631, 728361177986797568, 22203756, 888031054141022209,
+819980276570976256
+INFO: We're handling a deletion notification for tweet ID# 909062060360785920 on
+ account Scaramucci
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 909062060360785920,
+'id_str': '909062060360785920',
+                       'user_id': 24578794,
+
+                       'user_id_str': '24578794'},
+            'timestamp_ms':
+'1505573404499'}}

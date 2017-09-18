@@ -1,0 +1,313 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-13 06:07:05.473975
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #907815577615400962 for account
+@seanspicer
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #907791732250738688 for account
+@StephGrisham45
+about to get all tweets newer than ID #907722942510915584 for account
+@KellyannePolls
+about to get all tweets newer than ID #907672943605506048 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #907946177022369792 for account
+@realDonaldTrump
+about to get all tweets newer than ID #907598207961767936 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #907953321196929024 for account
+@SpeakerRyan
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #907952931042930688 for account
+@AshLeeStrong
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #907944145733513217 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #907648686980784128 for account
+@IvankaTrump
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #907902180644065280 for account
+@Scaramucci
+about to get all tweets newer than ID #907699121657716739 for account @POTUS
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #907756414201995268 for account
+@SecretaryPerry
+about to get all tweets newer than ID #907699079634964482 for account @Scavino45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #907713336334221312 for account
+@SecShulkin
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #907720185896939520 for account
+@SecondLady
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #907947084317433856 for account
+@JessicaDitto45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #907953211725762560 for account @SBALinda
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #907790607871086593 for account @PressSec
+about to get all tweets newer than ID #907788667183353857 for account
+@SecretaryZinke
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #907297208105684994 for account
+@SecPriceMD
+about to get all tweets newer than ID #907748996571176960 for account @VP
+about to get all tweets newer than ID #907598674116706304 for account @PRyan
+about to get all tweets newer than ID #907728330966933504 for account
+@nikkihaley
+about to get all tweets newer than ID #907306884293697536 for account
+@SecretaryCarson
+about to get all tweets newer than ID #907730684671905792 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #907714232690638848 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #907759689244581894 for account
+@SecretarySonny
+about to get all tweets newer than ID #907682219677900800 for account @FLOTUS
+about to get all tweets newer than ID #907832213764538373 for account
+@TomBossert45
+about to get all tweets newer than ID #906086426386853888 for account
+@DanScavino
+about to get all tweets newer than ID #907744133875367939 for account
+@WhiteHouse
+... OK, we're set up, and about to watch 20776147, 599530439,
+823638938590085124, 471672239, 819980276570976256, 25073877, 799764016885329921,
+ 18916432, 108471631, 296060169, 65522706, 105267762, 18906561,
+892173412818354177, 828997388920619008, 1923451808, 22203756, 52544275, 6577802,
+ 24578794, 822215679726100480, 728361177986797568, 830128820447539208,
+823367015830323201, 29547260, 831482588246196225, 826065858548133888,
+803703725730779136, 822127086194348032, 20733972, 836724024688410625,
+809836066316451840, 819992522109894658, 836305915452272641, 1180379185,
+212262370, 15985455, 818927131883356161, 827258161841135623, 888031054141022209,
+ 829782369670410240, 818910970567344128, 733751245, 37666984,
+828613457020870657, 832672006113931269, 798195585824104449, 842072478834909184,
+818876014390603776, 866746592853979137, 620571475, 822215673812119553
+New tweet from SBALinda: .@SBAgov's Office of #DisasterAssistance is here to
+help all those recovering from hurricanes #Harvey &amp; #Irma. Visi…
+https://t.co/7zruSDcGpk
+
+archiving URL http://twitter.com/SBALinda/status/907956665688850432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/907956665688850432
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: That's a lotta hustle to protect conservative
+majority/policies. https://t.co/5uVfqBEwdo
+
+archiving URL http://twitter.com/AshLeeStrong/status/907959409829138432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/907959409829138432
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from IvankaTrumpHQ: Make it a strong summer finish with 20 chic office
+ looks: https://t.co/4lIn0MY1lR https://t.co/DkutfjuMfT
+
+archiving URL http://twitter.com/IvankaTrumpHQ/status/907959566075355136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrumpHQ/status/907959566075355136
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: Beautiful photo from @BLMNewMexico. Ranchers move
+ their cattle before the sun goes down. https://t.co/n3br78MnSs
+
+archiving URL http://twitter.com/SecretaryZinke/status/907963281301794816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/907963281301794816
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: Live soon→ @HouseGOP News Conference on the
+conservative wins in this year's government funding bill. Watch:
+https://t.co/RrNzrxPmYU
+
+archiving URL http://twitter.com/SpeakerRyan/status/907964840827916290
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/907964840827916290
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @HHSGov: We all have a role to play in
+#suicideprevention and awareness. #NSPW https://t.co/pufcarMOya
+https://t.co/mmhWxNFzi0
+
+archiving URL http://twitter.com/SecPriceMD/status/907966627655942146
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/907966627655942146
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Speaking to business owners from Louisiana about how
+resources from @SBAgov can help them grow. @LABI_biz #LABIinDC
+https://t.co/oLNIkquufp
+
+archiving URL http://twitter.com/SBALinda/status/907967445243179008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/907967445243179008
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: We’re live talking #HurricaneIrma and this year's
+government funding bill. Tune in→ https://t.co/RrNzrxPmYU
+
+archiving URL http://twitter.com/SpeakerRyan/status/907967459126398976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/907967459126398976
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @LaurenWWSG: Love this! #WomeninPolitics!
+@mercedesschlapp @HopeHicks45 @WWSGconnect #MercedesSchlapp #HopeHicks
+https://t.co/tMuiKGaYcq
+
+archiving URL http://twitter.com/seanspicer/status/907968151102545920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/907968151102545920
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @LaurenWWSG: Look at for @seanspicer on
+@jimmykimmel this Wednesday Nigh! #SeanSpicer #JimmyKimmel @WWSGconnect #WWSG
+https://t.co/vgdPO…
+
+archiving URL http://twitter.com/seanspicer/status/907968250406772736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/907968250406772736
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Louisiana has been affected by hurricanes &amp; massive
+ flooding in past year. Explaining to @LABI_biz how @SBAgov help…
+https://t.co/x8jJ90JDmd
+
+archiving URL http://twitter.com/SBALinda/status/907968571866787840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/907968571866787840
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Sharing goals with Louisiana business owners about
+#taxreform &amp; how @SBAgov is working to help entrepreneurs succee…
+https://t.co/90OznOuHLk
+
+archiving URL http://twitter.com/SBALinda/status/907970378538131456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/907970378538131456
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecondLady: As the Honorary Vice Chairwoman for Sister Cities
+International, I'm inspired by those in Leipzig, Germany helping…
+https://t.co/MRWZs5lFNS
+
+archiving URL http://twitter.com/SecondLady/status/907972681387180032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/907972681387180032
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: I’m live talking tax reform &amp; taking your
+questions as part of the @AP Newsmakers series. Watch → https://t.co/RrNzrxPmYU
+
+archiving URL http://twitter.com/SpeakerRyan/status/907978573474095106
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/907978573474095106
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: The problem is we have a 1986 tax system in the 21st
+ century. We need to overhaul the system to make US businesses…
+https://t.co/ULivEsEjF0
+
+archiving URL http://twitter.com/SpeakerRyan/status/907980616745943041
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/907980616745943041
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: Big-hug LOVE and CONGRATULATIONS to @EricTrump
+&amp; @LaraLeaTrump on the birth of their son, Luke.  Children are the g…
+https://t.co/dUV99maIEZ
+
+archiving URL http://twitter.com/KellyannePolls/status/907980802163658752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/907980802163658752
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: The tragic death of 2 linemen stand as a reminder
+ of the danger utility workers face after storms. Our prayers are…
+https://t.co/fJGzlcQQJV
+
+archiving URL http://twitter.com/SecretaryPerry/status/907980844433887232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/907980844433887232
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @USIndianAffairs: BIA Firefighters &amp;
+Indian Country's hotshots are on the front lines out west. Prevention is key to
+protecting lives…
+
+archiving URL http://twitter.com/SecretaryZinke/status/907982123189067776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/907982123189067776
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: American companies are becoming foreign companies
+because of our tax code. We need a Made in America tax system to…
+https://t.co/LT4jqhqJWB
+
+archiving URL http://twitter.com/SpeakerRyan/status/907982174103543809
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/907982174103543809
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: RT @BSEEgov: BSEE’s Record Donations Support
+Families in Time of Need
+https://t.co/W72wugHKoR https://t.co/2iakWm0EQp
+
+archiving URL http://twitter.com/SecretaryZinke/status/907982250574270464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/907982250574270464
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: With former Israeli Supreme Court Justice Dalia
+Dorner last night @huntandfishnyc What an absolutely amazing woman.…
+https://t.co/Yf8rf1UDFh
+
+archiving URL http://twitter.com/Scaramucci/status/907984221347643393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/907984221347643393
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 907968250406772736 on
+ account seanspicer
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 907968250406772736,
+'id_str': '907968250406772736',
+                       'user_id': 20776147,
+
+                       'user_id_str': '20776147'},
+            'timestamp_ms':
+'1505315725847'}}

@@ -1,0 +1,317 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-13 15:27:05.084835
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #906086426386853888 for account
+@DanScavino
+about to get all tweets newer than ID #907306884293697536 for account
+@SecretaryCarson
+about to get all tweets newer than ID #908084925957591041 for account
+@nikkihaley
+about to get all tweets newer than ID #908081357351518209 for account
+@SecShulkin
+about to get all tweets newer than ID #908063553160142848 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #908059945530155008 for account
+@Scaramucci
+getting all tweets before ID #887121274027347967
+    ...398 tweets downloaded so far
+about to get all tweets newer than ID #908046499262627840 for account
+@SecretaryAcosta
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be the third follow of
+ the @ScaramucciPost? @mets @cnn @BarackObama @MSNBC
+
+archiving URL http://twitter.com/Scaramucci/status/908094731326025728
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #908091451191562242 for account
+@SpeakerRyan
+about to get all tweets newer than ID #907699121657716739 for account @POTUS
+
+archiving URL https://twitter.com/Scaramucci/status/908094731326025728
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #908059245735706624 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #908043154154311680 for account @VP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #908035567593586688 for account
+@SecPriceMD
+about to get all tweets newer than ID #907946177022369792 for account
+@realDonaldTrump
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #908071048616316928 for account
+@SecretarySonny
+about to get all tweets newer than ID #907791732250738688 for account
+@StephGrisham45
+about to get all tweets newer than ID #908000080858361856 for account
+@AshLeeStrong
+about to get all tweets newer than ID #907980802163658752 for account
+@KellyannePolls
+about to get all tweets newer than ID #908085555136565248 for account
+@seanspicer
+about to get all tweets newer than ID #907730684671905792 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #908090163871481856 for account
+@WhiteHouse
+about to get all tweets newer than ID #907986637463924736 for account @SBALinda
+about to get all tweets newer than ID #907682219677900800 for account @FLOTUS
+about to get all tweets newer than ID #908056910015889409 for account
+@SecretaryZinke
+about to get all tweets newer than ID #907990623344627712 for account
+@JessicaDitto45
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #907972681387180032 for account
+@SecondLady
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #908019306109313024 for account @PRyan
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #907832213764538373 for account
+@TomBossert45
+about to get all tweets newer than ID #908010353983983616 for account
+@IvankaTrump
+about to get all tweets newer than ID #908093639863259136 for account
+@SecretaryPerry
+about to get all tweets newer than ID #907790607871086593 for account @PressSec
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #908052838735122432 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #907699079634964482 for account @Scavino45
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+... OK, we're set up, and about to watch 22203756, 620571475,
+828613457020870657, 37666984, 831482588246196225, 828997388920619008, 20733972,
+599530439, 728361177986797568, 6577802, 24578794, 819980276570976256,
+888031054141022209, 18916432, 822215679726100480, 212262370, 799764016885329921,
+ 818910970567344128, 15985455, 65522706, 803703725730779136, 1180379185,
+829782369670410240, 25073877, 892173412818354177, 809836066316451840,
+1923451808, 842072478834909184, 823638938590085124, 296060169, 471672239,
+20776147, 832672006113931269, 822215673812119553, 819992522109894658,
+818876014390603776, 827258161841135623, 836724024688410625, 836305915452272641,
+822127086194348032, 105267762, 29547260, 733751245, 108471631,
+866746592853979137, 52544275, 830128820447539208, 818927131883356161,
+826065858548133888, 798195585824104449, 823367015830323201, 18906561
+New tweet from WhiteHouse: Here is what the West Wing is reading today:
+https://t.co/vaQObKNEyV https://t.co/BV8VPFeIZ1
+
+archiving URL http://twitter.com/WhiteHouse/status/908098473425338368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908098473425338368
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @SandiaLabs: Today we bid farewell to Pete
+Domenici, friend of the #NationalLabs and champion of innovation in science and
+engin…
+
+archiving URL http://twitter.com/SecretaryPerry/status/908099202743459841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/908099202743459841
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: TFW you're the only one in the rotunda.
+https://t.co/OlYsYPNR9Y
+
+archiving URL http://twitter.com/AshLeeStrong/status/908106250239561728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908106250239561728
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLSERT: Verify that your route is safe before
+traveling home- check with your county for reentry conditions
+
+archiving URL http://twitter.com/WhiteHouse/status/908107837250981888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908107837250981888
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @WhiteHouseCEA: The @WhiteHouse Council of
+Economic Advisers is excited to welcome its newest Chairman: Kevin Allen Hassett
+
+archiving URL http://twitter.com/WhiteHouse/status/908107921061490689
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/908107921061490689
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Briefed by Dir. Dan Coats &amp; Dir. Robert Cardillo earlier
+@ Nat'l Geospatial-Intelligence Agency &amp; met w/ hardworkin…
+https://t.co/QXiSqEXz36
+
+archiving URL http://twitter.com/VP/status/908108490505379842
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/908108490505379842
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 906086426386853888 on
+ account DanScavino
+... adding to list of deleted tweets
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+New tweet from SecretaryZinke: Excited to share that Doug Domenech was just
+confirmed as Asst Sec for Insular Affairs. Critical for #Irma relief in US
+Virgin Islands
+
+archiving URL http://twitter.com/SecretaryZinke/status/908111134988947456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/908111134988947456
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: So fun running into a group from the @AWBC_USA at
+dinner tonight! Such an honor to speak with them at their confere…
+https://t.co/vAdXqpUkAD
+
+archiving URL http://twitter.com/SBALinda/status/908113204303290369
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/908113204303290369
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 904914476364963840 on
+ account DanScavino
+... adding to list of deleted tweets
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+INFO: We're handling a deletion notification for tweet ID# 905771637638868992 on
+ account DanScavino
+... adding to list of deleted tweets
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+New tweet from AshLeeStrong: RT @DavidNakamura: Six female correspondents out of
+ seven front row seats at WH daily briefing with female press sec.
+https://t.co/1m5SUcfY…
+
+archiving URL http://twitter.com/AshLeeStrong/status/908127738099322881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/908127738099322881
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from EPAScottPruitt: RT @EPA: We have over 150 staff working on our
+Hurricane Irma response efforts in FL, PR, GA, SC, &amp; VI.
+https://t.co/KaNKeTRxm9
+
+archiving URL http://twitter.com/EPAScottPruitt/status/908143588894281730
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/908143588894281730
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Impromptu meeting with some of the women who advise
+entrepreneurs thru the Women's Business Centers, an @SBAgov res…
+https://t.co/zP0yBC7Bpt
+
+archiving URL http://twitter.com/SBALinda/status/908143801314803712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/908143801314803712
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from BetsyDeVosED: #RethinkSchool Day 2 is a wrap!
+https://t.co/fjfzeCBenN
+
+archiving URL http://twitter.com/BetsyDeVosED/status/908145075858878464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/908145075858878464
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: Thanks for having me @jimmykimmel
+https://t.co/dIcbCQzGQI
+
+archiving URL http://twitter.com/seanspicer/status/908152515866198016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908152515866198016
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: While DACA and border security were both discussed,
+excluding the wall was certainly not agreed to.
+
+archiving URL http://twitter.com/PressSec/status/908153680259686400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/908153680259686400
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: China has a business tax rate of 15%. We should
+do everything possible to match them in order to win with our economy. Jobs and
+wages!
+
+archiving URL http://twitter.com/realDonaldTrump/status/908154067658174469
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908154067658174469
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @JimmyKimmelLive: Tonight on #Kimmel former White
+House Secretary @SeanSpicer, #USOpen champion @SloaneStephens &amp; music from…
+
+archiving URL http://twitter.com/seanspicer/status/908156200700715010
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908156200700715010
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: RT @jimmykimmel: Tonight on #Kimmel former White
+House Secretary @SeanSpicer, #USOpen champion @SloaneStephens &amp; music from
+@21Savage #Issa…
+
+archiving URL http://twitter.com/seanspicer/status/908156219495288832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/908156219495288832
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Crooked Hillary Clinton blames everybody (and
+every thing) but herself for her election loss. She lost the debates and lost
+her direction!
+
+archiving URL http://twitter.com/realDonaldTrump/status/908160218995068928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908160218995068928
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: The "deplorables" came back to haunt
+Hillary.They expressed their feelings loud and clear. She spent big money but,
+in the end, had no game!
+
+archiving URL http://twitter.com/realDonaldTrump/status/908161523180285953
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/908161523180285953
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 908094731326025728 on
+ account Scaramucci
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 908094731326025728,
+'id_str': '908094731326025728',
+                       'user_id': 24578794,
+
+                       'user_id_str': '24578794'},
+            'timestamp_ms':
+'1505362589572'}}
