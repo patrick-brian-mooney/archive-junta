@@ -1,0 +1,756 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-19 07:47:06.157187
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #910010106053632000 for account @POTUS
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #910099741723197440 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #908752326785159168 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #910149592905330691 for account @SBALinda
+about to get all tweets newer than ID #909916048111099905 for account
+@IvankaTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #910125454924898304 for account
+@SecretaryPerry
+about to get all tweets newer than ID #909849818801016832 for account
+@SecPriceMD
+about to get all tweets newer than ID #909949508666167297 for account
+@nikkihaley
+about to get all tweets newer than ID #910151870190059520 for account @PressSec
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #910149962075435008 for account @Scavino45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #910149058123137025 for account
+@JessicaDitto45
+about to get all tweets newer than ID #910148620753756161 for account
+@SecretaryZinke
+about to get all tweets newer than ID #909651913406218240 for account
+@seanspicer
+about to get all tweets newer than ID #909802421991411712 for account @FLOTUS
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #910101913923997696 for account
+@realDonaldTrump
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #909946649568350209 for account @PRyan
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #909900073642987522 for account
+@TomBossert45
+about to get all tweets newer than ID #910119806384386048 for account
+@SpeakerRyan
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #910121605665259520 for account
+@DanScavino
+about to get all tweets newer than ID #908046499262627840 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #908451912768421888 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #910136517435195392 for account
+@SecretarySonny
+about to get all tweets newer than ID #910142901581238273 for account @VP
+about to get all tweets newer than ID #909821783758471168 for account
+@StephGrisham45
+about to get all tweets newer than ID #910152851443388417 for account
+@WhiteHouse
+about to get all tweets newer than ID #910152719893221376 for account
+@SecretaryCarson
+about to get all tweets newer than ID #909864003027001344 for account
+@SecondLady
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #910138330507042816 for account
+@SecShulkin
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #909973210967560192 for account
+@AshLeeStrong
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #909986421003370496 for account
+@Scaramucci
+about to get all tweets newer than ID #910152374743977984 for account
+@KellyannePolls
+... OK, we're set up, and about to watch 803703725730779136, 599530439,
+822215679726100480, 20733972, 826065858548133888, 29547260, 892173412818354177,
+832672006113931269, 798195585824104449, 828997388920619008, 1180379185,
+212262370, 819992522109894658, 52544275, 15985455, 830128820447539208,
+829782369670410240, 37666984, 818927131883356161, 728361177986797568,
+823367015830323201, 1923451808, 22203756, 836724024688410625,
+827258161841135623, 20776147, 818876014390603776, 65522706, 25073877,
+836305915452272641, 733751245, 105267762, 866746592853979137, 18916432,
+108471631, 620571475, 819980276570976256, 799764016885329921,
+842072478834909184, 818910970567344128, 823638938590085124, 822215673812119553,
+828613457020870657, 822127086194348032, 888031054141022209, 831482588246196225,
+18906561, 809836066316451840, 296060169, 6577802, 24578794, 471672239
+New tweet from WhiteHouse: "If we are to embrace the opportunity of the
+future...together there can be no substitute for strong, sovereign, independent
+nations" #UNGA
+
+archiving URL http://twitter.com/WhiteHouse/status/910153616945803264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910153616945803264
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @WhiteHouse: "We will fight together, sacrifice together,
+and stand together—for peace." #UNGA https://t.co/sIjB3PSOfg https://t.co/FUEt…
+
+archiving URL http://twitter.com/VP/status/910153644003282946
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910153644003282946
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @FoxNews: .@POTUS: "The American story is the story
+of what is possible when people take ownership of their future."…
+
+archiving URL http://twitter.com/PressSec/status/910154588669583360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910154588669583360
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: "...a future of dignity and peace for the people of
+this wonderful earth." #UNGA https://t.co/sIjB3PSOfg https://t.co/66kinfBGR4
+
+archiving URL http://twitter.com/WhiteHouse/status/910154775584559104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910154775584559104
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @FoxNews: .@POTUS: "We will fight together,
+sacrifice together and stand together for peace." https://t.co/OxMHPGv50R
+https://t.co/4bPtM…
+
+archiving URL http://twitter.com/PressSec/status/910154901384237056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910154901384237056
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @CBSNews: "We will fight together, sacrifice
+together and stand together for peace," Pres. Trump tells #UNGA…
+
+archiving URL http://twitter.com/PressSec/status/910155634355703808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910155634355703808
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: American job-creators are taxed at a much higher
+rate than our foreign competitors. 2017 is the year that changes.
+https://t.co/WTxmnKgFfh
+
+archiving URL http://twitter.com/SpeakerRyan/status/910155930389696512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910155930389696512
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @USUN: Read Special Representative @jdgreenblatt45's
+ remarks at the #AHLC on improving the #Palestinian economy→…
+
+archiving URL http://twitter.com/PressSec/status/910156371299008512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910156371299008512
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecShulkin: Whether you have 1 minute, 1 hour, or more time, you
+can make a difference for a #Veteran or #Servicemember. https://t.co/WkISsn5hM3
+
+archiving URL http://twitter.com/SecShulkin/status/910156785432059905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/910156785432059905
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: President Donald J. Trump Approves Puerto Rico
+Emergency Declaration: https://t.co/hUBCHmFQL3
+
+archiving URL http://twitter.com/WhiteHouse/status/910159404871405568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910159404871405568
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @Scavino45: "As President of the United States, I will
+always put #AmericaFirst."
+@POTUS @realDonaldTrump 
+#USAatUNGA🇺🇸 #UNGA
+https://t.…
+
+archiving URL http://twitter.com/VP/status/910159417353674753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910159417353674753
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @FrankKlotzNNSA: US delegation to #IAEAGC
+holds productive talks with partner nations on energy &amp; security
+cooperation.  @usunvie…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910159605111631873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910159605111631873
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @INL: .@SecretaryPerry visits with Suzanne
+Jaworowski &amp; @INL reps at the annual  @iaeaorg General Conference in Vienna,
+ A…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910159704256544769
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @fema: Puerto Rico: For shelter information,
+updates, &amp; directions on what to do ahead of #MariaPR, follow @AEMEAD1
+&amp;…
+
+archiving URL http://twitter.com/WhiteHouse/status/910159717812535296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910159717812535296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910159704256544769
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @WhiteHouse: "If we are to embrace the opportunity of the
+future...together there can be no substitute for strong, sovereign, independen…
+
+archiving URL http://twitter.com/VP/status/910160497676255232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910160497676255232
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @StateDept: .@POTUS to #UNGA: This is our hope for the
+diverse nations of the world. We want harmony and friendship, not confli…
+
+archiving URL http://twitter.com/VP/status/910160566685184000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910160566685184000
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: I'm here in #Philly to hear from you, so we [in
+government] can help create a better #SmallBiz environment. I am yo…
+https://t.co/t4cQ4Dhdlx
+
+archiving URL http://twitter.com/SBALinda/status/910160776127827969
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910160776127827969
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: One #SmallBiz owner said, "Access to #capital is not
+something all #entrepreneurs have when they start." @SBAgov is…
+https://t.co/zwpKE46bDf
+
+archiving URL http://twitter.com/SBALinda/status/910162710595346436
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910162710595346436
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PRyan: Paul Ryan: Tax reform is needed to make American economy
+healthier https://t.co/jHAhbhKWW6 | @dcexaminer
+
+archiving URL http://twitter.com/PRyan/status/910164582940917761
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/910164582940917761
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Another said, "Most folks think access to capital is
+the issue but it's also lack of a biz plan! @SBAgov resource p…
+https://t.co/kKdHa15Nvi
+
+archiving URL http://twitter.com/SBALinda/status/910164841754759168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910164841754759168
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Met with EU High Rep/VP @FedericaMog at @UN on coordinating
+next steps on Iran, DPRK, Western Balkans, &amp; addressing…
+https://t.co/lVHz0v5Ni0
+
+archiving URL http://twitter.com/VP/status/910165269758214149
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910165269758214149
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: #HHS is committed to the people of #Florida and
+everyone affected by Hurricane #Irma. We're in for the long haul.
+https://t.co/H7Wsl4a1N7
+
+archiving URL http://twitter.com/SecPriceMD/status/910166037345312768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910166037345312768
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: Presidents have always been clear to deter threats: “We
+ could, obviously, destroy North Korea with our arsenals” -@BarackObama last
+year
+
+archiving URL http://twitter.com/PressSec/status/910167180133662720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910167180133662720
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @MittRomney: President Trump gave a strong and
+needed challenge to UN members to live up
+to its charter and to confront global
+challenge…
+
+archiving URL http://twitter.com/PressSec/status/910169461600264192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910169461600264192
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @AmbJohnBolton: .@realDonaldTrump’s #UNGA speech was
+ his best yet as President. He was clear &amp; direct in his criticisms of
+#NorthKorea &amp;…
+
+archiving URL http://twitter.com/PressSec/status/910171810351734784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910171810351734784
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @RepSeanDuffy: Great to hear @POTUS @realDonaldTrump
+ taking a clear-eyed stand against communism during this @UN speech.
+
+archiving URL http://twitter.com/PressSec/status/910172378038247424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910172378038247424
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @RepPeteKing: Masterful speech by @POTUS Trump at
+UN. Proud of American values. No apologies. No retreat. God Bless America!
+
+archiving URL http://twitter.com/PressSec/status/910172477124431872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910172477124431872
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from JessicaDitto45: RT @RepPeteKing: Masterful speech by @POTUS Trump
+ at UN. Proud of American values. No apologies. No retreat. God Bless America!
+
+archiving URL http://twitter.com/JessicaDitto45/status/910172742149922818
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/910172742149922818
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @BretBaier: A strong speech criticizing UN members
+but also praising- strongest against NK.  Bold on Iran-calling them out.  On…
+
+archiving URL http://twitter.com/PressSec/status/910172775683371018
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910172775683371018
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from IvankaTrump: Cuddling my little nephew Luke... the best part of
+an otherwise incredible day! https://t.co/8Ci5SD1VJ8
+
+archiving URL http://twitter.com/IvankaTrump/status/910173056672378880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/910173056672378880
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @JasonMillerinDC: Home run speech from
+@realDonaldTrump - absolute home run. Words of strength but also peace. Left no
+stone unturned.
+
+archiving URL http://twitter.com/PressSec/status/910173162062696453
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910173162062696453
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: According to @CDCgov, #ChildhoodObesity affects
+nearly 1 of every 5 American children. https://t.co/OmOrLj4lBM
+
+archiving URL http://twitter.com/SecPriceMD/status/910174157048090629
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910174157048090629
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: @CDCgov Join the #HHS Office of @MinorityHealth for a
+ #HealthyChildren Twitter chat at 1pm ET today.
+
+archiving URL http://twitter.com/SecPriceMD/status/910174741373308928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910174741373308928
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @netanyahu: In over 30 years in my experience with
+the UN, I never heard a bolder or more courageous speech.
+
+archiving URL http://twitter.com/PressSec/status/910175031212351488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910175031212351488
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from JessicaDitto45: RT @netanyahu: In over 30 years in my experience
+with the UN, I never heard a bolder or more courageous speech.
+
+archiving URL http://twitter.com/JessicaDitto45/status/910175675126108160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/910175675126108160
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from EPAScottPruitt: Glad to join @DanaPerino to discuss environmental
+ policy in the U.S. #Concordia17 https://t.co/uZeiNZMFAz
+
+archiving URL http://twitter.com/EPAScottPruitt/status/910176450531270656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/910176450531270656
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: .@EricTrump &amp; @LaraLeaTrump brought Luke by Trump
+ Tower to hang out w/ family. President @realDonaldTrump, @FLOTUS,…
+https://t.co/OafYtH5EOJ
+
+archiving URL http://twitter.com/DanScavino/status/910176481422249985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/910176481422249985
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Prime example of when "fact checking" becomes
+editorial: disregarding facts. https://t.co/6iHb6byNm3
+
+archiving URL http://twitter.com/AshLeeStrong/status/910177163789373440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910177163789373440
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: Great message from @POTUS at the UN. American
+leadership is needed now more than ever. We must stand by our allies and
+confront our enemies.
+
+archiving URL http://twitter.com/SpeakerRyan/status/910180922900848641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910180922900848641
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Rural communities face hard times recovering from
+ #Harvey &amp; #Irma. @usdaRD providing tools &amp; flexibility on loans.
+https://t.co/FMkHr9mMMe
+
+archiving URL http://twitter.com/SecretarySonny/status/910182345101193217
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910182345101193217
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: President Trump Delivers First Speech to United
+Nations: https://t.co/jv1ttuaI65 https://t.co/1kgiSpFg9w
+
+archiving URL http://twitter.com/WhiteHouse/status/910183970268155905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910183970268155905
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @HHSGov: #StartingNow Let’s discuss ways we can
+reduce childhood obesity #HealthyChildren #SaludTues https://t.co/BfkhboVVbm
+
+archiving URL http://twitter.com/SecPriceMD/status/910186410870747137
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910186410870747137
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: High marks to @USDA noms Steve Censky (Dep Sec)
+&amp; Ted McKinney (U/S Trade) in Sen Ag hearing. Need them confirmed.
+https://t.co/20mvYLt40B
+
+archiving URL http://twitter.com/SecretarySonny/status/910188384949342208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910188384949342208
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: What will keep America as the global leader in
+nuclear energy and science? Innovation. @iaeaorg @usunvie #energy…
+https://t.co/0nNWixpCM9
+
+archiving URL http://twitter.com/SecretaryPerry/status/910188717180096512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910188717180096512
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: To highlight #sportsmen contributions 2
+conservation I installed Big Buck Hunter in the employee cafeteria. Get exc…
+https://t.co/fRUOUjpUBc
+
+archiving URL http://twitter.com/SecretaryZinke/status/910189520036990979
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/910189520036990979
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: The🇺🇸has great strength &amp; patience, but if
+it is forced to defend itself or its allies, we will have no choice but…
+https://t.co/IgW8Sg6yUB
+
+archiving URL http://twitter.com/realDonaldTrump/status/910192375267561472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910192375267561472
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecondLady: MercyFirst in New York is doing great work to help
+children heal from trauma. Enjoyed learning about their art ther…
+https://t.co/hRDouWuDRT
+
+archiving URL http://twitter.com/SecondLady/status/910193891093213186
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/910193891093213186
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: Love! https://t.co/ds70YNeHox
+
+archiving URL http://twitter.com/PressSec/status/910193928191856640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910193928191856640
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @newtgingrich: President Trump's United Nations
+speech is historic and sets a new standard. Sovereignty and national interest
+are reasse…
+
+archiving URL http://twitter.com/PressSec/status/910193986236768256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910193986236768256
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @newtgingrich: Pres Trump in UN speech put
+intellectual clarity on his principle that the American President should
+represent America no…
+
+archiving URL http://twitter.com/PressSec/status/910194029094146048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194029094146048
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @mbrooksrjc: Today's speech by @realDonaldTrump was
+Reaganesgue, themeatic,clear, concise and unambiguously pro-freedom and pro-
+Democrac…
+
+archiving URL http://twitter.com/PressSec/status/910194165585256449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194165585256449
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @ADL_National: .@POTUS right to call out Iran’s
+destabilizing policies and demand they end support for terror. #UNGA
+
+archiving URL http://twitter.com/PressSec/status/910194349706825728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194349706825728
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: #USAatUNGA #UNGA https://t.co/lUOvrRBj8o
+
+archiving URL http://twitter.com/Scavino45/status/910194565424013312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910194565424013312
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @ananavarro: Extensive, strong, accurate words from
+Trump against the dictatorial communist and socialist brutal regimes of
+Venezuela an…
+
+archiving URL http://twitter.com/PressSec/status/910194671258873857
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194671258873857
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @JeffFortenberry: President Trump's speech to the
+UN: clear, strong, principled. @POTUS
+
+archiving URL http://twitter.com/PressSec/status/910194712212070400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194712212070400
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @ToddRokita: .@realDonaldTrump has shown our world
+tremendous leadership since taking office. #UNGA
+
+archiving URL http://twitter.com/PressSec/status/910194769057521664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910194769057521664
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @SecondLady: MercyFirst in New York is doing great work to
+ help children heal from trauma. Enjoyed learning about their art ther…
+
+archiving URL http://twitter.com/VP/status/910195187628036096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910195187628036096
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: Employees went head to head today in the first
+ever #ShotgunShowdown at @Interior Highlighting our mission to expan…
+https://t.co/kZGvUm3Xkw
+
+archiving URL http://twitter.com/SecretaryZinke/status/910195756786733056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/910195756786733056
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @netanyahu: In over 30 years in my experience with the UN,
+ I never heard a bolder or more courageous speech.
+
+archiving URL http://twitter.com/VP/status/910198901222895616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910198901222895616
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from IvankaTrump: Incredible speech by @POTUS at #UNGA today.
+#USAatUNGA 
+
+https://t.co/pt5OOv3xP4 https://t.co/ejwRucGy5X
+
+archiving URL http://twitter.com/IvankaTrump/status/910201286494162944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/910201286494162944
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryAcosta: Thanks for your hard work. We'll continue
+working together to support our fellow citizens in Puerto Rico. #Maria
+https://t.co/LUzl7p14Mw
+
+archiving URL http://twitter.com/SecretaryAcosta/status/910204874725429248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/910204874725429248
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: Proud to join the @PhillyMayor and @keljerry to
+celebrate the opening of the Vaux Big Picture High School
+https://t.co/1POr2rNMKu
+
+archiving URL http://twitter.com/SecretaryCarson/status/910206330408984576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910206330408984576
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PRyan: Tax reform can keep jobs in America. That's why we're so
+focused on getting this done. https://t.co/a1Pd6du0ON
+
+archiving URL http://twitter.com/PRyan/status/910207616726523904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/910207616726523904
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecondLady: Lovely art exhibition created by children
+@Mercy_First in art therapy program. The work was displayed at UN headqua…
+https://t.co/swm2ifCStk
+
+archiving URL http://twitter.com/SecondLady/status/910207983023476736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/910207983023476736
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: Helped cut the grand opening ribbon at the Vaux
+Big Picture High School... a great example of how we can develop ho…
+https://t.co/RJLl8Kohkh
+
+archiving URL http://twitter.com/SecretaryCarson/status/910210172806672384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910210172806672384
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: .@POTUS asked me to return to DC for the Senate policy lunch
+w/ @LindseyGrahamSC to urge Congress to repeal and rep… https://t.co/gt1OdssSJO
+
+archiving URL http://twitter.com/VP/status/910212380939968512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910212380939968512
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @MinorityHealth: A8: Parents: Is your child
+overweight? Learn how you can help your child develop healthy habits.
+https://t.co/N5XbyWyRN…
+
+archiving URL http://twitter.com/SecPriceMD/status/910215002472304640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910215002472304640
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @HHSGov: Karon Konner, an #HHS @PHEgov
+#mentalhealth specialist, came from #Massachusetts to help patients in the
+aftermath…
+
+archiving URL http://twitter.com/SecPriceMD/status/910215099801047041
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/910215099801047041
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: From a U.S. army base to a national lab,
+@BrookhavenLab has served our country for 100 years. Happy Birthday, Brook…
+https://t.co/Vdh3l1P2Jp
+
+archiving URL http://twitter.com/SecretaryPerry/status/910215851693002753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910215851693002753
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: As President of the United States of America, I
+will ALWAYS put #AmericaFirst🇺🇸#UNGA
+Full remarks:… https://t.co/TTE2PMSbMu
+
+archiving URL http://twitter.com/realDonaldTrump/status/910219338044657664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910219338044657664
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: The🇺🇸has great strength &amp;
+patience, but if it is forced to defend itself or its allies, we will have no
+choice but…
+
+archiving URL http://twitter.com/POTUS/status/910219763690942466
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: As President of the United States of
+America, I will ALWAYS put #AmericaFirst🇺🇸#UNGA
+Full remarks:…
+
+archiving URL http://twitter.com/POTUS/status/910219770515075072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910219770515075072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910219763690942466
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: As President of the United States
+ of America, I will ALWAYS put #AmericaFirst🇺🇸#UNGA
+Full remarks:…
+
+archiving URL http://twitter.com/Scavino45/status/910219822327386112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910219822327386112
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 910219822327386112 on
+ account Scavino45
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 910219822327386112,
+'id_str': '910219822327386112',
+                       'user_id':
+823367015830323201,
+                       'user_id_str': '823367015830323201'},
+
+            'timestamp_ms': '1505848298252'}}
