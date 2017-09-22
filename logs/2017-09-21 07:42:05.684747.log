@@ -1,0 +1,891 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-21 07:42:05.688829
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #910868695689383936 for account @VP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #910675233832603649 for account
+@AshLeeStrong
+about to get all tweets newer than ID #910688472343695360 for account
+@DanScavino
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #910814333998915584 for account
+@TomBossert45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #910567254806323200 for account
+@SecPriceMD
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #910838799122538497 for account
+@SecretaryPerry
+about to get all tweets newer than ID #910867687907250176 for account @SBALinda
+about to get all tweets newer than ID #910576071036358656 for account
+@seanspicer
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #910619800245645313 for account
+@SecShulkin
+about to get all tweets newer than ID #910703407555600386 for account
+@realDonaldTrump
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #910874928303558658 for account @Scavino45
+about to get all tweets newer than ID #910876705333575682 for account
+@SecretarySonny
+about to get all tweets newer than ID #910828023338999809 for account
+@Scaramucci
+about to get all tweets newer than ID #910616442965504000 for account
+@SecretaryCarson
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #910596929834422273 for account @PRyan
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #910876022064783362 for account
+@WhiteHouse
+about to get all tweets newer than ID #910601946364567552 for account @FLOTUS
+about to get all tweets newer than ID #910523565417656320 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #910707528740335618 for account
+@JessicaDitto45
+about to get all tweets newer than ID #910703893214121984 for account @POTUS
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #910856061300682764 for account
+@SecretaryZinke
+about to get all tweets newer than ID #910644770531311616 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #910642231127789568 for account
+@SecondLady
+about to get all tweets newer than ID #910564260996014081 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #910487718777511937 for account
+@KellyannePolls
+about to get all tweets newer than ID #910864182802767872 for account
+@SpeakerRyan
+about to get all tweets newer than ID #910703937912754177 for account @PressSec
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #910624192059539464 for account
+@nikkihaley
+about to get all tweets newer than ID #910635369305186304 for account
+@IvankaTrump
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #910604871455399936 for account
+@StephGrisham45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+... OK, we're set up, and about to watch 818910970567344128, 15985455,
+296060169, 620571475, 1923451808, 866746592853979137, 212262370,
+829782369670410240, 892173412818354177, 830128820447539208, 819992522109894658,
+20776147, 728361177986797568, 836305915452272641, 831482588246196225, 25073877,
+20733972, 823367015830323201, 842072478834909184, 24578794, 828613457020870657,
+18906561, 599530439, 733751245, 65522706, 105267762, 822215673812119553,
+818876014390603776, 799764016885329921, 6577802, 826065858548133888,
+836724024688410625, 822215679726100480, 803703725730779136, 827258161841135623,
+819980276570976256, 822127086194348032, 798195585824104449, 108471631,
+809836066316451840, 22203756, 828997388920619008, 471672239, 18916432,
+818927131883356161, 1180379185, 37666984, 52544275, 888031054141022209,
+832672006113931269, 823638938590085124, 29547260
+New tweet from SecretarySonny: About to check cotton situation with @ConawayTX11
+ and Dwight Jackson of @NCottonCouncil. #Harvey hit at the worst p…
+https://t.co/PbjUQsYCns
+
+archiving URL http://twitter.com/SecretarySonny/status/910877041255477250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910877041255477250
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: Most do https://t.co/7RkT7udnTK
+
+archiving URL http://twitter.com/Scaramucci/status/910880067437424640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/910880067437424640
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: President Trump at #UNGA in Photos:
+https://t.co/GDN7GBEgre https://t.co/ab6Q54RESk
+
+archiving URL http://twitter.com/WhiteHouse/status/910880562717618176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910880562717618176
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Speaking w/Cincinnati entrepreneurs about challenges
+they face starting, growing &amp; succeeding in biz.… https://t.co/r9nYElO4Do
+
+archiving URL http://twitter.com/SBALinda/status/910881208342601728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910881208342601728
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @JudgeTedPoe: Great to be with @SpeakerRyan at
+@jrbhouston this AM. Today we are showing the Speaker what it means to be…
+
+archiving URL http://twitter.com/SpeakerRyan/status/910881379021410305
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910881379021410305
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: So enjoyed hosting yesterday's #UNGA luncheon.  Thank you
+ all who attended &amp; will help support my efforts on behalf…
+https://t.co/1JEFUV77Mm
+
+archiving URL http://twitter.com/FLOTUS/status/910881710224625664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/910881710224625664
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Thanks to @RepSteveChabot, chair of @HouseSmallBiz, for
+ joining me to tour a manufacturer in his Cincinnati hometow…
+https://t.co/LQZ74TDToq
+
+archiving URL http://twitter.com/SBALinda/status/910882680820174848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910882680820174848
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PRyan: Let's cut taxes so American small businesses can grow,
+innovate, and create more good-paying jobs. https://t.co/qW2w65hl1a
+
+archiving URL http://twitter.com/PRyan/status/910884337578418176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/910884337578418176
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @ENERGY: #Maria Update: 
+◼ 1.57
+million⚡outages in Puerto Rico 
+◼ Damage assessment to begin as conditions
+permit
+Report ➡…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910884471561433089
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910884471561433089
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: It was a pleasure to have President Ashraf Ghani
+ of Afghanistan with us this morning! #USAatUNGA #UNGA https://t.co/HOEVfnMn14
+
+archiving URL http://twitter.com/realDonaldTrump/status/910885156373721092
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910885156373721092
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: It was a pleasure to have
+President Ashraf Ghani of Afghanistan with us this morning! #USAatUNGA #UNGA
+https://t.co/HO…
+
+archiving URL http://twitter.com/Scavino45/status/910885330965975045
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910885330965975045
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: It was a pleasure to have President
+Ashraf Ghani of Afghanistan with us this morning! #USAatUNGA #UNGA
+https://t.co/HO…
+
+archiving URL http://twitter.com/POTUS/status/910885363723497473
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910885363723497473
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: It was a pleasure to have
+President Ashraf Ghani of Afghanistan with us this morning! #USAatUNGA #UNGA
+https://t.co/HO…
+
+archiving URL http://twitter.com/PressSec/status/910885398859190272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910885398859190272
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecShulkin: Good to see #Veterans, #Servicemembers and their
+families come together in the community to talk #SuicidePrevention
+https://t.co/eeDP56m44w
+
+archiving URL http://twitter.com/SecShulkin/status/910885405842649089
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/910885405842649089
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: It was wonderful to have President Petro
+Poroshenko of Ukraine with us in New York City today. #UNGA
+🎥…
+https://t.co/Fi8dfuJ1nq
+
+archiving URL http://twitter.com/realDonaldTrump/status/910885755320459264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910885755320459264
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryAcosta: To my fellow citizens in #PuertoRico and
+#VirginIslands, please stay safe and follow @FEMA for guidance. #Maria
+
+archiving URL http://twitter.com/SecretaryAcosta/status/910886050259767296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/910886050259767296
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Spoke w/ @FOXandFriends about #GrahamCassidy, which will
+allow states to innovate &amp; create better quality healthcare
+https://t.co/OtGKSjIUIf
+
+archiving URL http://twitter.com/VP/status/910886292912717824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910886292912717824
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: So enjoyed hosting yesterday's #UNGA
+luncheon.  Thank you all who attended &amp; will help support my efforts on
+behalf…
+
+archiving URL http://twitter.com/StephGrisham45/status/910886390786920450
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/910886390786920450
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: RT @AlexNBCNews: .@SpeakerRyan @JohnCornyn
+@SenTedCruz &amp; members of the House TX delegation take off to view Hurricane
+#Harvey damag…
+
+archiving URL http://twitter.com/AshLeeStrong/status/910886960495054849
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910886960495054849
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @realDonaldTrump: It was wonderful to have President Petro
+ Poroshenko of Ukraine with us in New York City today. #UNGA
+🎥…
+
+archiving URL http://twitter.com/VP/status/910887533692801025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910887533692801025
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @realDonaldTrump: It was a pleasure to have President
+Ashraf Ghani of Afghanistan with us this morning! #USAatUNGA #UNGA
+https://t.co/HO…
+
+archiving URL http://twitter.com/VP/status/910887552047046656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910887552047046656
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecondLady: RT @FLOTUS: So enjoyed hosting yesterday's #UNGA
+luncheon.  Thank you all who attended &amp; will help support my efforts on
+behalf…
+
+archiving URL http://twitter.com/SecondLady/status/910888439318532097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/910888439318532097
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: National Securiry Adviser, Lt. Gen. H.R. McMaster on
+CNN re: #NoKo, #RocketMan, and an upcoming announcement from…
+https://t.co/AjwTI2qeMq
+
+archiving URL http://twitter.com/Scavino45/status/910889371284406279
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910889371284406279
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @ChiefPentSpox: .@POTUS sends @USAID elite
+disaster team in response to #MexicoEarthquake to help with humanitarian relief.
+ Team in…
+
+archiving URL http://twitter.com/WhiteHouse/status/910890365653266432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910890365653266432
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecondLady: Lovely #UNGA luncheon hosted by @FLOTUS.
+https://t.co/PtBfXq343R
+
+archiving URL http://twitter.com/SecondLady/status/910891273892040704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/910891273892040704
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @USCGSoutheast: .@USCG aircrews deploy for search
+&amp; rescue missions around #PuertoRico &amp; #USVirginIslands #HurricaneMaria
+#maria…
+
+archiving URL http://twitter.com/WhiteHouse/status/910891626146525185
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910891626146525185
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @USCGSoutheast: .@USCG aircrews deploy for search
+&amp; rescue missions around #PuertoRico &amp; #USVirginIslands #HurricaneMaria
+#maria…
+
+archiving URL http://twitter.com/PressSec/status/910891827057889286
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910891827057889286
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Flying over #cotton country w/Dwight Jackson of
+@NCottonCouncil &amp; @ConawayTX11, seeing #Harvey impact. Texas is big…
+https://t.co/dz9HsXnF7s
+
+archiving URL http://twitter.com/SecretarySonny/status/910891900693032960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910891900693032960
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @USNationalGuard: .@kentuckyguard Airmen deploy to
+Caribbean for Hurricane Maria relief operations: https://t.co/YISSZ7kY20…
+
+archiving URL http://twitter.com/PressSec/status/910892188682407937
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910892188682407937
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @ChiefPentSpox: .@POTUS sends @USAID elite disaster
+team in response to #MexicoEarthquake to help with humanitarian relief. Team in…
+
+
+archiving URL http://twitter.com/PressSec/status/910892217023287299
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910892217023287299
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: We asked @Interior employees to share favorite
+#hunting &amp; #fishing memories. Check out David's from…
+https://t.co/jjkpxk2S1P
+
+archiving URL http://twitter.com/SecretaryZinke/status/910892635161739264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/910892635161739264
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: 🚨Happening now:
+President Donald J. Trump bilateral
+meeting underway with President Moon Jae-in of South Korea.
+https://t.co/uNvZ3jAEuD
+
+archiving URL http://twitter.com/Scavino45/status/910892678589681665
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910892678589681665
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @SecondLady: Lovely #UNGA luncheon hosted by
+@FLOTUS. https://t.co/PtBfXq343R
+
+archiving URL http://twitter.com/StephGrisham45/status/910892722843680769
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/910892722843680769
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: Getting ready to take the stage at
+#industryforum2017 hosted by @EconAlliance https://t.co/7VpyRjQi4f
+
+archiving URL http://twitter.com/SecretaryPerry/status/910892903618269184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910892903618269184
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: It was wonderful to have
+President Petro Poroshenko of Ukraine with us in New York City today. #UNGA
+🎥…
+
+archiving URL http://twitter.com/Scavino45/status/910893916815347714
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: It was wonderful to have President
+ Petro Poroshenko of Ukraine with us in New York City today. #UNGA
+🎥…
+
+archiving URL http://twitter.com/PressSec/status/910893958234017793
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910893916815347714
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910893958234017793
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @VP: Spoke w/ @FOXandFriends about #GrahamCassidy,
+which will allow states to innovate &amp; create better quality healthcare
+https://t.co/O…
+
+archiving URL http://twitter.com/POTUS/status/910894042359222272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910894042359222272
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @VP: Discussed with @CBSThisMorning how #GrahamCassidy
+bill moves power out of Washington D.C and empowers the states.
+https://t.co/eC9W…
+
+archiving URL http://twitter.com/POTUS/status/910894055743262721
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910894055743262721
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: What #Harvey left behind in Texas. This cotton
+crop was under four feet of water. https://t.co/62jsZ0jMkY
+
+archiving URL http://twitter.com/SecretarySonny/status/910894508598022145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910894508598022145
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: It was a great privilege to meet with President
+Moon of South Korea.
+Stay tuned! 🇺🇸🇰🇷#UNGA https://t.co/7xYDO5ddUm
+
+archiving URL http://twitter.com/realDonaldTrump/status/910898047931912192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910898047931912192
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PRyan: Republicans are united on a path forward to reform our
+broken tax code and cut taxes for hardworking Americans.
+
+archiving URL http://twitter.com/PRyan/status/910898417366380544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/910898417366380544
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLOTUS: So enjoyed hosting yesterday's #UNGA
+luncheon.  Thank you all who attended &amp; will help support my efforts on
+behalf…
+
+archiving URL http://twitter.com/WhiteHouse/status/910898669892890624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910898669892890624
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @JohnCornyn: @SpeakerRyan and I at today's
+briefings at Ellington Field on #HurricaneHarvey recovery
+https://t.co/hcvVBRQthk
+
+archiving URL http://twitter.com/SpeakerRyan/status/910899150073540618
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910899150073540618
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: It was a great privilege to meet
+with President Moon of South Korea.
+Stay tuned! 🇺🇸🇰🇷#UNGA
+https://t.co/7xYDO5ddUm
+
+archiving URL http://twitter.com/Scavino45/status/910899471088791554
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910899471088791554
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: "No child should ever feel hungry, stalked, frightened,
+terrorized, bullied or afraid with nowhere to turn." https://t.co/Z7F6JsSvGF
+
+archiving URL http://twitter.com/FLOTUS/status/910899489891868673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/910899489891868673
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: It was a great privilege to meet
+with President Moon of South Korea.
+Stay tuned! 🇺🇸🇰🇷#UNGA
+https://t.co/7xYDO5ddUm
+
+archiving URL http://twitter.com/PressSec/status/910899514084659200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910899514084659200
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @realDonaldTrump: It was a great privilege to meet with
+President Moon of South Korea.
+Stay tuned! 🇺🇸🇰🇷#UNGA https://t.co/7xYDO5ddUm
+
+archiving URL http://twitter.com/VP/status/910899678656569346
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910899678656569346
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @FLOTUS: "No child should ever feel hungry,
+stalked, frightened, terrorized, bullied or afraid with nowhere to turn."
+https://t.co/Z7F6J…
+
+archiving URL http://twitter.com/Scavino45/status/910899717579657217
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910899717579657217
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @FLOTUS: "No child should ever feel hungry, stalked,
+frightened, terrorized, bullied or afraid with nowhere to turn."
+https://t.co/Z7F6J…
+
+archiving URL http://twitter.com/POTUS/status/910899767403778049
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910899767403778049
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: It is disheartening to see cotton wreckage left
+behind by #Harvey. But don't mess with Texas. These folks will come…
+https://t.co/pz3aajXIqQ
+
+archiving URL http://twitter.com/SecretarySonny/status/910900272800702465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910900272800702465
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: More praise for @realDonaldTrump's speech at #UNGA.
+"Why Trump's U.N. Speech Was a Triumph." https://t.co/pYzMwdOb7G
+
+archiving URL http://twitter.com/PressSec/status/910900348809773056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910900348809773056
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLOTUS: "No child should ever feel hungry,
+stalked, frightened, terrorized, bullied or afraid with nowhere to turn."
+https://t.co/Z7F6J…
+
+archiving URL http://twitter.com/WhiteHouse/status/910902193481551872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910902193481551872
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: In many cases in Texas, cotton was already
+harvested and baled when #Harvey stormed in. Ruined while waiting to be…
+https://t.co/qjWziaTU7k
+
+archiving URL http://twitter.com/SecretarySonny/status/910902574613659649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910902574613659649
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: Having a great meeting with @RepBost and
+@ESTLMayor before @HUDgov takes the local Housing Authority out of receive…
+https://t.co/1z6CnWEwFs
+
+archiving URL http://twitter.com/SecretaryCarson/status/910902771938922503
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910902771938922503
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Prime Minister Abe: "Thanks to Donald's
+leadership."
+
+archiving URL http://twitter.com/AshLeeStrong/status/910905438664785920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910905438664785920
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @SenTedCruz: Glad to visit @jrbhouston with
+@SpeakerRyan, @JohnCornyn and #Texas Delegation for aerial tour of #Harvey
+flooded a…
+
+archiving URL http://twitter.com/SpeakerRyan/status/910905704512413696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910905704512413696
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Affected by the hurricanes? Or want to help those who
+are? @SBAgov resources can aid in recovery. Check out my blog:
+https://t.co/p6TAjdi3rU
+
+archiving URL http://twitter.com/SBALinda/status/910906047455481857
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910906047455481857
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: Energized crowd at #industryforum2017! Thanks to
+@EconAlliance &amp; partners for a great event. Honored to represent…
+https://t.co/csdWAwG16g
+
+archiving URL http://twitter.com/SecretaryPerry/status/910906599312691200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910906599312691200
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: RT @AlexNBCNews: .@SpeakerRyan @SenTedCruz
+@JohnCornyn helping with cleanup in Friendswood, TX after Hurricane #Harvey
+https://t.co/MK4qkP4…
+
+archiving URL http://twitter.com/AshLeeStrong/status/910907359534485505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910907359534485505
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: "No child should ever feel hungry,
+stalked, frightened, terrorized, bullied or afraid with nowhere to turn."
+https://t.co/Z7F6J…
+
+archiving URL http://twitter.com/StephGrisham45/status/910907480506556416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/910907480506556416
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: Live now from Houston → press briefing with
+@SenTedCruz &amp; @JohnCornyn on #HurricaneHarvey recovery efforts. Watch:
+https://t.co/RrNzrxPmYU
+
+archiving URL http://twitter.com/SpeakerRyan/status/910910156510302208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910910156510302208
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Speaker Ryan presser in Texas live right now:
+https://t.co/myBy1OTMsl
+
+archiving URL http://twitter.com/AshLeeStrong/status/910910172654133248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910910172654133248
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: This Texas cotton gin working again post-#Harvey,
+ but whole supply chain disrupted: cotton producers, fabric makers…
+https://t.co/ipR0S0TvZj
+
+archiving URL http://twitter.com/SecretarySonny/status/910910327457550338
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910910327457550338
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: In Texas, Rep. Pete Olson receives cheers after he
+says: "Paul Ryan has our backs."
+
+archiving URL http://twitter.com/AshLeeStrong/status/910912083616845824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910912083616845824
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: RT @PressSec: More praise for @realDonaldTrump's
+speech at #UNGA. "Why Trump's U.N. Speech Was a Triumph."
+https://t.co/pYzMwdOb7G
+
+archiving URL http://twitter.com/KellyannePolls/status/910912860217315328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/910912860217315328
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Will Paul Ryan make people LOL? Tune in...
+https://t.co/TFSxw9HsLH
+
+archiving URL http://twitter.com/AshLeeStrong/status/910913966959988737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/910913966959988737
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: Just handed control of the East St Louis Housing
+ Authority back to local control with @ESTLMayor https://t.co/fLmEwg1En3
+
+archiving URL http://twitter.com/SecretaryCarson/status/910914250645925889
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910914250645925889
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: Each day we round up the best stories the West Wing
+is reading. Sign up so we can share them with you:… https://t.co/KwFNtmkcFS
+
+archiving URL http://twitter.com/WhiteHouse/status/910917556374065152
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910917556374065152
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Talked to @foxandfriends this morning about how the American
+people are struggling under the weight of Obamacare. https://t.co/uHa8mqL10D
+
+archiving URL http://twitter.com/VP/status/910919304111169536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910919304111169536
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: So impressed with Texans and the spirit that they
+have shown as #HurricaneHarvey recovery continues. https://t.co/yaKaUZy7Fy
+
+archiving URL http://twitter.com/SpeakerRyan/status/910921632377655296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910921632377655296
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @PasadenaTX: @mayorjeffwagner &amp;
+@SecretaryPerry discuss the importance of local businesses at the Gulf Coast
+Industry Forum…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910921846299791360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910921846299791360
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @TCEQNews: TCEQ Commissioner @ctobybaker meets
+ with Secretary of Energy @SecretaryPerry at the Gulf Coast Industry Forum.…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910921865102839814
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910921865102839814
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @CovestroBaytown: Keynote Speaker
+@SecretaryPerry talks about the importance of industry to our nation's economy
+@EconAlliance…
+
+archiving URL http://twitter.com/SecretaryPerry/status/910921884610564096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/910921884610564096
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Touring the Ohio Senate chambers with Senate President
+@LarryObhof. @OhioStatehouse @SBAgov #SBAIgniteTour… https://t.co/KQKM29g5ls
+
+archiving URL http://twitter.com/SBALinda/status/910922904564649985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910922904564649985
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Discussion w/producers in El Campo, TX. Great to
+see folks coming together, just as in other places hit hard by…
+https://t.co/pmdfcx25fE
+
+archiving URL http://twitter.com/SecretarySonny/status/910923492434042881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/910923492434042881
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Obamacare is imploding &amp; it's collapsing all across the
+country.  The average American has seen the cost of their i…
+https://t.co/9bIkMK4xSp
+
+archiving URL http://twitter.com/VP/status/910924259047952384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910924259047952384
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SBALinda: Sharing ideas w/Ohio lawmakers &amp; county
+commissioners about how @SBAgov can help #smallbiz grow. #SBAIgniteTour…
+https://t.co/p5zT6G3HlE
+
+archiving URL http://twitter.com/SBALinda/status/910925477514268674
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/910925477514268674
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Today, I announced a new Executive Order with
+re: to North Korea. We must all do our part to ensure the complete de…
+https://t.co/cPAHwPXUmA
+
+archiving URL http://twitter.com/realDonaldTrump/status/910926223684931585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/910926223684931585
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: Today, I announced a new
+Executive Order with re: to North Korea. We must all do our part to ensure the
+complete de…
+
+archiving URL http://twitter.com/Scavino45/status/910926341767393280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910926341767393280
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: Today, I announced a new Executive
+Order with re: to North Korea. We must all do our part to ensure the complete
+de…
+
+archiving URL http://twitter.com/POTUS/status/910926371521798145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/910926371521798145
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: Today, I announced a new Executive
+ Order with re: to North Korea. We must all do our part to ensure the complete
+de…
+
+archiving URL http://twitter.com/PressSec/status/910926413917761536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/910926413917761536
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: It's official @HUDgov has transferred control of
+ East St Louis's Housing Authority back to the city https://t.co/1KcaEIEqae
+
+archiving URL http://twitter.com/SecretaryCarson/status/910927236840247299
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910927236840247299
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @realDonaldTrump: Today, I announced a new
+Executive Order with re: to North Korea. We must all do our part to ensure the
+complete de…
+
+archiving URL http://twitter.com/WhiteHouse/status/910927417388171264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/910927417388171264
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryCarson: @JoeDeFeliceHUD @HUDgov What a great trip!
+
+archiving URL http://twitter.com/SecretaryCarson/status/910927479967305728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/910927479967305728
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: Trilateral Luncheon #UNGA
+#USA🇺🇸
+#Japan🇯🇵
+#SouthKorea🇰🇷 https://t.co/RGnBOnmT78
+
+archiving URL http://twitter.com/Scavino45/status/910928883595309057
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/910928883595309057
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: Texans: you are in America’s hearts &amp; prayers.
+Aid is coming w/out delay. The recovery requires a bold response at…
+https://t.co/8IY8nQsbxC
+
+archiving URL http://twitter.com/SpeakerRyan/status/910932812190093313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/910932812190093313
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Attended @POTUS lunch w/ SK Pres Moon &amp; Jap PM Abe. POTUS
+ said: "NK's nuclear weapons &amp; missile development is a th…
+https://t.co/4gDAqGcvHk
+
+archiving URL http://twitter.com/VP/status/910932951877156865
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/910932951877156865
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 910932951877156865 on
+ account VP
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 910932951877156865,
+'id_str': '910932951877156865',
+                       'user_id':
+818910970567344128,
+                       'user_id_str': '818910970567344128'},
+
+            'timestamp_ms': '1506019048303'}}
