@@ -1,0 +1,467 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-22 12:55:05.513961
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #911287733854781440 for account @PRyan
+about to get all tweets newer than ID #911312146625114113 for account
+@WhiteHouse
+about to get all tweets newer than ID #911228466774888448 for account
+@KellyannePolls
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #911287627726409728 for account @PressSec
+about to get all tweets newer than ID #910688472343695360 for account
+@DanScavino
+about to get all tweets newer than ID #911285089501249536 for account
+@AshLeeStrong
+about to get all tweets newer than ID #910567254806323200 for account
+@SecPriceMD
+about to get all tweets newer than ID #910973545676771329 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #910899489891868673 for account @FLOTUS
+about to get all tweets newer than ID #911081130593361920 for account
+@JessicaDitto45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #910635369305186304 for account
+@IvankaTrump
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #911273899157016576 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #911313946380001280 for account
+@SecretaryZinke
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #911267332743364609 for account @Scavino45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #911296397621817345 for account
+@SecretaryCarson
+about to get all tweets newer than ID #911297760451862528 for account
+@SecretarySonny
+about to get all tweets newer than ID #911302331744112640 for account
+@SecretaryPerry
+about to get all tweets newer than ID #910576071036358656 for account
+@seanspicer
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #911287725847908352 for account
+@realDonaldTrump
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #911316288420577280 for account
+@SpeakerRyan
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #911317561089896450 for account
+@SecShulkin
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #911300712252018691 for account
+@Scaramucci
+about to get all tweets newer than ID #910948382088232961 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #911267285775654914 for account @POTUS
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #911032135473090560 for account
+@nikkihaley
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #910891273892040704 for account
+@SecondLady
+about to get all tweets newer than ID #911309833562927107 for account
+@StephGrisham45
+about to get all tweets newer than ID #911287404602019841 for account @SBALinda
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #910814333998915584 for account
+@TomBossert45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #911315309801373696 for account @VP
+... OK, we're set up, and about to watch 733751245, 822215673812119553,
+471672239, 888031054141022209, 818927131883356161, 620571475, 296060169,
+829782369670410240, 799764016885329921, 818876014390603776, 836724024688410625,
+1923451808, 212262370, 52544275, 65522706, 29547260, 15985455,
+798195585824104449, 827258161841135623, 6577802, 20733972, 823367015830323201,
+803703725730779136, 18906561, 892173412818354177, 828613457020870657,
+842072478834909184, 830128820447539208, 20776147, 22203756, 826065858548133888,
+25073877, 728361177986797568, 836305915452272641, 18916432, 832672006113931269,
+831482588246196225, 809836066316451840, 24578794, 819980276570976256,
+822215679726100480, 108471631, 599530439, 37666984, 1180379185,
+822127086194348032, 823638938590085124, 819992522109894658, 828997388920619008,
+866746592853979137, 105267762, 818910970567344128
+New tweet from Scaramucci: RT @paulafaris: Great having you on @TheView today,
+@Scaramucci https://t.co/OllUhkeYrx
+
+archiving URL http://twitter.com/Scaramucci/status/911318968853516292
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911318968853516292
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: These gals from the @NRA are heck of a shot.
+Robin from Atlanta is an ace. #2A #GalsWithGuns https://t.co/gSFKHI9SxK
+
+archiving URL http://twitter.com/SecretaryZinke/status/911319233941970947
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/911319233941970947
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @TheView: THIS MORNING ON @THEVIEW: Former White
+House Communications Director Anthony @Scaramucci guest co-hosts!
+https://t.co/dF5WSYij…
+
+archiving URL http://twitter.com/Scaramucci/status/911319476590739457
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911319476590739457
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: TUNE IN! I'm speaking in Anderson, IN w/ families &amp; biz
+leaders re: need for tax reform &amp; #GrahamCassidy:… https://t.co/lK63FTjZPT
+
+archiving URL http://twitter.com/VP/status/911319625924857856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911319625924857856
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @TheView: WATCH: Who was the first call Anthony
+@Scaramucci took after he left the White House?🤔 The one and only @JoyVBehar!😂
+https://t…
+
+archiving URL http://twitter.com/Scaramucci/status/911320199864963075
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911320199864963075
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @mindfuleveryday: "You have to be willing to give
+up the life you’ve planned for in order to live the life that’s waiting for
+you." ~ Jo…
+
+archiving URL http://twitter.com/Scaramucci/status/911322652224172032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911322652224172032
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: .@POTUS Trump and I firmly believe the #GrahamCassidy bill is
+ the right bill at the right time to repeal and replac… https://t.co/yJW98My2Fx
+
+archiving URL http://twitter.com/VP/status/911324572498235395
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911324572498235395
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: #GrahamCassidy will give Indiana even more freedom &amp;
+flexibility &amp; build the best possible health-insurance system.…
+https://t.co/N60BhzON8p
+
+archiving URL http://twitter.com/VP/status/911325014288404480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911325014288404480
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: The opposition is forming up. Some have gone so far as to
+announce opposition already. But @POTUS &amp; I are undeterred #VPinIN
+
+archiving URL http://twitter.com/VP/status/911325262398345218
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911325262398345218
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from stevenmnuchin1: The US and EU Covered Agreement is a major step
+forward in US-EU cooperation on insurance.  Proud to sign with Amb.…
+https://t.co/WJg8fGQbyO
+
+archiving URL http://twitter.com/stevenmnuchin1/status/911325417323290624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/911325417323290624
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: The Republican majority in Congress was not elected to save
+ObamaCare. They were elected to repeal &amp; replace it. #VPinIN
+
+archiving URL http://twitter.com/VP/status/911325791157391361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911325791157391361
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @RepMiaLove: The last time our tax system was
+changed, people were using land-line phones.  Time for an update! -More:…
+
+archiving URL http://twitter.com/SpeakerRyan/status/911325911890395136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/911325911890395136
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Repeal &amp; replace Obamacare &amp; give U.S a health-care
+system on personal responsibility, free-market competition &amp; st…
+https://t.co/NlXe9WNiVC
+
+archiving URL http://twitter.com/VP/status/911325949806997504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911325949806997504
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: W/ strong leadership of @POTUS...we're going to cut taxes
+across the board for working families, small businesses, and family farms.
+#VPinIN
+
+archiving URL http://twitter.com/VP/status/911326140505128961
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911326140505128961
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: At Pittt Barbecue &amp; Grill, I met families from IN who
+told me about problems w/ their taxes &amp; how'd they'd benefit…
+https://t.co/9Hl8uOBpDk
+
+archiving URL http://twitter.com/VP/status/911326540213968897
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911326540213968897
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: Thank you @BGCGW Boys &amp; Girls Club Washington for
+helping us plant &amp; harvest @WhiteHouse Kitchen Garden today!…
+https://t.co/5lmEtyTeN4
+
+archiving URL http://twitter.com/FLOTUS/status/911326643775471617
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/911326643775471617
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: U.S biz are falling behind competitors &amp; our tax code is
+to blame. It makes it harder for companies to hire, give raises, and invest
+#VPinIN
+
+archiving URL http://twitter.com/VP/status/911326905432989698
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911326905432989698
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: We're going to put more money in the U.S people's pockets.
+We're going to put our job creators back on the road to… https://t.co/o1kL0ca6gL
+
+archiving URL http://twitter.com/VP/status/911327441859354625
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911327441859354625
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Indiana knows the truth: A tax cut means more jobs. A tax cut
+ means higher wages for our families. #VPinIN https://t.co/O06abQiEWq
+
+archiving URL http://twitter.com/VP/status/911328141037244419
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911328141037244419
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: Thank you @BGCGW Boys &amp; Girls
+Club Washington for helping us plant &amp; harvest @WhiteHouse Kitchen Garden
+today!…
+
+archiving URL http://twitter.com/StephGrisham45/status/911330826721382401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/911330826721382401
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: One follower who retweets this
+tweet will win a @ScaramucciPost Tee Shirt!!! 
+Winner chosen Monday October 2,
+2017.…
+
+archiving URL http://twitter.com/Scaramucci/status/911332768172429313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911332768172429313
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: Had a blast today with the gals of the @NRA  Thx
+to my host Susan w/ @nrawomen &amp; @GoParks #2A #GalsWithGuns
+https://t.co/9oGoerEDTg
+
+archiving URL http://twitter.com/SecretaryZinke/status/911334664035557383
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/911334664035557383
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: We cannot in good conscience abandon this cause. The U.S.
+people are hurting. A vote against #GrahamCassidy is a vo…
+https://t.co/6i66Osf18u
+
+archiving URL http://twitter.com/VP/status/911335073848360960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911335073848360960
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from TomBossert45: #USA helping #Mexico. American hygiene and first
+aid kits being distributed w/ the assistance of the Mexican Navy t…
+https://t.co/3HcFuBsQiU
+
+archiving URL http://twitter.com/TomBossert45/status/911337219264303104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/911337219264303104
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: If we want to continue as a free society, we must
+rededicate ourselves to Constitutional principles of liberty, fre…
+https://t.co/u5u9RVDKCb
+
+archiving URL http://twitter.com/SpeakerRyan/status/911338468646752256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/911338468646752256
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: .@POTUS Trump and I firmly believe the #GrahamCassidy bill is
+ the right bill at the right time to repeal and replac… https://t.co/PK4i1JTCuK
+
+archiving URL http://twitter.com/VP/status/911338773673373696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911338773673373696
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Heading to Alabama now, big crowd!
+
+archiving URL http://twitter.com/realDonaldTrump/status/911338971250216960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/911338971250216960
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Under @POTUS, we’re going to put more money in U.S people’s
+pockets. POTUS will sign a tax cut to once again put US… https://t.co/HpNCF8lfLX
+
+archiving URL http://twitter.com/VP/status/911341915030933505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911341915030933505
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: In Indiana today, on @POTUS' behalf, I told @SenDonnelly that
+ we need him on tax reform. Hardworking Hoosiers need… https://t.co/z4Svk2vvuu
+
+archiving URL http://twitter.com/VP/status/911343270516674561
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/911343270516674561
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PRyan: Republicans are on the same page when it comes to tax
+reform. We want a fair and simple tax code and we need to get this done.
+
+archiving URL http://twitter.com/PRyan/status/911343852333580288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/911343852333580288
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: Celebrating American Business Women's Day:
+https://t.co/hIf80B6Rye https://t.co/Poqc37F9Fl
+
+archiving URL http://twitter.com/WhiteHouse/status/911346376470036482
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/911346376470036482
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @ENERGY: GRAPHIC: 6 steps to restoring
+power⚡after storms 🌀 like #Maria and #Irma strike. Learn more ➜…
+
+archiving URL http://twitter.com/SecretaryPerry/status/911347313309896704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/911347313309896704
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: .@macantone now he would have lasted at least 12
+days! @TheView https://t.co/UdxIrQSWkB
+
+archiving URL http://twitter.com/Scaramucci/status/911349133746860032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911349133746860032
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: Productive &amp; fun day @WhiteHouse Kitchen Garden
+today! Thank you @BGCGW for all of your help! #HealthyEating…
+https://t.co/3HlZCPFmxP
+
+archiving URL http://twitter.com/FLOTUS/status/911349356586029056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/911349356586029056
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLOTUS: Productive &amp; fun day @WhiteHouse
+Kitchen Garden today! Thank you @BGCGW for all of your help! #HealthyEating…
+
+archiving URL http://twitter.com/WhiteHouse/status/911349738225717249
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/911349738225717249
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: Productive &amp; fun day @WhiteHouse
+Kitchen Garden today! Thank you @BGCGW for all of your help! #HealthyEating…
+
+archiving URL http://twitter.com/StephGrisham45/status/911353505276981248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/911353505276981248
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: West Wing Reads: https://t.co/5PSq3Wxbk4
+https://t.co/FhLCr41V6I
+
+archiving URL http://twitter.com/WhiteHouse/status/911355184047099905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/911355184047099905
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @mis2127 Stranger danger, Shapiro.
+
+archiving URL http://twitter.com/AshLeeStrong/status/911355464750850049
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/911355464750850049
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: RT @ENERGY: 1986: Energy Department's fifth
+National Energy Policy Plan submitted to Congress.  #Energy40 #FlashbackFriday
+https://t.co/Kkj…
+
+archiving URL http://twitter.com/SecretaryPerry/status/911358010408210433
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/911358010408210433
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @TomBossert45: #USA helping #Mexico. American
+hygiene and first aid kits being distributed w/ the assistance of the Mexican
+Navy t…
+
+archiving URL http://twitter.com/Scavino45/status/911362034079617026
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/911362034079617026
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 911362034079617026 on
+ account Scavino45
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 911362034079617026,
+'id_str': '911362034079617026',
+                       'user_id':
+823367015830323201,
+                       'user_id_str': '823367015830323201'},
+
+            'timestamp_ms': '1506120764073'}}
