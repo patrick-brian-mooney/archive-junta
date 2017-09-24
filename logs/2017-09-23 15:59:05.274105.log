@@ -1,0 +1,253 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-23 15:59:05.274725
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #910635369305186304 for account
+@IvankaTrump
+about to get all tweets newer than ID #911683140682264576 for account
+@AshLeeStrong
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #911287404602019841 for account @SBALinda
+about to get all tweets newer than ID #911317561089896450 for account
+@SecShulkin
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #911718138747727872 for account
+@realDonaldTrump
+about to get all tweets newer than ID #911228466774888448 for account
+@KellyannePolls
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #911643843543601152 for account
+@SecretaryPerry
+about to get all tweets newer than ID #911676555772006400 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #911365693857255424 for account @Scavino45
+about to get all tweets newer than ID #910688472343695360 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #911622006101217282 for account
+@SecretaryZinke
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #911296397621817345 for account
+@SecretaryCarson
+about to get all tweets newer than ID #911337219264303104 for account
+@TomBossert45
+about to get all tweets newer than ID #911343852333580288 for account @PRyan
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #911379584133844992 for account
+@SecretarySonny
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #911701000553222144 for account @POTUS
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #911349356586029056 for account @FLOTUS
+about to get all tweets newer than ID #910948382088232961 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #911707198547308544 for account
+@SecPriceMD
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #911640315098009600 for account
+@SpeakerRyan
+about to get all tweets newer than ID #911701699928215556 for account @PressSec
+about to get all tweets newer than ID #911273899157016576 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #911681832881491968 for account
+@WhiteHouse
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #910576071036358656 for account
+@seanspicer
+about to get all tweets newer than ID #911710583896117249 for account @VP
+about to get all tweets newer than ID #911623122914238464 for account
+@StephGrisham45
+about to get all tweets newer than ID #911709993610678272 for account
+@Scaramucci
+getting all tweets before ID #897227386122620927
+    ...399 tweets downloaded so far
+New tweet from Scaramucci: RT @ScaramucciPost: Would you buy the jersey of an
+NFL player who doesn't take a knee on Sunday, September 24?
+
+archiving URL http://twitter.com/Scaramucci/status/911726808428634112
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #911032135473090560 for account
+@nikkihaley
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/Scaramucci/status/911726808428634112
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #911715106010038272 for account
+@SecondLady
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #911081130593361920 for account
+@JessicaDitto45
+... OK, we're set up, and about to watch 52544275, 296060169, 65522706,
+803703725730779136, 819992522109894658, 831482588246196225, 599530439, 20733972,
+ 832672006113931269, 105267762, 25073877, 471672239, 18906561, 1180379185,
+728361177986797568, 826065858548133888, 830128820447539208, 799764016885329921,
+823367015830323201, 620571475, 29547260, 827258161841135623, 809836066316451840,
+ 828613457020870657, 866746592853979137, 733751245, 888031054141022209,
+842072478834909184, 836305915452272641, 822215679726100480, 22203756,
+818876014390603776, 819980276570976256, 829782369670410240, 212262370,
+108471631, 18916432, 818927131883356161, 798195585824104449, 1923451808,
+822215673812119553, 892173412818354177, 6577802, 20776147, 818910970567344128,
+823638938590085124, 24578794, 37666984, 15985455, 822127086194348032,
+828997388920619008, 836724024688410625
+New tweet from DanScavino: cc: @NFLprguy https://t.co/aPnK6QETlH
+
+archiving URL http://twitter.com/DanScavino/status/911728812798435328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/911728812798435328
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: It's time to fix our broken tax system. President
+Trump will make taxes simpler for all Americans. Read more:…
+https://t.co/NaqV7GyGaC
+
+archiving URL http://twitter.com/WhiteHouse/status/911728898131587074
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/911728898131587074
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from TomBossert45: RT @ATTPublicPolicy: #ATT techs on planes heading
+to #PuertoRico to begin #HurricaneMaria comms sys repairs thx to @WhiteHouse,
+@FEMA, team…
+
+archiving URL http://twitter.com/TomBossert45/status/911736654188163072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/911736654188163072
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryZinke: Thx again to @USFWS Texas for taking the time to
+meet with me on a Saturday. Great work getting refuges reopen. BZ
+https://t.co/vqROSmAyRq
+
+archiving URL http://twitter.com/SecretaryZinke/status/911743585833377794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/911743585833377794
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: Can hit a foul shot with a trench coat on too.
+https://t.co/7GV45X9sW0
+
+archiving URL http://twitter.com/Scaramucci/status/911745131807682561
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/911745131807682561
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: Opening ceremony of @InvictusToronto is underway!
+ @FLOTUS leading US delegation. @WeAreInvictus https://t.co/yOGitaHmjo
+
+archiving URL http://twitter.com/StephGrisham45/status/911745250124865536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/911745250124865536
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: TEAM USA 🇺🇸🇺🇸🇺🇸Arriving to opening ceremonies of
+@InvictusToronto https://t.co/IHEXpUO477
+
+archiving URL http://twitter.com/StephGrisham45/status/911750543957282816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/911750543957282816
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecShulkin: Honored to be at the @InvictusToronto games cheering
+on our #Veterans on #TeamUSA with @FLOTUS https://t.co/ekO7HKuL5D
+
+archiving URL http://twitter.com/SecShulkin/status/911771028011012096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/911771028011012096
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Just heard Foreign Minister of North Korea speak
+ at U.N. If he echoes thoughts of Little Rocket Man, they won't be around much
+longer!
+
+archiving URL http://twitter.com/realDonaldTrump/status/911789314169823232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/911789314169823232
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: Wonderful spirit &amp; determination of ALL the
+competitors @ opening ceremony @InvictusToronto! Honored to lead the U.S.
+delegation! Go team 🇺🇸
+
+archiving URL http://twitter.com/FLOTUS/status/911798545547534336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/911798545547534336
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: Wonderful spirit &amp; determination
+of ALL the competitors @ opening ceremony @InvictusToronto! Honored to lead the
+U.S. delegatio…
+
+archiving URL http://twitter.com/StephGrisham45/status/911800692389462016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/911800692389462016
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: If NFL fans refuse to go to games until players
+stop disrespecting our Flag &amp; Country, you will see change take place fast.
+Fire or suspend!
+
+archiving URL http://twitter.com/realDonaldTrump/status/911904261553950720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/911904261553950720
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: ...NFL attendance and ratings are WAY DOWN.
+Boring games yes, but many stay away because they love our country. League
+should back U.S.
+
+archiving URL http://twitter.com/realDonaldTrump/status/911911385176723457
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/911911385176723457
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretarySonny: Flash Flood Warning still in effect in parts of
+Puerto Rico. https://t.co/gGmul1r0uF
+
+archiving URL http://twitter.com/SecretarySonny/status/911933442744573952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/911933442744573952
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SpeakerRyan: RT @RepShimkus: God bless our first responders.
+https://t.co/7PbXhYzM9a
+
+archiving URL http://twitter.com/SpeakerRyan/status/911933996405346304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/911933996405346304
+    ... archiving using prefix http://web.archive.org/save/
