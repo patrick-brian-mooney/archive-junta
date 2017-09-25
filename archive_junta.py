@@ -43,6 +43,8 @@ home_dir = '/archive-junta'
 data_dir = '%s/data' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 log_directory = '%s/logs' % home_dir
+unrecorded_dels_dir = '%s/unrecorded_deletions' % home_dir
+
 target_accounts_data = "%s/tracked_users_data.csv" % data_dir
 webpage_loc = '/~patrick/projects/FascistTweetArchiver/index.html'
 
@@ -186,6 +188,9 @@ def handle_deletion(data):
     it on my personal Twitter account.
     """
     log_it('INFO: handling a deletion for data:\n\n%s' % pprint.pformat(data))
+    json_filename = "%s/%s.json" % (unrecorded_dels_dir, str(datetime.datetime.now()))
+    with open(json_filename) as json_file:
+        json_file.write(json.dumps(data)) 
     try:
         username = target_accounts[data['delete']['status']['user_id_str']]
         tweet_id = data['delete']['status']['id_str']
@@ -197,8 +202,10 @@ def handle_deletion(data):
             csvfile.seek(0, 2)      # Seek to end of file
             csvwriter = csv.writer(csvfile, dialect='unix')
             csvwriter.writerow([username, tweet_id, tweet_text, archived_url, str(datetime.datetime.now())])
+            log_it('... added', 1)
         finally:
             csvfile.close()
+        os.unlink(json_filename)        # If we've made it this far, it's no longer unrecorded.
         if tweet_about_deletions:
             if username in notify_on_delete_accounts:
                 log_it(" ... and we're going to tweet about it", 1)
