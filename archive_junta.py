@@ -173,9 +173,10 @@ def get_archived_tweet(username, id):
     with open('%s/archive_%s.csv' % (data_dir, username), newline='') as archive_file:
         reader = csv.reader(archive_file)
         for line in reader:
-            full_text, archive_url = line
-            if id in archive_url:
-                return full_text, archive_url
+            if len(line) > 1:
+                full_text, archive_url = line
+                if id in archive_url:
+                    return full_text, archive_url
     return None, None
 
 def handle_deletion(data):
@@ -184,7 +185,7 @@ def handle_deletion(data):
     possible) to a .csv file collecting delted tweets; and two, possibly tweet about
     it on my personal Twitter account.
     """
-    log_it
+    log_it('INFO: handling a deletion for data:\n\n%s' % pprint.pformat(data))
     try:
         username = target_accounts[data['delete']['status']['user_id_str']]
         tweet_id = data['delete']['status']['id_str']

@@ -1,0 +1,230 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-25 14:55:05.083866
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #912431719785037824 for account @Scavino45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #912109988549726209 for account
+@JessicaDitto45
+about to get all tweets newer than ID #912427762320801792 for account
+@SecPriceMD
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #912385590645141504 for account
+@SpeakerRyan
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #912294618598969344 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #912434317145538561 for account @VP
+getting all tweets before ID #905150767023235072
+    ...400 tweets downloaded so far
+New tweet from VP: Speaking w/ astronauts- all mil veterans- on @Space_Station,
+the 1st @WhiteHouse-level call to the station from… https://t.co/Gv1aWHwaAy
+
+archiving URL http://twitter.com/VP/status/912435262021672961
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+
+archiving URL https://twitter.com/VP/status/912435262021672961
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #912368099399290880 for account @POTUS
+about to get all tweets newer than ID #911296397621817345 for account
+@SecretaryCarson
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #912417173275951105 for account @PRyan
+about to get all tweets newer than ID #912426713338060800 for account
+@SecretaryZinke
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #911273899157016576 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #910948382088232961 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #912405717990207488 for account
+@nikkihaley
+about to get all tweets newer than ID #912422833669763077 for account
+@Scaramucci
+about to get all tweets newer than ID #912408872249430016 for account
+@SecShulkin
+about to get all tweets newer than ID #912075034012905472 for account
+@KellyannePolls
+about to get all tweets newer than ID #912354539176636417 for account @SBALinda
+about to get all tweets newer than ID #912018124001677313 for account @FLOTUS
+about to get all tweets newer than ID #912317401236213761 for account
+@AshLeeStrong
+about to get all tweets newer than ID #912432533400416256 for account
+@WhiteHouse
+about to get all tweets newer than ID #912394496536543232 for account @PressSec
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #912425288537182208 for account
+@SecretaryPerry
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #912429507050688512 for account
+@IvankaTrump
+about to get all tweets newer than ID #911933442744573952 for account
+@SecretarySonny
+about to get all tweets newer than ID #912429623883059200 for account
+@SecondLady
+about to get all tweets newer than ID #912043003195400193 for account
+@DanScavino
+about to get all tweets newer than ID #912315328176250880 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #912050374823088135 for account
+@seanspicer
+about to get all tweets newer than ID #912302339360542720 for account
+@realDonaldTrump
+about to get all tweets newer than ID #912113392822910976 for account
+@StephGrisham45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #912392585989279746 for account
+@TomBossert45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+... OK, we're set up, and about to watch 823367015830323201, 803703725730779136,
+ 836724024688410625, 829782369670410240, 599530439, 18916432, 1180379185,
+799764016885329921, 6577802, 818910970567344128, 29547260, 15985455,
+836305915452272641, 892173412818354177, 822215679726100480, 828613457020870657,
+65522706, 1923451808, 832672006113931269, 828997388920619008, 18906561,
+809836066316451840, 733751245, 827258161841135623, 20733972, 798195585824104449,
+ 819980276570976256, 37666984, 24578794, 831482588246196225, 471672239,
+819992522109894658, 818876014390603776, 296060169, 822215673812119553,
+818927131883356161, 826065858548133888, 830128820447539208, 212262370, 52544275,
+ 842072478834909184, 822127086194348032, 620571475, 888031054141022209,
+20776147, 25073877, 823638938590085124, 105267762, 866746592853979137,
+728361177986797568, 22203756, 108471631
+New tweet from VP: RT @Space_Station: .@VP Mike Pence visits @NASA_Marshall and
+makes "most long distance call" he's ever made to @NASA_astronauts in spa…
+
+archiving URL http://twitter.com/VP/status/912438199846342656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/912438199846342656
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @VPComDir: .@VP Pence speaking with the astronauts (3 US
+military veterans) aboard the @Space_Station from command center at…
+
+archiving URL http://twitter.com/VP/status/912438601966919681
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/912438601966919681
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecPriceMD: RT @HHSMedia: We need all hands on deck to fight the
+#opioids crisis: @CityAndStatePA Op-Ed from @SecPriceMD &amp; @KellyannePolls ➡️
+ https://t…
+
+archiving URL http://twitter.com/SecPriceMD/status/912439757128523776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPriceMD/status/912439757128523776
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: Proud to deliver message from @POTUS to our 3 courageous
+astronauts aboard the @Space_Station. We admire and apprec…
+https://t.co/e7xyzdWJf5
+
+archiving URL http://twitter.com/VP/status/912442431408308225
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/912442431408308225
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: .@CNN is #FakeNews. Just reported COS (John
+Kelly) was opposed to my stance on NFL players disrespecting FLAG, ANTHEM,
+COUNTRY. Total lie!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912443217227976704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912443217227976704
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: General John Kelly totally agrees w/ my stance
+on NFL players and the fact that they should not be disrespecting our FLAG or
+GREAT COUNTRY!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912443607084404736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912443607084404736
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Tremendous backlash against the NFL and its
+players for disrespect of our Country.
+#StandForOurAnthem🇺🇸
+
+archiving URL http://twitter.com/realDonaldTrump/status/912443924979077120
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912443924979077120
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from IvankaTrump: RT @CNN: Ivanka Trump spearheads $200M STEM effort
+https://t.co/NczN2ueDcA https://t.co/15sLP66UKP
+
+archiving URL http://twitter.com/IvankaTrump/status/912444915296210947
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/912444915296210947
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from JessicaDitto45: RT @femaregion2: 9/25: @FEMA_Brock (center) was
+in San Juan, PR, to talk about post-#Maria response efforts now underway.
+#MariaPR…
+
+archiving URL http://twitter.com/JessicaDitto45/status/912446306261626880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/912446306261626880
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: President Trump: Better STEM education also means
+higher-paying jobs for American workers and families...… https://t.co/77MHVQs1BR
+
+archiving URL http://twitter.com/WhiteHouse/status/912449642914353153
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/912449642914353153
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: Speaking this evening at the Marine Corps
+Scholarship Foundation dinner at the esteemed Army Navy Club w/ General M…
+https://t.co/Yz0xOK1FLK
+
+archiving URL http://twitter.com/SecretaryPerry/status/912452916342083586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/912452916342083586
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: It's a tremendous honor to be here w/ heroes who
+serve &amp; in remembrance of those who gave “their last measure of de…
+https://t.co/W8GjHyuSeS
+
+archiving URL http://twitter.com/SecretaryPerry/status/912456360515776517
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/912456360515776517
+    ... archiving using prefix http://web.archive.org/save/
