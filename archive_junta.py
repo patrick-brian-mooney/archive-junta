@@ -43,7 +43,8 @@ home_dir = '/archive-junta'
 data_dir = '%s/data' % home_dir
 last_tweet_id_store = '%s/last_tweet' % data_dir
 log_directory = '%s/logs' % home_dir
-unrecorded_dels_dir = '%s/unrecorded_deletions' % home_dir
+unhandled_data_dir = '%s/unhandled_data' % home_dir
+unrecorded_dels_dir = '%s/unrecorded_deletions' % unhandled_data_dir
 
 target_accounts_data = "%s/tracked_users_data.csv" % data_dir
 webpage_loc = '/~patrick/projects/FascistTweetArchiver/index.html'
@@ -190,7 +191,8 @@ def handle_deletion(data):
     log_it('INFO: handling a deletion for data:\n\n%s' % pprint.pformat(data))
     json_filename = "%s/%s.json" % (unrecorded_dels_dir, str(datetime.datetime.now()))
     with open(json_filename) as json_file:
-        json_file.write(json.dumps(data)) 
+        json_file.write(json.dumps(data))
+    log_it('INFO: successfully dumped raw data to JSON file')
     try:
         username = target_accounts[data['delete']['status']['user_id_str']]
         tweet_id = data['delete']['status']['id_str']
@@ -236,8 +238,12 @@ class FascistListener(StreamListener):
                  if 'delete' in data:
                      handle_deletion(data)
                  else:
-                    log_it('NOTE: we got minimal data again', 1)
-                    log_it('Value of data is:\n\n%s\n\n' % pprint.pformat(data), 1)
+                    log_it('INFO: we got minimal data again', 1)
+                    log_it('... value of data is:\n\n%s\n\n' % pprint.pformat(data), 1)
+                    log_it('... attempting to archive ...', 1)
+                    json_filename = "%s/%s [%s].json" % (unhandled_data_dir, str(datetime.datetime.now()), ', '.join(list(data.keys())))
+                    with open(json_filename) as json_file:
+                        json_file.write(json.dumps(data))
         except:
             log_it('ERROR: \n  Exception is:', -1)
             log_it(pprint.pformat(sys.exc_info()[0]), -1)
@@ -359,10 +365,12 @@ def export_web_page():
            the new account(s);
         3. Waiting for enough of the archiving to complete that there all of the
            necessary files have been generated and archived (uploaded to DropBox,
-           archived in GitHub, etc.);
-        4. From an interactive Python console, importing the script and running
+           archived in GitHub, etc.) so that the appropriate URLs have been
+           created and can be found;
+        4. Adding the relevant URLs to users_data.csv;
+        5. From an interactive Python console, importing the script and running
            this function right here;
-        5. Uploading the updated page to my web server.
+        6. Uploading the newly generated page to my web server.
     """
     the_page = """<!doctype html>
 <html prefix="og: http://ogp.me/ns#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
