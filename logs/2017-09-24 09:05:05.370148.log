@@ -1,0 +1,495 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u3 (2017-08-15)', machine='i686')
+Log started 2017-09-24 09:05:05.370779
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #911971281452617729 for account
+@nikkihaley
+about to get all tweets newer than ID #911676555772006400 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #910576071036358656 for account
+@seanspicer
+about to get all tweets newer than ID #911343852333580288 for account @PRyan
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #911701000553222144 for account @POTUS
+about to get all tweets newer than ID #911273899157016576 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #911970969719328770 for account
+@WhiteHouse
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #911771028011012096 for account
+@SecShulkin
+about to get all tweets newer than ID #911365693857255424 for account @Scavino45
+about to get all tweets newer than ID #911941184834195456 for account
+@SecretaryPerry
+about to get all tweets newer than ID #911798545547534336 for account @FLOTUS
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #910948382088232961 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #906521136531492870 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #911715106010038272 for account
+@SecondLady
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #911964688451334144 for account
+@KellyannePolls
+about to get all tweets newer than ID #911287404602019841 for account @SBALinda
+about to get all tweets newer than ID #908861000085942272 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #911911385176723457 for account
+@realDonaldTrump
+about to get all tweets newer than ID #911953586740977665 for account
+@StephGrisham45
+about to get all tweets newer than ID #911933442744573952 for account
+@SecretarySonny
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #911736654188163072 for account
+@TomBossert45
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #911701699928215556 for account @PressSec
+about to get all tweets newer than ID #911728812798435328 for account
+@DanScavino
+about to get all tweets newer than ID #911081130593361920 for account
+@JessicaDitto45
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+about to get all tweets newer than ID #910635369305186304 for account
+@IvankaTrump
+about to get all tweets newer than ID #911960304241795072 for account
+@SpeakerRyan
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #900176895505043457 for account
+@mike_pence
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #911945775508279296 for account
+@SecretaryZinke
+about to get all tweets newer than ID #911984678781046786 for account
+@Scaramucci
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #911683140682264576 for account
+@AshLeeStrong
+about to get all tweets newer than ID #911296397621817345 for account
+@SecretaryCarson
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #911944104686301184 for account @VP
+about to get all tweets newer than ID #911707198547308544 for account
+@SecPriceMD
+... OK, we're set up, and about to watch 803703725730779136, 37666984,
+799764016885329921, 29547260, 20776147, 733751245, 18906561, 822215679726100480,
+ 798195585824104449, 822215673812119553, 809836066316451840, 836305915452272641,
+ 831482588246196225, 823367015830323201, 830128820447539208, 818876014390603776,
+ 728361177986797568, 819980276570976256, 105267762, 888031054141022209,
+822127086194348032, 212262370, 1923451808, 832672006113931269, 15985455,
+471672239, 819992522109894658, 828997388920619008, 25073877, 823638938590085124,
+ 842072478834909184, 108471631, 866746592853979137, 6577802, 818927131883356161,
+ 620571475, 836724024688410625, 20733972, 52544275, 18916432, 599530439,
+22203756, 1180379185, 827258161841135623, 24578794, 65522706,
+826065858548133888, 296060169, 828613457020870657, 892173412818354177,
+818910970567344128, 829782369670410240
+New tweet from SecretaryPerry: RT @NNSANews: #OnThisDay in 1960: The
+#USSEnterprise, first #nuclear-powered aircraft carrier, launched at Newport
+News, VA…
+
+archiving URL http://twitter.com/SecretaryPerry/status/911994250337947648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/911994250337947648
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from FLOTUS: Wishing all competitors at @invicusToronto the best of
+luck this week! Thank you to all who serve. Go Team USA 🇺🇸!!!
+https://t.co/4XLGqmNSqi
+
+archiving URL http://twitter.com/FLOTUS/status/912012253968437249
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/912012253968437249
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 912012253968437249 on
+ account FLOTUS
+... adding to list of deleted tweets
+... but we're not going to tweet about it because FLOTUS is not in the list of
+accounts we tweet about
+New tweet from FLOTUS: Wishing all competitors at @InvictusToronto the best of
+luck this week! Thank you to all who serve. Go Team USA 🇺🇸!…
+https://t.co/z7ttbB1duG
+
+archiving URL http://twitter.com/FLOTUS/status/912018124001677313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/912018124001677313
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Great solidarity for our National Anthem and for
+ our Country. Standing with locked arms is good, kneeling is not acceptable. Bad
+ ratings!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912018945158402049
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912018945158402049
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @FLOTUS: Wishing all competitors at
+@InvictusToronto the best of luck this week! Thank you to all who serve. Go Team
+ USA 🇺🇸!…
+
+archiving URL http://twitter.com/StephGrisham45/status/912018949277134849
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/912018949277134849
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Please to inform that the Champion Pittsburgh
+Penguins of the NHL will be joining me at the White House for Ceremony. Great
+team!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912019957243883520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912019957243883520
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: Tough loss for UM but 48 hours in Montana never
+looked so good. #gogriz https://t.co/JCYfsk0vjn
+
+archiving URL http://twitter.com/AshLeeStrong/status/912020137133387776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/912020137133387776
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @FLOTUS: Wishing all competitors at
+@InvictusToronto the best of luck this week! Thank you to all who serve. Go Team
+ USA 🇺🇸!…
+
+archiving URL http://twitter.com/WhiteHouse/status/912020415362605056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/912020415362605056
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @brendanmdunn It's okay, Brendan. You can just be
+happy. It's Sunday after all!
+
+archiving URL http://twitter.com/AshLeeStrong/status/912021079278878720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/912021079278878720
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: RT @DonnaWR8: @realDonaldTrump You can boycott
+our anthem 
+
+WE CAN BOYCOTT YOU! 
+
+#NFL #MAGA https://t.co/ryYzZnXjXE
+
+archiving URL http://twitter.com/realDonaldTrump/status/912032094687252485
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912032094687252485
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: RT @DonnaWR8: @realDonaldTrump I wonder what
+this BRAVE American would give to stand on his OWN two legs just ONCE MORE for
+our…
+
+archiving URL http://twitter.com/realDonaldTrump/status/912032583466340353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912032583466340353
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @TheView: WATCH: Who was the first call Anthony
+@Scaramucci took after he left the White House?🤔 The one and only @JoyVBehar!😂
+https://t…
+
+archiving URL http://twitter.com/Scaramucci/status/912032929802420224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912032929802420224
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Courageous Patriots have fought and died for our
+ great American Flag --- we MUST honor and respect it!  MAKE AMERICA GREAT
+AGAIN!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912037003923005440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912037003923005440
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from SecretaryPerry: Today we pay tribute to Gold Star Mothers who
+have lost sons or daughters to protect our freedom. God Bless.
+https://t.co/g8yIP9tAfj
+
+archiving URL http://twitter.com/SecretaryPerry/status/912037134210682886
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/912037134210682886
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: RT @realDonaldTrump: Courageous Patriots have fought
+and died for our great American Flag --- we MUST honor and respect it!  MAKE
+AMERICA G…
+
+archiving URL http://twitter.com/DanScavino/status/912038404073934850
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/912038404073934850
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: Don't look at the back of a jersey. Look at the chest
+ of a VETERAN. 
+
+#USA🇺🇸#Heroes🇺🇸 https://t.co/CU1rnQWC7n
+
+archiving URL http://twitter.com/DanScavino/status/912040249945153536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/912040249945153536
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from DanScavino: https://t.co/kOv7LbqL9p
+
+archiving URL http://twitter.com/DanScavino/status/912043003195400193
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/912043003195400193
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: https://t.co/3LjHypFI8h
+
+archiving URL http://twitter.com/Scavino45/status/912043365868478469
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/912043365868478469
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @DavidIRamadan Yes, you should go hunting in MT!
+Ping me before you go so I can pass along info.
+
+archiving URL http://twitter.com/AshLeeStrong/status/912044644086767617
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/912044644086767617
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from AshLeeStrong: @danwhiting My once a month trips are crucial at
+this point. ;)
+
+archiving URL http://twitter.com/AshLeeStrong/status/912044827197526016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/912044827197526016
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from seanspicer: Another amazing comeback by #TomBrady &amp; @Patriots
+ #PatriotsGame #patriots #PatsNation
+
+archiving URL http://twitter.com/seanspicer/status/912050374823088135
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/912050374823088135
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(1483 bytes read)',
+IncompleteRead(1483 bytes read)); sleeping and trying again ...
+New tweet from KellyannePolls: #FlyEaglesFly https://t.co/4E4UxnKlWp
+
+archiving URL http://twitter.com/KellyannePolls/status/912054841786224640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/912054841786224640
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be the 88th follow of
+the @ScaramucciPost? Poll decided at ~ 1,000 votes. @RealJamesWoods
+@KeithOlbermann
+
+archiving URL http://twitter.com/Scaramucci/status/912059001944334336
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be 89th follow of
+@ScaramucciPost? Poll decided at ~1,000 votes. @NFL @BoycottNFL2017
+
+archiving URL http://twitter.com/Scaramucci/status/912059021590441985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912059001944334336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912059021590441985
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from IvankaTrump: @BizRoundtable CEO Economic Outlook’s employment
+measure, evaluating CEOs' hiring plans, is the highest in 6+ years!
+https://t.co/A3xdrV55zr
+
+archiving URL http://twitter.com/IvankaTrump/status/912067433049001985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/912067433049001985
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: Thank you to the heroes who fight for our flag &amp;
+freedom https://t.co/AvHHYnmLrH
+
+archiving URL http://twitter.com/PressSec/status/912070484099059714
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/912070484099059714
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from KellyannePolls: Check out this veteran's beautiful rendition of
+our National Anthem and the enormous American flag on the field bef…
+https://t.co/0l8YeqGYjo
+
+archiving URL http://twitter.com/KellyannePolls/status/912075034012905472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/912075034012905472
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Alaska, Arizona, Maine and Kentucky are big
+winners in the Healthcare proposal. 7 years of Repeal &amp; Replace and some
+Senators not there.
+
+archiving URL http://twitter.com/realDonaldTrump/status/912079629648883712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912079629648883712
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Sports fans should never condone players that do
+ not stand proud for their National Anthem or their Country. NFL should change
+policy!
+
+archiving URL http://twitter.com/realDonaldTrump/status/912080538755846144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912080538755846144
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from realDonaldTrump: Making America Safe is my number one priority.
+We will not admit those into our country we cannot safely vet.
+https://t.co/KJ886okyfC
+
+archiving URL http://twitter.com/realDonaldTrump/status/912101775221706752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/912101775221706752
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from POTUS: RT @realDonaldTrump: Making America Safe is my number one
+priority. We will not admit those into our country we cannot safely vet.
+https://…
+
+archiving URL http://twitter.com/POTUS/status/912102172162248706
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/912102172162248706
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scavino45: RT @realDonaldTrump: Making America Safe is my number
+one priority. We will not admit those into our country we cannot safely vet.
+https://…
+
+archiving URL http://twitter.com/Scavino45/status/912102217242628096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/912102217242628096
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from PressSec: RT @realDonaldTrump: Making America Safe is my number
+one priority. We will not admit those into our country we cannot safely vet.
+https://…
+
+archiving URL http://twitter.com/PressSec/status/912102272439607298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/912102272439607298
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from WhiteHouse: RT @realDonaldTrump: Making America Safe is my number
+ one priority. We will not admit those into our country we cannot safely vet.
+https://…
+
+archiving URL http://twitter.com/WhiteHouse/status/912102344472633344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/912102344472633344
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from VP: RT @realDonaldTrump: Making America Safe is my number one
+priority. We will not admit those into our country we cannot safely vet.
+https://…
+
+archiving URL http://twitter.com/VP/status/912103266401624065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/912103266401624065
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from JessicaDitto45: RT @realDonaldTrump: Making America Safe is my
+number one priority. We will not admit those into our country we cannot safely
+vet.
+https://…
+
+archiving URL http://twitter.com/JessicaDitto45/status/912109988549726209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/912109988549726209
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from StephGrisham45: RT @PressSec: Thank you to the heroes who fight
+for our flag &amp; freedom https://t.co/AvHHYnmLrH
+
+archiving URL http://twitter.com/StephGrisham45/status/912113392822910976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/912113392822910976
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: Peanuts and Cracker Jack at Tommy Lasorda's 90th!
+https://t.co/IiVLWDqzG5
+
+archiving URL http://twitter.com/Scaramucci/status/912137088866312192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912137088866312192
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: The Getty Center https://t.co/Yg8MZCBjZc
+
+archiving URL http://twitter.com/Scaramucci/status/912137911742558208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912137911742558208
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: The Legend is 90! https://t.co/5BC8sbojQn
+
+archiving URL http://twitter.com/Scaramucci/status/912139092032229376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912139092032229376
+    ... archiving using prefix http://web.archive.org/save/
+New tweet from Scaramucci: RT @ScaramucciPost: Who should be our ~90th follow?
+Poll decided at one vote. 
+@TommyLasorda @TommyLasorda  @TommyLasorda
+@TommyLasorda
+
+archiving URL http://twitter.com/Scaramucci/status/912144648541523968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/912144648541523968
+    ... archiving using prefix http://web.archive.org/save/
+INFO: We're handling a deletion notification for tweet ID# 912137088866312192 on
+ account Scaramucci
+ERROR: 
+  Exception is:
+<class 'ValueError'>
+  Value of data is:
+{'delete': {'status': {'id': 912137088866312192,
+'id_str': '912137088866312192',
+                       'user_id': 24578794,
+
+                       'user_id_str': '24578794'},
+            'timestamp_ms':
+'1506307924126'}}
