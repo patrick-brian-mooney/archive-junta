@@ -173,13 +173,18 @@ def get_archived_tweet(username, id):
         (full text of original tweet, archive URL for that tweet)
     If we never archived the tweet: returns (None, None)
     """
+    log_it("INFO: get_archived_tweet() called to get tweet ID %s for account %s" % (id, username))
     with open('%s/archive_%s.csv' % (data_dir, username), newline='') as archive_file:
         reader = csv.reader(archive_file)
         for line in reader:
-            if len(line) > 1:
+            try:
                 full_text, archive_url = line
                 if id in archive_url:
+                    log_it("INFO: found a tweet!\t\t%s\t%s" % (archive_url, full_text), 2)
                     return full_text, archive_url
+            except BaseException as e:
+                log_it('ERROR: unable to read line "%s" because: %s.' % (line, e))
+    log_it("INFO: requested tweet not found in relevant archive")
     return None, None
 
 def handle_deletion(data):
