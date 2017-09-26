@@ -120,7 +120,7 @@ def archive_tweet(screen_name, id, text):
     won't block its operations. This should help both to avoid missing other tweets
     on other accounts and avoid having Twitter kill us off for being too slow.
     """
-    log_it("New tweet from %s: %s" % (screen_name, text), 0)
+    log_it("\n\nNew tweet from %s: %s" % (screen_name, text), 0)
     for which_url in get_tweet_urls(screen_name, id):
         log_it("\narchiving URL %s" % which_url, 0)
         for which_prefix in archiving_url_prefixes:
@@ -190,7 +190,7 @@ def handle_deletion(data):
     """
     log_it('INFO: handling a deletion for data:\n\n%s' % pprint.pformat(data))
     json_filename = "%s/%s.json" % (unrecorded_dels_dir, str(datetime.datetime.now()))
-    with open(json_filename) as json_file:
+    with open(json_filename, mode="w") as json_file:
         json_file.write(json.dumps(data))
     log_it('INFO: successfully dumped raw data to JSON file')
     try:
@@ -242,7 +242,7 @@ class FascistListener(StreamListener):
                     log_it('... value of data is:\n\n%s\n\n' % pprint.pformat(data), 1)
                     log_it('... attempting to archive ...', 1)
                     json_filename = "%s/%s [%s].json" % (unhandled_data_dir, str(datetime.datetime.now()), ', '.join(list(data.keys())))
-                    with open(json_filename) as json_file:
+                    with open(json_filename, mode="w") as json_file:
                         json_file.write(json.dumps(data))
         except:
             log_it('ERROR: \n  Exception is:', -1)
