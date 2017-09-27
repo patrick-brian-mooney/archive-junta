@@ -178,12 +178,13 @@ def get_archived_tweet(username, id):
         reader = csv.reader(archive_file)
         for line in reader:
             try:
-                full_text, archive_url = line
+                full_text, archive_url, *_ = line
                 if id in archive_url:
                     log_it("INFO: found a tweet!\t\t%s\t%s" % (archive_url, full_text), 2)
                     return full_text, archive_url
             except BaseException as e:
                 log_it('ERROR: unable to read line "%s" because: %s.' % (line, e))
+                continue
     log_it("INFO: requested tweet not found in relevant archive")
     return None, None
 
