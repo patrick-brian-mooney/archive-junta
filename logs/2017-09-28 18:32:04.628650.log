@@ -1,0 +1,217 @@
+Beginning of a log file: "Fascist Tweet Archiver".
+System info: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+Log started 2017-09-28 18:32:04.629310
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #913473906165428224 for account
+@SecPriceMD
+about to get all tweets newer than ID #913192155950321664 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #913373292832153600 for account @PressSec
+about to get all tweets newer than ID #913554705816711168 for account
+@realDonaldTrump
+getting all tweets before ID #906139352580972543
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: RT @GOPChairwoman: The Trump Inaugural
+Committee is donating $3 million in surplus funds to victims of the latest
+hurricanes. 
+https://t.co…
+
+archiving URL http://twitter.com/realDonaldTrump/status/913570791698173952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #913526807508520960 for account @FLOTUS
+about to get all tweets newer than ID #890345975247753216 for account @Reince
+
+archiving URL https://twitter.com/realDonaldTrump/status/913570791698173952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #913488571478224897 for account
+@SecretaryZinke
+about to get all tweets newer than ID #913439274820935685 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #913488372475269120 for account @POTUS
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #875771618638917632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #913553175872860161 for account @PRyan
+about to get all tweets newer than ID #913550415651729408 for account
+@WhiteHouse
+about to get all tweets newer than ID #913468614665269248 for account
+@SecretarySonny
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #913547242941718528 for account
+@SecondLady
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+about to get all tweets newer than ID #913557355018772481 for account
+@AshLeeStrong
+about to get all tweets newer than ID #913526741708263424 for account
+@nikkihaley
+about to get all tweets newer than ID #913520394694479872 for account
+@IvankaTrump
+about to get all tweets newer than ID #912847932130545665 for account
+@KellyannePolls
+about to get all tweets newer than ID #913447017044692992 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #913529123569639424 for account
+@StephGrisham45
+about to get all tweets newer than ID #913551192831217664 for account
+@SpeakerRyan
+about to get all tweets newer than ID #910176450531270656 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #912867571015258113 for account
+@mike_pence
+about to get all tweets newer than ID #913481726822879238 for account
+@DanScavino
+about to get all tweets newer than ID #913089366150565888 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #913503661149626368 for account @Scavino45
+about to get all tweets newer than ID #913489899642343426 for account
+@SecretaryPerry
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #913563509027418112 for account @VP
+about to get all tweets newer than ID #904032783621816321 for account
+@GovernorPerry
+about to get all tweets newer than ID #913560723585949696 for account
+@Scaramucci
+about to get all tweets newer than ID #913237567331594240 for account
+@JessicaDitto45
+about to get all tweets newer than ID #913560915878055936 for account
+@seanspicer
+about to get all tweets newer than ID #913526023232344064 for account @SBALinda
+about to get all tweets newer than ID #913552105092378624 for account
+@TomBossert45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #913421602280427521 for account
+@SecretaryCarson
+about to get all tweets newer than ID #913497761424613376 for account
+@SecShulkin
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #913116074476019713 for account
+@IvankaTrumpHQ
+... OK, we're set up, and about to watch 1923451808, 108471631,
+829782369670410240, 888031054141022209, 599530439, 818927131883356161, 25073877,
+ 15985455, 818876014390603776, 20733972, 827258161841135623, 828997388920619008,
+ 29547260, 822215679726100480, 212262370, 836305915452272641, 733751245,
+822215673812119553, 842072478834909184, 1180379185, 822127086194348032,
+105267762, 892173412818354177, 296060169, 37666984, 52544275, 471672239,
+799764016885329921, 823638938590085124, 18916432, 832672006113931269, 22203756,
+620571475, 819980276570976256, 823367015830323201, 830128820447539208,
+809836066316451840, 728361177986797568, 65522706, 818910970567344128, 18906561,
+24578794, 836724024688410625, 20776147, 819992522109894658, 866746592853979137,
+803703725730779136, 826065858548133888, 828613457020870657, 831482588246196225,
+6577802, 798195585824104449
+
+
+New tweet from Scavino45: ......you have to keep tweeting. Congratulations
+@JusticeWillett! https://t.co/arLZ4UuL4x
+
+archiving URL http://twitter.com/Scavino45/status/913579361592324096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/913579361592324096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Nope https://t.co/AubqlKcCMg
+
+archiving URL http://twitter.com/Scaramucci/status/913582857230209026
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/913582857230209026
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Nope https://t.co/AubqlKcCMg
+
+archiving URL http://twitter.com/Scaramucci/status/913582857230209026
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/913582857230209026
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: GDP was revised upward to 3.1 for last
+quarter. Many people thought it would be years before that happened. We have
+just begun!
+
+archiving URL http://twitter.com/realDonaldTrump/status/913589799411490817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/913589799411490817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @FoxNews: .@marcthiessen on tax reform:
+"You're not going to get economic growth unless you get the corporate tax rate
+down."…
+
+archiving URL http://twitter.com/AshLeeStrong/status/913598412049838080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/913598412049838080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @MeghanStabler: Army Veteran's Racing Kart and
+Equipment was Stolen. Donate to Rebuild Billy's Racing Passion
+https://t.co/uBI4Cl2auf vi…
+
+archiving URL http://twitter.com/Scaramucci/status/913600717444861952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/913600717444861952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @FoxBusiness: .@KellyannePolls: "I even
+think tax reform is sort of swamp-like semantics. It seems so meek when you
+think about P…
+
+archiving URL http://twitter.com/KellyannePolls/status/913620084584861696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/913620084584861696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Readout of Second Lady Karen Pence’s visit to New
+Directions for Veterans in California | https://t.co/yoXh0iD8E7
+https://t.co/S5IHXb7biz
+
+archiving URL http://twitter.com/SecondLady/status/913635724674469888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/913635724674469888
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
