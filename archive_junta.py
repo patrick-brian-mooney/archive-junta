@@ -56,18 +56,19 @@ patrick_logger.verbosity_level = 2
 log = patrick_logger.Logger(name='Fascist Tweet Archiver', logfile_paths = [ "%s/%s.log" % (log_directory, str(datetime.datetime.now())) ])
 logger_lock = _thread.allocate_lock()
 
+
 def log_it(*pargs, **kwargs):
     """Just a thread-safe wrapper for patrick_logger.log_it."""
     logger_lock.acquire()
     log.log_it(*pargs, **kwargs)
     logger_lock.release()
 
-
 with open(target_accounts_data, mode='rt', newline='') as infile:
     reader = csv.reader(infile, dialect='unix')
     next(reader)                                # Skip the header line
     target_accounts = {rows[0]:rows[1] for rows in reader}
     log_it("INFO: read target account data; we're tracking %d accounts" % len(target_accounts), 1)
+
 
 notify_on_delete_accounts = ['realDonaldTrump',  'POTUS', 'WhiteHouse', ]   # Currently, we're only tweeting about Trump's own deletions.
 
