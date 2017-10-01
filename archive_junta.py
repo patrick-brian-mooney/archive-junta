@@ -45,6 +45,7 @@ last_tweet_id_store = '%s/last_tweet' % data_dir
 log_directory = '%s/logs' % home_dir
 unhandled_data_dir = '%s/unhandled_data' % home_dir
 unrecorded_dels_dir = '%s/unrecorded_deletions' % unhandled_data_dir
+deleted_tweets_list = '%s/deleted_tweets.csv' % data_dir
 
 target_accounts_data = "%s/tracked_users_data.csv" % data_dir
 webpage_loc = '/~patrick/projects/FascistTweetArchiver/index.html'
@@ -210,7 +211,7 @@ def handle_deletion(data):
         tweet_text, archived_url = get_archived_tweet(username, tweet_id)
         try:
             log_it('... adding to list of deleted tweets', 1)
-            csvfile = exclusive_open('%s/deleted_tweets.csv' % data_dir, newline='')
+            csvfile = exclusive_open(deleted_tweets_list, newline='')
             csvfile.seek(0, 2)      # Seek to end of file
             csvwriter = csv.writer(csvfile, dialect='unix')
             csvwriter.writerow([username, tweet_id, tweet_text, archived_url, str(datetime.datetime.now())])
@@ -351,7 +352,7 @@ if __name__ == '__main__':
         log_it("Already running! Quitting ...", 0)
         # But first, delete the small log file we may have created.
         paths = log.logfile_paths
-        del(log)
+        del(log)                        # Among other things, close any files opened by the logger.
         if paths:
             for path in paths:
                 try:
@@ -367,15 +368,15 @@ def export_web_page():
     This function is NEVER called by the script itself; it's a utility function
     intended for use from the interactive Python console.
     
-    So the process for adding a new account to those watched by the script goes
-    like this:
+    So the process for adding a new account to those watched by the script
+    involves performing these actions:
         1. Editing tracked_users_data.csv to add info about the account, leaving
            the URL fields blank; 
         2. Restarting the script so that it re-reads the data and begins archiving
            the new account(s);
-        3. Waiting for enough of the archiving to complete that there all of the
-           necessary files have been generated and archived (uploaded to DropBox,
-           archived in GitHub, etc.) so that the appropriate URLs have been
+        3. Waiting for enough of the archiving to complete that all of the
+           necessary files have been generated and archived (begun uploading to
+           DropBox, archived in GitHub, etc.) so that the appropriate URLs have been
            created and can be found;
         4. Adding the relevant URLs to users_data.csv;
         5. From an interactive Python console, importing the script and running
@@ -404,7 +405,7 @@ def export_web_page():
   <title>archive_junta.py, the Fascist-Tweet-Archiving Script</title>
   <meta name="author" content="Patrick Mooney" />
   <meta name="dcterms.rights" content="Copyright © 2017 Patrick Mooney" />
-  <meta name="description" content="A script that backs up Donald Trump's and his cadre's tweets to the Internet Archive" />
+  <meta name="description" content="A script that backs up Donald Trump's (and his cadre's) tweets to the Internet Archive" />
   <meta name="rating" content="general" />
   <meta name="revisit-after" content="7 days" />
   <meta name="%s" content="%s" />
@@ -537,3 +538,4 @@ def export_web_page():
 """ % (datetime.datetime.now().date().isoformat(), time.strftime('%d %b %Y'))
     with open(webpage_loc, mode="w") as the_html_file:
         the_html_file.write(the_page)
+    print("Webpage exported as: %s" % webpage_loc)
