@@ -1606,3 +1606,35 @@ archiving URL http://twitter.com/SpeakerRyan/status/918971649420136448
 
 archiving URL https://twitter.com/SpeakerRyan/status/918971649420136448
     ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @RepJenniffer: I must thank @SpeakerRyan for
+all his attention and his unyielding commitment to Puerto Rico.
+https://t.co/uezizAg0Ul
+
+archiving URL http://twitter.com/SpeakerRyan/status/918971972612231170
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/918971972612231170
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+918971972612231170,
+                       'id_str': '918971972612231170',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1507935024573'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 918971972612231170 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 918971972612231170 for account
+ SpeakerRyan
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SpeakerRyan/st
+atus/918971972612231170	RT @RepJenniffer: I must thank @SpeakerRyan for all his
+attention and his unyielding commitment to Puerto Rico. https://t.co/uezizAg0Ul
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
