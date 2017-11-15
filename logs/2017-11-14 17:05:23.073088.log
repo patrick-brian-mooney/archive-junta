@@ -1,0 +1,274 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Tuesday, 14 November 2017 at 17:05
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #930572018063470592 for account
+@SecretaryZinke
+about to get all tweets newer than ID #928861995415363585 for account
+@KellyannePolls
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+about to get all tweets newer than ID #929870058213347329 for account
+@seanspicer
+getting all tweets before ID #908335897623408639
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #929382925270908928 for account
+@StephGrisham45
+
+
+New tweet from seanspicer: RT @ArthurSchwartz: @samstein @seanspicer Subpar
+trolling skills or are you out of the loop? Maybe both?
+
+archiving URL http://twitter.com/seanspicer/status/930584020777254912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/930584020777254912
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930564005042716672 for account
+@WhiteHouse
+getting all tweets before ID #923554309991788543
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+
+New tweet from WhiteHouse: Read what the West Wing Reads:
+https://t.co/o2EEn1CcWz https://t.co/T30nCbVVjK
+
+archiving URL http://twitter.com/WhiteHouse/status/930586909780430848
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/WhiteHouse/status/930586909780430848
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930528111355195392 for account
+@nikkihaley
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #930467247331725313 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #928283695353683970 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 508445 (char 508444)
+about to get all tweets newer than ID #930462841525751809 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #930564725561352197 for account
+@SecShulkin
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #930498387610427393 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 508445 (char 508444)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #930557078023831553 for account
+@SecretaryPerry
+getting all tweets before ID #915568755807342591
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+
+
+New tweet from SecretaryPerry: To conclude our #NAEM17 meeting,
+@JoaquinColdwell, @jimcarr_wpg and I toured the @UHouston Energy Research Park.
+Pr… https://t.co/MuL9ssJ7uc
+
+archiving URL http://twitter.com/SecretaryPerry/status/930585573034811393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/930585573034811393
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #926116193055989761 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #930465442728173569 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502918 (char 502917)
+about to get all tweets newer than ID #930365692733509632 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #930486656322457600 for account
+@IvankaTrump
+about to get all tweets newer than ID #925479878346133504 for account
+@TomBossert45
+about to get all tweets newer than ID #930491023930904576 for account @PressSec
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #930575302920736768 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #930428141289574400 for account
+@SecretarySonny
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #930574821267857409 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #930531158919696389 for account
+@SecretaryCarson
+about to get all tweets newer than ID #930514428801449989 for account @SBALinda
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #930490487903084544 for account
+@realDonaldTrump
+about to get all tweets newer than ID #930405784864911360 for account
+@JessicaDitto45
+about to get all tweets newer than ID #930481204633022464 for account @FLOTUS
+about to get all tweets newer than ID #930568609142923264 for account @VP
+getting all tweets before ID #922513927019393023
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #930490864396271616 for account @POTUS
+
+
+New tweet from VP: RT @SecondLady: NEW BLOG: The Second Lady Provides Art
+Supply Kits to Children's Hospitals | https://t.co/yoXh0iUK2H @EmmasArtKits
+https:/…
+
+archiving URL http://twitter.com/VP/status/930587753506574336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/930587753506574336
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #928551104505245696 for account
+@DanScavino
+about to get all tweets newer than ID #930533856180097025 for account
+@SecondLady
+getting all tweets before ID #892831936263147519
+    ...399 tweets downloaded so far
+about to get all tweets newer than ID #930577460449677317 for account
+@AshLeeStrong
+
+
+New tweet from SecondLady: NEW BLOG: The Second Lady Provides Art Supply Kits
+to Children's Hospitals | https://t.co/yoXh0iUK2H @EmmasArtKits
+https://t.co/9QSIm5Qcyg
+
+archiving URL http://twitter.com/SecondLady/status/930586330198892551
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/930586330198892551
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #916706739101360127
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+
+New tweet from AshLeeStrong: Speaker Ryan talks tax reform in a live FOX News
+town hall. https://t.co/5nZNRn9518
+
+archiving URL http://twitter.com/AshLeeStrong/status/930579880848363520
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+
+archiving URL https://twitter.com/AshLeeStrong/status/930579880848363520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @JakeSherman Assume you’re listening to FOX News’
+ Speaker Ryan tax town hall on Sirius.
+
+archiving URL http://twitter.com/AshLeeStrong/status/930583887952121856
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+
+archiving URL https://twitter.com/AshLeeStrong/status/930583887952121856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Speaker Ryan is now breaking down examples of
+family economic situations and what our tax reform bill would mean for them.
+Must see tv.
+
+archiving URL http://twitter.com/AshLeeStrong/status/930586860790976512
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930562262296756224 for account @PRyan
+
+archiving URL https://twitter.com/AshLeeStrong/status/930586860790976512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @SpeakerRyan: For anyone who has an existing
+mortgage, nothing is changing with your mortgage interest deduction. It stays
+exactly the s…
+
+archiving URL http://twitter.com/AshLeeStrong/status/930588233649606656
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 105267762, 836305915452272641,
+827258161841135623, 471672239, 20733972, 20776147, 823638938590085124,
+822215673812119553, 728361177986797568, 65522706, 37666984, 1923451808,
+832672006113931269, 22203756, 819980276570976256, 831482588246196225,
+829782369670410240, 799764016885329921, 212262370, 830128820447539208,
+828997388920619008, 888031054141022209, 24578794, 823367015830323201, 52544275,
+866746592853979137, 818927131883356161, 6577802, 809836066316451840, 599530439,
+18916432, 1180379185, 803703725730779136, 842072478834909184, 15985455,
+892173412818354177, 798195585824104449, 828613457020870657, 819992522109894658,
+29547260, 25073877, 836724024688410625, 818876014390603776, 818910970567344128,
+822215679726100480, 620571475, 822127086194348032, 296060169,
+826065858548133888, 18906561, 108471631, 733751245
+
+archiving URL https://twitter.com/AshLeeStrong/status/930588233649606656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Of course the Paul Ryan found a way to work in an
+ @AaronRodgers12 mention during his tax town hall, “the most impor…
+https://t.co/eBBiDjE1n4
+
+archiving URL http://twitter.com/AshLeeStrong/status/930589131641638913
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: RT @FoxNews: .@SpeakerRyan on the #GOP tax plan:
+“The whole point of this is to make the system fairer and simpler, and to lower…
+
+
+archiving URL http://twitter.com/AshLeeStrong/status/930592396718600192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/930592396718600192
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
