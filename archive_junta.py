@@ -272,24 +272,29 @@ def get_new_tweets(screen_name, oldest=-1):
     """Get those tweets newer than the tweet whose ID is specified as the OLDEST
     parameter from the account SCREEN_NAME.
     """
-    the_API = sm.get_new_twitter_API(Trump_client)
-    # get most recent tweets (200 is maximum possible at once)
-    new_tweets = the_API.user_timeline(screen_name=screen_name, count=200)
-    ret = new_tweets.copy()
-
     try:
-        oldest_tweet = ret[-1].id - 1   # save the id of the tweet before the oldest tweet
-    except IndexError:
-        oldest_tweet = -1               # Don't crash if someone has NEVER tweeted.
+        the_API = sm.get_new_twitter_API(Trump_client)
+        # get most recent tweets (200 is maximum possible at once)
+        new_tweets = the_API.user_timeline(screen_name=screen_name, count=200)
+        ret = new_tweets.copy()
 
-    # keep grabbing tweets until there are no tweets left
-    while len(new_tweets) > 0 and oldest < new_tweets[0].id:
-        log_it("getting all tweets before ID #%s" % oldest_tweet, 0)
-        new_tweets = the_API.user_timeline(screen_name=screen_name, count=200, max_id=oldest_tweet)
-        ret.extend(new_tweets)
-        oldest_tweet = ret[-1].id - 1
-        log_it("    ...%s tweets downloaded so far" % (len(ret)), 0)
-    return [t for t in ret if (t.id > oldest)]
+        try:
+            oldest_tweet = ret[-1].id - 1   # save the id of the tweet before the oldest tweet
+        except IndexError:
+            oldest_tweet = -1               # Don't crash if someone has NEVER tweeted.
+
+        # keep grabbing tweets until there are no tweets left
+        while len(new_tweets) > 0 and oldest < new_tweets[0].id:
+            log_it("getting all tweets before ID #%s" % oldest_tweet, 0)
+            new_tweets = the_API.user_timeline(screen_name=screen_name, count=200, max_id=oldest_tweet)
+            ret.extend(new_tweets)
+            oldest_tweet = ret[-1].id - 1
+            log_it("    ...%s tweets downloaded so far" % (len(ret)), 0)
+        return [t for t in ret if (t.id > oldest)]
+    except BaseException as e:
+        log_it("ERROR: unable to get tweets for account @" + screen_name, 0)
+        log_it("           the system said: %s" % e, 0)
+        return [][:]
 
 def do_archive_tweets(the_tweets):
     """Send each unarchived tweet to each archiving service that the script knows about.
@@ -367,11 +372,11 @@ def export_web_page():
     """Exports a web page to the location specified by the global constant WEBPAGE_LOC.
     This function is NEVER called by the script itself; it's a utility function
     intended for use from the interactive Python console.
-    
+
     So the process for adding a new account to those watched by the script
     involves performing these actions:
         1. Editing tracked_users_data.csv to add info about the account, leaving
-           the URL fields blank; 
+           the URL fields blank;
         2. Restarting the script so that it re-reads the data and begins archiving
            the new account(s);
         3. Waiting for enough of the archiving to complete that all of the
@@ -430,14 +435,14 @@ def export_web_page():
     <noscript>
         <p class="simpleNav"><a rel="me home" href="index.html">Go home</a></p>
         <p class="simpleNav">If you had JavaScript turned on, you'd have more navigation options.</p>
-    </noscript> 
+    </noscript>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-37778547-1']);
       _gaq.push(['_setDomainName', 'nfshost.com']);
       _gaq.push(['_setAllowLinker', true]);
       _gaq.push(['_trackPageview']);
-    
+
       (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -456,7 +461,7 @@ def export_web_page():
 <p>The full list of accounts currently archived the operation of this script on my spare laptop is:</p>
 
 <table class="vcalendar">
-    <tr><th scope="col">Account</th><th scope="col">Date archiving began</th><th scope="col">Dropbox index<br />(most up-to-date)</th><th scope="col">GitHub index<br />(easier to read)</th><th scope="col">Search<br />(via Internet Archive)</th><th scope="col">Notes</th></tr>""" 
+    <tr><th scope="col">Account</th><th scope="col">Date archiving began</th><th scope="col">Dropbox index<br />(most up-to-date)</th><th scope="col">GitHub index<br />(easier to read)</th><th scope="col">Search<br />(via Internet Archive)</th><th scope="col">Notes</th></tr>"""
 
     with open(target_accounts_data, mode='rt', newline='') as infile:
         reader = csv.reader(infile, dialect='unix')
@@ -467,7 +472,7 @@ def export_web_page():
                 the_page += """\n    <tr class="vevent"><td><abbr class="summary description" title="Tweet archiving began for @%s"><a rel="nofollow" href="http://twitter.com/%s">@%s</a></abbr></td><td><abbr class="dtstart" title="%s">%s</abbr></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td>%s</td></tr>""" % (the_row['username'], the_row['username'], the_row['username'], the_row['ISO date'], the_row['text date'], the_row['DropBox index'], the_row['GitHub index'], the_row['IA search'], the_row['description'])
             else:
                 the_page += """\n    <tr class="vevent"><td><abbr class="summary description" title="Tweet archiving began for @%s"><a rel="nofollow" href="https://twitter.com/%s">@%s</a></abbr></td><td><abbr class="dtstart" title="%s">%s</abbr></td> <td colspan="3" style="text-align:center">(has not yet tweeted)</td> <td>%s</td></tr>""" % (the_row['username'], the_row['username'], the_row['username'], the_row['ISO date'], the_row['text date'], the_row['description'])
-    
+
     the_page += """</table>
 \n\n<p>My intent is to get a neutral third party to create publicly accessible backups of the tweets before they can be deleted, because a neutral third-party archive is a more credible source than a screenshot that I produced on my own computer and totally swear I didn't alter. (It's also easier to produce automatically.)</p>
 
@@ -479,7 +484,7 @@ def export_web_page():
 
 <p>The script produces an index for each account it tracks as it runs. These indices are in the <code>.csv</code> format, which is easily importable into any spreadsheet program; they are hosted both on Dropbox and at the project's GitHub page. (The Dropbox-hosted copies should usually be automatically updated within a minute or so; the GitHub-hosted copies are easier to read from the web, but are usually only updated about once a day.) You can also search through the Internet Archive-hosted tweets using the Internet Archive's interface. Links to all of these options are available in the table above.</p>
 
-<p>If you are unhappy with the display options, it's probably wisest to download the current .csv from Dropbox and search through it using your favorite spreadsheet program. Currently, it's not possible to search deleted tweets from this page, but if you want make an offer to finance hosting such a service, we can talk.</p> 
+<p>If you are unhappy with the display options, it's probably wisest to download the current .csv from Dropbox and search through it using your favorite spreadsheet program. Currently, it's not possible to search deleted tweets from this page, but if you want make an offer to finance hosting such a service, we can talk.</p>
 
 <p>If you want to see a tweet from me every time the script detects a deleted tweet from the junta, you can <a rel="me author" href="https://twitter.com/patrick_mooney">follow me</a> on Twitter.</p>
 
