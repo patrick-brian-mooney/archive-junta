@@ -1,0 +1,875 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Thursday, 16 November 2017 at 09:28
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #930843863496802309 for account @FLOTUS
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #931184521990504453 for account
+@IvankaTrump
+about to get all tweets newer than ID #930805103157760000 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #930925538109161473 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #931023324460863489 for account @Scavino45
+getting all tweets before ID #925350038582300671
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+
+New tweet from Scavino45: .@POTUS @realDonaldTrump departing the Oval Office
+at the @WhiteHouse en route to #USCapitol. https://t.co/pXHBo10L7A
+
+archiving URL http://twitter.com/Scavino45/status/931198080422236160
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #930428141289574400 for account
+@SecretarySonny
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+
+archiving URL https://twitter.com/Scavino45/status/931198080422236160
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #928551104505245696 for account
+@DanScavino
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #930844034830098433 for account
+@nikkihaley
+getting all tweets before ID #894702566487060479
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 508445 (char 508444)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #930980611212349441 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 860785 (char 860784)
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #931174160113524737 for account @SBALinda
+about to get all tweets newer than ID #931175552551186432 for account
+@EPAScottPruitt
+getting all tweets before ID #864839973559840767
+    ...321 tweets downloaded so far
+about to get all tweets newer than ID #930965652357177348 for account
+@WhiteHouse
+
+
+New tweet from EPAScottPruitt: Alexandra Dunn will be an exceptional leader in
+ @EPANewEngland as she has spent the last several years developing e…
+https://t.co/jJDzXR5WhV
+
+archiving URL http://twitter.com/EPAScottPruitt/status/931187769845731328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/931187769845731328
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 682190 (char 682189)
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #930906256151212032 for account
+@seanspicer
+getting all tweets before ID #908644051091632127
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #930846482898538498 for account
+@SecretaryCarson
+
+
+New tweet from seanspicer: Wear purple today to raise awareness and support
+for @PanCAN #PancreaticCancerDay #PANCaware and help end #pancreaticcancer
+
+archiving URL http://twitter.com/seanspicer/status/931199065727016960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/931199065727016960
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+about to get all tweets newer than ID #931165151222484992 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 682699 (char 682698)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #929382925270908928 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508934 (char 508933)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #931193330385420288 for account
+@SpeakerRyan
+about to get all tweets newer than ID #931191895455420416 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502633 (char 502632)
+about to get all tweets newer than ID #930903997699018753 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 925954 (char 925953)
+about to get all tweets newer than ID #930790998212571136 for account @POTUS
+about to get all tweets newer than ID #930628460250312704 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505989 (char 505988)
+about to get all tweets newer than ID #931192682604613632 for account @PRyan
+about to get all tweets newer than ID #931163139109990400 for account
+@JessicaDitto45
+about to get all tweets newer than ID #926116193055989761 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #930921538982903808 for account
+@SecretaryPerry
+about to get all tweets newer than ID #931150080106795009 for account
+@AshLeeStrong
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+about to get all tweets newer than ID #931163184622338048 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #930941798989647872 for account
+@SecretaryZinke
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #931168841975128064 for account
+@SecShulkin
+getting all tweets before ID #913096894976585727
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #931140567089721344 for account
+@realDonaldTrump
+
+
+New tweet from SecShulkin: We're working 24/7 to be more accountable to
+#Veterans at @DeptVetAffairs. Our new healthcare operations center and…
+https://t.co/oLwRQiWkuv
+
+archiving URL http://twitter.com/SecShulkin/status/931202782337601538
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/931202782337601538
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #931120042846117888 for account @PressSec
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+... OK, we're set up, and about to watch 818876014390603776, 212262370,
+52544275, 798195585824104449, 1180379185, 819980276570976256, 6577802,
+823367015830323201, 829782369670410240, 105267762, 842072478834909184,
+1923451808, 620571475, 892173412818354177, 108471631, 37666984,
+826065858548133888, 822127086194348032, 836305915452272641, 819992522109894658,
+832672006113931269, 822215673812119553, 828997388920619008, 65522706, 20776147,
+828613457020870657, 20733972, 24578794, 15985455, 823638938590085124, 599530439,
+ 18916432, 818910970567344128, 471672239, 822215679726100480,
+866746592853979137, 733751245, 836724024688410625, 888031054141022209,
+830128820447539208, 296060169, 18906561, 799764016885329921, 827258161841135623,
+ 29547260, 831482588246196225, 25073877, 809836066316451840, 803703725730779136,
+ 728361177986797568, 818927131883356161, 22203756
+
+
+New tweet from Scaramucci: Oh look at this. It happened even back then. Great
+book Grant by Chernow https://t.co/87wYlY8hdb
+
+archiving URL http://twitter.com/Scaramucci/status/931205098063253505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/931205098063253505
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 856
+more expected)', IncompleteRead(0 bytes read, 856 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: ATR's Alex Hendrie: "Passing tax reform will prove
+GOP is serious in its commitments to Americans" https://t.co/rAIWZZ26BH
+
+archiving URL http://twitter.com/WhiteHouse/status/931208499111038976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931208499111038976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @FoxNews: .@SpeakerRyan: "We're excited because
+ we're cutting people's taxes." https://t.co/II8SpHdP3x
+
+archiving URL http://twitter.com/SpeakerRyan/status/931209405265301505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931209405265301505
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1834
+more expected)', IncompleteRead(0 bytes read, 1834 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from PressSec: RT @Scavino45: .@POTUS @realDonaldTrump at #USCapitol
+ speaking with @HouseGOP, giving his full support to #TaxCutsAndJobsAct!…
+
+archiving URL http://twitter.com/PressSec/status/931213063335956481
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/931213063335956481
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scavino45: .@POTUS @realDonaldTrump, CoS General John Kelly and
+ Speaker of the House @SpeakerRyan, talking in the Rotunda of t…
+https://t.co/NHj3l7NwDR
+
+archiving URL http://twitter.com/Scavino45/status/931214382578765826
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/931214382578765826
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: Meanwhile, House Republicans are about to take a
+big vote to provide tax relief for families across our country.
+
+archiving URL http://twitter.com/AshLeeStrong/status/931217689821040641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931217689821040641
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(3530 bytes read)',
+IncompleteRead(3530 bytes read)); sleeping and trying again ...
+
+
+New tweet from WhiteHouse: President Trump is working to reform our tax system
+ so that Americans are treated fairly, can keep more of their ha…
+https://t.co/Lt5CXPcaY2
+
+archiving URL http://twitter.com/WhiteHouse/status/931221152265097218
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931221152265097218
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @BrendanBuck: SOON: Following the
+distinguished minority leader’s remarks, @SpeakerRyan will take the floor for
+some final words…
+
+archiving URL http://twitter.com/AshLeeStrong/status/931222444555239425
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931222444555239425
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: Need all on the UN Security Council to vote to
+ renew the Joint Investigative Mechanism for Syria to ensure that Ass…
+https://t.co/1fnmbOdhQR
+
+archiving URL http://twitter.com/realDonaldTrump/status/931223807037263873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/931223807037263873
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Need all on the UN Security
+Council to vote to renew the Joint Investigative Mechanism for Syria to ensure
+that Ass…
+
+archiving URL http://twitter.com/Scavino45/status/931223870329237505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/931223870329237505
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from POTUS: RT @realDonaldTrump: China is sending an Envoy and
+Delegation to North Korea - A big move, we'll see what happens!
+
+archiving URL http://twitter.com/POTUS/status/931224339197947904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Need all on the UN Security Council
+ to vote to renew the Joint Investigative Mechanism for Syria to ensure that
+Ass…
+
+archiving URL http://twitter.com/POTUS/status/931224344432447496
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+
+archiving URL https://twitter.com/POTUS/status/931224339197947904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @AlexNBCNews: Speaker Paul Ryan is speaking on
+ the House floor now about the House GOP tax bill
+
+archiving URL http://twitter.com/AshLeeStrong/status/931224905290518529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931224905290518529
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Passing the Tax Cuts and Jobs Act today is the
+single biggest thing we can do to help middle-income families in Ame…
+https://t.co/5zpNS93SHE
+
+archiving URL http://twitter.com/SpeakerRyan/status/931225586877415424
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/SpeakerRyan/status/931225586877415424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Under our plan, the average family at every income
+ level gets a tax cut. (The highest bars here are who will see th…
+https://t.co/0mY99achOX
+
+archiving URL http://twitter.com/SpeakerRyan/status/931225812409421826
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931225812409421826
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: That’s what this is all about: helping those
+trying to pay the bills and get ahead. Lotta waiters and servers out t…
+https://t.co/kQ0VXt5aD6
+
+archiving URL http://twitter.com/AshLeeStrong/status/931225859540779008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931225859540779008
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from AshLeeStrong: Have worked for Speaker Ryan for two years.
+Believe this is the first time he’s brought charts to the House floor.
+#middleclasstaxcuts
+
+archiving URL http://twitter.com/AshLeeStrong/status/931226324416548865
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Our plan lets you keep more of your money in the
+first place and makes things so simple, you can file your taxes on…
+https://t.co/vPbRBM5U4x
+
+archiving URL http://twitter.com/SpeakerRyan/status/931226334973620224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931226324416548865
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931226334973620224
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from AshLeeStrong: Word is that CNN, FOX, MSNBC, and of course CSPAN
+ are all taking Speaker Ryan’s tax reform floor speech live.
+
+archiving URL http://twitter.com/AshLeeStrong/status/931227232252678144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: All these years of flat wages and slow growth
+we’ve been having, we’re going to break free from that. Jobs will be…
+https://t.co/kYzbGPMcOo
+
+archiving URL http://twitter.com/SpeakerRyan/status/931227238753636352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: When we tax our businesses at much higher rates
+than our foreign competitors do, they win and we lose. Time to leve…
+https://t.co/vk2t6dINlq
+
+archiving URL http://twitter.com/SpeakerRyan/status/931227252351672320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931227232252678144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931227238753636352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931227252351672320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: We're going to see bigger paychecks in every
+income group. And they go up the most for middle-income families.
+https://t.co/lnDND39vY7
+
+archiving URL http://twitter.com/SpeakerRyan/status/931228011415920643
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931228011415920643
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: Like I said in Texas yesterday, under
+@POTUS, we're going to CUT TAXES ACROSS THE BOARD for working families and bu…
+
+archiving URL http://twitter.com/WhiteHouse/status/931228375783563266
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: It is time that the general interests of the
+hardworking taxpayers prevail over the special interests in Washington.
+https://t.co/58UsOoor5u
+
+archiving URL http://twitter.com/SpeakerRyan/status/931228376056061952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931228375783563266
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1846
+more expected)', IncompleteRead(0 bytes read, 1846 more expected)); sleeping and
+ trying again ...
+
+archiving URL https://twitter.com/SpeakerRyan/status/931228376056061952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @realDonaldTrump: Need all on the UN Security
+Council to vote to renew the Joint Investigative Mechanism for Syria to ensure
+that Ass…
+
+archiving URL http://twitter.com/nikkihaley/status/931229822172450817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/931229822172450817
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SpeakerRyan: BREAKING NEWS → The House of Representatives just
+passed the Tax Cuts &amp; Jobs Act. https://t.co/91n1SFXmLZ
+
+archiving URL http://twitter.com/SpeakerRyan/status/931232813449400322
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931232813449400322
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Promoting International Peace and Security:
+https://t.co/draDbd5flQ https://t.co/icv2YsVEFp
+
+archiving URL http://twitter.com/WhiteHouse/status/931233670471606277
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931233670471606277
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Passing the Tax Cuts &amp; Jobs Act, we delivered
+on our promise to cut taxes and create jobs for Americans. We’re spea…
+https://t.co/Xrb4IKpKFf
+
+archiving URL http://twitter.com/SpeakerRyan/status/931233725261733888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/931233725261733888
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from IvankaTrump: Congratulations to the House on passing the Tax
+Cuts and Jobs Act bill. This brings us one step closer to making hi…
+https://t.co/IT0LLDlDLh
+
+archiving URL http://twitter.com/IvankaTrump/status/931234874815545344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/931234874815545344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: The House passes GOP #TaxReform Bill, #HR1, the
+#TaxCutsandJobsAct. 
+227-205. #1182 https://t.co/7T0xoQjUeZ
+
+archiving URL http://twitter.com/Scavino45/status/931236494156730368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/931236494156730368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @stevenportnoy: BREAKING: House passes GOP tax
+reform package, 227-205.
+
+archiving URL http://twitter.com/seanspicer/status/931236947049115648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: What a day for the former Ways and Means chair.
+Proud of @SpeakerRyan for relentlessly fighting for tax relief.
+https://t.co/mCuRJh36gH
+
+archiving URL http://twitter.com/AshLeeStrong/status/931236947472867333
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/931236947472867333
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/931236947049115648
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from PRyan: The House has just advanced its plan that will cut taxes
+ for middle-class Americans, create new jobs across the cou…
+https://t.co/ALqzIgrVji
+
+archiving URL http://twitter.com/PRyan/status/931238692588470272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/931238692588470272
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from POTUS: RT @HouseGOP: PASSED → The Tax Cuts &amp; Jobs Act.
+#1182more #taxreform https://t.co/fRg2HoyXPI
+
+archiving URL http://twitter.com/POTUS/status/931239309335777283
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931239309335777283
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Passing #TaxCutsAndJobsAct in the House an
+important first step toward giving much-needed relief to job creators, j…
+https://t.co/jRhVgwELwC
+
+archiving URL http://twitter.com/KellyannePolls/status/931239801403080704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/931239801403080704
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SBALinda: Here at the @WhiteHouse speaking with state and local
+ officials on the importance of #TaxReform. https://t.co/B2PeGbSDtE
+
+archiving URL http://twitter.com/SBALinda/status/931240807721570304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/931240807721570304
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: RT @HouseGOP: BREAKING NEWS → The bill is PASSED.
+The Tax Cuts &amp; Jobs act will deliver MAJOR tax relief to families all across
+ th…
+
+archiving URL http://twitter.com/WhiteHouse/status/931245228631130112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931245228631130112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: GREAT DAY for the American people – as @POTUS said, this
+"is a big step toward fulfilling our promise to deliver hi…
+https://t.co/hf0RWH68SE
+
+archiving URL http://twitter.com/VP/status/931246074869755904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/931246074869755904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Very excited that the House bill passed! #TaxReform
+https://t.co/O0CPSf7HcK
+
+archiving URL http://twitter.com/SBALinda/status/931246112979193857
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/931246112979193857
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: Statement from @PressSec regarding the House of
+Representatives Passage of the Tax Cuts and Jobs Act: https://t.co/11f5SPA42S
+
+archiving URL http://twitter.com/WhiteHouse/status/931249623011872769
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/931249623011872769
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: Congratulations to the House of
+Representatives for passing the #TaxCutsandJobsAct — a big step toward
+fulfilling o… https://t.co/gkn9aZ40Yf
+
+archiving URL http://twitter.com/realDonaldTrump/status/931254609041068032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/realDonaldTrump/status/931254609041068032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecretaryAcosta: Today’s House vote is a major step forward for
+ #TaxReform. A simpler, fairer tax system will help job creators hire…
+https://t.co/0iT9XF5W3a
+
+archiving URL http://twitter.com/SecretaryAcosta/status/931256077672505346
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/931256077672505346
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scavino45: A YUGE step forward today in delivering major tax
+relief to families across the United States of America.… https://t.co/Xz2sUpilAV
+
+archiving URL http://twitter.com/Scavino45/status/931258097695420423
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/931258097695420423
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: RT @VANatCemeteries: Our Veterans Legacy Program
+will host a screening tonight, in partnership w/ #SFSU on the Vets interred at
+Golden G…
+
+archiving URL http://twitter.com/SecShulkin/status/931258273138991105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/931258273138991105
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from POTUS: RT @GOPLeader: To those sick of scraping by and fighting
+ for a raise, this is your comeback. #MAGA 🇺🇸 https://t.co/sxUUYonanB
+
+archiving URL http://twitter.com/POTUS/status/931260368613199872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @GOPLeader: The Tax Cuts and Jobs Act will deliver
+MAJOR tax relief for all Americans. https://t.co/5NdHn6IAeP
+
+archiving URL http://twitter.com/POTUS/status/931260389811277824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931260389811277824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931260368613199872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @PressSec: Glad @POTUS was able to help bring these
+Americans home. https://t.co/iAiEulhHBo
+
+archiving URL http://twitter.com/POTUS/status/931260495570591745
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931260495570591745
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from POTUS: RT @VP: Like I said in Texas yesterday, under @POTUS,
+we're going to CUT TAXES ACROSS THE BOARD for working families and bu…
+
+archiving URL http://twitter.com/POTUS/status/931260829005205504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Grateful to the brave men &amp; women of Texas
+law enforcement for everything you do! https://t.co/I0mXrFVZaJ
+
+archiving URL http://twitter.com/POTUS/status/931260846445072390
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931260829005205504
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+931256328164700161,
+                       'id_str': '931256328164700161',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1510864874083'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 931256328164700161 on
+ account POTUS
+INFO: get_archived_tweet() called to get tweet ID 931256328164700161 for account
+ POTUS
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+archiving URL https://twitter.com/POTUS/status/931260846445072390
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: By using the veto to kill a mechanism in Syria that
+ holds users of chemical weapons accountable, Russia proves they…
+https://t.co/0ThQxRDyJp
+
+archiving URL http://twitter.com/nikkihaley/status/931260949796872192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/931260949796872192
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
