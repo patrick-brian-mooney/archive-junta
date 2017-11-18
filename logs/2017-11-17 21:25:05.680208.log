@@ -1,0 +1,169 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Friday, 17 November 2017 at 21:25
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #931568373841973248 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #931702389417168896 for account @Scavino45
+about to get all tweets newer than ID #931595503464218624 for account @VP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #931686266852265984 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #930628460250312704 for account
+@TomBossert45
+about to get all tweets newer than ID #931674824212209664 for account
+@WhiteHouse
+about to get all tweets newer than ID #931683754728460291 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #931677229825888256 for account
+@nikkihaley
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #931735351575629824 for account @POTUS
+getting all tweets before ID #925770515071021055
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #931685146415255552 for account
+@realDonaldTrump
+
+
+New tweet from POTUS: RT @FLOTUS: Thank you #China! 🇨🇳 🇺🇸
+https://t.co/dNm9Qts8W2
+
+archiving URL http://twitter.com/POTUS/status/931735356730462208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/931735356730462208
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #928551104505245696 for account
+@DanScavino
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #931559659156021249 for account
+@seanspicer
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #931638395931041793 for account
+@SecShulkin
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #931598018859753474 for account
+@SecretarySonny
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #931213063335956481 for account @PressSec
+about to get all tweets newer than ID #931711307123974144 for account
+@SecretaryZinke
+about to get all tweets newer than ID #931664819672973313 for account @PRyan
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #931617435777683457 for account @FLOTUS
+about to get all tweets newer than ID #931239801403080704 for account
+@KellyannePolls
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+about to get all tweets newer than ID #926116193055989761 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #931619101612658689 for account
+@SecretaryCarson
+about to get all tweets newer than ID #931573276270264322 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #931622141476462593 for account
+@JessicaDitto45
+about to get all tweets newer than ID #931535339327574017 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506288 (char 506287)
+about to get all tweets newer than ID #931256077672505346 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #929382925270908928 for account
+@StephGrisham45
+about to get all tweets newer than ID #931301431814049792 for account
+@IvankaTrump
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #931356199588716544 for account
+@SecondLady
+about to get all tweets newer than ID #931678869026934787 for account
+@AshLeeStrong
+getting all tweets before ID #925035995778768897
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: RT @ShaneMcDonald08: SPOILER ALERT: You won't
+find a single district out of the 435 where median-income families of four do
+not get a tax c…
+
+archiving URL http://twitter.com/AshLeeStrong/status/931725568298573824
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #931547903772057601 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/AshLeeStrong/status/931725568298573824
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #931685906100183040 for account
+@Scaramucci
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+... OK, we're set up, and about to watch 798195585824104449, 823367015830323201,
+ 818910970567344128, 728361177986797568, 832672006113931269, 866746592853979137,
+ 822215673812119553, 18916432, 37666984, 836305915452272641, 822215679726100480,
+ 25073877, 620571475, 1923451808, 20776147, 809836066316451840,
+831482588246196225, 1180379185, 842072478834909184, 212262370,
+829782369670410240, 105267762, 818927131883356161, 827258161841135623,
+733751245, 803703725730779136, 65522706, 818876014390603776, 471672239, 6577802,
+ 18906561, 888031054141022209, 826065858548133888, 892173412818354177,
+828613457020870657, 819992522109894658, 836724024688410625, 830128820447539208,
+819980276570976256, 823638938590085124, 52544275, 108471631, 822127086194348032,
+ 296060169, 799764016885329921, 599530439, 29547260, 15985455, 22203756,
+24578794, 828997388920619008, 20733972
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
