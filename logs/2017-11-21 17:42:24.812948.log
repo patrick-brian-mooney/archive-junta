@@ -1,0 +1,637 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Tuesday, 21 November 2017 at 17:42
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #933105207055065088 for account
+@StephGrisham45
+about to get all tweets newer than ID #933008350647869440 for account
+@SecretaryCarson
+about to get all tweets newer than ID #933105158275325952 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #933072385351278592 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #931547903772057601 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=GovernorPerry&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb63e6c0c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #933050323521941506 for account
+@SecretarySonny
+about to get all tweets newer than ID #933109192344461312 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=VP&count=200 (Caused by NewCo
+nnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+object at 0xb667b90c>: Failed to establish a new connection: [Errno -2] Name or
+service not known',))
+about to get all tweets newer than ID #933105808123891712 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #930628460250312704 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510358 (char 510357)
+about to get all tweets newer than ID #933128150480859136 for account
+@WhiteHouse
+about to get all tweets newer than ID #933102419927482368 for account
+@SecretaryZinke
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #932441889068011520 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #931686266852265984 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #933077543015583744 for account
+@SecShulkin
+about to get all tweets newer than ID #933055817535885313 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #933016273788850176 for account
+@SecretaryPerry
+about to get all tweets newer than ID #933096822880342016 for account
+@JessicaDitto45
+about to get all tweets newer than ID #933105860900999168 for account @PressSec
+getting all tweets before ID #917189280405053441
+    ...400 tweets downloaded so far
+
+
+New tweet from PressSec: RT @FLOTUS: Congratulations to Drumstick on the
+pardon from @Potus ! We loved having you &amp; Wishbone at the @WhiteHouse.
+https://t.co/4KGKOV…
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+
+archiving URL http://twitter.com/PressSec/status/933133435975192576
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #932617055412604930 for account
+@IvankaTrumpHQ
+
+archiving URL https://twitter.com/PressSec/status/933133435975192576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: More good news in PR! https://t.co/Vpp003Jitg
+
+archiving URL http://twitter.com/PressSec/status/933133600840658944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933133600840658944
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #933019346816860161 for account @SBALinda
+
+
+New tweet from PressSec: RT @SecretaryZinke: The only thing I've hunted in
+Africa is terrorists. #GotEm #NoBaggingLimit https://t.co/9ez0lcuq5L
+
+archiving URL http://twitter.com/PressSec/status/933133828956176386
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933133828956176386
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #933106643369205760 for account @POTUS
+about to get all tweets newer than ID #931256077672505346 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #933115580277710848 for account @PRyan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #932788694972370945 for account
+@AshLeeStrong
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #933041260788682752 for account
+@SpeakerRyan
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #931961196097523712 for account
+@DanScavino
+about to get all tweets newer than ID #933091952920223745 for account @FLOTUS
+about to get all tweets newer than ID #933105609985155072 for account
+@Scaramucci
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #932800576903110656 for account
+@SecondLady
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #933110991554011139 for account
+@seanspicer
+about to get all tweets newer than ID #933080616014360576 for account
+@KellyannePolls
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+... OK, we're set up, and about to watch 823638938590085124, 828613457020870657,
+ 25073877, 37666984, 799764016885329921, 20733972, 18906561, 828997388920619008,
+ 599530439, 6577802, 842072478834909184, 818910970567344128, 823367015830323201,
+ 105267762, 866746592853979137, 822215673812119553, 827258161841135623,
+22203756, 52544275, 212262370, 832672006113931269, 831482588246196225,
+888031054141022209, 829782369670410240, 830128820447539208, 836724024688410625,
+818927131883356161, 892173412818354177, 798195585824104449, 819992522109894658,
+822215679726100480, 819980276570976256, 733751245, 15985455, 836305915452272641,
+ 296060169, 1180379185, 18916432, 826065858548133888, 65522706,
+809836066316451840, 620571475, 818876014390603776, 24578794, 728361177986797568,
+ 1923451808, 108471631, 822127086194348032, 29547260, 20776147, 471672239,
+803703725730779136
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from PressSec: Huck had almost as much fun watching Marine One take
+off as he did tweeting plane &amp; train emojis from my account
+https://t.co/fMInc64zQn
+
+archiving URL http://twitter.com/PressSec/status/933157490312835073
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933157490312835073
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Today, we continued a
+wonderful American Tradition at the White House. Drumstick and Wishbone will
+live out their d…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933165265264590848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933165265264590848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @scheung45: @SenSchumer @CenterOnBudget When
+ @SenSchumer and other Democrats are racking up a cornucopia of Pinocchios for
+fals…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933167640456998912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933167640456998912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Thank you, Helund Trees in Elma, Washington for
+this gorgeous tree! We can't wait to decorate it for Christmas!
+https://t.co/aEXAoVSO0E
+
+archiving URL http://twitter.com/SecondLady/status/933170252082491392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/933170252082491392
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+933170252082491392,
+                       'id_str': '933170252082491392',
+
+                       'user_id': 822127086194348032,
+'user_id_str': '822127086194348032'},
+            'timestamp_ms':
+'1511320436672'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 933170252082491392 on
+ account SecondLady
+INFO: get_archived_tweet() called to get tweet ID 933170252082491392 for account
+ SecondLady
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/SecondLady/status/933170252082491392
+	Thank you, Helund Trees in Elma, Washington for this gorgeous tree! We can't
+wait to decorate it for Christmas! https://t.co/aEXAoVSO0E
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecondLady is not in the list
+of accounts we tweet about
+
+
+New tweet from SecondLady: Thank you, Hedlund Trees in Elma, Washington for
+this gorgeous tree! We can't wait to decorate it for Christmas!
+https://t.co/dpw8TK0LTg
+
+archiving URL http://twitter.com/SecondLady/status/933172684220854272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/933172684220854272
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scavino45: .@POTUS @realDonaldTrump and @FLOTUS Melania arrive
+in Palm Beach, Florida earlier this evening.… https://t.co/PwSDCtnucd
+
+archiving URL http://twitter.com/Scavino45/status/933178153262108674
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/933178153262108674
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+933039443476451329,
+                       'id_str': '933039443476451329',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1511322037160'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 933039443476451329 on
+ account POTUS
+INFO: get_archived_tweet() called to get tweet ID 933039443476451329 for account
+ POTUS
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/933039443476451329	RT
+@realDonaldTrump: President Donald J. Trump and @FLOTUS Melania Participate in
+the Pardoning of the National Thanksgiving Turkey at t…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from POTUS: RT @realDonaldTrump: President Donald J. Trump and
+@FLOTUS Melania Participate in the Pardoning of the National Thanksgiving Turkey
+ at t…
+
+archiving URL http://twitter.com/POTUS/status/933178798052380672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/933178798052380672
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: @jdawsey1 That’s 10 more than I’ve seen in
+Billings tonight.
+
+archiving URL http://twitter.com/AshLeeStrong/status/933195351493771265
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/933195351493771265
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scavino45: The 2017 Official White House Christmas Ornament!
+https://t.co/bQS3L5RNeO
+
+archiving URL http://twitter.com/Scavino45/status/933208135937826816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/933208135937826816
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+684889147136413697,
+                       'id_str': '684889147136413697',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1511333785510'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 684889147136413697 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 684889147136413697 for account
+ SpeakerRyan
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @AviHyman: Read all about it! @Scaramucci
+@Duvi_Honig and Dr Joe Frager @ojchamber make front page of @Jerusalem_Post
+https://t.co/XMQ1P…
+
+archiving URL http://twitter.com/Scaramucci/status/933257421832646657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/933257421832646657
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: It wasn’t the White House, it wasn’t the State
+ Department, it wasn’t father LaVar’s so-called people on the ground…
+https://t.co/U895bwpOnK
+
+archiving URL http://twitter.com/realDonaldTrump/status/933280234220134401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933280234220134401
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ...LaVar, you could have spent the next 5 to
+10 years during Thanksgiving with your son in China, but no NBA contra…
+https://t.co/R7yb95fkUw
+
+archiving URL http://twitter.com/realDonaldTrump/status/933282274937733126
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933282274937733126
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The NFL is now thinking about a new idea -
+keeping teams in the Locker Room during the National Anthem next season.…
+https://t.co/tqZuHcaCyG
+
+archiving URL http://twitter.com/realDonaldTrump/status/933285973277868032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933285973277868032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Another Crooked Hillary Fan!
+https://t.co/1LidydhORD
+
+archiving URL http://twitter.com/realDonaldTrump/status/933291075342540800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933291075342540800
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+933291075342540800,
+                       'id_str': '933291075342540800',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1511348966149'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 933291075342540800 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 933291075342540800 for account
+ realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/933291075342540800	Another Crooked Hillary Fan! https://t.co/1LidydhORD
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from realDonaldTrump: RT @Realjmannarino: @realDonaldTrump The
+ungratefulness is something I’ve never seen before. If you get someone’s son out
+ of prison, he…
+
+archiving URL http://twitter.com/realDonaldTrump/status/933291745722351617
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933291745722351617
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @IngrahamAngle: “Far right”? You mean
+“right so far,” as in @realDonaldTrump has been right so far abt how to kick the
+ economy into…
+
+archiving URL http://twitter.com/realDonaldTrump/status/933292289211772929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933292289211772929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Well it’s not the @WhiteHouse but at least I am
+wearing white! @Israel https://t.co/0sPA8JEQ5s
+
+archiving URL http://twitter.com/Scaramucci/status/933294689628725248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/933294689628725248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: At Halva Factory -#Achva https://t.co/u7ORfRVwv6
+
+archiving URL http://twitter.com/Scaramucci/status/933297899559116801
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/933297899559116801
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: As we prepare for #Thanksgiving, I hope you are
+ planning to share time with friends, family, and loved ones. I refl…
+https://t.co/l02gQJnqxD
+
+archiving URL http://twitter.com/SecretarySonny/status/933298573839450113
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/933298573839450113
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Will be having meetings and working the phones
+ from the Winter White House in Florida (Mar-a-Lago). Stock Market hi…
+https://t.co/nfmwwXtyRy
+
+archiving URL http://twitter.com/realDonaldTrump/status/933301876975718401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933301876975718401
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Will be having meetings
+and working the phones from the Winter White House in Florida (Mar-a-Lago).
+Stock Market hi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933303977982283776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933303977982283776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @USNavy: #BREAKING UPDATE: Eight personnel
+recovered following C2-A Greyhound crash and transferred to #USSRonaldReagan
+for…
+
+archiving URL http://twitter.com/PressSec/status/933308699631849472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933308699631849472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Thank you American Farmers! https://t.co/kecraHnP9c
+
+archiving URL http://twitter.com/PressSec/status/933309198917566464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933309198917566464
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: The @USNavy is conducting search and rescue
+following aircraft crash. We are monitoring the situation. Prayers for…
+https://t.co/CX0C8dU4h7
+
+archiving URL http://twitter.com/realDonaldTrump/status/933319309551685633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/933319309551685633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: The @USNavy is conducting search
+ and rescue following aircraft crash. We are monitoring the situation. Prayers
+for…
+
+archiving URL http://twitter.com/PressSec/status/933319489902600192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/933319489902600192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @Duvi_Honig: @Duvi_Honig On Front page Today
+@Jerusalem_Post with @Scaramucci &amp; OJC VP Dr.Frager 👍
+https://t.co/QSr4PMpLcN
+
+archiving URL http://twitter.com/Scaramucci/status/933319838470045696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/933319838470045696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @Duvi_Honig: Israel’s leaders celebrate Orthodox
+ Jewish Chamber New Israel branch - Israel National News
+https://t.co/wqm5fhU2xs…
+
+archiving URL http://twitter.com/Scaramucci/status/933319857545687042
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/933319857545687042
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: The @USNavy is conducting
+search and rescue following aircraft crash. We are monitoring the situation.
+Prayers for…
+
+archiving URL http://twitter.com/Scavino45/status/933320381796143104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/933320381796143104
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: The @USNavy is conducting
+search and rescue following aircraft crash. We are monitoring the situation.
+Prayers for…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933320610507304960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @USNavy: More information from latest update
+ - https://t.co/QQkcYljeff https://t.co/CSLR933EHy
+
+archiving URL http://twitter.com/JessicaDitto45/status/933320673761558528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933320610507304960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933320673761558528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: The @USNavy is conducting search and
+rescue following aircraft crash. We are monitoring the situation. Prayers for…
+
+archiving URL http://twitter.com/VP/status/933321682911223809
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/933321682911223809
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(1483 bytes read)',
+IncompleteRead(1483 bytes read)); sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
