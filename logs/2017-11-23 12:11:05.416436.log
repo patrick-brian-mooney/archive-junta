@@ -1,0 +1,187 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Thursday, 23 November 2017 at 12:11
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #933745035564273665 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #933720803216166914 for account
+@Scaramucci
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503587 (char 503586)
+about to get all tweets newer than ID #933349414835576834 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #933770940269383680 for account @Scavino45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #933495974516928517 for account
+@IvankaTrump
+about to get all tweets newer than ID #933749689714991105 for account
+@TomBossert45
+about to get all tweets newer than ID #933421378233094151 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510386 (char 510385)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #933696660034560000 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #933055817535885313 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #933722214108672001 for account @SBALinda
+about to get all tweets newer than ID #933752538129723392 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504090 (char 504089)
+about to get all tweets newer than ID #933715491360837632 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 510389 (char 510388)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #933677287605784576 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 510389 (char 510388)
+about to get all tweets newer than ID #933733277701148672 for account
+@SecondLady
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #933541070192902145 for account
+@DanScavino
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #933707283942596615 for account
+@KellyannePolls
+about to get all tweets newer than ID #933730630407507968 for account
+@SecShulkin
+about to get all tweets newer than ID #933529656505933824 for account
+@AshLeeStrong
+about to get all tweets newer than ID #933713814859780098 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+about to get all tweets newer than ID #933722580791345152 for account @PRyan
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #933741073461137409 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #933745683550662657 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503740 (char 503739)
+about to get all tweets newer than ID #933473066805538816 for account
+@SecretaryZinke
+about to get all tweets newer than ID #933734836967297026 for account
+@seanspicer
+about to get all tweets newer than ID #933651543521447936 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #933719982072049669 for account @VP
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #933756150977359872 for account
+@JessicaDitto45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+about to get all tweets newer than ID #933753781216595968 for account @PressSec
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #933764914363142149 for account
+@SecretaryCarson
+about to get all tweets newer than ID #933720598383026176 for account
+@realDonaldTrump
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #933725408738140160 for account @POTUS
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+... OK, we're set up, and about to watch 818876014390603776, 826065858548133888,
+ 24578794, 828997388920619008, 798195585824104449, 892173412818354177,
+823367015830323201, 105267762, 15985455, 52544275, 866746592853979137, 37666984,
+ 6577802, 830128820447539208, 888031054141022209, 819992522109894658,
+822215673812119553, 18916432, 803703725730779136, 65522706, 842072478834909184,
+822127086194348032, 836305915452272641, 620571475, 108471631, 471672239,
+831482588246196225, 296060169, 832672006113931269, 20733972, 733751245,
+1180379185, 22203756, 799764016885329921, 823638938590085124,
+827258161841135623, 20776147, 819980276570976256, 818910970567344128,
+1923451808, 836724024688410625, 829782369670410240, 18906561,
+818927131883356161, 212262370, 828613457020870657, 25073877, 29547260,
+728361177986797568, 822215679726100480, 809836066316451840, 599530439
+
+
+New tweet from JessicaDitto45: RT @Scavino45: .@POTUS @realDonaldTrump speaks
+with and offers a special thanks to groups of U.S. Service members via a
+Thanksgivi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933783509109559296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933783509109559296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @Scavino45: .@POTUS @realDonaldTrump and
+@FLOTUS Melania visit the @USCG, Lake Worth Inlet in Riviera Beach, Florida on…
+
+archiving URL http://twitter.com/JessicaDitto45/status/933783684557262851
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/933783684557262851
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Such a blessed Thanksgiving at the Perdue
+family gathering. Here's hoping you are able to spend time with your own…
+https://t.co/igFfXq8gpm
+
+archiving URL http://twitter.com/SecretarySonny/status/933785694086029318
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/933785694086029318
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+WARNING: received error ('Connection broken: IncompleteRead(1483 bytes read)',
+IncompleteRead(1483 bytes read)); sleeping and trying again ...
