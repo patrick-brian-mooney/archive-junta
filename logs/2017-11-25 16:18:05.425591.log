@@ -1,0 +1,251 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Saturday, 25 November 2017 at 16:18
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #933764914363142149 for account
+@SecretaryCarson
+about to get all tweets newer than ID #934435526035128320 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505532 (char 505531)
+about to get all tweets newer than ID #933733277701148672 for account
+@SecondLady
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 503149 (char 503148)
+about to get all tweets newer than ID #934235876913242113 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #934184102395342848 for account
+@SecretaryZinke
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #934502748988592129 for account
+@DanScavino
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #934108754731307009 for account
+@IvankaTrump
+about to get all tweets newer than ID #934553338590441472 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 506045 (char 506044)
+about to get all tweets newer than ID #934468160866091012 for account
+@SpeakerRyan
+about to get all tweets newer than ID #933745683550662657 for account
+@StephGrisham45
+about to get all tweets newer than ID #933745035564273665 for account @FLOTUS
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #933832825815601154 for account
+@seanspicer
+about to get all tweets newer than ID #934523761927294976 for account @Scavino45
+getting all tweets before ID #927026831190056959
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: “The American Dream is BACK! We’re going to create
+an environment for #SmallBiz like we haven’t had in many decades…
+https://t.co/ZsRc9O025K
+
+archiving URL http://twitter.com/Scavino45/status/934554940533506050
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934487109393457153 for account @SBALinda
+
+archiving URL https://twitter.com/Scavino45/status/934554940533506050
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934443265239154689 for account
+@KellyannePolls
+
+
+New tweet from Scavino45: “When American workers WIN, America as a country
+WINS!”
+-President Donald J. Trump https://t.co/sJ4FH8DRa5
+
+archiving URL http://twitter.com/Scavino45/status/934555482156621824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/934555482156621824
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “We want to turn our country into a JOBS MACHINE — a
+ JOBS MAGNET....Together, we are going to fight for EVERY last…
+https://t.co/GHP1QbWIqF
+
+archiving URL http://twitter.com/Scavino45/status/934556637540638720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/934556637540638720
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: This is going to be a NEW ERA for AMERICAN JOBS and
+JOB CREATION! #MAGA🇺🇸 https://t.co/6WFdpJZZQF
+
+archiving URL http://twitter.com/Scavino45/status/934557391118585859
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 683151 (char 683150)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+
+archiving URL https://twitter.com/Scavino45/status/934557391118585859
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “Believe in yourselves. Believe in your future. And
+believe, once more, in America.”
+-President Donald J. Trump
+https://t.co/rIXuZ7LIII
+
+archiving URL http://twitter.com/Scavino45/status/934559644416176128
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #933749689714991105 for account
+@TomBossert45
+
+archiving URL https://twitter.com/Scavino45/status/934559644416176128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Supporters await President Trump’s return to
+Mar-a-Lago earlier today... https://t.co/UsXPfqJ2bu
+
+archiving URL http://twitter.com/Scavino45/status/934564499343986693
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+
+archiving URL https://twitter.com/Scavino45/status/934564499343986693
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #933349414835576834 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #934488455446519810 for account
+@nikkihaley
+getting all tweets before ID #898366852686073860
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 511255 (char 511254)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #933730630407507968 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508934 (char 508933)
+about to get all tweets newer than ID #934514344368525313 for account @POTUS
+getting all tweets before ID #926973518281150463
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: .@FoxNews is MUCH more important in
+ the United States than CNN, but outside of the U.S., CNN International is still
+ a…
+
+archiving URL http://twitter.com/POTUS/status/934565886484205568
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934195424033955840 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/POTUS/status/934565886484205568
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934452629832454144 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #934439148601081857 for account
+@Scaramucci
+about to get all tweets newer than ID #934539894453653504 for account
+@JessicaDitto45
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #933713814859780098 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #934514836372848643 for account @PressSec
+about to get all tweets newer than ID #934517730954313728 for account
+@WhiteHouse
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #934555934067707904 for account
+@AshLeeStrong
+getting all tweets before ID #925444227030544383
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: @RichardRubinDC Good, you’re alive and well fed.
+See you out there.
+
+archiving URL http://twitter.com/AshLeeStrong/status/934568170521755649
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+archiving URL https://twitter.com/AshLeeStrong/status/934568170521755649
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934551607596986368 for account
+@realDonaldTrump
+getting all tweets before ID #925497025386500095
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Wow, even I didn’t realize we did so much.
+Wish the Fake News would report! Thank you. https://t.co/ApVbu2b0Jd
+
+archiving URL http://twitter.com/realDonaldTrump/status/934563828834164739
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #934446372824211456 for account
+@SecretarySonny
+
+archiving URL https://twitter.com/realDonaldTrump/status/934563828834164739
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #933696660034560000 for account
+@SecretaryPerry
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+... OK, we're set up, and about to watch 828613457020870657, 733751245,
+212262370, 18906561, 822127086194348032, 15985455, 20733972, 888031054141022209,
+ 827258161841135623, 105267762, 620571475, 829782369670410240, 52544275,
+818910970567344128, 18916432, 823638938590085124, 818876014390603776,
+1923451808, 22203756, 65522706, 20776147, 823367015830323201,
+819992522109894658, 471672239, 29547260, 866746592853979137, 803703725730779136,
+ 798195585824104449, 37666984, 108471631, 831482588246196225,
+822215679726100480, 799764016885329921, 819980276570976256, 836305915452272641,
+6577802, 24578794, 836724024688410625, 892173412818354177, 826065858548133888,
+832672006113931269, 599530439, 818927131883356161, 822215673812119553,
+809836066316451840, 296060169, 728361177986797568, 25073877, 842072478834909184,
+ 1180379185, 830128820447539208, 828997388920619008
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
