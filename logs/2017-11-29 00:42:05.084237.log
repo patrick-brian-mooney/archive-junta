@@ -1,0 +1,220 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Wednesday, 29 November 2017 at 00:42
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #933349414835576834 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #935723143368462336 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 501197 (char 501196)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 509397 (char 509396)
+about to get all tweets newer than ID #935635098694832129 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508933 (char 508932)
+about to get all tweets newer than ID #935663524210200576 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502642 (char 502641)
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #935728170975875083 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 508595 (char 508594)
+about to get all tweets newer than ID #934446372824211456 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510840 (char 510839)
+about to get all tweets newer than ID #935720011393626113 for account
+@KellyannePolls
+about to get all tweets newer than ID #935658765466075137 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503147 (char 503146)
+about to get all tweets newer than ID #935652983232188416 for account
+@SecondLady
+about to get all tweets newer than ID #935555948684496896 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505543 (char 505542)
+about to get all tweets newer than ID #935630766846939136 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 501605 (char 501604)
+about to get all tweets newer than ID #935547075093295104 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510836 (char 510835)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+about to get all tweets newer than ID #935643095147958273 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504035 (char 504034)
+about to get all tweets newer than ID #935692301522882560 for account
+@AshLeeStrong
+getting all tweets before ID #926261890719862783
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #935721234846900224 for account
+@Scaramucci
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #935661414332682241 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508429 (char 508428)
+about to get all tweets newer than ID #933749689714991105 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #929769209055338496 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #935628698627313665 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 505548 (char 505547)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510723 (char 510722)
+about to get all tweets newer than ID #935498951104585728 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505950 (char 505949)
+about to get all tweets newer than ID #928306806681735168 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510388 (char 510387)
+about to get all tweets newer than ID #935600579929309184 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 508941 (char 508940)
+about to get all tweets newer than ID #935603301596282880 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505843 (char 505842)
+about to get all tweets newer than ID #935670898031583232 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 510387 (char 510386)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506494 (char 506493)
+about to get all tweets newer than ID #935689292290187264 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504593 (char 504592)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #933713814859780098 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507878 (char 507877)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509315 (char 509314)
+about to get all tweets newer than ID #935660741847330816 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506995 (char 506994)
+about to get all tweets newer than ID #935602234213257216 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504096 (char 504095)
+about to get all tweets newer than ID #935713791765110785 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505536 (char 505535)
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504060 (char 504059)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #935565566785523713 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #935618071116513281 for account
+@nikkihaley
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #935682225676353537 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505051 (char 505050)
+... OK, we're set up, and about to watch 798195585824104449, 620571475,
+105267762, 599530439, 212262370, 18916432, 822215673812119553, 22203756,
+828613457020870657, 842072478834909184, 471672239, 52544275, 822127086194348032,
+ 836724024688410625, 799764016885329921, 1923451808, 830128820447539208,
+15985455, 20733972, 831482588246196225, 296060169, 24578794, 892173412818354177,
+ 823638938590085124, 866746592853979137, 809836066316451840, 18906561,
+822215679726100480, 803703725730779136, 20776147, 828997388920619008,
+827258161841135623, 819992522109894658, 733751245, 728361177986797568,
+1180379185, 818927131883356161, 29547260, 832672006113931269, 108471631,
+823367015830323201, 818876014390603776, 25073877, 888031054141022209, 6577802,
+829782369670410240, 65522706, 819980276570976256, 37666984, 836305915452272641,
+826065858548133888, 818910970567344128
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1252
+more expected)', IncompleteRead(0 bytes read, 1252 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
