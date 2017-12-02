@@ -1,0 +1,454 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Friday, 01 December 2017 at 15:23
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #936643457468203008 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 503580 (char 503579)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #936714549604110336 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #936596010691948544 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=DanScavino&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6481eac>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Linda_McMahon&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb662318c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936713881711529986 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=realDonaldTrump&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb664ad4c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936243259688529920 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=IvankaTrump&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb648422c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936637565167374337 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=FLOTUS&count=200 (Caused by N
+ewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+ object at 0xb6612fac>: Failed to establish a new connection: [Errno -2] Name or
+ service not known',))
+about to get all tweets newer than ID #936347645743902721 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SBALinda&count=200 (Caused by
+ NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnecti
+on object at 0xb64847cc>: Failed to establish a new connection: [Errno -2] Name
+or service not known',))
+about to get all tweets newer than ID #936606249944338432 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=KellyannePolls&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb664a30c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936299258340433920 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=BetsyDeVosED&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb664aa2c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=BetsyDeVos&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb662396c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=MELANIATRUMP&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb662ee0c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936711268274077696 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=PRyan&count=200 (Caused by Ne
+wConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6612eec>: Failed to establish a new connection: [Errno -2] Name or
+service not known',))
+about to get all tweets newer than ID #936693621977505799 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretaryZinke&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65e2fec>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=GeneralJFKellly&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb654e0cc>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936715798705471493 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Scavino45&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6623d0c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+ERROR: unable to get tweets for account @StephenMillerAL
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=StephenMillerAL&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65a77ec>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=GovPenceIN&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb662e68c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936626275279626240 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretaryCarson&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb654e24c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936648715640737792 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=nikkihaley&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb65de7ac>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936449389127708674 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=PressSec&count=200 (Caused by
+ NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnecti
+on object at 0xb6623f2c>: Failed to establish a new connection: [Errno -2] Name
+or service not known',))
+about to get all tweets newer than ID #936683559397543936 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SpeakerRyan&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb65de9cc>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936641295619108864 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=seanspicer&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb664aacc>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936652556805246977 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=JessicaDitto45&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb662ef6c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936688344108384256 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=EPAScottPruitt&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb664de8c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936371949953003521 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=TomBossert45&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6481e8c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936004212240068613 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=GovernorPerry&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb664a76c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecPriceMD&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6612f0c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=MickMulvaneyOMB&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65deaec>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936633952021958657 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecShulkin&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb662334c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Reince&count=200 (Caused by N
+ewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+ object at 0xb64847cc>: Failed to establish a new connection: [Errno -2] Name or
+ service not known',))
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SenDanCoats&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb664d02c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+ERROR: unable to get tweets for account @WilburRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=WilburRoss&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb662e74c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=ElaineChao&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6488c6c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936669453730840576 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Scaramucci&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb65de5cc>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936687017974554624 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=AshLeeStrong&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6484f6c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=mike_pence&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb65e214c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936344013279506433 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretaryPerry&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb662e3ac>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #-1 for account @jaredkushner
+ERROR: unable to get tweets for account @jaredkushner
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=jaredkushner&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb655cacc>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936603391962296322 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretaryAcosta&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65def0c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=RepTomPrice&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb662e4cc>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936703092594302977 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=VP&count=200 (Caused by NewCo
+nnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6660c0c>: Failed to establish a new connection: [Errno -2] Name or
+service not known',))
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretaryRoss&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6660dcc>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936671139358826498 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecondLady&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb655c98c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936709011596042240 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=IvankaTrumpHQ&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65cbe6c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936605376631406592 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecretarySonny&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6484c6c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #935630766846939136 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=stevenmnuchin1&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65cb08c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936717947053232128 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=WhiteHouse&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb654ec6c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=RealBenCarson&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65de36c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+... OK, we're set up, and about to watch 823638938590085124, 1923451808,
+803703725730779136, 826065858548133888, 822215679726100480, 620571475, 65522706,
+ 25073877, 52544275, 818876014390603776, 819992522109894658, 471672239,
+828997388920619008, 599530439, 108471631, 733751245, 827258161841135623,
+892173412818354177, 823367015830323201, 728361177986797568, 15985455,
+828613457020870657, 37666984, 818927131883356161, 18916432, 20776147,
+836724024688410625, 832672006113931269, 866746592853979137, 18906561,
+829782369670410240, 888031054141022209, 831482588246196225, 20733972, 212262370,
+ 809836066316451840, 105267762, 24578794, 296060169, 22203756,
+830128820447539208, 29547260, 819980276570976256, 6577802, 818910970567344128,
+836305915452272641, 822127086194348032, 798195585824104449, 842072478834909184,
+799764016885329921, 822215673812119553, 1180379185
