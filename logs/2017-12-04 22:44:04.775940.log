@@ -1,0 +1,242 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Monday, 04 December 2017 at 22:44
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #937510909492322304 for account
+@seanspicer
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #936983467916713984 for account
+@stevenmnuchin1
+getting all tweets before ID #875363299998781440
+    ...313 tweets downloaded so far
+about to get all tweets newer than ID #937502032881123328 for account @Scavino45
+
+
+New tweet from stevenmnuchin1: Today, I met with Libyan PM Fayez al-Serraj and
+ discussed the U.S. - Libyan bilateral economic relationship. I look…
+https://t.co/Ncjts7xxxt
+
+archiving URL http://twitter.com/stevenmnuchin1/status/937834988392931329
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/937834988392931329
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #937824122582814720 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505546 (char 505545)
+about to get all tweets newer than ID #937369789504344064 for account
+@DanScavino
+about to get all tweets newer than ID #936709011596042240 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #937870385151991808 for account
+@AshLeeStrong
+about to get all tweets newer than ID #937795292312698881 for account
+@SecretarySonny
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 509949 (char 509948)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #936637565167374337 for account @FLOTUS
+about to get all tweets newer than ID #937814124188356609 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510386 (char 510385)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #937869705133608968 for account
+@SpeakerRyan
+about to get all tweets newer than ID #937365346285244416 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504535 (char 504534)
+about to get all tweets newer than ID #937785496469753856 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 508445 (char 508444)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502124 (char 502123)
+about to get all tweets newer than ID #937831323766607872 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504469 (char 504468)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #937288216935387136 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #937094537205440512 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #937821748182925312 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #937835485556338693 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508653 (char 508652)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #928448335584858113 for account @Reince
+about to get all tweets newer than ID #937803825108475905 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #937846737041022977 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #937804805522841601 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Invalid \uXXXX escape:
+ line 1 column 510387 (char 510386)
+about to get all tweets newer than ID #937893136189284352 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #937661677700550656 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 506421 (char 506420)
+about to get all tweets newer than ID #937821650120331264 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508436 (char 508435)
+about to get all tweets newer than ID #936626275279626240 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 503147 (char 503146)
+about to get all tweets newer than ID #936860838039654401 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=MELANIATRUMP&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb630160c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #936299258340433920 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #937839187390353408 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=PRyan&count=200 (Caused by Ne
+wConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6409acc>: Failed to establish a new connection: [Errno -2] Name or
+service not known',))
+about to get all tweets newer than ID #937875970383663104 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=IvankaTrump&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb64094ac>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #936643457468203008 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #937732185485987840 for account
+@KellyannePolls
+about to get all tweets newer than ID #936941908064178177 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506189 (char 506188)
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+... OK, we're set up, and about to watch 20776147, 65522706, 799764016885329921,
+ 823367015830323201, 822127086194348032, 620571475, 798195585824104449,
+888031054141022209, 296060169, 842072478834909184, 15985455, 29547260,
+818876014390603776, 37666984, 826065858548133888, 18916432, 822215679726100480,
+22203756, 1923451808, 832672006113931269, 892173412818354177, 212262370,
+6577802, 818910970567344128, 105267762, 18906561, 819992522109894658,
+827258161841135623, 24578794, 803703725730779136, 728361177986797568, 20733972,
+830128820447539208, 599530439, 822215673812119553, 831482588246196225,
+836724024688410625, 25073877, 829782369670410240, 818927131883356161,
+828613457020870657, 819980276570976256, 1180379185, 108471631,
+828997388920619008, 733751245, 52544275, 823638938590085124, 809836066316451840,
+ 471672239, 866746592853979137, 836305915452272641
