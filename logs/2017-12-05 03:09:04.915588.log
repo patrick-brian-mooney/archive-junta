@@ -180,3 +180,89 @@ ERROR: unable to get tweets for account @stevenmnuchin1
            the system said: Failed to parse JSON payload: Unterminated string
 starting at: line 1 column 506377 (char 506376)
 about to get all tweets newer than ID #937839187390353408 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #937804805522841601 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505718 (char 505717)
+about to get all tweets newer than ID #936299258340433920 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #936860838039654401 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #937893136189284352 for account
+@JessicaDitto45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+ERROR: unable to get tweets for account @jaredkushner
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=ElaineChao (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb667292c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #937835485556338693 for account
+@Scaramucci
+about to get all tweets newer than ID #937288216935387136 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #937846737041022977 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 503053 (char 503052)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #937821748182925312 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+... OK, we're set up, and about to watch 6577802, 818910970567344128, 52544275,
+892173412818354177, 798195585824104449, 18916432, 471672239, 832672006113931269,
+ 22203756, 842072478834909184, 809836066316451840, 65522706, 819992522109894658,
+ 1180379185, 599530439, 836305915452272641, 830128820447539208, 20776147,
+823367015830323201, 296060169, 620571475, 20733972, 818876014390603776,
+1923451808, 212262370, 822127086194348032, 828613457020870657,
+818927131883356161, 37666984, 25073877, 803703725730779136, 823638938590085124,
+822215679726100480, 866746592853979137, 799764016885329921, 733751245,
+831482588246196225, 828997388920619008, 819980276570976256, 836724024688410625,
+29547260, 108471631, 728361177986797568, 15985455, 105267762, 24578794,
+18906561, 822215673812119553, 826065858548133888, 827258161841135623,
+829782369670410240, 888031054141022209
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
