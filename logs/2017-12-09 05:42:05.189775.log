@@ -65,3 +65,210 @@ HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
 timeout=60)
 about to get all tweets newer than ID #938052857873555456 for account
 @IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939375570919612416 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939267789486948353 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939408211735646208 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939278924261003264 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939148655071817728 for account @FLOTUS
+about to get all tweets newer than ID #939095399071141888 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939209961489555456 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+ERROR: unable to get tweets for account @StephenMillerAL
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #937834988392931329 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939258088200261632 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504593 (char 504592)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #938872791843078147 for account
+@StephGrisham45
+about to get all tweets newer than ID #939267101197553664 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506181 (char 506180)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #939319402931122176 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939148092909211648 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939167307728850945 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939239292047691777 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SpeakerRyan (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb64c404c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939306156056563712 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=EPAScottPruitt
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6458aac>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #939268060816351232 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508443 (char 508442)
+about to get all tweets newer than ID #939274968596131841 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506490 (char 506489)
+about to get all tweets newer than ID #939227121293168640 for account
+@JessicaDitto45
+getting all tweets before ID #925113030114934783
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #939141525874802689 for account
+@SecretaryAcosta
+
+
+New tweet from JessicaDitto45: RT @fema: Today President Trump signed an
+emergency declaration for the California wildfires. This provides federal
+emergency aid to supple…
+
+archiving URL http://twitter.com/JessicaDitto45/status/939227299139944448
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #939228773391699968 for account
+@BetsyDeVosED
+
+archiving URL https://twitter.com/JessicaDitto45/status/939227299139944448
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from JessicaDitto45: RT @CalOES_Dir: Based on Governors request,
+appreciate support from @fema @fema9 &amp; WH to add federal operational assets
+to the #CaliforniaW…
+
+archiving URL http://twitter.com/JessicaDitto45/status/939227710181781512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/939227710181781512
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #938865975038038016 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SBALinda (Caused by
+ NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnecti
+on object at 0xb659b4cc>: Failed to establish a new connection: [Errno -2] Name
+or service not known',))
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939230362995183617 for account
+@SecretaryCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #939277259549978624 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+... OK, we're set up, and about to watch 829782369670410240, 52544275,
+892173412818354177, 22203756, 809836066316451840, 108471631, 29547260,
+471672239, 823367015830323201, 866746592853979137, 18906561, 20733972,
+1180379185, 836305915452272641, 827258161841135623, 24578794,
+798195585824104449, 25073877, 831482588246196225, 620571475, 733751245,
+803703725730779136, 818876014390603776, 830128820447539208, 20776147,
+728361177986797568, 799764016885329921, 37666984, 65522706, 823638938590085124,
+842072478834909184, 599530439, 818927131883356161, 818910970567344128,
+826065858548133888, 296060169, 18916432, 6577802, 832672006113931269,
+822127086194348032, 822215673812119553, 836724024688410625, 819980276570976256,
+888031054141022209, 828997388920619008, 1923451808, 819992522109894658,
+15985455, 828613457020870657, 212262370, 822215679726100480, 105267762
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

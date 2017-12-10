@@ -1,0 +1,222 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Saturday, 09 December 2017 at 15:38
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939230362995183617 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505537 (char 505536)
+about to get all tweets newer than ID #939499208549306369 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939306156056563712 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 509890 (char 509889)
+about to get all tweets newer than ID #939565386198142977 for account
+@WhiteHouse
+about to get all tweets newer than ID #939616077356642304 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509334 (char 509333)
+about to get all tweets newer than ID #939610694537891841 for account
+@nikkihaley
+about to get all tweets newer than ID #938865975038038016 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507459 (char 507458)
+about to get all tweets newer than ID #939560256593645568 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 853354 (char 853353)
+about to get all tweets newer than ID #939505195381350401 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504591 (char 504590)
+about to get all tweets newer than ID #938052857873555456 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507441 (char 507440)
+about to get all tweets newer than ID #939155810277642240 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 507869 (char 507868)
+about to get all tweets newer than ID #939522709020700672 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504584 (char 504583)
+about to get all tweets newer than ID #939268060816351232 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939528299470118912 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510373 (char 510372)
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #939257995644624897 for account
+@IvankaTrump
+getting all tweets before ID #914813636941623295
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506810 (char 506809)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #939564526969737216 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #939502594178932736 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 873827 (char 873826)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #939514128514928646 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #939598561649614849 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 508444 (char 508443)
+about to get all tweets newer than ID #939268759449145344 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #939174898253131778 for account
+@AshLeeStrong
+getting all tweets before ID #928649335436447743
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: https://t.co/hSE2OckcRZ
+
+archiving URL http://twitter.com/AshLeeStrong/status/939612062606680066
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #939141525874802689 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #939587205051441152 for account
+@Scaramucci
+about to get all tweets newer than ID #939585291177865216 for account
+@SpeakerRyan
+about to get all tweets newer than ID #937288216935387136 for account
+@GovernorPerry
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #937834988392931329 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #939152289587228672 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #939278924261003264 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939572506477891584 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505916 (char 505915)
+about to get all tweets newer than ID #939522329322967040 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506949 (char 506948)
+about to get all tweets newer than ID #939351851765522432 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508389 (char 508388)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #939565432092155906 for account @Scavino45
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #939553534520983553 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+... OK, we're set up, and about to watch 1923451808, 828613457020870657,
+830128820447539208, 832672006113931269, 822215673812119553, 25073877, 37666984,
+819992522109894658, 822215679726100480, 620571475, 798195585824104449,
+866746592853979137, 823638938590085124, 822127086194348032, 20776147,
+888031054141022209, 15985455, 52544275, 6577802, 836724024688410625,
+803703725730779136, 836305915452272641, 892173412818354177, 842072478834909184,
+829782369670410240, 599530439, 828997388920619008, 827258161841135623,
+818910970567344128, 728361177986797568, 296060169, 819980276570976256, 29547260,
+ 24578794, 18916432, 18906561, 212262370, 799764016885329921, 20733972,
+65522706, 105267762, 733751245, 818927131883356161, 818876014390603776,
+471672239, 1180379185, 108471631, 826065858548133888, 823367015830323201,
+22203756, 809836066316451840, 831482588246196225
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
