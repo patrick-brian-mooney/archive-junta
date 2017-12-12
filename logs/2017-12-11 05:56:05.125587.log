@@ -1,0 +1,66 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Monday, 11 December 2017 at 05:56
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #939910085978963968 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #939680494756810754 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #934590789518286848 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #939967625362276354 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #937288216935387136 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508909 (char 508908)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506985 (char 506984)
+about to get all tweets newer than ID #923261387434012672 for account
+@SecretaryRoss
+about to get all tweets newer than ID #940038902286491649 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939152289587228672 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #939943007280943107 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #939916213282537472 for account
+@JessicaDitto45
