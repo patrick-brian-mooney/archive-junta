@@ -1,0 +1,559 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.43-2+deb8u5 (2017-09-19)', machine='i686')
+This log was begun Monday, 18 December 2017 at 01:03
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #941501015274213376 for account
+@KellyannePolls
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #942603979816611840 for account
+@AshLeeStrong
+getting all tweets before ID #930604461046816767
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #942490398676738050 for account @PressSec
+getting all tweets before ID #926682649044779007
+    ...400 tweets downloaded so far
+
+
+New tweet from PressSec: Contrast President Trump's success against ISIS vs.
+President Obama's appeasement of terrorists https://t.co/TLklHDbPJi
+
+archiving URL http://twitter.com/PressSec/status/942590057239769088
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941351899462332416 for account
+@BetsyDeVosED
+
+archiving URL https://twitter.com/PressSec/status/942590057239769088
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941463188490653698 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506992 (char 506991)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #942441512109072385 for account
+@WhiteHouse
+getting all tweets before ID #935631894699544576
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: "As President, my greatest duty is to protect our
+nation and to protect our people." Read more of President Trump's…
+https://t.co/3h4AH5pjRq
+
+archiving URL http://twitter.com/WhiteHouse/status/942457624779423744
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/WhiteHouse/status/942457624779423744
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #942014627617169408 for account
+@SecretaryPerry
+
+
+New tweet from WhiteHouse: "Together we are unleashing a new era of American
+prosperity, perhaps like we have never seen before." Read the clo…
+https://t.co/JQN7Kx9sQ7
+
+archiving URL http://twitter.com/WhiteHouse/status/942496131438624768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/942496131438624768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #942429542660141056 for account
+@GovernorPerry
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Wonderful weekend at Camp
+David. A very special place. A lot of very important work done. Heading back to
+the @WhiteHo…
+
+archiving URL http://twitter.com/WhiteHouse/status/942503220584370176
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #941740697538957312 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #941822227485401088 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #942490399939194880 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504466 (char 504465)
+about to get all tweets newer than ID #941756144384651264 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #942420616262668293 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #942447006026518528 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #941821927882215424 for account @PRyan
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #942112230455300096 for account
+@JessicaDitto45
+about to get all tweets newer than ID #942274765674500096 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #942171573108314112 for account
+@IvankaTrump
+getting all tweets before ID #920731344220680193
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: RT @Scavino45: “55 years ago, President John F.
+Kennedy – a Democrat – launched a historic effort to pass sweeping, top-to-
+bottom tax cuts.…
+
+archiving URL http://twitter.com/IvankaTrump/status/942446485567889408
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #942440099501039616 for account @Scavino45
+
+archiving URL https://twitter.com/IvankaTrump/status/942446485567889408
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #935630752192057343
+
+
+New tweet from IvankaTrump: RT @senrobportman: Happy Wright Brothers Day to
+all the #Ohio scientists, entrepreneurs, inventors, builders, and doers who
+carry on their…
+
+archiving URL http://twitter.com/IvankaTrump/status/942446746344591363
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/942446746344591363
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @serenawilliams: https://t.co/O06y30NIgJ
+
+archiving URL http://twitter.com/IvankaTrump/status/942448208202158080
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: Such amazing history at Camp David. Here is
+President Ronald Reagan writing his State of the Union Address in 1985.…
+https://t.co/cRlFnrLBWe
+
+archiving URL http://twitter.com/Scavino45/status/942457589568335872
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+
+archiving URL https://twitter.com/IvankaTrump/status/942448208202158080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/942457589568335872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @FoxNews: .@IvankaTrump has expressed her
+enthusiasm for the GOP tax reform bill, which Treasury Secretary @stevenmnuchin1
+ told @FoxNews…
+
+archiving URL http://twitter.com/IvankaTrump/status/942504938025967616
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @ArlingtonNatl: Thank you to the more than 75k
+volunteers who braved the cold weather and heavy traffic to help #HonorThem
+during @Wreat…
+
+archiving URL http://twitter.com/Scavino45/status/942473851455393794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/942504938025967616
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941403652010463233 for account @FLOTUS
+
+archiving URL https://twitter.com/Scavino45/status/942473851455393794
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @marcorubio: The increased Child Tax Credit,
+along with the strong pro-growth, pro-American jobs provisions already contained
+ in the leg…
+
+archiving URL http://twitter.com/IvankaTrump/status/942583315692965888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: December 17, 1903
+
+The Wright Brothers make their
+first successful flights in a heavier-than-air, mechanically prop…
+https://t.co/IcWHTyKqqI
+
+archiving URL http://twitter.com/Scavino45/status/942497741460164608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/942583315692965888
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941784413326716929 for account @SBALinda
+
+archiving URL https://twitter.com/Scavino45/status/942497741460164608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @Astro_Sabot: Hello Little Rock, Memphis,
+Jackson, New Orleans, Birmingham, Miami, and many places in between!
+#SpaceIsCloserThanYouThi…
+
+archiving URL http://twitter.com/IvankaTrump/status/942586154930589696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Wonderful weekend at Camp
+David. A very special place. A lot of very important work done. Heading back to
+the @WhiteHo…
+
+archiving URL http://twitter.com/Scavino45/status/942503609408860163
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #942423807133999104 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507905 (char 507904)
+about to get all tweets newer than ID #939152289587228672 for account @Reince
+
+archiving URL https://twitter.com/Scavino45/status/942503609408860163
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “Readout of President @realDonaldTrump’s Call with
+President Vladimir Putin” https://t.co/iqbMgGiVlw
+
+archiving URL http://twitter.com/Scavino45/status/942514750075830272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/942514750075830272
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+
+
+New tweet from Scavino45: President Trump returns to the @WhiteHouse after a
+busy weekend at Camp David - and big week ahead! https://t.co/SarcOOdVU3
+
+archiving URL http://twitter.com/Scavino45/status/942515739696779265
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/942515739696779265
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #942502560329551872 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #941693594490101762 for account
+@SecretaryCarson
+about to get all tweets newer than ID #942479937604407296 for account
+@nikkihaley
+
+
+New tweet from Scavino45: RT @realDonaldTrump: More than a century after
+conquering flight, the #WrightBrothers continue to motivate &amp; inspire
+Americans, who never t…
+
+archiving URL http://twitter.com/Scavino45/status/942552122893185025
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+
+archiving URL https://twitter.com/Scavino45/status/942552122893185025
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941435065812377601 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #942159722429460480 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #942422647329185792 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #942552004936785926 for account @POTUS
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #942185425099284480 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 1042481 (char 1042480)
+about to get all tweets newer than ID #942379180540481537 for account @VP
+getting all tweets before ID #930587753506574335
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: RT @realDonaldTrump: As a candidate, I promised we would
+pass a massive TAX CUT for the everyday working American families who are the
+back…
+
+archiving URL http://twitter.com/VP/status/942458964050153472
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #942439739264831488 for account
+@realDonaldTrump
+
+archiving URL https://twitter.com/VP/status/942458964050153472
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #932392209445457919
+
+
+New tweet from VP: RT @realDonaldTrump: More than a century after conquering
+flight, the #WrightBrothers continue to motivate &amp; inspire Americans, who
+never t…
+
+archiving URL http://twitter.com/VP/status/942551971659120640
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Wonderful weekend at Camp David. A very
+special place. A lot of very important work done. Heading back to the…
+https://t.co/jN86UYnzYa
+
+archiving URL http://twitter.com/realDonaldTrump/status/942503059103604736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+archiving URL https://twitter.com/realDonaldTrump/status/942503059103604736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/942551971659120640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: More than a century after conquering flight,
+the #WrightBrothers continue to motivate &amp; inspire Americans, who neve…
+https://t.co/QPzu1tZjLZ
+
+archiving URL http://twitter.com/realDonaldTrump/status/942551516564639744
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/realDonaldTrump/status/942551516564639744
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #941800042150670338 for account
+@IvankaTrumpHQ
+... OK, we're set up, and about to watch 471672239, 22203756, 296060169,
+818927131883356161, 828997388920619008, 866746592853979137, 892173412818354177,
+29547260, 826065858548133888, 108471631, 822215673812119553, 65522706,
+830128820447539208, 18906561, 823638938590085124, 799764016885329921, 6577802,
+24578794, 888031054141022209, 831482588246196225, 819980276570976256, 733751245,
+ 836305915452272641, 836724024688410625, 620571475, 52544275,
+823367015830323201, 1923451808, 818876014390603776, 819992522109894658,
+18916432, 20733972, 1180379185, 827258161841135623, 828613457020870657,
+37666984, 105267762, 832672006113931269, 822127086194348032, 842072478834909184,
+ 809836066316451840, 822215679726100480, 803703725730779136, 20776147,
+818910970567344128, 25073877, 829782369670410240, 212262370, 15985455,
+599530439, 728361177986797568, 798195585824104449
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: Pikachu https://t.co/N4UyIeCeDh
+
+archiving URL http://twitter.com/Scaramucci/status/942708598051831809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @60Minutes: Congress must aggressively
+investigate the pharmaceutical industry's role in the opioid crisis, says New
+Hampshire…
+
+archiving URL http://twitter.com/Scaramucci/status/942708704482349056
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1112
+more expected)', IncompleteRead(0 bytes read, 1112 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2008
+more expected)', IncompleteRead(0 bytes read, 2008 more expected)); sleeping and
+ trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1951
+more expected)', IncompleteRead(0 bytes read, 1951 more expected)); sleeping and
+ trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2 more
+ expected)', IncompleteRead(0 bytes read, 2 more expected)); sleeping and trying
+ again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
