@@ -265,3 +265,41 @@ about to get all tweets newer than ID #945008127526817792 for account @POTUS
 WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
 more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
 trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1622
+more expected)', IncompleteRead(0 bytes read, 1622 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+944766091166932992,
+                       'id_str': '944766091166932992',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1514154541383'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 944766091166932992 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 944766091166932992 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/944766091166932992
+Don’t miss @NoradNorthcom’s #NoradTracksSanta @NoradSanta!
+https://t.co/Tu1ywZ3u7R
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
