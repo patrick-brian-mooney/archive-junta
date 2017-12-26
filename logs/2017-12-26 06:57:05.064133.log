@@ -1,0 +1,23 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Tuesday, 26 December 2017 at 06:57
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507475 (char 507474)
+about to get all tweets newer than ID #943949344738349063 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #945412679887413248 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #945325913444618240 for account
+@nikkihaley
