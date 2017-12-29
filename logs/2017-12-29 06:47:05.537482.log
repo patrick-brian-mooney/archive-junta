@@ -1,0 +1,79 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 29 December 2017 at 06:47
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #946484911980056578 for account
+@SecretaryZinke
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #946497500634124288 for account
+@SpeakerRyan
+about to get all tweets newer than ID #946184802096513025 for account
+@seanspicer
+about to get all tweets newer than ID #946526973702045697 for account @POTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #945412679887413248 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #945045186899570693 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #945250460880928768 for account
+@SecretarySonny
+about to get all tweets newer than ID #945432117319680000 for account
+@GovernorPerry
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #946035200471027712 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #946473690757087232 for account
+@AshLeeStrong
+about to get all tweets newer than ID #946504185947795456 for account @VP
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #946575858717872129 for account @Scavino45
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #945836760617103361 for account
+@SecondLady
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+about to get all tweets newer than ID #946607890487488514 for account
+@nikkihaley
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #946469698497105921 for account
+@SecShulkin
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #946257048035086336 for account
+@KellyannePolls
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #946564160330125313 for account
+@Scaramucci
+getting all tweets before ID #932775806102921215
+    ...399 tweets downloaded so far
+about to get all tweets newer than ID #946573741848498176 for account
+@WhiteHouse
+
+
+New tweet from Scaramucci: RT @BarstoolBigCat: Pardon My Take End Of The Year
+Best Of Podcast  - Featuring Jim Harbaugh, Theo Epstein, Bill Walton, Tom Crean,
+ Danica…
+
+archiving URL http://twitter.com/Scaramucci/status/946739970047447040
+    ... archiving using prefix http://web.archive.org/save/
