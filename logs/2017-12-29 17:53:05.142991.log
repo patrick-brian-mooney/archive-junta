@@ -1,0 +1,313 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 29 December 2017 at 17:53
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #945107090221273093 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecElaineChao
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65d966c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #945432117319680000 for account
+@GovernorPerry
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #946800154736320513 for account
+@SpeakerRyan
+getting all tweets before ID #938603180274970623
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: Important that we support the nonviolent
+protesters in #Iran. This is the result of a regime more focused on proppi…
+https://t.co/fDoePrEtdJ
+
+archiving URL http://twitter.com/SpeakerRyan/status/946847208451837953
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946798344697012227 for account @VP
+
+archiving URL https://twitter.com/SpeakerRyan/status/946847208451837953
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946627730136743936 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #946851437832753158 for account
+@SecretarySonny
+about to get all tweets newer than ID #945045186899570693 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #946865824257716225 for account
+@JessicaDitto45
+about to get all tweets newer than ID #946046285546602496 for account @SBALinda
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #946806880357240832 for account
+@nikkihaley
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #945295587301253120 for account @PRyan
+about to get all tweets newer than ID #946731576687235072 for account
+@realDonaldTrump
+about to get all tweets newer than ID #946809083050512384 for account
+@SecShulkin
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #946898619378143232 for account
+@seanspicer
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #945836760617103361 for account
+@SecondLady
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #945299954049933314 for account @FLOTUS
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #946766565063778304 for account
+@SecretaryPerry
+about to get all tweets newer than ID #945412679887413248 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #946873850276597761 for account @PressSec
+getting all tweets before ID #932652254821343231
+    ...400 tweets downloaded so far
+
+
+New tweet from PressSec: Reports of peaceful protests by Iranian citizens fed
+up with the regime’s corruption and its squandering of the nat…
+https://t.co/a7A26lQkY2
+
+archiving URL http://twitter.com/PressSec/status/946906875462930432
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946753093877854208 for account
+@SecretaryZinke
+
+archiving URL https://twitter.com/PressSec/status/946906875462930432
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946257048035086336 for account
+@KellyannePolls
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #946526973702045697 for account @POTUS
+about to get all tweets newer than ID #946156999041052672 for account
+@TomBossert45
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #946889180205998086 for account @Scavino45
+getting all tweets before ID #937776972830298112
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: “U.S. strongly condemns the arrest of peaceful
+protesters in Iran” https://t.co/S1CG73J6SA
+
+archiving URL http://twitter.com/Scavino45/status/946909080320344064
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #946387776328617984 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #946035200471027712 for account
+@StephGrisham45
+about to get all tweets newer than ID #946750417182093318 for account
+@DanScavino
+about to get all tweets newer than ID #946836221434712064 for account
+@WhiteHouse
+getting all tweets before ID #938953283380621312
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: President Trump is rolling back wasteful and costly
+ regulations that have stood in the way of hardworking Americans…
+https://t.co/q9fAFonbrr
+
+archiving URL http://twitter.com/WhiteHouse/status/946869193533788160
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946473690757087232 for account
+@AshLeeStrong
+
+archiving URL https://twitter.com/WhiteHouse/status/946869193533788160
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946726223861952513 for account
+@IvankaTrump
+about to get all tweets newer than ID #946826533653577729 for account
+@Scaramucci
+... OK, we're set up, and about to watch 832672006113931269, 826065858548133888,
+ 18906561, 1923451808, 1180379185, 18916432, 818910970567344128,
+799764016885329921, 108471631, 842072478834909184, 819980276570976256,
+828613457020870657, 809836066316451840, 836724024688410625, 819992522109894658,
+15985455, 836305915452272641, 37666984, 829782369670410240, 733751245, 25073877,
+ 831482588246196225, 20733972, 20776147, 22203756, 6577802, 822127086194348032,
+888031054141022209, 818876014390603776, 29547260, 830128820447539208,
+828997388920619008, 803703725730779136, 818927131883356161, 827258161841135623,
+471672239, 65522706, 822215679726100480, 866746592853979137, 892173412818354177,
+ 105267762, 212262370, 728361177986797568, 823367015830323201, 599530439,
+798195585824104449, 823638938590085124, 620571475, 822215673812119553,
+296060169, 52544275, 24578794
+
+
+New tweet from PressSec: RT @statedeptspox: U.S. strongly condemns arrest of
+peaceful protestors in #Iran, urges all nations to publicly support Iranian
+people. As…
+
+archiving URL http://twitter.com/PressSec/status/946918801588871168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/946918801588871168
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: Many reports of peaceful protests by Iranian
+citizens fed up with regime’s corruption &amp; its squandering of the nati…
+https://t.co/bL9JMWQ6bZ
+
+archiving URL http://twitter.com/realDonaldTrump/status/946949708915924994
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/946949708915924994
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Many reports of peaceful protests
+by Iranian citizens fed up with regime’s corruption &amp; its squandering of the
+ nation’…
+
+archiving URL http://twitter.com/POTUS/status/946950057496055808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/946950057496055808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Many reports of peaceful
+protests by Iranian citizens fed up with regime’s corruption &amp; its
+squandering of the nation’…
+
+archiving URL http://twitter.com/Scavino45/status/946950119861227520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/946950119861227520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Many reports of peaceful
+protests by Iranian citizens fed up with regime’s corruption &amp; its
+squandering of the nation’…
+
+archiving URL http://twitter.com/WhiteHouse/status/946950195346137088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/946950195346137088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Many reports of peaceful
+protests by Iranian citizens fed up with regime’s corruption &amp; its
+squandering of the nation’…
+
+archiving URL http://twitter.com/JessicaDitto45/status/946950321145896962
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/946950321145896962
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+946911336252018689,
+                       'id_str': '946911336252018689',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1514605566442'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 946911336252018689 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 946911336252018689 for account
+ Scavino45
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: RT @SpeakerRyan: Important that we support the
+nonviolent protesters in #Iran. This is the result of a regime more focused on
+propping up t…
+
+archiving URL http://twitter.com/AshLeeStrong/status/946981978137542657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/946981978137542657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @JasonMillerinDC: Soldier home for holidays
+died saving lives in Bronx inferno https://t.co/TWiU1JDM4h via @nypmetro
+
+archiving URL http://twitter.com/KellyannePolls/status/947073968984424449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/947073968984424449
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: .@POTUS pledged 2 regs out for ever new one in;
+ estimates show actual success of 22 out for every new one in. 
+
+Cut…
+https://t.co/hbPNygFEb0
+
+archiving URL http://twitter.com/KellyannePolls/status/947075673222451200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/947075673222451200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: 2017 was a big year for trade victories at
+@USDA. Beef to China 1st time in 13 years, rice to China 1st time ever.…
+https://t.co/QzdL7eRYZe
+
+archiving URL http://twitter.com/SecretarySonny/status/947094027652001792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/947094027652001792
+    ... archiving using prefix http://web.archive.org/save/
