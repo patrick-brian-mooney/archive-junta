@@ -140,3 +140,70 @@ starting at: line 1 column 510800 (char 510799)
 about to get all tweets newer than ID #-1 for account @jaredkushner
 about to get all tweets newer than ID #947167743513686018 for account
 @nikkihaley
+about to get all tweets newer than ID #946156999041052672 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506309 (char 506308)
+about to get all tweets newer than ID #946387776328617984 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #947138759610585089 for account
+@SecretarySonny
+about to get all tweets newer than ID #946950119861227520 for account @Scavino45
+getting all tweets before ID #938159514393677826
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @realDonaldTrump: The entire world understands
+that the good people of Iran want change, and, other than the vast military
+power of the…
+
+archiving URL http://twitter.com/Scavino45/status/947182592570388480
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/Scavino45/status/947182592570388480
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503068 (char 503067)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Oppressive regimes cannot
+endure forever, and the day will come when the Iranian people will face a
+choice. The world…
+
+archiving URL http://twitter.com/Scavino45/status/947182601760108545
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946981978137542657 for account
+@AshLeeStrong
+
+archiving URL https://twitter.com/Scavino45/status/947182601760108545
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946766565063778304 for account
+@SecretaryPerry
+about to get all tweets newer than ID #946950321145896962 for account
+@JessicaDitto45
+... OK, we're set up, and about to watch 18906561, 22203756, 818910970567344128,
+ 892173412818354177, 20733972, 1923451808, 832672006113931269, 733751245,
+803703725730779136, 18916432, 818876014390603776, 888031054141022209,
+799764016885329921, 823638938590085124, 6577802, 212262370, 827258161841135623,
+822127086194348032, 620571475, 20776147, 828997388920619008, 819980276570976256,
+ 809836066316451840, 822215673812119553, 25073877, 819992522109894658,
+728361177986797568, 818927131883356161, 831482588246196225, 836305915452272641,
+105267762, 24578794, 822215679726100480, 1180379185, 829782369670410240,
+108471631, 471672239, 828613457020870657, 15985455, 826065858548133888,
+52544275, 29547260, 37666984, 866746592853979137, 798195585824104449,
+842072478834909184, 823367015830323201, 65522706, 599530439, 296060169,
+830128820447539208, 836724024688410625
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
