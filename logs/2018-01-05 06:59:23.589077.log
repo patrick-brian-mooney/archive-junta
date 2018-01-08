@@ -1,0 +1,564 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 05 January 2018 at 06:59
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #949071184259411968 for account @POTUS
+about to get all tweets newer than ID #948747150422413312 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #949100880669872129 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 504058 (char 504057)
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #949036189876674562 for account
+@SecretarySonny
+about to get all tweets newer than ID #949023918945439745 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504508 (char 504507)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #949266668773134336 for account
+@nikkihaley
+about to get all tweets newer than ID #949056522302164992 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504462 (char 504461)
+about to get all tweets newer than ID #947908805618257920 for account @FLOTUS
+about to get all tweets newer than ID #949065917471707137 for account @PRyan
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 506460 (char 506459)
+about to get all tweets newer than ID #948930535153373184 for account
+@StephGrisham45
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #949223378854072320 for account
+@seanspicer
+getting all tweets before ID #927427073718681599
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 504555 (char 504554)
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #949250843693510656 for account
+@Scaramucci
+about to get all tweets newer than ID #948983878215139328 for account
+@SecretaryPerry
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #947627191080247296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #949031287494504448 for account @SBALinda
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #949024497465810944 for account
+@SpeakerRyan
+about to get all tweets newer than ID #948746483792310272 for account
+@DanScavino
+about to get all tweets newer than ID #948201736338067456 for account
+@KellyannePolls
+about to get all tweets newer than ID #949023248456540160 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #949106760878645248 for account
+@SecondLady
+about to get all tweets newer than ID #949232399967244288 for account @PressSec
+about to get all tweets newer than ID #949127673430888449 for account
+@JessicaDitto45
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #949015727427719175 for account
+@SecretaryZinke
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #949072414012596225 for account
+@AshLeeStrong
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #949092596378492928 for account
+@WhiteHouse
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #949242950659313669 for account
+@realDonaldTrump
+about to get all tweets newer than ID #949038517274980353 for account
+@SecShulkin
+... OK, we're set up, and about to watch 29547260, 822215679726100480,
+823367015830323201, 15985455, 818910970567344128, 888031054141022209,
+842072478834909184, 799764016885329921, 728361177986797568, 105267762, 37666984,
+ 52544275, 818876014390603776, 733751245, 828613457020870657,
+823638938590085124, 6577802, 20776147, 1923451808, 65522706, 24578794,
+830128820447539208, 599530439, 866746592853979137, 22203756, 819980276570976256,
+ 826065858548133888, 108471631, 819992522109894658, 836305915452272641,
+798195585824104449, 18916432, 620571475, 471672239, 832672006113931269,
+828997388920619008, 822127086194348032, 818927131883356161, 836724024688410625,
+1180379185, 212262370, 892173412818354177, 827258161841135623,
+809836066316451840, 18906561, 829782369670410240, 296060169, 803703725730779136,
+ 822215673812119553, 20733972, 25073877, 831482588246196225
+
+
+New tweet from SecretaryAcosta: The American workforce showed impressive
+strength in 2017 with 2.06 million jobs created. https://t.co/0ZAeaoJaeN
+
+archiving URL http://twitter.com/SecretaryAcosta/status/949287422575239169
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/949287422575239169
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Well, now that collusion with Russia is
+proving to be a total hoax and the only collusion is with Hillary Clinton a…
+https://t.co/9hkgQun4vG
+
+archiving URL http://twitter.com/realDonaldTrump/status/949287555660500992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/949287555660500992
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from seanspicer: Attention Democrats and media.
+https://t.co/S7Z8EoDWu7
+
+archiving URL http://twitter.com/seanspicer/status/949289640355299328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949289640355299328
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: #JobsReport nuggets: 2.1 million jobs in 2017, over
+ 200k average last moths, 25k manufacturing jobs added in Decemb…
+https://t.co/AjFkQe0DPO
+
+archiving URL http://twitter.com/seanspicer/status/949293896042991617
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949293896042991617
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: .@WhiteHouseCEA on 2017: a year of promises
+fulfilled with a strong labor market. And, the President’s emphasis on…
+https://t.co/1oksgLMoMs
+
+archiving URL http://twitter.com/WhiteHouse/status/949295189742571521
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949295189742571521
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @SBAgov: Garrett and Melanie Marrero of
+@mauibrewingco were last year's national Small Business Persons of the Year. Are
+ you this year's…
+
+archiving URL http://twitter.com/SBALinda/status/949298602035372033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/949298602035372033
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @KeithRothfus: GOOD NEWS: Hardworking Americans
+ are already seeing the benefits of our new pro-jobs, pro-growth tax reform law,
+ includin…
+
+archiving URL http://twitter.com/SpeakerRyan/status/949298653633576960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949298653633576960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@POTUS’ pro-JOBS agenda has already resulted in more than
+1.8 million NEW JOBS for hardworking Americans, and in 2…
+https://t.co/rt3uLoSlo2
+
+archiving URL http://twitter.com/VP/status/949300611920662528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/949300611920662528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The Mercer Family recently dumped the leaker
+known as Sloppy Steve Bannon. Smart!
+
+archiving URL http://twitter.com/realDonaldTrump/status/949303089416294401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/949303089416294401
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 479
+more expected)', IncompleteRead(0 bytes read, 479 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecShulkin: RT @AZMorningNews: .@SecShulkin: Top clinical
+priority in 2018 is to reduce veteran suicide. @KTAR923 @DeptVetAffairs
+
+archiving URL http://twitter.com/SecShulkin/status/949305892767453185
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/949305892767453185
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @USTreasury: Treasury sanctions 4 Venezuelan
+gov. officials associated w/ corruption &amp;oppression.  Action highlights
+senior military off…
+
+archiving URL http://twitter.com/WhiteHouse/status/949308604816994306
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949308604816994306
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Jay Timmons, president and CEO of the National
+Association of Manufacturers, on manufacturers' plan to deliver on t…
+https://t.co/UhJG1vLfmz
+
+archiving URL http://twitter.com/WhiteHouse/status/949316316019806209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949316316019806209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Jay Timmons, president and CEO of the National
+Association of Manufacturers, on manufacturers' plan to deliver on t…
+https://t.co/UhJG1vLfmz
+
+archiving URL http://twitter.com/WhiteHouse/status/949316316019806209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949316316019806209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Yesterday, President Trump and Vice President Pence
+ met with a Republican Senate working group on immigration. Read…
+https://t.co/7hoKCR31mg
+
+archiving URL http://twitter.com/WhiteHouse/status/949325409392480256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949325409392480256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/949326945157898240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/949326945157898240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Robert Barro, professor of economics at Harvard, on @POTUS'
+ pro-GROWTH tax cuts: "cutting income taxes on individua…
+https://t.co/9hTPYOAPKZ
+
+archiving URL http://twitter.com/VP/status/949328042043822081
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/949328042043822081
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: President Maduro and his inner circle put their
+ own interests above those of the Venezuelan people. The U.S. stands…
+https://t.co/ZAbRmJzENw
+
+archiving URL http://twitter.com/stevenmnuchin1/status/949328346407735296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/949328346407735296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @AshLeeStrong: Weird to not be happy for your
+constituents.
+
+"A spokeswoman for McCaskill said the Missouri Democrat would not
+ comment o…
+
+archiving URL http://twitter.com/PressSec/status/949329924485074944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/949329924485074944
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+949326945157898240,
+                       'id_str': '949326945157898240',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1515173222377'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 949326945157898240 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 949326945157898240 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/949326945157898240
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from WhiteHouse: RT @stevenmnuchin1: President Maduro and his inner
+circle put their own interests above those of the Venezuelan people. The U.S.
+stands wit…
+
+archiving URL http://twitter.com/WhiteHouse/status/949333927663161344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949333927663161344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: The unemployment rate for African Americans fell
+to 6.8 percent, the lowest ever recorded. We are working hard to b…
+https://t.co/psbMV7ewUH
+
+archiving URL http://twitter.com/IvankaTrump/status/949334430157549570
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/949334430157549570
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: eagle from:speakerryan
+
+archiving URL http://twitter.com/SpeakerRyan/status/949338479804239873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949338479804239873
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+949338479804239873,
+                       'id_str': '949338479804239873',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1515174916535'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 949338479804239873 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 949338479804239873 for account
+ SpeakerRyan
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SpeakerRyan/st
+atus/949338479804239873	eagle from:speakerryan
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+
+
+New tweet from SpeakerRyan: Happy #NationalBirdDay! 🦅 https://t.co/kXePguaNXb
+
+archiving URL http://twitter.com/SpeakerRyan/status/949342459548532742
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949342459548532742
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: This weekend, President Trump will head to Camp
+David where he will host bi-cameral Congressional Leadership. Learn…
+https://t.co/5RWWi5d1iP
+
+archiving URL http://twitter.com/WhiteHouse/status/949342496982753280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949342496982753280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @UnfilteredSE: Didn’t catch @secupp's full hour
+with @seanspicer? Luckily you can check it out on the brand new #Unfiltered
+Podcast! Lis…
+
+archiving URL http://twitter.com/seanspicer/status/949345567322398725
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949345567322398725
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT to agree → Our military readiness is in
+desperate need of repair. https://t.co/4gTjYzMl2c
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350628660318210
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Army → Funding for modernizing the @USArmy has
+been cut in half over the past 8 years.
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350629654351874
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Navy → Insufficient training time, lack of
+resources, and overworked sailors putting in 100-hour work weeks has lef…
+https://t.co/UjhmqbWS0O
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350630660993025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Marines → Over the past decade, the number of
+fatal accidents or those resulting in the loss of aircraft for the…
+https://t.co/pLqeArZbDw
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350631642419201
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Air Force → The @USAirForce today is at its
+smallest size in history. Only half of Air Force combat forces are suff…
+https://t.co/q69yM2rtKL
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350632598704129
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: The House, Senate, and @WhiteHouse are unified in
+our commitment to turn this situation around and ensure our men a…
+https://t.co/ncaRITqfg8
+
+archiving URL http://twitter.com/SpeakerRyan/status/949350633605423104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350629654351874
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350628660318210
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350631642419201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350633605423104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350630660993025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/949350632598704129
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: Wages are going up in Wisconsin! https://t.co/CJbWYoUK0b
+
+archiving URL http://twitter.com/PRyan/status/949353806961266689
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/949353806961266689
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@POTUS Trump knows just how important manufacturing is to
+our nation's success and our people's prosperity. And th…
+https://t.co/BGmcsC3VXW
+
+archiving URL http://twitter.com/VP/status/949356743091539973
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/949356743091539973
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @KateBennett_DC: "Perhaps one day she will tell
+her own truthful story ..." 
+NEW @FLOTUS response to Fire and Fury. 👀
+https://t.co/I76Iz…
+
+archiving URL http://twitter.com/seanspicer/status/949357747618942977
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949357747618942977
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "The stock market is a measure...of the health of
+the economy, but more importantly, it measures the confidence, op…
+https://t.co/EQC92Zj39b
+
+archiving URL http://twitter.com/WhiteHouse/status/949358843678609408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949358843678609408
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...

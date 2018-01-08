@@ -1,0 +1,779 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 05 January 2018 at 12:28
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #949303089416294401 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+ERROR: unable to get tweets for account @jaredkushner
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #949328346407735296 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #948930535153373184 for account
+@StephGrisham45
+about to get all tweets newer than ID #949106760878645248 for account
+@SecondLady
+about to get all tweets newer than ID #949266668773134336 for account
+@nikkihaley
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #949298602035372033 for account @SBALinda
+about to get all tweets newer than ID #949036189876674562 for account
+@SecretarySonny
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #949305892767453185 for account
+@SecShulkin
+about to get all tweets newer than ID #948983878215139328 for account
+@SecretaryPerry
+about to get all tweets newer than ID #949350633605423104 for account
+@SpeakerRyan
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #948746483792310272 for account
+@DanScavino
+about to get all tweets newer than ID #947908805618257920 for account @FLOTUS
+about to get all tweets newer than ID #949356743091539973 for account @VP
+about to get all tweets newer than ID #949353806961266689 for account @PRyan
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #949071184259411968 for account @POTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #949023248456540160 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #949334430157549570 for account
+@IvankaTrump
+about to get all tweets newer than ID #949357747618942977 for account
+@seanspicer
+about to get all tweets newer than ID #949358843678609408 for account
+@WhiteHouse
+about to get all tweets newer than ID #949072414012596225 for account
+@AshLeeStrong
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #949329924485074944 for account @PressSec
+about to get all tweets newer than ID #949287422575239169 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #948747150422413312 for account @Scavino45
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #949127673430888449 for account
+@JessicaDitto45
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #949326945157898240 for account
+@Scaramucci
+about to get all tweets newer than ID #948201736338067456 for account
+@KellyannePolls
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #949015727427719175 for account
+@SecretaryZinke
+... OK, we're set up, and about to watch 25073877, 829782369670410240, 29547260,
+ 18906561, 15985455, 799764016885329921, 105267762, 823638938590085124,
+822127086194348032, 37666984, 866746592853979137, 892173412818354177,
+819992522109894658, 842072478834909184, 22203756, 831482588246196225,
+830128820447539208, 18916432, 6577802, 20733972, 620571475, 818876014390603776,
+818910970567344128, 733751245, 65522706, 822215679726100480, 599530439,
+108471631, 832672006113931269, 836305915452272641, 52544275, 20776147,
+822215673812119553, 296060169, 1923451808, 212262370, 888031054141022209,
+809836066316451840, 803703725730779136, 818927131883356161, 819980276570976256,
+1180379185, 823367015830323201, 798195585824104449, 836724024688410625,
+828613457020870657, 826065858548133888, 728361177986797568, 24578794, 471672239,
+ 828997388920619008, 827258161841135623
+
+
+New tweet from seanspicer: Just to be clear on the @gop @RNCResearch - they
+might have curated the quotes on the graphic but it’s “mainstream”…
+https://t.co/1TecoZfQKE
+
+archiving URL http://twitter.com/seanspicer/status/949370425246732289
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949370425246732289
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+535080631630589952,
+                       'id_str': '535080631630589952',
+
+                       'user_id': 52544275,
+'user_id_str': '52544275'},
+            'timestamp_ms': '1515182658872'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 535080631630589952 on
+ account IvankaTrump
+INFO: get_archived_tweet() called to get tweet ID 535080631630589952 for account
+ IvankaTrump
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because IvankaTrump is not in the list
+ of accounts we tweet about
+
+
+New tweet from WhiteHouse: Read how President Trump thinks bipartisan
+immigration reform can happen in 2018. https://t.co/qfduQwXYEo
+
+archiving URL http://twitter.com/WhiteHouse/status/949372964318990336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949372964318990336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: The House of Reps will vote next week on a
+bipartisan resolution to join the Trump admin in supporting the people o…
+https://t.co/tdoC8fMnSQ
+
+archiving URL http://twitter.com/AshLeeStrong/status/949373721910939648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/949373721910939648
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948727146897428480,
+                       'id_str': '948727146897428480',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183497079'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948727146897428480 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948727146897428480 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948727146897428480
+Readout of President @realDonaldTrump’s Call with President-Elect
+@SebastianPinera of Chile. https://t.co/fGhGlVArLV https://t.co/g08sLu1qAJ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948563055373414401,
+                       'id_str': '948563055373414401',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183512245'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948563055373414401 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948563055373414401 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948563055373414401
+“Trump: Iranian protesters will see great support from US” 
+#IranProtests
+#IranianProtests https://t.co/IcQlyg24EJ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948703825791250435,
+                       'id_str': '948703825791250435',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183528660'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948703825791250435 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948703825791250435 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948703825791250435
+Statement from President Donald J. Trump Regarding the Passing of Thomas S.
+Monson, President of the Church of Jesu… https://t.co/xxthsW2EGL
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948724849693863936,
+                       'id_str': '948724849693863936',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183536117'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948724849693863936 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948724849693863936 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948724849693863936
+RT @realDonaldTrump: Melania and I are deeply saddened by the death of Thomas S.
+ Monson, a beloved President of the Church of Jesus Christ…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948727966284091392,
+                       'id_str': '948727966284091392',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183540870'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948727966284091392 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948727966284091392 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948727966284091392
+RT @SenBobCorker: I applaud the administration, especially @IvankaTrump, for a
+continued focus on combatting modern slavery and human traff…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948747150422413312,
+                       'id_str': '948747150422413312',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515183548625'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948747150422413312 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948747150422413312 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948747150422413312
+RT @realDonaldTrump: MAKE AMERICA GREAT AGAIN!
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948441122724089856,
+                       'id_str': '948441122724089856',
+
+                       'user_id': 620571475,
+'user_id_str': '620571475'},
+            'timestamp_ms': '1515183567806'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948441122724089856 on
+ account DanScavino
+INFO: get_archived_tweet() called to get tweet ID 948441122724089856 for account
+ DanScavino
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/DanScavino/status/948441122724089856
+	RT @TeamTrump: HEY, @POTUS @realDonaldTrump, @DonaldJTrumpJr, @EricTrump,
+@LaraLeaTrump, @DanScavino, @seanhannity, @BenShapiro, ✔️out one…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948002801585672192,
+                       'id_str': '948002801585672192',
+
+                       'user_id': 620571475,
+'user_id_str': '620571475'},
+            'timestamp_ms': '1515183579226'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948002801585672192 on
+ account DanScavino
+INFO: get_archived_tweet() called to get tweet ID 948002801585672192 for account
+ DanScavino
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/DanScavino/status/948002801585672192
+	WHO WINS🏈⁉️
+#CFBPlayoff
+#ROLLTIDE
+#ALLIN
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+947925303350956032,
+                       'id_str': '947925303350956032',
+
+                       'user_id': 620571475,
+'user_id_str': '620571475'},
+            'timestamp_ms': '1515183585239'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 947925303350956032 on
+ account DanScavino
+INFO: get_archived_tweet() called to get tweet ID 947925303350956032 for account
+ DanScavino
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/DanScavino/status/947925303350956032
+	Absolutely. I have a feeling that you’re going to have another championship
+team celebrating in October 2018 over t… https://t.co/HmwMZf36dZ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+
+
+New tweet from PressSec: RT @MarcusReports: Defense Secretary Jim Mattis
+talked to reporters at the Pentagon this afternoon. Asked his biggest military
+concern in 2…
+
+archiving URL http://twitter.com/PressSec/status/949377036711231488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/949377036711231488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: .@JayTimmonsNAM says tax cuts compels
+manufacturers to invest in employees, expansion &amp; equipment.
+Manufacturing… https://t.co/1ozfEMKya2
+
+archiving URL http://twitter.com/KellyannePolls/status/949379796332695557
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/949379796332695557
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: Part 1 of my interview @KevinWallRadio, we spoke
+about the progress made at @DeptVetAffairs over the last year with…
+https://t.co/sLdHmItssg
+
+archiving URL http://twitter.com/SecShulkin/status/949383543423160322
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: In part 2 of the interview, you will hear our
+discussion on @DeptVetAffairs to increase #transparency and…
+https://t.co/hI686JNwth
+
+archiving URL http://twitter.com/SecShulkin/status/949383546048798722
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: Here we discussed @POTUS @realDonaldTrump's
+leadership on #Veterans issues and the importance of our partnerships w…
+https://t.co/kNuxRaw1Db
+
+archiving URL http://twitter.com/SecShulkin/status/949383549521747968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/949383543423160322
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/949383546048798722
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/949383549521747968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Strong jobs report today, including this stat:
+https://t.co/1eaRxNADMX
+
+archiving URL http://twitter.com/KellyannePolls/status/949389029119754241
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/949389029119754241
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Keep 'em coming. https://t.co/CbC59WvqDb
+
+archiving URL http://twitter.com/KellyannePolls/status/949389675227164672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/949389675227164672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump is putting America first in trade
+so American workers aren’t put at a disadvantage. More:… https://t.co/MehL7tTobx
+
+archiving URL http://twitter.com/WhiteHouse/status/949393325219631106
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949393325219631106
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @PARISDENNARD: Facts worth noting about the
+ACTION this Administration is taking to #MAGA for everyone. Part of that #MAGA
+agenda is rem…
+
+archiving URL http://twitter.com/IvankaTrump/status/949396181918117888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/949396181918117888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @IvankaTrump: The unemployment rate for
+African Americans fell to 6.8 percent, the lowest ever recorded. We are working
+hard to bring th…
+
+archiving URL http://twitter.com/JessicaDitto45/status/949396325631774721
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/949396325631774721
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @RajShah45: The lowest in nearly 5 decades
+and a credit to @POTUS economic policies!! https://t.co/CvMQqrqd2M
+
+archiving URL http://twitter.com/JessicaDitto45/status/949396355872645122
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/949396355872645122
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecretaryAcosta: The American workforce
+showed impressive strength in 2017 with 2.06 million jobs created.
+https://t.co/0ZAeaoJaeN
+
+archiving URL http://twitter.com/JessicaDitto45/status/949396529797910529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/949396529797910529
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @CZ: Final Obama regulation bill: $24
+billion in last 16 days, Trump $5.8 billion over 11 months #MAGAnomics
+https://t.co/zTE7J5Gcyj
+
+archiving URL http://twitter.com/JessicaDitto45/status/949396632675766273
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/949396632675766273
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @StateDept: .@USUN Ambassador Haley: In the end,
+ the Iranian people will determine their own destiny. Let there be no doubt the
+U.S. sta…
+
+archiving URL http://twitter.com/WhiteHouse/status/949397800965558272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949397800965558272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: The Washington Post: "Trump’s first-year jobs
+numbers were very, very good" ⬇️  https://t.co/58z5gg2EGh
+
+archiving URL http://twitter.com/WhiteHouse/status/949401124561477633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949401124561477633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: ✈️ https://t.co/9bA2kPuaKL
+
+archiving URL http://twitter.com/PRyan/status/949402628496044032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/949402628496044032
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948356593925664768,
+                       'id_str': '948356593925664768',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190302080'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948356593925664768 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948356593925664768 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948356593925664768
+RT @realDonaldTrump: North Korean Leader Kim Jong Un just stated that the
+“Nuclear Button is on his desk at all times.” Will someone from h…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948255420799479809,
+                       'id_str': '948255420799479809',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190304097'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948255420799479809 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948255420799479809 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948255420799479809
+RT @realDonaldTrump: We will not rest until all of America’s GREAT VETERANS can
+receive the care they so richly deserve. Tremendous progres…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948170445790031873,
+                       'id_str': '948170445790031873',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190308460'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948170445790031873 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948170445790031873 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948170445790031873
+RT @realDonaldTrump: The people of Iran are finally acting against the brutal
+and corrupt Iranian regime. All of the money that President O…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+947999949106696193,
+                       'id_str': '947999949106696193',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190315191'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 947999949106696193 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 947999949106696193 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/947999949106696193
+#IranProtests #IranianProtests https://t.co/lcmuASfLyP
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+947999788754198528,
+                       'id_str': '947999788754198528',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190318759'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 947999788754198528 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 947999788754198528 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/947999788754198528
+#IranProtests #IranianProtests https://t.co/wlv4Lrp30Z
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+948000124860551168,
+                       'id_str': '948000124860551168',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1515190328605'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 948000124860551168 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 948000124860551168 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/948000124860551168
+#IranProtests #IranianProtests https://t.co/yPhJHoHSeP
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+
+
+New tweet from nikkihaley: RT: @USUN: https://t.co/TDxYObT73e
+
+archiving URL http://twitter.com/nikkihaley/status/949408096631361538
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/949408096631361538
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @IvankaTrump: The unemployment rate for African
+Americans fell to 6.8 percent, the lowest ever recorded. We are working hard to
+bring th…
+
+archiving URL http://twitter.com/PressSec/status/949421424225210369
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/949421424225210369
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+937689183501549568,
+                       'id_str': '937689183501549568',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1515196835411'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 937689183501549568 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 937689183501549568 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/937689183501549568
+	RT @cc660: Hello My Name Is Craig First Podcast is alive and right here:
+https://t.co/Pdv73IZaPR   Hope you enjoy it and big thanks to  @Sc…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from PRyan: Despite the Democrats' doom and gloom rhetoric, the
+economy is growing and companies are creating jobs &amp; growing wa…
+https://t.co/DS2mkRZRAt
+
+archiving URL http://twitter.com/PRyan/status/949433330956668929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/949433330956668929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: So I guess this would qualify as fake news?
+BTW the
+ #bacon is to die for https://t.co/cDFLl5hPpR
+
+archiving URL http://twitter.com/seanspicer/status/949434499456229376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/949434499456229376
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(12458 bytes read)',
+IncompleteRead(12458 bytes read)); sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: A behind the scenes look: President Trump met with
+Congressional leaders at Camp David to discuss the 2018 policy a…
+https://t.co/L7A4IXzzfD
+
+archiving URL http://twitter.com/WhiteHouse/status/949458233961406465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/949458233961406465
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

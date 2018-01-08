@@ -1,0 +1,261 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Tuesday, 02 January 2018 at 19:50
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #948279336666320896 for account
+@SecretaryZinke
+about to get all tweets newer than ID #948363899195322368 for account
+@IvankaTrump
+about to get all tweets newer than ID #946156999041052672 for account
+@TomBossert45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #948318266866454528 for account
+@nikkihaley
+about to get all tweets newer than ID #948293399748251649 for account @VP
+getting all tweets before ID #935679221942366208
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: We need freedom loving people everywhere to stand w/
+Iranian people &amp; against the Iranian Revolutionary Guard Corps…
+https://t.co/kc4s6MpMBF
+
+archiving URL http://twitter.com/VP/status/948368071051366400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948334593756860423 for account
+@WhiteHouse
+
+archiving URL https://twitter.com/VP/status/948368071051366400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948201736338067456 for account
+@KellyannePolls
+about to get all tweets newer than ID #947627191080247296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #948013271747121153 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #948362512315056129 for account
+@realDonaldTrump
+about to get all tweets newer than ID #947969993898999813 for account @SBALinda
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #948255678757470211 for account @POTUS
+getting all tweets before ID #935875766193180673
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Congratulations to Senator Orrin
+Hatch on an absolutely incredible career. He has been a tremendous supporter,
+and I w…
+
+archiving URL http://twitter.com/POTUS/status/948319208181501952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948326333725184001 for account
+@Scaramucci
+
+archiving URL https://twitter.com/POTUS/status/948319208181501952
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #933719944315002879
+
+
+New tweet from POTUS: RT @realDonaldTrump: It's not only Pakistan that we pay
+billions of dollars to for nothing, but also many other countries, and others.
+As a…
+
+archiving URL http://twitter.com/POTUS/status/948355478685388800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/948355478685388800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: ...peace treaty with Israel. We
+have taken Jerusalem, the toughest part of the negotiation, off the table, but
+Israel,…
+
+archiving URL http://twitter.com/POTUS/status/948355482888130561
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/948355482888130561
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: North Korean Leader Kim Jong Un
+just stated that the “Nuclear Button is on his desk at all times.” Will someone
+from h…
+
+archiving URL http://twitter.com/POTUS/status/948356678965235713
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/948356678965235713
+    ... archiving using prefix http://web.archive.org/save/
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @nfib_ny: @mpdurant says new labor policies will
+ raise costs for #smallbiz https://t.co/tZhYHloZJI @NYDailyNews
+
+archiving URL http://twitter.com/Scaramucci/status/948349728999333891
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+
+archiving URL https://twitter.com/Scaramucci/status/948349728999333891
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=BetsyDeVosED&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb63ac70c>: Failed to establish a new connection: [Errno
+ 101] Network is unreachable',))
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #947914251523457024 for account
+@StephGrisham45
+getting all tweets before ID #904164324758999039
+    ...399 tweets downloaded so far
+
+
+New tweet from StephGrisham45: RT @CNBC: JUST IN: Southwest Airlines to give
+all full-time and part-time employees a $1,000 cash bonus on Monday &amp;
+company will also make…
+
+archiving URL http://twitter.com/StephGrisham45/status/948334554150002688
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #946627730136743936 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #948348059699826689 for account
+@AshLeeStrong
+
+archiving URL https://twitter.com/StephGrisham45/status/948334554150002688
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #936261393858400259
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: RT @StewSays: Barely two weeks after Congress
+approved a major federal income tax reform, the new law has already trickled
+down to the Polk…
+
+archiving URL http://twitter.com/AshLeeStrong/status/948380806032052225
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+
+archiving URL https://twitter.com/AshLeeStrong/status/948380806032052225
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948261932477374464 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #948261133349244929 for account @Scavino45
+getting all tweets before ID #938592189340356609
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @realDonaldTrump: North Korean Leader Kim Jong Un
+ just stated that the “Nuclear Button is on his desk at all times.” Will someone
+ from h…
+
+archiving URL http://twitter.com/Scavino45/status/948356593925664768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948061791959027712 for account @PressSec
+
+archiving URL https://twitter.com/Scavino45/status/948356593925664768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Carry on w/your night @BrianStelter. While you would
+ love nothing more than to see a Twitter ToS Violation for hand…
+https://t.co/hTmuy4pCet
+
+archiving URL http://twitter.com/Scavino45/status/948378304410718208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/948378304410718208
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #948267398292848641 for account @PRyan
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504068 (char 504067)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #948342797039472647 for account
+@SpeakerRyan
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 677563 (char 677562)
+about to get all tweets newer than ID #947624310629457922 for account
+@SecretaryPerry
+about to get all tweets newer than ID #948347031281655808 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #947694647635259392 for account
+@SecretarySonny
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #948266815679066112 for account
+@SecShulkin
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #946387776328617984 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #947847732923904000 for account
+@JessicaDitto45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #947665157488041984 for account
+@SecondLady
+about to get all tweets newer than ID #947908805618257920 for account @FLOTUS
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+... OK, we're set up, and about to watch 888031054141022209, 65522706,
+827258161841135623, 52544275, 866746592853979137, 105267762, 37666984,
+818910970567344128, 822215673812119553, 471672239, 819980276570976256,
+620571475, 29547260, 25073877, 819992522109894658, 836305915452272641,
+822215679726100480, 24578794, 20733972, 828997388920619008, 212262370, 18906561,
+ 829782369670410240, 823638938590085124, 799764016885329921, 296060169,
+1923451808, 832672006113931269, 823367015830323201, 818927131883356161,
+828613457020870657, 6577802, 733751245, 22203756, 728361177986797568, 108471631,
+ 892173412818354177, 18916432, 1180379185, 830128820447539208, 20776147,
+842072478834909184, 599530439, 831482588246196225, 15985455, 798195585824104449,
+ 836724024688410625, 809836066316451840, 803703725730779136, 822127086194348032,
+ 818876014390603776, 826065858548133888
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
