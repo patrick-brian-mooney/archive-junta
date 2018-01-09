@@ -901,3 +901,96 @@ WARNING: attempt to archive timed out, sleeping for 10 seconds
 
 archiving URL https://twitter.com/SecretarySonny/status/950331528386576384
     ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/950334479217889281
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950334479217889281
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecretarySonny: Early morning at
+Nashville's Pancake Pantry to talk to @foxandfriends @kilmeade about increasing
+rural prosperity. Will…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950335634622775296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950335634622775296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Talking about increasing rural prosperity at
+Nashville's Pancake Pantry with @foxandfriends @kilmeade. Trade, regul…
+https://t.co/l37r0ZliHX
+
+archiving URL http://twitter.com/SecretarySonny/status/950335673646698496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950335673646698496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: .@universityofga alums are everywhere!
+Christina here was having breakfast at the Pancake Pantry in Nashville this…
+https://t.co/quoA9iFlSU
+
+archiving URL http://twitter.com/SecretarySonny/status/950337962453225472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950337962453225472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Thanks Charlie https://t.co/9G9xhQyKgH
+
+archiving URL http://twitter.com/Scaramucci/status/950339716045590528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950339716045590528
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950334479217889281,
+                       'id_str': '950334479217889281',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1515414188405'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950334479217889281 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 950334479217889281 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/950334479217889281
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecretarySonny: Now talking about increasing rural prosperity
+with @MorningsMaria via satellite from Nashville. We'll present our T…
+https://t.co/85OfV5BFTe
+
+archiving URL http://twitter.com/SecretarySonny/status/950346969976799232
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

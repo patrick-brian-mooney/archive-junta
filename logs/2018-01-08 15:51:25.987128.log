@@ -1,0 +1,759 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Monday, 08 January 2018 at 15:51
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #950450175813832704 for account
+@SpeakerRyan
+about to get all tweets newer than ID #950498921180160000 for account @Scavino45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #950052834598379520 for account
+@StephGrisham45
+about to get all tweets newer than ID #950481452042522626 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #950481966788415491 for account
+@Scaramucci
+about to get all tweets newer than ID #947908805618257920 for account @FLOTUS
+about to get all tweets newer than ID #950468066130964481 for account
+@SecretaryCarson
+about to get all tweets newer than ID #950496824380608512 for account
+@IvankaTrump
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #950497155554336769 for account
+@nikkihaley
+about to get all tweets newer than ID #950489798569025547 for account
+@JessicaDitto45
+about to get all tweets newer than ID #950488501505658880 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #950494861689540608 for account
+@SecretarySonny
+about to get all tweets newer than ID #950087167644225537 for account @PressSec
+about to get all tweets newer than ID #950389590510260224 for account
+@KellyannePolls
+about to get all tweets newer than ID #950497843105746944 for account @VP
+about to get all tweets newer than ID #950490107781447681 for account
+@WhiteHouse
+about to get all tweets newer than ID #950392958322466816 for account
+@SecretaryPerry
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #950450454634246144 for account @POTUS
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #950394790566350848 for account @SBALinda
+about to get all tweets newer than ID #950478474870960128 for account
+@AshLeeStrong
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #948746483792310272 for account
+@DanScavino
+about to get all tweets newer than ID #950467556921487360 for account
+@seanspicer
+about to get all tweets newer than ID #950476440226627585 for account @PRyan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #950441485987729408 for account
+@SecShulkin
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #950461404221493248 for account
+@SecondLady
+about to get all tweets newer than ID #950443653666713601 for account
+@realDonaldTrump
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #950480698879758337 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #950439468472963072 for account
+@SecretaryZinke
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+... OK, we're set up, and about to watch 18906561, 18916432, 823367015830323201,
+ 212262370, 823638938590085124, 799764016885329921, 105267762, 65522706,
+24578794, 818876014390603776, 828613457020870657, 52544275, 836305915452272641,
+37666984, 836724024688410625, 819980276570976256, 842072478834909184,
+818927131883356161, 471672239, 818910970567344128, 822215673812119553,
+830128820447539208, 798195585824104449, 866746592853979137, 822215679726100480,
+728361177986797568, 819992522109894658, 296060169, 809836066316451840,
+620571475, 20776147, 733751245, 1923451808, 829782369670410240, 1180379185,
+108471631, 828997388920619008, 6577802, 15985455, 831482588246196225,
+826065858548133888, 29547260, 888031054141022209, 822127086194348032, 25073877,
+22203756, 892173412818354177, 803703725730779136, 832672006113931269, 599530439,
+ 827258161841135623, 20733972
+
+
+New tweet from EPAScottPruitt: Good to have Dave Ross on board to lead the
+Office of Water. Dave will play a vital role in protecting clean water…
+https://t.co/4HzONka0an
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950501697880838145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950501697880838145
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We have been working every day to DELIVER for
+America’s Farmers just as they work every day to deliver FOR US.…
+https://t.co/KgNbFtg7XB
+
+archiving URL http://twitter.com/realDonaldTrump/status/950501926227136512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950501926227136512
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from POTUS: RT @realDonaldTrump: We have been working every day to
+DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+#AFBF18…
+
+archiving URL http://twitter.com/POTUS/status/950502633294442496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: In every decision we make, we are
+honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/POTUS/status/950502641628479488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950502633294442496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950502641628479488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We have been working every day
+ to DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+ #AFBF18…
+
+archiving URL http://twitter.com/WhiteHouse/status/950502700600438784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950502700600438784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: In every decision we make, we
+are honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/WhiteHouse/status/950502708812963840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950502708812963840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: We have been working every day
+to DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+#AFBF18…
+
+archiving URL http://twitter.com/Scavino45/status/950502762151849987
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: In every decision we make, we
+are honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/Scavino45/status/950502767927447552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950502762151849987
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950502767927447552
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950497155554336769,
+                       'id_str': '950497155554336769',
+
+                       'user_id': 37666984,
+'user_id_str': '37666984'},
+            'timestamp_ms': '1515453067587'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950497155554336769 on
+ account nikkihaley
+INFO: get_archived_tweet() called to get tweet ID 950497155554336769 for account
+ nikkihaley
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/nikkihaley/status/950497155554336769
+	RT: @USUN https://t.co/gULq50LFov
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because nikkihaley is not in the list
+of accounts we tweet about
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from realDonaldTrump: We are fighting for our farmers, for our
+country, and for our GREAT AMERICAN FLAG. We want our flag respected - and…
+https://t.co/f8u0wFpaHI
+
+archiving URL http://twitter.com/realDonaldTrump/status/950507353094356993
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950507353094356993
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: We are fighting for our farmers,
+for our country, and for our GREAT AMERICAN FLAG. We want our flag respected -
+and we…
+
+archiving URL http://twitter.com/POTUS/status/950507515678216192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We are fighting for our
+farmers, for our country, and for our GREAT AMERICAN FLAG. We want our flag
+respected - and we…
+
+archiving URL http://twitter.com/WhiteHouse/status/950507610700177408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: We are fighting for our
+farmers, for our country, and for our GREAT AMERICAN FLAG. We want our flag
+respected - and we…
+
+archiving URL http://twitter.com/Scavino45/status/950507672914231296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950507610700177408
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/POTUS/status/950507515678216192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950507672914231296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: High-speed Internet access, E-Connectivity, is
+key to spurring increased prosperity in rural America. That's one ke…
+https://t.co/uyCtVYlgKV
+
+archiving URL http://twitter.com/SecretarySonny/status/950508504158175232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950508504158175232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @MarshaBlackburn: For far too long, rural
+America has been left behind. Thank you @realDonaldTrump for taking action on
+such an imperati…
+
+archiving URL http://twitter.com/WhiteHouse/status/950510765760503808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950510765760503808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @SenatorFischer: My full statement in reaction
+to @POTUS’s speech at the @FarmBureau’s convention today. #AFBF18
+https://t.co/dCVciHjhSW
+
+archiving URL http://twitter.com/WhiteHouse/status/950510822362681344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950510822362681344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @RepChuck: Thank you @realDonaldTrump! Our
+farmers deserve nothing but the best, and it is about time rural America is on a
+ level playin…
+
+archiving URL http://twitter.com/WhiteHouse/status/950510874791415809
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950510874791415809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @SenatorWicker: This country is at its best when
+ those living in rural America are given the opportunity to succeed. Thank you,
+@realDon…
+
+archiving URL http://twitter.com/WhiteHouse/status/950510992525529089
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950510992525529089
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @RepFrenchHill: I am committed to supporting the
+ right policies that encourage rural broadband investments, and I commend
+@realDonaldTru…
+
+archiving URL http://twitter.com/WhiteHouse/status/950511071420436485
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950511071420436485
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: This administration is expanding access to
+reliable, affordable broadband internet in rural America. This will help all of
+America…
+
+archiving URL http://twitter.com/POTUS/status/950511094736539649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950511094736539649
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @RepRickAllen: “...I am grateful for @POTUS
+focus on rural America. Our hardworking farmers and rural communities have felt
+forgotten by…
+
+archiving URL http://twitter.com/WhiteHouse/status/950511129121390592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950511129121390592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @SenJoniErnst: Read my statement following
+@POTUS' remarks at the @FarmBureau's Annual Convention today:
+https://t.co/Zz9sudIGp1 https:/…
+
+archiving URL http://twitter.com/WhiteHouse/status/950511611936149505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950511611936149505
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: This administration is expanding access to
+reliable, affordable broadband internet in rural America. This will help all of
+America…
+
+archiving URL http://twitter.com/WhiteHouse/status/950511674603327489
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950511674603327489
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @michaeldykesdc: Pleased to see @POTUS
+prioritize workforce development in his commitment to #ruralprosperity. Most US
+dairy companies a…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950511964974927875
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950511964974927875
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @dairyidfa: #Rural communities need jobs and
+ rural businesses need qualified workers. Pleased to see that workforce
+development is a pil…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950512063738236931
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950512063738236931
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @dairyidfa: Today the Trump administration
+announced more than 100 ways to bring back #ruralprosperity in American
+communities.
+#AFBF18…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950512278662770689
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950512278662770689,
+                       'id_str': '950512278662770689',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1515454764625'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950512278662770689 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 950512278662770689 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/950512278662770689	RT @dairyidfa: Today the Trump administration
+announced more than 100 ways to bring back #ruralprosperity in American
+communities.
+#AFBF18…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretarySonny: It was an honor to chair President Trump's Task
+ Force on Rural Prosperity. We formally submitted our report and rec…
+https://t.co/Npac3jVcr0
+
+archiving URL http://twitter.com/SecretarySonny/status/950512797892431877
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950512797892431877
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: From @AP_Politics: "Millions of working Americans should
+ start seeing fatter paychecks as early as next month... as…
+https://t.co/hNy1YF7Tim
+
+archiving URL http://twitter.com/PRyan/status/950512944919531520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/950512944919531520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: Thank you for your support!  @POTUS is
+committed to #RebuildingRuralAmerica and increasing opportunities for our wo…
+https://t.co/MrWJNiFxMB
+
+archiving URL http://twitter.com/JessicaDitto45/status/950513179033001984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950513179033001984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecretarySonny: High-speed Internet access,
+ E-Connectivity, is key to spurring increased prosperity in rural America.
+That's one key fi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950513856467623936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950513856467623936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Incredibly grateful to @RepEdRoyce for his more
+than two decades of service to this nation. His leadership at…
+https://t.co/h9SOxr9gtt
+
+archiving URL http://twitter.com/SpeakerRyan/status/950515311459143680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/950515311459143680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @michaeldykesdc: Pleased to see @POTUS
+prioritize workforce development in his commitment to #ruralprosperity. Most US
+dairy companies a…
+
+archiving URL http://twitter.com/IvankaTrump/status/950520494452854784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950520494452854784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @dairyidfa: #Rural communities need jobs and
+rural businesses need qualified workers. Pleased to see that workforce
+development is a pil…
+
+archiving URL http://twitter.com/IvankaTrump/status/950520537071149056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950520537071149056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Tune in to @FoxNews at 9pm ET.  I’ll be joining
+@seanhannity
+
+archiving URL http://twitter.com/seanspicer/status/950524262091317248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950524262091317248
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from POTUS: RT @MarshaBlackburn: For far too long, rural America has
+ been left behind. Thank you @realDonaldTrump for taking action on such an
+imperati…
+
+archiving URL http://twitter.com/POTUS/status/950529891564441600
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950529891564441600
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SenatorFischer: My full statement in reaction to
+@POTUS’s speech at the @FarmBureau’s convention today. #AFBF18
+https://t.co/dCVciHjhSW
+
+archiving URL http://twitter.com/POTUS/status/950530122985213953
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950530122985213953
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @RepChuck: Thank you @realDonaldTrump! Our farmers
+deserve nothing but the best, and it is about time rural America is on a level
+playin…
+
+archiving URL http://twitter.com/POTUS/status/950530276974874625
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950530276974874625
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SenatorWicker: This country is at its best when
+those living in rural America are given the opportunity to succeed. Thank you,
+@realDon…
+
+archiving URL http://twitter.com/POTUS/status/950530448115027968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950530448115027968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @RepFrenchHill: I am committed to supporting the
+right policies that encourage rural broadband investments, and I commend
+@realDonaldTru…
+
+archiving URL http://twitter.com/POTUS/status/950530619951501313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950530619951501313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @RepRickAllen: “...I am grateful for @POTUS focus on
+rural America. Our hardworking farmers and rural communities have felt forgotten
+ by…
+
+archiving URL http://twitter.com/POTUS/status/950530786234683393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950530786234683393
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SenJoniErnst: Read my statement following @POTUS'
+remarks at the @FarmBureau's Annual Convention today: https://t.co/Zz9sudIGp1
+https:/…
+
+archiving URL http://twitter.com/POTUS/status/950531025993715712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950531025993715712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Read the latest edition of West Wing Reads:
+https://t.co/hrxzhNoN8x
+
+archiving URL http://twitter.com/WhiteHouse/status/950531321557929986
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950531321557929986
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Bummer for all you folks at @nbc   How about
+@SenSanders ? https://t.co/w4KhvfMc5a
+
+archiving URL http://twitter.com/seanspicer/status/950531612965527553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950531612965527553
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @seanhannity: Tonight on #Hannity I'm joined by
+@michellemalkin, @seanspicer, @dbongino, @kayleighmcenany, John Solomon,
+@SaraCarterDC,…
+
+archiving URL http://twitter.com/seanspicer/status/950531653163765760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950531653163765760
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: Too many rural Americans do not have necessary
+broadband access needed to engage in the modern economy, and Preside…
+https://t.co/MHb8BUFmsp
+
+archiving URL http://twitter.com/WhiteHouse/status/950543153706274821
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950543153706274821
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Martin Luther King Jr Historic Park takes
+visitors through MLK’s formative years. Look forward to visiting myself.
+https://t.co/w4OjmvRQNs
+
+archiving URL http://twitter.com/SecretaryZinke/status/950544326601400322
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/950544326601400322
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from IvankaTrump: RT @amyklobuchar: ICYMI: My bill w/ @SenJohnThune
+to empower truckers &amp; commercial drivers to prevent &amp; report human
+trafficking was signed…
+
+archiving URL http://twitter.com/IvankaTrump/status/950557748097355777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950557748097355777
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1281
+more expected)', IncompleteRead(0 bytes read, 1281 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3123
+more expected)', IncompleteRead(0 bytes read, 3123 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 558
+more expected)', IncompleteRead(0 bytes read, 558 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1125
+more expected)', IncompleteRead(0 bytes read, 1125 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from IvankaTrump: Just saw @Oprah's empowering &amp; inspiring
+speech at last night’s #GoldenGlobes. Let’s all come together, women &amp; men…
+https://t.co/RCPjxvaM1o
+
+archiving URL http://twitter.com/IvankaTrump/status/950561402053447685
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/IvankaTrump/status/950561402053447685
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @tylerhernandez @ahrferrier @lacroixwater Fancy
+water.
+
+archiving URL http://twitter.com/AshLeeStrong/status/950562006012190720
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

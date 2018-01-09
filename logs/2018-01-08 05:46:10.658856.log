@@ -1,0 +1,1782 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Monday, 08 January 2018 at 05:46
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #947908805618257920 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504550 (char 504549)
+about to get all tweets newer than ID #950012780786184192 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 687420 (char 687419)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 678188 (char 678187)
+about to get all tweets newer than ID #949015727427719175 for account
+@SecretaryZinke
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #950337962453225472 for account
+@SecretarySonny
+getting all tweets before ID #923352100075122692
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretarySonny: Now talking about increasing rural prosperity
+with @MorningsMaria via satellite from Nashville. We'll present our T…
+https://t.co/85OfV5BFTe
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+
+archiving URL http://twitter.com/SecretarySonny/status/950346969976799232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950346969976799232
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948746483792310272 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #949641764645822464 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #950206523690639360 for account
+@realDonaldTrump
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #950052834598379520 for account
+@StephGrisham45
+about to get all tweets newer than ID #949106760878645248 for account
+@SecondLady
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #949298602035372033 for account @SBALinda
+about to get all tweets newer than ID #948983878215139328 for account
+@SecretaryPerry
+about to get all tweets newer than ID #950069064516427776 for account
+@IvankaTrump
+about to get all tweets newer than ID #949287422575239169 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #949759569185648640 for account
+@KellyannePolls
+about to get all tweets newer than ID #950103841156059136 for account
+@nikkihaley
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #949383549521747968 for account
+@SecShulkin
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #950335634622775296 for account
+@JessicaDitto45
+about to get all tweets newer than ID #950087167644225537 for account @PressSec
+about to get all tweets newer than ID #949710658462875648 for account @PRyan
+about to get all tweets newer than ID #950113487589707777 for account
+@AshLeeStrong
+about to get all tweets newer than ID #949023248456540160 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #950339716045590528 for account
+@Scaramucci
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #949071184259411968 for account @POTUS
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #950062479765368832 for account
+@WhiteHouse
+about to get all tweets newer than ID #943545231244439555 for account
+@SecretaryCarson
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #948747150422413312 for account @Scavino45
+about to get all tweets newer than ID #950218338524893186 for account
+@seanspicer
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #949772432730152960 for account @VP
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+... OK, we're set up, and about to watch 818876014390603776, 18916432,
+892173412818354177, 212262370, 827258161841135623, 18906561, 842072478834909184,
+ 599530439, 620571475, 29547260, 1180379185, 799764016885329921, 25073877,
+22203756, 836305915452272641, 823638938590085124, 822127086194348032,
+803703725730779136, 819992522109894658, 830128820447539208, 52544275,
+819980276570976256, 471672239, 37666984, 15985455, 888031054141022209, 20733972,
+ 728361177986797568, 831482588246196225, 809836066316451840, 836724024688410625,
+ 818927131883356161, 733751245, 296060169, 832672006113931269, 24578794,
+798195585824104449, 6577802, 65522706, 105267762, 1923451808,
+822215679726100480, 108471631, 822215673812119553, 828613457020870657,
+829782369670410240, 823367015830323201, 20776147, 866746592853979137,
+818910970567344128, 828997388920619008, 826065858548133888
+
+
+New tweet from SecretarySonny: Another stop in Nashville, promoting the
+presentation of our Rural Prosperity Task Force report to @POTUS today.…
+https://t.co/WetgU8duGu
+
+archiving URL http://twitter.com/SecretarySonny/status/950358912020238336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950358912020238336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Access to capital is a barrier for many women
+entrepreneurs. In 2017, @SBAgov lent over $500 million more to women-…
+https://t.co/9YQkaQGjPk
+
+archiving URL http://twitter.com/IvankaTrump/status/950359793063157762
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950359793063157762
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: In the last minute of the clip he also rants about
+the increasing mistakes of @nytimes https://t.co/dTzivu2Yx1
+
+archiving URL http://twitter.com/seanspicer/status/950365466958204929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950365466958204929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: African American unemployment is the lowest
+ever recorded in our country. The Hispanic unemployment rate dropped a…
+https://t.co/1SJ1vHcqfI
+
+archiving URL http://twitter.com/realDonaldTrump/status/950371619247153154
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950371619247153154
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: On @OfficialRFDTV with Mark Oppold before
+announcing release of our Rural Prosperity Task Force report at 99th annu…
+https://t.co/Zrk4tvOwVo
+
+archiving URL http://twitter.com/SecretarySonny/status/950372502500528128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950372502500528128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Our own Anne Hazleton, of @usda Rural
+Development, taking part in a panel at @FarmBureau convention with…
+https://t.co/i43tR6gm5d
+
+archiving URL http://twitter.com/SecretarySonny/status/950380011235762176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950380011235762176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Shining a light on women in agriculture -
+"FarmHer" is the word here. Great message at @FarmBureau convention as we…
+https://t.co/LD5dmrARWw
+
+archiving URL http://twitter.com/SecretarySonny/status/950381364792225792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950381364792225792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Talking with @DLoesch about @POTUS Trump's first year, our
+administration's priorities for 2018, our support for th…
+https://t.co/r8OS6ow8vU
+
+archiving URL http://twitter.com/VP/status/950381628345470977
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950381628345470977
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: And what would a visit to the @FarmBureau
+convention be without the FFA-ers?  Great to see @tnffa represented.
+https://t.co/lNoFm6U8n0
+
+archiving URL http://twitter.com/SecretarySonny/status/950383018383994881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950383018383994881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Some of these young folks tell me they made our
+ Twitter feed when we were Indianapolis for the @NationalFFA convent…
+https://t.co/UDgwXFNjvm
+
+archiving URL http://twitter.com/SecretarySonny/status/950384609816084481
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950384609816084481
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: RT @DeptVetAffairs: Join VA’s nursing virtual
+career fair Jan. 18 https://t.co/aLBITousRp via @vacareers on #VAntagePoint
+
+archiving URL http://twitter.com/SecShulkin/status/950385200944570368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/950385200944570368
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950380011235762176,
+                       'id_str': '950380011235762176',
+
+                       'user_id': 842072478834909184,
+'user_id_str': '842072478834909184'},
+            'timestamp_ms':
+'1515424544711'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950380011235762176 on
+ account SecretarySonny
+INFO: get_archived_tweet() called to get tweet ID 950380011235762176 for account
+ SecretarySonny
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretarySonny
+/status/950380011235762176	Our own Anne Hazleton, of @usda Rural Development,
+taking part in a panel at @FarmBureau convention with… https://t.co/i43tR6gm5d
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretarySonny is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretarySonny: Our own Anne Hazlett, of @usda Rural
+Development, taking part in a panel at @FarmBureau convention with…
+https://t.co/QcserJKXhh
+
+archiving URL http://twitter.com/SecretarySonny/status/950385700117057537
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950385700117057537
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @kaylatausche: NEWS: @Visa to hike 401k match
+program in response to new tax law, per memo (below) obtained by @CNBC.
+Spokesperson say…
+
+archiving URL http://twitter.com/Scaramucci/status/950386526260776960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950386526260776960
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950359793063157762,
+                       'id_str': '950359793063157762',
+
+                       'user_id': 52544275,
+'user_id_str': '52544275'},
+            'timestamp_ms': '1515424976653'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950359793063157762 on
+ account IvankaTrump
+INFO: get_archived_tweet() called to get tweet ID 950359793063157762 for account
+ IvankaTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/IvankaTrump/st
+atus/950359793063157762	Access to capital is a barrier for many women
+entrepreneurs. In 2017, @SBAgov lent over $500 million more to women-…
+https://t.co/9YQkaQGjPk
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because IvankaTrump is not in the list
+ of accounts we tweet about
+
+
+New tweet from WhiteHouse: Tax Reform: Where have we been and where are we
+going? Read more: https://t.co/ISPbWiTTVw
+
+archiving URL http://twitter.com/WhiteHouse/status/950388395888529408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950388395888529408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Correction @BillKristol: I was at #CampDavid to
+ discuss this issue and others. 
+
+Tackling the opioids/drug demand "…
+https://t.co/mxphxUSMPw
+
+archiving URL http://twitter.com/KellyannePolls/status/950389590510260224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/950389590510260224
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: Good news → https://t.co/DUfWilZcT8
+
+archiving URL http://twitter.com/PRyan/status/950389633061392384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/950389633061392384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Access to capital is a barrier for many women
+#Entrepreneurs. In 2017 @SBAgov lending to women-owned small business…
+https://t.co/D5wLdaThjj
+
+archiving URL http://twitter.com/IvankaTrump/status/950392422822969347
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950392422822969347
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Excited to head to Chicago later today! Will be
+ touring and meeting with our wonderful @ENERGY folks at both…
+https://t.co/7aZvOv9PPD
+
+archiving URL http://twitter.com/SecretaryPerry/status/950392958322466816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/950392958322466816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @IvankaTrump: Access to capital is a barrier for
+many women #Entrepreneurs. In 2017 @SBAgov lending to women-owned small business
+ owners…
+
+archiving URL http://twitter.com/SBALinda/status/950394790566350848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/950394790566350848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: For anyone who ever doubted media bias against
+conservatives I present exhibit A: @nbc
+
+archiving URL http://twitter.com/seanspicer/status/950397412371288069
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950397412371288069
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Nothing is more important than rebuilding our
+military so that it can confront the evolving threats we face in the…
+https://t.co/31efzO6QV6
+
+archiving URL http://twitter.com/SpeakerRyan/status/950397684615086080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/950397684615086080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: View our gallery of past #VeteransDay poster
+winners https://t.co/I10yaVNHQ4 #HonoringVets
+
+archiving URL http://twitter.com/SecShulkin/status/950405760902664195
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: "Calling all artists: The 2018 National Veterans
+Day poster contest now under way" via #VAntagePoint… https://t.co/GxTGQ0SKfR
+
+archiving URL http://twitter.com/SecShulkin/status/950405759954759680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/950405760902664195
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/950405759954759680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Think we found a couple of @universityofga
+Bulldog fans - @ZippyDuvall's grandchildren, Ava and Tripp. Go Dawgs!
+https://t.co/U9urnNWdwz
+
+archiving URL http://twitter.com/SecretarySonny/status/950407052400168960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950407052400168960
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950407052400168960,
+                       'id_str': '950407052400168960',
+
+                       'user_id': 842072478834909184,
+'user_id_str': '842072478834909184'},
+            'timestamp_ms':
+'1515429692214'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950407052400168960 on
+ account SecretarySonny
+INFO: get_archived_tweet() called to get tweet ID 950407052400168960 for account
+ SecretarySonny
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretarySonny
+/status/950407052400168960	Think we found a couple of @universityofga Bulldog
+fans - @ZippyDuvall's grandchildren, Ava and Tripp. Go Dawgs!
+https://t.co/U9urnNWdwz
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretarySonny is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretaryZinke: RT @USGS: Curious how hydrologists locate
+#groundwater? Find out here: https://t.co/dsXdOMimcK https://t.co/HJuXG3hHjk
+
+archiving URL http://twitter.com/SecretaryZinke/status/950411104043323392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/950411104043323392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @BOEM_DOI: Comment period is open for the
+Draft 2019-2024 National OCS Oil &amp; Gas Leasing Program and scoping for
+Programmatic EIS Find o…
+
+archiving URL http://twitter.com/SecretaryZinke/status/950411127833419777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/950411127833419777
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: I started off the day visiting with the staff
+of @HUDMidwest here in Chicago. They’re doing tremendous work.
+https://t.co/YWjKnzzCbd
+
+archiving URL http://twitter.com/SecretaryCarson/status/950414750302855168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/950414750302855168
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Today, President Trump travels to Nashville to
+deliver a major address at the American Farm Bureau Federation’s Ann…
+https://t.co/aJvA9hlh1W
+
+archiving URL http://twitter.com/WhiteHouse/status/950415052854714369
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950415052854714369
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Found a young @universityofga Bulldogs fan!
+@ZippyDuvall's granddaughter Ava. Go Dawgs! https://t.co/zxDmOzx8Pi
+
+archiving URL http://twitter.com/SecretarySonny/status/950420683766554629
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950420683766554629
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Not to be outdone, @ZippyDuvall's grandson,
+Tripp. https://t.co/n3iRHyH9o0
+
+archiving URL http://twitter.com/SecretarySonny/status/950421011660492800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950421011660492800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Backstage with @ZippyDuvall, about to address
+99th annual @FarmBureau convention. Going to talk about increasing pr…
+https://t.co/LUIIFzEmJ3
+
+archiving URL http://twitter.com/SecretarySonny/status/950423310545932289
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950423310545932289
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Behind the scenes: See photos and remarks from the
+President’s weekend with Congressional leaders at Camp David.…
+https://t.co/1M6w5LZVxv
+
+archiving URL http://twitter.com/WhiteHouse/status/950425382649462784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950425382649462784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @OfficialRFDTV: President Trump to address
+to the American @FarmBureau Federation today at 4 PM CT in #Nashville. #AFBF18
+@realDonaldTru…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950426555540533248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950426555540533248
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950426555540533248,
+                       'id_str': '950426555540533248',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1515434333478'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950426555540533248 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 950426555540533248 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/950426555540533248	RT @OfficialRFDTV: President Trump to address to the
+American @FarmBureau Federation today at 4 PM CT in #Nashville. #AFBF18
+@realDonaldTru…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+
+
+New tweet from Scavino45: President @realDonaldTrump departing the Oval Office
+ for Joint Base Andrews, heading to the American @FarmBureau Fe…
+https://t.co/bXJJZhknK9
+
+archiving URL http://twitter.com/Scavino45/status/950427175219552257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950427175219552257
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: African American unemployment is
+the lowest ever recorded in our country. The Hispanic unemployment rate dropped
+a ful…
+
+archiving URL http://twitter.com/POTUS/status/950427508545064965
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950427508545064965
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SecretarySonny: Our own Anne Hazlett, of @usda Rural
+ Development, taking part in a panel at @FarmBureau convention with
+@ZippyDuvall, a…
+
+archiving URL http://twitter.com/POTUS/status/950427616040890369
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950427616040890369
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SecretarySonny: Backstage with @ZippyDuvall, about
+to address 99th annual @FarmBureau convention. Going to talk about increasing
+prospe…
+
+archiving URL http://twitter.com/POTUS/status/950427628045029376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950427628045029376
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: More #TaxCutsandJobsAct results
+https://t.co/g5drmsnpQR
+
+archiving URL http://twitter.com/seanspicer/status/950430099127619585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950430099127619585
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FarmBureau: Thank you @SecretarySonny for
+being a part of #AFBF18 &amp; for representing the interests of #farmers &amp;
+#ranchers across the U…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950430803804213250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950430803804213250
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @usdaRD: Watch @SecretarySonny provide LIVE
+remarks at @FarmBureau's closing general session today at 1 PM EST --
+https://t.co/wEaEYO3Fi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950430891033157634
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950430891033157634
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @usdaRD: .@WhiteHouse released the Task
+Force on Agriculture and #RuralProsperity Report. To read more, visit:
+https://t.co/0fI0O9tTAo h…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950430935329189888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950430935329189888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @OfficialRFDTV: President Trump to Address
+to the American @FarmBureau Bureau Federation TODAY at 4 PM ET / 3 PM CT on
+@OfficialRFDTV, @…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950431176799473665
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950431176799473665
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Pro-growth policies, not minimum-wage hikes, create
+ sustainable wage growth. President Trump’s regulatory rollback…
+https://t.co/3XxOIjBuzr
+
+archiving URL http://twitter.com/Scaramucci/status/950433420999524352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950433420999524352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @chrisconte: Ballroom is already packed ..
+hours prior to President Trump speaking here in Nashville @NC5
+https://t.co/bTUAxEymu3
+
+archiving URL http://twitter.com/JessicaDitto45/status/950433696770818050
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950433696770818050
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SenPatRoberts: Look forward to joining
+President Trump today as he addresses farmers &amp; ranchers at the @FarmBureau
+Convention. Thank yo…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950433877323075587
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950433877323075587
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Great fun to be introduced by my old friend
+@ZippyDuvall at @FarmBureau convention. Just a couple of old Georgia bo…
+https://t.co/a84X00Qg6f
+
+archiving URL http://twitter.com/SecretarySonny/status/950434667043475461
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950434667043475461
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: On orders of President Trump: laying out a
+vision for rural prosperity at the @FarmBureau convention in Nashville.…
+https://t.co/hzJOTbP2ht
+
+archiving URL http://twitter.com/SecretarySonny/status/950437841963765760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950437841963765760
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950437841963765760,
+                       'id_str': '950437841963765760',
+
+                       'user_id': 842072478834909184,
+'user_id_str': '842072478834909184'},
+            'timestamp_ms':
+'1515437149378'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950437841963765760 on
+ account SecretarySonny
+INFO: get_archived_tweet() called to get tweet ID 950437841963765760 for account
+ SecretarySonny
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretarySonny
+/status/950437841963765760	On orders of President Trump: laying out a vision for
+ rural prosperity at the @FarmBureau convention in Nashville.…
+https://t.co/hzJOTbP2ht
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretarySonny is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretarySonny: On orders of President Trump: laying out a
+vision for rural prosperity at the @FarmBureau convention in Nashville.…
+https://t.co/3NKbV5neOu
+
+archiving URL http://twitter.com/SecretarySonny/status/950438646280269829
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950438646280269829
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @SecretarySonny: On orders of President
+Trump: laying out a vision for rural prosperity at the @FarmBureau convention in
+ Nashville. Will…
+
+archiving URL http://twitter.com/SecretaryZinke/status/950439468472963072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/950439468472963072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/950439482888740867
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950439482888740867
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: RT @LaurenAshburn: .@DeptVetAffairs Secretary
+@SecShulkin talks suicide prevention and how he is relying on faith to help heal
+ Veterans in…
+
+archiving URL http://twitter.com/SecShulkin/status/950441485987729408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/950441485987729408
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950439482888740867,
+                       'id_str': '950439482888740867',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1515437996194'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950439482888740867 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 950439482888740867 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/950439482888740867
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from EPAScottPruitt: RT @EPAcounsel: Former Acting General Counsel
+Kevin Minoli congratulates EPA’s new General Counsel Matthew Z. Leopold after
+administering t…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950443015570640896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950443015570640896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Can’t wait to be back in the amazing state of
+Tennessee to address the 99th American @FarmBureau Federation’s Annua…
+https://t.co/UxBD2DBv2G
+
+archiving URL http://twitter.com/realDonaldTrump/status/950443653666713601
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950443653666713601
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @AriFleischer: This tweet puts every reporter at
+ NBC in a bad spot.  Foolish thing for them to do.  But at least now they are
+open about…
+
+archiving URL http://twitter.com/seanspicer/status/950444671662198784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950444671662198784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Can’t wait to be back in the
+amazing state of Tennessee to address the 99th American @FarmBureau Federation’s
+ Annual C…
+
+archiving URL http://twitter.com/POTUS/status/950445049145208832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950445049145208832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Can’t wait to be back in
+the amazing state of Tennessee to address the 99th American @FarmBureau
+Federation’s Annual C…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950445255832293382
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950445255832293382
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @JTIP_State: Read the second annual
+@usadvisorycouncilonhumantrafficking report, available now!
+https://t.co/TzANHZ2mOa #SurvivorsVoice…
+
+archiving URL http://twitter.com/IvankaTrump/status/950445663996833793
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950445663996833793
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: Federalism consultation taking underway now to
+discuss much needed revisions to the Lead and Copper Rule. @EPA is s…
+https://t.co/mTR30dRbEn
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950447228358971393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950447228358971393
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Enthusiastic crowd waiting to hear from you in
+Nashville today, @POTUS! https://t.co/nF4iNzlO9o
+
+archiving URL http://twitter.com/SecretarySonny/status/950448198128107522
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950448198128107522
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "President Trump’s regulatory rollback is driving
+an economic surge few anticipated." Read more: https://t.co/LCCPHVfI6B
+
+archiving URL http://twitter.com/WhiteHouse/status/950449786460819456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950449786460819456
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950447228358971393,
+                       'id_str': '950447228358971393',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1515439870817'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950447228358971393 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 950447228358971393 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/950447228358971393	Federalism consultation taking underway now to
+discuss much needed revisions to the Lead and Copper Rule. @EPA is s…
+https://t.co/mTR30dRbEn
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+
+
+New tweet from EPAScottPruitt: Federalism consultation underway now to discuss
+ much needed revisions to the Lead and Copper Rule. @EPA is seeking…
+https://t.co/rMHG8g1nGm
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950450025728966661
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950450025728966661
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Good news→ From coast-to-coast, families could
+start seeing lower utility bills as a result of #TaxReform.
+https://t.co/xXYydFz3w8
+
+archiving URL http://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "President Trump’s regulatory rollback is driving
+an economic surge few anticipated." Read more: https://t.co/LCCPHVfI6B
+
+archiving URL http://twitter.com/WhiteHouse/status/950449786460819456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950449786460819456
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950447228358971393,
+                       'id_str': '950447228358971393',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1515439870817'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950447228358971393 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 950447228358971393 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/950447228358971393	Federalism consultation taking underway now to
+discuss much needed revisions to the Lead and Copper Rule. @EPA is s…
+https://t.co/mTR30dRbEn
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+
+
+New tweet from EPAScottPruitt: Federalism consultation underway now to discuss
+ much needed revisions to the Lead and Copper Rule. @EPA is seeking…
+https://t.co/rMHG8g1nGm
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950450025728966661
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Good news→ From coast-to-coast, families could
+start seeing lower utility bills as a result of #TaxReform.
+https://t.co/xXYydFz3w8
+
+archiving URL http://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Good news→ From coast-to-coast, families could
+start seeing lower utility bills as a result of #TaxReform.
+https://t.co/xXYydFz3w8
+
+archiving URL http://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950450025728966661
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/950450175813832704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SenPatRoberts: Look forward to joining President
+Trump today as he addresses farmers &amp; ranchers at the @FarmBureau
+Convention. Thank yo…
+
+archiving URL http://twitter.com/POTUS/status/950450310215974912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950450310215974912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @MarshaBlackburn: On the way to Air Force One, where
+we will travel w/ @realDonaldTrump to TN &amp; listen to him speak at the
+@FarmBureau C…
+
+archiving URL http://twitter.com/POTUS/status/950450441556443136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950450441556443136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @MarshaBlackburn: On the way to Tennessee. It's been
+26 years since a sitting president attended the @FarmBureau Convention. Thank
+you @…
+
+archiving URL http://twitter.com/POTUS/status/950450454634246144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950450454634246144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Happy Birthday to the world famous @DJCLUE
+@huntandfishnyc @EytanSugarman https://t.co/qgOu0P3EU0
+
+archiving URL http://twitter.com/Scaramucci/status/950451346213392384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950451346213392384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: .@VP Pence will travel to Egypt, Jordan, and Israel
+ later this month on behalf of President Trump. More on the Vice…
+https://t.co/4BVWeiuUZ5
+
+archiving URL http://twitter.com/WhiteHouse/status/950455066397499392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950455066397499392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: Tax reform brings lower taxes and higher wages to
+families and individuals at all income levels. The average family…
+https://t.co/CC4PX4exmu
+
+archiving URL http://twitter.com/PRyan/status/950456838654369792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/950456838654369792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Looking forward to traveling with @VP and seizing
+the opportunity to raise awareness about #ArtTherapy. https://t.co/GJTUC4OM1o
+
+archiving URL http://twitter.com/SecondLady/status/950461404221493248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/950461404221493248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Air Force One - wheels down in Nashville, Tennessee!
+ President @realDonaldTrump en route to the 99th American…
+https://t.co/QCLaTv02Bq
+
+archiving URL http://twitter.com/Scavino45/status/950461789694767104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950461789694767104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Found some @4H students from Tennessee roaming
+the halls at @FarmBureau convention. Tried to get them to say "Go Da…
+https://t.co/KjABNtaRtA
+
+archiving URL http://twitter.com/SecretarySonny/status/950462172785709062
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950462172785709062
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950462172785709062,
+                       'id_str': '950462172785709062',
+
+                       'user_id': 842072478834909184,
+'user_id_str': '842072478834909184'},
+            'timestamp_ms':
+'1515442849399'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950462172785709062 on
+ account SecretarySonny
+INFO: get_archived_tweet() called to get tweet ID 950462172785709062 for account
+ SecretarySonny
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretarySonny
+/status/950462172785709062	Found some @4H students from Tennessee roaming the
+halls at @FarmBureau convention. Tried to get them to say "Go Da…
+https://t.co/KjABNtaRtA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretarySonny is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretarySonny: Found some @4H students from Tennessee roaming
+the halls at @FarmBureau convention. Tried to get them to say "Go Da…
+https://t.co/SBpgJYEylq
+
+archiving URL http://twitter.com/SecretarySonny/status/950462387563499520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950462387563499520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: .@VP Pence will travel to Egypt, Jordan,
+and Israel later this month on behalf of President Trump. More on the Vice
+Preside…
+
+archiving URL http://twitter.com/VP/status/950464350548058114
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950464350548058114
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Looking forward to traveling with @VP and
+seizing the opportunity to raise awareness about #ArtTherapy.
+https://t.co/GJTUC4…
+
+archiving URL http://twitter.com/VP/status/950464395515219968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Looking forward to traveling with @VP and
+seizing the opportunity to raise awareness about #ArtTherapy.
+https://t.co/GJTUC4…
+
+archiving URL http://twitter.com/VP/status/950464395515219968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950464395515219968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950464395515219968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Investing legend @BobDollNuveen 10 predictions for
+2018: Tax reform finally pushes U.S. GDP growth back above 3%, u…
+https://t.co/0rZt0LdhzB
+
+archiving URL http://twitter.com/Scaramucci/status/950465837395251201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950465837395251201
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @MarshaBlackburn: On the way to Air Force One,
+where we will travel w/ @realDonaldTrump to TN &amp; listen to him speak at the
+@FarmBureau C…
+
+archiving URL http://twitter.com/seanspicer/status/950467556921487360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/950467556921487360
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Helping people develop the skills they need to
+ compete in today’s workforce can change lives for the better across…
+https://t.co/4DJqHUmnHw
+
+archiving URL http://twitter.com/SecretaryCarson/status/950468066130964481
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/950468066130964481
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: 🚨Happening Now:
+President @realDonaldTrump backstage
+ doing some interviews prior to delivering remarks at the 99th…
+https://t.co/VrfFWIPVtf
+
+archiving URL http://twitter.com/Scavino45/status/950473189079093248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950473189079093248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Watch LIVE as President Trump delivers remarks at
+the American Farm Bureau Federation’s Annual Convention:…
+https://t.co/IW7CfTdv5A
+
+archiving URL http://twitter.com/WhiteHouse/status/950474288653627393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950474288653627393
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @Scavino45: 🚨Happening Now:
+President
+@realDonaldTrump backstage doing some interviews prior to delivering remarks at
+the 99th American…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950475928852934658
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950475928852934658
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @GOPSenFinance: Recently enacted #taxreform
+will benefit farmers and rural America. Here’s how: https://t.co/toqKiqCU4y
+#AFBF2018 @FarmB…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950475963640532994
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950475963640532994
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Watch LIVE as President Trump
+delivers remarks at the American Farm Bureau Federation’s Annual Convention:
+https://t.co/Gti…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950476202350915584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950476202350915584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: RT @NorthCookNews: Roskam lauds companies' investments
+after passage of tax bill https://t.co/6KjHt97kAo
+
+archiving URL http://twitter.com/PRyan/status/950476440226627585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/950476440226627585
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "The men and women in this room come from different
+ backgrounds and from all across our land – but each of you carr…
+https://t.co/wYTKDg0nZy
+
+archiving URL http://twitter.com/WhiteHouse/status/950477023637594112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950477023637594112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "The American Dream is roaring back to life. And we
+ have just signed into law the most significant tax cuts and ref…
+https://t.co/ILdLgOFi7n
+
+archiving URL http://twitter.com/WhiteHouse/status/950477262855524357
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950477262855524357
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "Small businesses will receive massive tax cuts.
+They will be able to deduct 20% of their business income. American…
+https://t.co/oTbPHV7o0b
+
+archiving URL http://twitter.com/WhiteHouse/status/950478384244674560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950478384244674560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @kaylatausche: NEWS: @Visa to hike 401k match
+program in response to new tax law, per memo (below) obtained by @CNBC.
+Spokesperson say…
+
+archiving URL http://twitter.com/AshLeeStrong/status/950478474870960128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/950478474870960128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "In every decision we make, we are honoring
+America’s proud farming legacy."
+
+archiving URL http://twitter.com/WhiteHouse/status/950478777859133441
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950478777859133441
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "As we put money back in the pockets of all
+Americans—including our farmers and ranchers, we are also putting an en…
+https://t.co/9bPG5z61pk
+
+archiving URL http://twitter.com/WhiteHouse/status/950479339879129093
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950479339879129093
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "We are streamlining regulations that have blocked
+cutting edge biotechnology –setting free our farmers to innovate…
+https://t.co/iTfdq1VemL
+
+archiving URL http://twitter.com/WhiteHouse/status/950480249132847104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950480249132847104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @WhiteHouse: "As we put money back in the
+pockets of all Americans—including our farmers and ranchers, we are also putting
+ an end to the…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950480698879758337
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950480698879758337
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "That is why today, in a few minutes, I will take
+the first step to expand access to broadband internet in rural Am…
+https://t.co/ik9ZYUMkR7
+
+archiving URL http://twitter.com/WhiteHouse/status/950481343691018241
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950481343691018241
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: RT @SenateMajLdr: Thanks to the
+#TaxCutAndJobsAct, businesses throughout America are taking advantage of more
+competitive tax rates and pas…
+
+archiving URL http://twitter.com/stevenmnuchin1/status/950481452042522626
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/950481452042522626
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @FoxNews: .@POTUS: "Under this new law, the
+typical family of four earning $75,000 will see an income tax cut of more than
+$2,000 each,…
+
+archiving URL http://twitter.com/Scaramucci/status/950481966788415491
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/950481966788415491
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "We see the promise of tomorrow in the incredible
+young farmers who have joined us today – students who are achievi…
+https://t.co/yA9nGDDger
+
+archiving URL http://twitter.com/WhiteHouse/status/950482022128119812
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950482022128119812
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “We are fighting for our farmers, for our country,
+and for our GREAT AMERICAN FLAG....we want our National Anthem r…
+https://t.co/Mw5f3vPEwW
+
+archiving URL http://twitter.com/Scavino45/status/950482432452685829
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950482432452685829
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxNews: .@POTUS: "Under this new law, the
+typical family of four earning $75,000 will see an income tax cut of more than
+$2,000 each,…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950483126748360706
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950483126748360706
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxNews: .@POTUS: "You're going to be
+spared...of the deeply unfair estate tax, known as the 'death tax.' So, you can
+keep your farms i…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950483179097460737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950483179097460737
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "For America, there is no task too great, no goal
+too large, no dream beyond our reach. We are witnessing a new era…
+https://t.co/IZO586LD9t
+
+archiving URL http://twitter.com/WhiteHouse/status/950483475852914688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950483475852914688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “We are honoring Americas PROUD FARMING LEGACY. Yrs
+of crushing taxes, crippling regs &amp; corrupt politics left our c…
+https://t.co/N2oETOikUv
+
+archiving URL http://twitter.com/Scavino45/status/950483708355731456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950483708355731456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @Scavino45: “We are honoring Americas PROUD
+FARMING LEGACY. Yrs of crushing taxes, crippling regs &amp; corrupt politics
+left our communitie…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950483941127086080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950483941127086080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: As I told @DLoesch this afternoon, for all the progress
+that we made in 2017 - nearly 2 million new jobs, an econom…
+https://t.co/KMDCjEUBOi
+
+archiving URL http://twitter.com/VP/status/950484690489757697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950484690489757697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: In 2018, this admin is committed to rebuilding our
+military, building the wall, fixing our immigration system to pu…
+https://t.co/6Oo8soLWak
+
+archiving URL http://twitter.com/VP/status/950484871092359173
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950484871092359173
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxNews: JUST IN: President #Trump signs
+two executive orders to expand broadband access in rural areas
+https://t.co/CdtfA6tAtZ
+
+archiving URL http://twitter.com/JessicaDitto45/status/950484953501925376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950484953501925376
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: This administration has been marshaling unprecedented
+economic &amp; diplomatic pressure on North Korea.  We're not goi…
+https://t.co/XxZC3DTX6t
+
+archiving URL http://twitter.com/VP/status/950485107856560130
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950485107856560130
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Powerful evidence that @POTUS commitment to
+rural America is already paying off: 54K mining and logging jobs create…
+https://t.co/yAyhy6rBeK
+
+archiving URL http://twitter.com/SecretaryAcosta/status/950488501505658880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/950488501505658880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @RyanQuarlesKY: Today President Trump signed
+ Exec Orders aimed to help better connect rural America!  @realDonaldTrump
+electrified the c…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950489616100069381
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950489616100069381
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecretaryAcosta: Powerful evidence that
+@POTUS commitment to rural America is already paying off: 54K mining and logging
+ jobs created i…
+
+archiving URL http://twitter.com/JessicaDitto45/status/950489798569025547
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/950489798569025547
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump is working to rebuild rural
+America. Read more: https://t.co/bg2t80bj57 https://t.co/bGxOQc32fI
+
+archiving URL http://twitter.com/WhiteHouse/status/950490107781447681
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950490107781447681
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Thanks to @kilmeade for the opportunity. Big
+day for agriculture and the @FarmBureau! https://t.co/8YSKUFUqBQ
+
+archiving URL http://twitter.com/SecretarySonny/status/950494861689540608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/950494861689540608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Approximately 39 % of rural Americans, or 23M
+people, lack sufficient broadband connectivity needed to engage in th…
+https://t.co/zXtYofleAD
+
+archiving URL http://twitter.com/IvankaTrump/status/950496824380608512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/950496824380608512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT: @USUN https://t.co/gULq50LFov
+
+archiving URL http://twitter.com/nikkihaley/status/950497155554336769
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/950497155554336769
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: This administration is expanding access to reliable,
+affordable broadband internet in rural America. This will help…
+https://t.co/AySXoVvsYa
+
+archiving URL http://twitter.com/VP/status/950497843105746944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/950497843105746944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “We are witnessing a new era of Patriotism,
+Prosperity and Pride – and at the forefront of this exciting new chapte…
+https://t.co/SIo4Kv1P7l
+
+archiving URL http://twitter.com/Scavino45/status/950498921180160000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950498921180160000
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: 26 years later, a President hears rural America...
+https://t.co/846ib1nG5p https://t.co/rjoSy53v00
+
+archiving URL http://twitter.com/WhiteHouse/status/950500881816047616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950500881816047616
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: Good to have Dave Ross on board to lead the
+Office of Water. Dave will play a vital role in protecting clean water…
+https://t.co/4HzONka0an
+
+archiving URL http://twitter.com/EPAScottPruitt/status/950501697880838145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/950501697880838145
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We have been working every day to DELIVER for
+America’s Farmers just as they work every day to deliver FOR US.…
+https://t.co/KgNbFtg7XB
+
+archiving URL http://twitter.com/realDonaldTrump/status/950501926227136512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950501926227136512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: In every decision we make, we are honoring
+America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling regs,…
+https://t.co/biAoH3zNuZ
+
+archiving URL http://twitter.com/realDonaldTrump/status/950502279785959425
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/950502279785959425
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from POTUS: RT @realDonaldTrump: We have been working every day to
+DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+#AFBF18…
+
+archiving URL http://twitter.com/POTUS/status/950502633294442496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: In every decision we make, we are
+honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/POTUS/status/950502641628479488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950502641628479488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/950502633294442496
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We have been working every day
+ to DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+ #AFBF18…
+
+archiving URL http://twitter.com/WhiteHouse/status/950502700600438784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: In every decision we make, we
+are honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/WhiteHouse/status/950502708812963840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950502700600438784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/950502708812963840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: We have been working every day
+to DELIVER for America’s Farmers just as they work every day to deliver FOR US.
+#AFBF18…
+
+archiving URL http://twitter.com/Scavino45/status/950502762151849987
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: In every decision we make, we
+are honoring America’s PROUD FARMING LEGACY. Years of crushing taxes, crippling
+regs, &amp;…
+
+archiving URL http://twitter.com/Scavino45/status/950502767927447552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950502762151849987
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/950502767927447552
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 626
+more expected)', IncompleteRead(0 bytes read, 626 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950497155554336769,
+                       'id_str': '950497155554336769',
+
+                       'user_id': 37666984,
+'user_id_str': '37666984'},
+            'timestamp_ms': '1515453067587'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950497155554336769 on
+ account nikkihaley
+INFO: get_archived_tweet() called to get tweet ID 950497155554336769 for account
+ nikkihaley
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/nikkihaley/status/950497155554336769
+	RT: @USUN https://t.co/gULq50LFov
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because nikkihaley is not in the list
+of accounts we tweet about
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
