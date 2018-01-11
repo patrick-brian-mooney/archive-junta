@@ -1,0 +1,241 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Wednesday, 10 January 2018 at 12:49
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #951165420052066305 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #950772638280019968 for account @SBALinda
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #950741954303799296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #951109942685126656 for account
+@realDonaldTrump
+about to get all tweets newer than ID #951158524180082689 for account @VP
+getting all tweets before ID #938414279002415104
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: I told @marthamaccallum in our interview that we will
+continue to bring maximum economic &amp; diplomatic pressure to b…
+https://t.co/imWbOf2LfF
+
+archiving URL http://twitter.com/VP/status/951172644380004352
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951089711786930176 for account
+@nikkihaley
+
+archiving URL https://twitter.com/VP/status/951172644380004352
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507338 (char 507337)
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #951129231030915073 for account
+@SecShulkin
+getting all tweets before ID #928327726930460672
+    ...400 tweets downloaded so far
+
+
+New tweet from SecShulkin: RT @FoxBusiness: #ProgrammingAlert: Veterans
+Affairs Secretary @SecShulkin joins @cvpayne tonight at 6pm ET on Making Money
+https://t.co/P8…
+
+archiving URL http://twitter.com/SecShulkin/status/951163698629967872
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #950809901781127168 for account
+@SecondLady
+
+archiving URL https://twitter.com/SecShulkin/status/951163698629967872
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #950818160042827776 for account
+@KellyannePolls
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #950531653163765760 for account
+@seanspicer
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #951076332477304832 for account
+@IvankaTrump
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504449 (char 504448)
+about to get all tweets newer than ID #951137414608801792 for account @PRyan
+about to get all tweets newer than ID #951098660363952128 for account
+@SecretaryZinke
+getting all tweets before ID #929353543206817791
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508402 (char 508401)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #950801109693681665 for account
+@StephGrisham45
+about to get all tweets newer than ID #950783793639587842 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #951130932039376896 for account @POTUS
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #951175926670352391 for account
+@AshLeeStrong
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503106 (char 503105)
+about to get all tweets newer than ID #950940219703988225 for account
+@JessicaDitto45
+about to get all tweets newer than ID #950760369814896640 for account
+@SecretarySonny
+about to get all tweets newer than ID #951172371439898624 for account
+@SecretaryCarson
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #951132345796620289 for account
+@SecretaryPerry
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505506 (char 505505)
+about to get all tweets newer than ID #951159971445698561 for account
+@WhiteHouse
+getting all tweets before ID #943565168239431681
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506411 (char 506410)
+about to get all tweets newer than ID #948746483792310272 for account
+@DanScavino
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #951176498966355968 for account
+@SpeakerRyan
+getting all tweets before ID #941084562016423938
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: Great discussion with students from Wisconsin
+about ways to make college more affordable for low- and middle-income…
+https://t.co/pHbnavPCBH
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+
+archiving URL http://twitter.com/SpeakerRyan/status/951183452401033217
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/951183452401033217
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951050760296509440 for account @PressSec
+about to get all tweets newer than ID #951162424031371265 for account
+@Scaramucci
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #951172724298342400 for account @Scavino45
+getting all tweets before ID #939702091660103681
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: ICYMI: Cadets share their experience at Monday
+nights National Championship with @POTUS @realDonaldTrump.🎥…
+https://t.co/zyEsFmgQ6G
+
+archiving URL http://twitter.com/Scavino45/status/951175236023668736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+archiving URL https://twitter.com/Scavino45/status/951175236023668736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #950797473211183104 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 506836 (char 506835)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+... OK, we're set up, and about to watch 832672006113931269, 866746592853979137,
+ 819992522109894658, 65522706, 819980276570976256, 25073877, 818910970567344128,
+ 37666984, 105267762, 798195585824104449, 18906561, 831482588246196225,
+822127086194348032, 471672239, 809836066316451840, 20776147, 828997388920619008,
+ 52544275, 829782369670410240, 733751245, 827258161841135623, 599530439,
+823638938590085124, 799764016885329921, 212262370, 892173412818354177,
+822215679726100480, 6577802, 296060169, 22203756, 836724024688410625,
+842072478834909184, 828613457020870657, 20733972, 1180379185,
+830128820447539208, 15985455, 822215673812119553, 620571475, 803703725730779136,
+ 18916432, 888031054141022209, 818927131883356161, 24578794, 1923451808,
+823367015830323201, 29547260, 826065858548133888, 108471631, 836305915452272641,
+ 818876014390603776, 728361177986797568
+
+
+New tweet from PRyan: RT @townhallcom: House Speaker Paul Ryan to Speak at
+March for Life https://t.co/htoOEPMVqm
+
+archiving URL http://twitter.com/PRyan/status/951189394156867584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/951189394156867584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @realDonaldTrump: I want to thank my
+@Cabinet for working tirelessly on behalf of our country. 2017 was a year of
+monumental achievement…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/951189643445374976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/951189643445374976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: Tax reform benefits students and families saving for
+college 👩‍🎓 https://t.co/oe0A98iFhu
+
+archiving URL http://twitter.com/PRyan/status/951191919970807808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/951191919970807808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @RepKinzinger: Great to see these businesses
+reversing course to stay right here in the US. Our #TaxCutsAndJobsAct is good
+for the Ameri…
+
+archiving URL http://twitter.com/SpeakerRyan/status/951192015001260032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/951192015001260032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

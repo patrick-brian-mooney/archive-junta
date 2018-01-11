@@ -1,0 +1,323 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Thursday, 11 January 2018 at 00:01
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #951191919970807808 for account @PRyan
+about to get all tweets newer than ID #951172371439898624 for account
+@SecretaryCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #951322468601487361 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 1034507 (char 1034506)
+about to get all tweets newer than ID #950797473211183104 for account @FLOTUS
+about to get all tweets newer than ID #951236494164987904 for account
+@SecretaryZinke
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507796 (char 507795)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #950760369814896640 for account
+@SecretarySonny
+about to get all tweets newer than ID #951299690544467968 for account
+@DanScavino
+about to get all tweets newer than ID #951309956720087041 for account
+@realDonaldTrump
+about to get all tweets newer than ID #951284806725308416 for account
+@KellyannePolls
+about to get all tweets newer than ID #950801109693681665 for account
+@StephGrisham45
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #951287401103659008 for account
+@IvankaTrump
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #951287091379560450 for account @PressSec
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #951132345796620289 for account
+@SecretaryPerry
+about to get all tweets newer than ID #951203937318789120 for account
+@SpeakerRyan
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #951212954011275264 for account
+@SecondLady
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #951306432934277120 for account
+@AshLeeStrong
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #951213238573846529 for account
+@seanspicer
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #950783793639587842 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505426 (char 505425)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #951272743814746113 for account @VP
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #951253283083030528 for account
+@SecShulkin
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #951310700680568832 for account
+@nikkihaley
+about to get all tweets newer than ID #951308082440736773 for account @Scavino45
+about to get all tweets newer than ID #951189643445374976 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #951313653378224128 for account @POTUS
+about to get all tweets newer than ID #950741954303799296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #951323111684747264 for account
+@WhiteHouse
+about to get all tweets newer than ID #950772638280019968 for account @SBALinda
+about to get all tweets newer than ID #951224224810766337 for account
+@Scaramucci
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+... OK, we're set up, and about to watch 20733972, 733751245,
+828613457020870657, 212262370, 1180379185, 836724024688410625,
+818876014390603776, 827258161841135623, 18906561, 65522706, 15985455,
+842072478834909184, 620571475, 25073877, 471672239, 823638938590085124,
+828997388920619008, 599530439, 826065858548133888, 52544275, 866746592853979137,
+ 818927131883356161, 728361177986797568, 830128820447539208, 18916432, 29547260,
+ 822127086194348032, 803703725730779136, 296060169, 798195585824104449,
+20776147, 22203756, 799764016885329921, 6577802, 892173412818354177,
+888031054141022209, 809836066316451840, 818910970567344128, 105267762,
+831482588246196225, 829782369670410240, 37666984, 823367015830323201,
+832672006113931269, 822215679726100480, 819980276570976256, 822215673812119553,
+819992522109894658, 24578794, 1923451808, 836305915452272641, 108471631
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from PressSec: Low-income and working-class families are enjoying
+significant economic gains not experienced in nearly 20 years un…
+https://t.co/2ekDJ0XCc7
+
+archiving URL http://twitter.com/PressSec/status/951415326398443520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/951415326398443520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Disproven and paid for by Democrats “Dossier
+used to spy on Trump Campaign. Did FBI use Intel tool to influence the…
+https://t.co/5nl0H317BJ
+
+archiving URL http://twitter.com/realDonaldTrump/status/951416674808467461
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/951416674808467461
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: "more Americans who have been forced to work part-
+time are finding higher-paying, full-time employment" in the boom…
+https://t.co/0E2EK6ofc8
+
+archiving URL http://twitter.com/PressSec/status/951418971957456896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/951418971957456896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: In new Quinnipiac Poll, 66% of people feel the
+ economy is “Excellent or Good.” That is the highest number ever recorded by
+this poll.
+
+archiving URL http://twitter.com/realDonaldTrump/status/951419415794511872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/951419415794511872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: RT @Scavino45: President @realDonaldTrump,
+joined by @VP Mike Pence, meets with U.S. Ambassador to the @UN @NikkiHaley and
+Secretary of the…
+
+archiving URL http://twitter.com/stevenmnuchin1/status/951424972416868353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/951424972416868353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: So fun to see the predictable heads exploding,
+but I should've finished that sentence #CuomoPrimeTime @CNN. "Nobody…
+https://t.co/hqljp5kMjU
+
+archiving URL http://twitter.com/KellyannePolls/status/951425045481615360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951425045481615360
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: "Nobody in the White House talks about Hillary
+Clinton" as a bipartisan, bicameral bill signing yesterday marks a b…
+https://t.co/kijb6ut3XW
+
+archiving URL http://twitter.com/KellyannePolls/status/951426168070332416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951426168070332416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @Scavino45: President Trump about to sign
+the #InterdictAct, a bipartisan effort to help stop the flow of drugs into the
+United States.…
+
+archiving URL http://twitter.com/KellyannePolls/status/951426205600841728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951426205600841728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: This is another excellent example of bipartisan
+ action on behalf of our beloved country. Thank you for standing tog…
+https://t.co/eKemTNahCd
+
+archiving URL http://twitter.com/KellyannePolls/status/951427381633470464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951427381633470464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @SenMarkey: I am proud to be an author of
+the bipartisan INTERDICT Act that will give law enforcement the tools they need
+to intercept i…
+
+archiving URL http://twitter.com/KellyannePolls/status/951428053154127873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951428053154127873
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “House votes on controversial FISA ACT today.”
+ This is the act that may have been used, with the help of the discre…
+https://t.co/PMLpbrd3pp
+
+archiving URL http://twitter.com/realDonaldTrump/status/951431836030459905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/951431836030459905
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from KellyannePolls: Hey @ChrisCuomo - when we are forced to
+think/talk about hrc it's because you and your colleagues can't let go of a…
+https://t.co/vafaYJ5TN4
+
+archiving URL http://twitter.com/KellyannePolls/status/951434457520726016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951434457520726016
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/951440035823476740
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/951440035823476740
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “45 year low in illegal immigration this
+year.” @foxandfriends
+
+archiving URL http://twitter.com/realDonaldTrump/status/951441504203104256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/951441504203104256
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from KellyannePolls: "No one here talks about her" 
+when we
+
+ponder
+who the first female POTUS will be;
+
+applaud booming stock market, 4…
+https://t.co/haS0oTq1hC
+
+archiving URL http://twitter.com/KellyannePolls/status/951446337542815744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/951446337542815744
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
