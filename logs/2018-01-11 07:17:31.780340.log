@@ -1,0 +1,264 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Thursday, 11 January 2018 at 07:17
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #943545273489510400 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503071 (char 503070)
+about to get all tweets newer than ID #951446337542815744 for account
+@KellyannePolls
+about to get all tweets newer than ID #951424972416868353 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 506956 (char 506955)
+about to get all tweets newer than ID #951313653378224128 for account @POTUS
+about to get all tweets newer than ID #948795678020513792 for account
+@TomBossert45
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #951299690544467968 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #951440035823476740 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502549 (char 502548)
+about to get all tweets newer than ID #951212954011275264 for account
+@SecondLady
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #951189643445374976 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #951455280277131264 for account
+@SecretaryCarson
+about to get all tweets newer than ID #951287401103659008 for account
+@IvankaTrump
+about to get all tweets newer than ID #951132345796620289 for account
+@SecretaryPerry
+about to get all tweets newer than ID #951253283083030528 for account
+@SecShulkin
+about to get all tweets newer than ID #951323111684747264 for account
+@WhiteHouse
+about to get all tweets newer than ID #951191919970807808 for account @PRyan
+getting all tweets before ID #918844273302429696
+    ...400 tweets downloaded so far
+
+
+New tweet from PRyan: RT @CNBC: BREAKING: Walmart will raise its starting wage
+ rate for hourly employees in the U.S. to $11, expand maternity &amp; parental
+leave be…
+
+archiving URL http://twitter.com/PRyan/status/951456719271530496
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+
+archiving URL https://twitter.com/PRyan/status/951456719271530496
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951213238573846529 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Invalid \uXXXX escape:
+ line 1 column 505223 (char 505222)
+about to get all tweets newer than ID #950741954303799296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #950760369814896640 for account
+@SecretarySonny
+getting all tweets before ID #923352270573572096
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretarySonny: Glad to catch up with my old friend
+@RepDavidScott. We served in the Georgia legislature together. I'll be introduc…
+ https://t.co/cnNa5tHMzb
+about to get all tweets newer than ID #951418971957456896 for account @PressSec
+
+archiving URL http://twitter.com/SecretarySonny/status/951461090520690688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/951461090520690688
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #936006117590749184
+    ...400 tweets downloaded so far
+
+
+New tweet from PressSec: Huge news! Truly amazing and inspiring to witness the
+ tax cuts lifting millions of hardworking Americans up. https://t.co/lHvlcOQw9H
+
+archiving URL http://twitter.com/PressSec/status/951458165903814657
+about to get all tweets newer than ID #951310700680568832 for account
+@nikkihaley
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/951458165903814657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: This is one action @POTUS took to fix the unmasking
+process. https://t.co/v1bbzvvbiN
+
+archiving URL http://twitter.com/PressSec/status/951460847402012672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/951460847402012672
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951203937318789120 for account
+@SpeakerRyan
+getting all tweets before ID #941114760422096895
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: RT @axios: In response to the tax plan, Walmart is
+ raising starting wages, providing bonuses and expanding benefits.
+https://t.co/Vapp5gUlpN
+
+archiving URL http://twitter.com/SpeakerRyan/status/951454415810105344
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/951454415810105344
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507371 (char 507370)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #951306432934277120 for account
+@AshLeeStrong
+getting all tweets before ID #938474041370972159
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: RT @BrendanBuck: Tax reform, man.
+https://t.co/GOzLH1YHr8
+
+archiving URL http://twitter.com/AshLeeStrong/status/951451821905793030
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+
+archiving URL https://twitter.com/AshLeeStrong/status/951451821905793030
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #950772638280019968 for account @SBALinda
+
+
+New tweet from AshLeeStrong: “Number of workers receiving unemployment
+benefits falls to lowest level in 44 years”
+
+https://t.co/sgFTfqIO6i
+
+archiving URL http://twitter.com/AshLeeStrong/status/951461566737731585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/951461566737731585
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #919939433482346496
+    ...400 tweets downloaded so far
+
+
+New tweet from SBALinda: RT @SBAgov: 7 Marketing Resolutions to Make This New
+Year → https://t.co/lpEpQQ7jls https://t.co/Mai6qVN6sW
+
+archiving URL http://twitter.com/SBALinda/status/951456562207444992
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #948992631308156928 for account
+@IvankaTrumpHQ
+
+archiving URL https://twitter.com/SBALinda/status/951456562207444992
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #950797473211183104 for account @FLOTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #951272743814746113 for account @VP
+getting all tweets before ID #938565685659275264
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: RT @NellisAFB: Looking forward to welcoming @VP to the best
+ base in the Air Force tomorrow! https://t.co/eKlXpizQRs
+
+archiving URL http://twitter.com/VP/status/951454494491070464
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #950801109693681665 for account
+@StephGrisham45
+
+archiving URL https://twitter.com/VP/status/951454494491070464
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #951441504203104256 for account
+@realDonaldTrump
+getting all tweets before ID #940554567414091775
+    ...397 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: With that being said, I have personally
+directed the fix to the unmasking process since taking office and today’s v…
+https://t.co/yvJkaKTGEr
+about to get all tweets newer than ID #951322468601487361 for account
+@JessicaDitto45
+
+archiving URL http://twitter.com/realDonaldTrump/status/951457382651056128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/951457382651056128
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #951308082440736773 for account @Scavino45
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #951236494164987904 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 506459 (char 506458)
+... OK, we're set up, and about to watch 829782369670410240, 1180379185,
+888031054141022209, 1923451808, 471672239, 799764016885329921, 212262370,
+822215679726100480, 866746592853979137, 15985455, 620571475, 29547260, 65522706,
+ 826065858548133888, 24578794, 822127086194348032, 22203756, 832672006113931269,
+ 828613457020870657, 52544275, 830128820447539208, 831482588246196225,
+822215673812119553, 733751245, 108471631, 20776147, 819980276570976256,
+842072478834909184, 818927131883356161, 37666984, 18916432, 828997388920619008,
+803703725730779136, 296060169, 836305915452272641, 819992522109894658,
+798195585824104449, 6577802, 818876014390603776, 599530439, 818910970567344128,
+823638938590085124, 809836066316451840, 25073877, 836724024688410625,
+892173412818354177, 105267762, 823367015830323201, 18906561, 728361177986797568,
+ 20733972, 827258161841135623
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

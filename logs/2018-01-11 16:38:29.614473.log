@@ -1,0 +1,202 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Thursday, 11 January 2018 at 16:38
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #951469322014281728 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #951212954011275264 for account
+@SecondLady
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #951506732043456512 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #951477412084310017 for account
+@KellyannePolls
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #951596615365791744 for account
+@WhiteHouse
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #951585208742154241 for account @SBALinda
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #951508828289404928 for account
+@seanspicer
+about to get all tweets newer than ID #950797473211183104 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507893 (char 507892)
+about to get all tweets newer than ID #951515401380352000 for account
+@SecretaryPerry
+about to get all tweets newer than ID #951553575410327552 for account @PRyan
+about to get all tweets newer than ID #951299690544467968 for account
+@DanScavino
+about to get all tweets newer than ID #951460847402012672 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507885 (char 507884)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #951541170055806977 for account
+@SecretaryCarson
+about to get all tweets newer than ID #951557455934259200 for account
+@SecShulkin
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #951591456967397377 for account
+@JessicaDitto45
+about to get all tweets newer than ID #951581515414155267 for account
+@nikkihaley
+about to get all tweets newer than ID #951577066117517312 for account
+@AshLeeStrong
+getting all tweets before ID #938807007292792831
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+
+
+New tweet from AshLeeStrong: Ugh, it’s hot out. Don’t @ me.
+
+archiving URL http://twitter.com/AshLeeStrong/status/951595645982343170
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #951543640228327424 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/AshLeeStrong/status/951595645982343170
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #951546143351156736 for account
+@IvankaTrump
+getting all tweets before ID #932059329045204991
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: Today @realDonaldTrump hosted an in-depth
+discussion with Governors and prison reform experts. We need to fix our p…
+https://t.co/NuUjKbWwBW
+
+archiving URL http://twitter.com/IvankaTrump/status/951603185990455296
+about to get all tweets newer than ID #951473433719828480 for account
+@StephGrisham45
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/951603185990455296
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951595463010111490 for account @VP
+getting all tweets before ID #938804982060634111
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503611 (char 503610)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #951483548342587392 for account
+@SecretarySonny
+about to get all tweets newer than ID #950741954303799296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #951521878471983104 for account
+@TomBossert45
+about to get all tweets newer than ID #951593452910841861 for account
+@SpeakerRyan
+about to get all tweets newer than ID #951574732888989696 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 502611 (char 502610)
+about to get all tweets newer than ID #951596562685325312 for account @Scavino45
+getting all tweets before ID #941360341379842050
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @stevenmnuchin1: IRS just released the new
+withholding guidance. Approximately 90% of workers will see an increase in take
+home pay beca…
+about to get all tweets newer than ID #951478281303416832 for account
+@realDonaldTrump
+
+archiving URL http://twitter.com/Scavino45/status/951597425592094720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/951597425592094720
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #940584383605563391
+    ...397 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Yesterday, I signed the #INTERDICTAct (H.R.
+2142) with bipartisan members of Congress to help end the flow of drugs…
+https://t.co/7gjyeEu1HY
+
+archiving URL http://twitter.com/realDonaldTrump/status/951596346011680768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/realDonaldTrump/status/951596346011680768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #951580570487869440 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #951524967174279168 for account
+@SecretaryZinke
+about to get all tweets newer than ID #951481161691357184 for account @POTUS
+getting all tweets before ID #939006984283611136
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Yesterday, I signed the
+#INTERDICTAct (H.R. 2142) with bipartisan members of Congress to help end the
+flow of drugs in…
+
+archiving URL http://twitter.com/POTUS/status/951596473824763908
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #-1 for account @jaredkushner
+
+archiving URL https://twitter.com/POTUS/status/951596473824763908
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 798195585824104449, 822127086194348032,
+ 1923451808, 888031054141022209, 471672239, 18906561, 822215673812119553,
+22203756, 836305915452272641, 819992522109894658, 803703725730779136, 20776147,
+818876014390603776, 830128820447539208, 733751245, 620571475,
+818927131883356161, 108471631, 15985455, 829782369670410240, 599530439,
+828613457020870657, 831482588246196225, 809836066316451840, 826065858548133888,
+836724024688410625, 37666984, 296060169, 892173412818354177, 799764016885329921,
+ 828997388920619008, 52544275, 823638938590085124, 818910970567344128, 65522706,
+ 105267762, 842072478834909184, 819980276570976256, 866746592853979137,
+18916432, 24578794, 823367015830323201, 25073877, 1180379185, 6577802,
+212262370, 832672006113931269, 20733972, 827258161841135623, 822215679726100480,
+ 728361177986797568, 29547260
+
+
+New tweet from POTUS: RT @SecShulkin: As part of @DeptVetAffairs promise of
+transparency to #Veterans and the American people, we have released the opioid
+prescr…
+
+archiving URL http://twitter.com/POTUS/status/951598101164380160
+    ... archiving using prefix http://web.archive.org/save/

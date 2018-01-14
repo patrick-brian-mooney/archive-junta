@@ -1,0 +1,260 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 12 January 2018 at 11:43
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #951212954011275264 for account
+@SecondLady
+getting all tweets before ID #907254355711217669
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+
+New tweet from SecondLady: It's been almost a year since we moved into the
+Vice President's Residence! Here's a look at the awesome photos tak…
+https://t.co/UpSHmI59xh
+
+archiving URL http://twitter.com/SecondLady/status/951887152752807937
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/951887152752807937
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #951656272864129024 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #951857788153626624 for account
+@SecShulkin
+about to get all tweets newer than ID #951605535039778817 for account
+@IvankaTrump
+about to get all tweets newer than ID #950741954303799296 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #951524967174279168 for account
+@SecretaryZinke
+about to get all tweets newer than ID #951591456967397377 for account
+@JessicaDitto45
+about to get all tweets newer than ID #950797473211183104 for account @FLOTUS
+getting all tweets before ID #854110464103653375
+    ...229 tweets downloaded so far
+
+
+New tweet from FLOTUS: It was a productive week with meetings, meetings &amp;
+more meetings!  Lots of work to be done in 2018 - looking forwar…
+https://t.co/BsRPykGDyF
+
+archiving URL http://twitter.com/FLOTUS/status/951883414004748293
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/951883414004748293
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507797 (char 507796)
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #951875703552831488 for account
+@AshLeeStrong
+about to get all tweets newer than ID #951874120165330944 for account @SBALinda
+about to get all tweets newer than ID #951477412084310017 for account
+@KellyannePolls
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #951843786144940032 for account
+@Scaramucci
+getting all tweets before ID #939937893077929986
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/951886178055282694
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/951886178055282694
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #951604319933083648 for account @PressSec
+about to get all tweets newer than ID #951868637861654528 for account @PRyan
+about to get all tweets newer than ID #947883338055987201 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #951820644437676034 for account
+@stevenmnuchin1
+getting all tweets before ID #889977392621604868
+    ...347 tweets downloaded so far
+
+
+New tweet from stevenmnuchin1: Today we issued sanctions targeting Iran's
+ballistic missile program and destabilizing activities which it continue…
+https://t.co/RXNcmsujMz
+about to get all tweets newer than ID #951876559593525248 for account
+@SpeakerRyan
+
+archiving URL http://twitter.com/stevenmnuchin1/status/951891172561125376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/951891172561125376
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #951875880904744961 for account @POTUS
+about to get all tweets newer than ID #951875887343046657 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507868 (char 507867)
+about to get all tweets newer than ID #951875843256659974 for account
+@WhiteHouse
+getting all tweets before ID #944596240209272832
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507890 (char 507889)
+about to get all tweets newer than ID #951508828289404928 for account
+@seanspicer
+about to get all tweets newer than ID #951483548342587392 for account
+@SecretarySonny
+about to get all tweets newer than ID #951580570487869440 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #951877946138071040 for account @Scavino45
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #951506732043456512 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #951869668452642817 for account
+@SecretaryCarson
+about to get all tweets newer than ID #951469322014281728 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #951581515414155267 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 506956 (char 506955)
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #951645561765195777 for account
+@TomBossert45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #951868476351827969 for account
+@SecretaryPerry
+about to get all tweets newer than ID #951875499537641472 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505998 (char 505997)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #951473433719828480 for account
+@StephGrisham45
+... OK, we're set up, and about to watch 822127086194348032, 728361177986797568,
+ 108471631, 620571475, 29547260, 809836066316451840, 831482588246196225,
+52544275, 819980276570976256, 829782369670410240, 892173412818354177, 105267762,
+ 827258161841135623, 836724024688410625, 818876014390603776, 20733972,
+212262370, 65522706, 18906561, 1180379185, 296060169, 819992522109894658,
+471672239, 803703725730779136, 24578794, 836305915452272641, 818927131883356161,
+ 733751245, 828997388920619008, 799764016885329921, 18916432, 6577802,
+822215679726100480, 818910970567344128, 822215673812119553, 20776147,
+842072478834909184, 832672006113931269, 823367015830323201, 22203756,
+888031054141022209, 828613457020870657, 798195585824104449, 37666984,
+1923451808, 15985455, 866746592853979137, 826065858548133888,
+830128820447539208, 25073877, 599530439, 823638938590085124
+
+
+New tweet from VP: Grateful to join @POTUS, @SecretaryCarson &amp; pastor
+Isaac Newton Farris Jr., the nephew of Dr. Martin Luther King Jr…
+https://t.co/6a6rW5DKmj
+
+archiving URL http://twitter.com/VP/status/951896455794626560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/951896455794626560
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: President Trump is rolling back wasteful and costly
+ regulations that have stood in the way of hardworking Americans…
+https://t.co/hRpsk96Rft
+
+archiving URL http://twitter.com/WhiteHouse/status/951900852440240128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/951900852440240128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@potus is not a racist. He is far from it. Perhaps
+ the least racist.  Apparently he and I are the only two people…
+https://t.co/qFaJ0M3B35
+
+archiving URL http://twitter.com/Scaramucci/status/951903680399163392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/951903680399163392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@potus is not a racist. He is far from it. Perhaps
+ the least racist.  Apparently he and I are the only two people…
+https://t.co/UfKOmgQfSC
+
+archiving URL http://twitter.com/Scaramucci/status/951904284303540224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/951904284303540224
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+951903680399163392,
+                       'id_str': '951903680399163392',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1515786653909'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 951903680399163392 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 951903680399163392 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/951903680399163392
+	.@potus is not a racist. He is far from it. Perhaps the least racist.
+Apparently he and I are the only two people… https://t.co/qFaJ0M3B35
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
