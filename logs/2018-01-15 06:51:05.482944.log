@@ -1,0 +1,49 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Monday, 15 January 2018 at 06:51
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #952897145367138305 for account
+@SecretaryCarson
+about to get all tweets newer than ID #941074527592812545 for account
+@SecretaryRoss
+about to get all tweets newer than ID #952167274655428608 for account @POTUS
+about to get all tweets newer than ID #952654873027375105 for account
+@SecretaryZinke
+getting all tweets before ID #929442432583954431
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509709 (char 509708)
+about to get all tweets newer than ID #952012081091563520 for account
+@TomBossert45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #952721304188342272 for account
+@IvankaTrump
+about to get all tweets newer than ID #951874120165330944 for account @SBALinda
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507845 (char 507844)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #952613022589124609 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507890 (char 507889)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #952341465090416640 for account
+@KellyannePolls
