@@ -1,0 +1,231 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Monday, 15 January 2018 at 20:10
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #951874120165330944 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 860091 (char 860090)
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505954 (char 505953)
+about to get all tweets newer than ID #952936237941354499 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #953068179919638528 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #952927460118745088 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+ERROR: unable to get tweets for account @WilburRoss
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #952938771280023554 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #952961010243162112 for account
+@WhiteHouse
+about to get all tweets newer than ID #952936751764590592 for account @VP
+about to get all tweets newer than ID #951656272864129024 for account
+@DanScavino
+about to get all tweets newer than ID #953078198501330944 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #952341465090416640 for account
+@KellyannePolls
+about to get all tweets newer than ID #953067234359902208 for account
+@AshLeeStrong
+getting all tweets before ID #940661577958780932
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #953040399148486656 for account
+@seanspicer
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #952959490848149504 for account
+@JessicaDitto45
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+about to get all tweets newer than ID #952980130569314304 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #952897246848278528 for account
+@SecretarySonny
+about to get all tweets newer than ID #951469322014281728 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #951506732043456512 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #952908047910948865 for account
+@IvankaTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=GovPenceIN (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb60d02ec>: Failed to establish a new connection: [Errno 101]
+Network is unreachable',))
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507883 (char 507882)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #952941381206593536 for account
+@SecretaryCarson
+about to get all tweets newer than ID #952943042167824384 for account
+@SecretaryZinke
+about to get all tweets newer than ID #952890594342391808 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #953073126442749953 for account @PressSec
+about to get all tweets newer than ID #953019803341676547 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #953025929290375168 for account @PRyan
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #953063366196637697 for account
+@SpeakerRyan
+about to get all tweets newer than ID #952980076378906624 for account @POTUS
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+about to get all tweets newer than ID #952891481152479232 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #952714540256563200 for account
+@SecondLady
+about to get all tweets newer than ID #952973664902959105 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 507448 (char 507447)
+about to get all tweets newer than ID #951473433719828480 for account
+@StephGrisham45
+about to get all tweets newer than ID #952933832935780355 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #795981284761894912 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #953063046657781762 for account
+@nikkihaley
+... OK, we're set up, and about to watch 819992522109894658, 22203756,
+830128820447539208, 25073877, 818876014390603776, 809836066316451840,
+866746592853979137, 822215673812119553, 818910970567344128, 620571475, 24578794,
+ 18906561, 471672239, 296060169, 20776147, 829782369670410240,
+836724024688410625, 836305915452272641, 819980276570976256, 842072478834909184,
+798195585824104449, 888031054141022209, 52544275, 15985455, 826065858548133888,
+6577802, 1180379185, 65522706, 828613457020870657, 827258161841135623,
+799764016885329921, 29547260, 818927131883356161, 828997388920619008, 733751245,
+ 599530439, 803703725730779136, 212262370, 18916432, 822215679726100480,
+728361177986797568, 1923451808, 20733972, 832672006113931269, 105267762,
+892173412818354177, 822127086194348032, 831482588246196225, 823638938590085124,
+823367015830323201, 108471631, 37666984
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scaramucci: !!!! https://t.co/FspfWTdL1U
+
+archiving URL http://twitter.com/Scaramucci/status/953115028063969280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/953115028063969280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @tribelaw: I’ve listened to the WStJ tape of
+@realDonaldTrump saying he’d probably have a good relationship with Kim-Jong un
+and must sa…
+
+archiving URL http://twitter.com/Scaramucci/status/953116632246865923
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/953116632246865923
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SpeakerRyan: To date, more than 2.6 million employees from a
+growing list of 160 companies are due extra pay and increased benef…
+https://t.co/xCSNmO3KP0
+
+archiving URL http://twitter.com/SpeakerRyan/status/953248898017046529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/953248898017046529
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: We must have Security at our VERY DANGEROUS
+SOUTHERN BORDER, and we must have a great WALL to help protect us, and…
+https://t.co/QH1uNnvCOq
+
+archiving URL http://twitter.com/realDonaldTrump/status/953264081871495168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/953264081871495168
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
