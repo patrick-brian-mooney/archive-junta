@@ -1,0 +1,608 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Saturday, 20 January 2018 at 12:31
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #954753799008133120 for account
+@SecShulkin
+about to get all tweets newer than ID #954518400298045441 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #954435817862123520 for account @PRyan
+about to get all tweets newer than ID #954791743064608769 for account @Scavino45
+about to get all tweets newer than ID #954789528405008384 for account @POTUS
+getting all tweets before ID #943612894838706175
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #954791992277389312 for account
+@StephGrisham45
+
+
+New tweet from POTUS: RT @HouseGOP: A government shutdown rests on the
+shoulders of @SenateDems and @SenSchumer. They made the choice to put party
+politics over…
+
+archiving URL http://twitter.com/POTUS/status/954794898439524352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/954794898439524352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @senorrinhatch: The record stands very clear:
+Bipartisan majorities in the House and Senate supported a non-controversial bill
+ to keep…
+
+archiving URL http://twitter.com/POTUS/status/954795128677429248
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+
+archiving URL https://twitter.com/POTUS/status/954795128677429248
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #954748876887592960 for account @FLOTUS
+about to get all tweets newer than ID #947851229719355392 for account
+@GovernorPerry
+about to get all tweets newer than ID #954137162827649024 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #954090900921159680 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954790623500029952 for account
+@AshLeeStrong
+getting all tweets before ID #943601840825958399
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509778 (char 509777)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #954707866027347973 for account
+@SecondLady
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510326 (char 510325)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #954776370915303425 for account
+@SecretarySonny
+about to get all tweets newer than ID #954749615944892416 for account
+@KellyannePolls
+about to get all tweets newer than ID #867385249340297217 for account
+@RealBenCarson
+about to get all tweets newer than ID #954409146664783872 for account
+@SecretaryCarson
+about to get all tweets newer than ID #954788467069870081 for account
+@realDonaldTrump
+about to get all tweets newer than ID #954764028202676225 for account
+@seanspicer
+about to get all tweets newer than ID #954774886983094273 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509154 (char 509153)
+about to get all tweets newer than ID #951506732043456512 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #954745336207159297 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #954488719377141761 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #954771059923931137 for account @VP
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #954798138493145095 for account
+@MELANIATRUMP
+getting all tweets before ID #954795553426206721
+    ...400 tweets downloaded so far
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you to all who participated in
+today's discussion on opioid abuse. By talking about it, we can start to make a
+real diffe…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798160559464449
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798160559464449
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Oct is Natl Breast Cancer Awareness
+Month.  Please talk to your doctor about early detection &amp; reducing your
+risk. #BreastCance…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798181669359616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798181669359616
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Congratulations to all the
+competitors at this year's Invictus Games! You've served your country proudly at
+ home &amp; @InvictusTor…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798204503187456
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954049288866279425 for account
+@TomBossert45
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798204503187456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: In honor of National Breast Cancer
+Awareness Month we lit the @WhiteHouse pink! https://t.co/w3M3XlpXos
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798224614854656
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798224614854656
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954435460968996864 for account
+@SecretaryPerry
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: My heart and prayers goes out to
+victims, families &amp; loved ones! 
+#PrayForLasVegas
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798247859703808
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954737657774473217 for account
+@SecretaryZinke
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798247859703808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @realDonaldTrump: My Administration will
+continue to work around the clock with Governor @RicardoRossello &amp; his team.
+ Great progress bei…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798272748703744
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #931699040407912447
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798272748703744
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: RT @AP_Politics: Visitors can still ride
+snowmobiles and snow coaches into Yellowstone National Park to gaze at the
+geysers and buffalo her…
+
+archiving URL http://twitter.com/SecretaryZinke/status/954796536319311872
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #954221739675996160 for account
+@DanScavino
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: After speaking w/people affected by
+#HurricaneMaria yesterday we are reminded of the fighting spirit of Americans.
+@POTUS and I…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798294844280832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/954796536319311872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798294844280832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @ArizonaTourism: Got #GrandCanyon travel
+plans? Keep them. You can still enjoy the park’s overlooks, trails, restaurants,
+ shops and acco…
+
+archiving URL http://twitter.com/SecretaryZinke/status/954797165049675779
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @realDonaldTrump: WE LOVE YOU LAS VEGAS!
+https://t.co/nxRWeR1gEz
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798371700699137
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/954797165049675779
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798371700699137
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Yesterday’s visit to Las Vegas was
+both somber &amp; uplifting. Those lost will never be forgotten. #VegasStrong
+https://t.co/onFHV…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798397667594240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798397667594240
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #954788536389197824 for account @PressSec
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Welcomed spouses of Senior Military
+Leaders to the @Whitehouse last night. 
+Thank you for your service!
+https://t.co/R1oagHCsgo
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798424314073088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798424314073088
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954594386490413056 for account
+@WhiteHouse
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Wonderful celebration of Hispanic
+Heritage Month @WhiteHouse this afternoon! https://t.co/lGxbglXp3l
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798457679765504
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954790197883035648 for account
+@JessicaDitto45
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798457679765504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Tmw I travel to WV on behalf of kids.
+ Babies born addicted to opioids often end up in foster system-we must help
+parents overco…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798482149212160
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954719345275494406 for account
+@nikkihaley
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798482149212160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Enjoyed hosting Sophie Trudeau at the
+ @WhiteHouse today.  Thank you neighbors to our north, for the visit.
+https://t.co/ZPUxtIS…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798507008946176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954738359083167744 for account
+@Scaramucci
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798507008946176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Welcomed PM @JustinTrudeau &amp; Mrs.
+ Trudeau to @WhiteHouse yesterday! Productive mtgs between Canada 🇨🇦 &amp; USA
+🇺🇸 https://t.co/Kd1…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798530442514432
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #943908455793823744 for account @Reince
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798530442514432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: My determination on behalf of those
+affected by recent hurricanes remains steadfast. Please help if you can.
+https://t.co/I0RbP…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798563262959616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798563262959616
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: 1/2: Thank you to Kuwait-America
+Foundation for this year's Humanitarian Award!
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798587560517633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798587560517633
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954370070297399297 for account
+@IvankaTrump
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: 2/2: My goal as FLOTUS is to
+positively impact the lives of children &amp; effect change within our next
+generation.
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798608561463297
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798608561463297
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Honored today to donate my inaugural
+couture piece to the @amhistorymuseum! https://t.co/ENU1BeJA02
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798634880598016
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954472012424138754 for account @SBALinda
+... OK, we're set up, and about to watch 831482588246196225, 819980276570976256,
+ 733751245, 823367015830323201, 822215679726100480, 823638938590085124,
+836305915452272641, 803703725730779136, 818876014390603776, 18906561,
+828997388920619008, 799764016885329921, 296060169, 599530439,
+822127086194348032, 22203756, 105267762, 842072478834909184, 471672239,
+1180379185, 828613457020870657, 25073877, 20776147, 18916432,
+888031054141022209, 832672006113931269, 892173412818354177, 798195585824104449,
+818910970567344128, 65522706, 728361177986797568, 809836066316451840, 108471631,
+ 829782369670410240, 6577802, 866746592853979137, 212262370, 830128820447539208,
+ 827258161841135623, 29547260, 620571475, 818927131883356161,
+822215673812119553, 836724024688410625, 37666984, 24578794, 826065858548133888,
+20733972, 15985455, 52544275, 1923451808, 819992522109894658
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798634880598016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Wonderful to see kind children at
+Orchard Lake Middle School in Michigan! Thank you for having me! #nooneeatsalone
+ https://t.co…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798655898308609
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798655898308609
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you for all you do!
+@MichStatePolice @oaklandsheriff @WestBlmfldPD W Bloomfield Fire Dept &amp;
+Waterford Police Dept https:/…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798676299452416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798676299452416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Proud to support @potus today as he
+declared our nation's opioid crisis a public health emergency.
+https://t.co/CZETljrq5N
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954798696113360906
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954798696113360906
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FoxNews: WATCH: Full @FLOTUS speech on
+battling the opioid epidemic in the United States . https://t.co/6kCWvMCYuQ
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954799241632903170
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954799241632903170
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Enjoyed spending time with the
+students of Orchard Lake Middle School in Michigan on Monday. Thank you for
+leading by example!…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954799273685782528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954799273685782528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: 1/2: Today is Nat’l Prescription Drug
+ Take Back Day. Visit https://t.co/hVKAPXC84O ...
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954799471447236608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954799471447236608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: The People’s House @WhiteHouse is
+ready to celebrate #Halloween2017 https://t.co/35p3AbnM9o
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800050978385923
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800050978385923
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Fun night handing out treats to kids
+who visited @POTUS &amp; I at the @WhiteHouse. #TrickOrTreat #HappyHalloween2017
+ https://t.co/…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800064010088450
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800064010088450
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: My heart breaks for #NYC today.
+Thoughts &amp; prayers as we monitor the situation.
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800079180910594
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800079180910594
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank u @WhiteHouseHstry for all you
+do to preserve, collect&amp;exhibit the artifacts of American
+history&amp;culture in the @WhiteHou…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800091713425409
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(4506 bytes read)',
+IncompleteRead(4506 bytes read)); sleeping and trying again ...
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800091713425409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you for a warm welcome Hawaii!
+Aloha! https://t.co/reAHw9ItNo
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800104770342912
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800104770342912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Our visit to the @USSArizona memorial
+ at #PearlHarbor was very moving. May those we lost always Rest In Peace. Thank
+you to all…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800117869096960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800117869096960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: On the way to Asia. I am looking
+forward to seeing Mrs. Abe 🇯🇵, First Lady Kim 🇰🇷 and Madame Peng 🇨🇳 again!
+#FLOTUSinAsia
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800133870379008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800133870379008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Wonderful visit w Mrs. Abe today!
+Enjoyed conversation over tea &amp; the cultural presentation on the history of
+pearls. #FLOTUSin…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800147858419712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800147858419712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Our hearts are with #Texas
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800165289971712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800165289971712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: #FLOTUSinAsia
+https://t.co/7qJksffxdH
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800180221677569
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800180221677569
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you for wonderful welcome
+President Moon &amp; First Lady Kim and people of Republic of Korea 🇰🇷
+https://t.co/37p1WF53Lv
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800215063658496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800215063658496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you USA troops and families for
+ your sacrifice and your service! #FLOTUSinAsia https://t.co/mEz49Yupf0
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800307439009794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800307439009794
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Thank you President Xi &amp; Madame
+Peng, for your warm hospitality. Enjoyed our time &amp; looking fwd to future
+visits between our co…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800322844790785
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800322844790785
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Wonderful to spend time with military
+ families at JBER #Alaska. Thank you for your service! #HappyVeteransDay
+https://t.co/dIn7…
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800338120445952
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/MELANIATRUMP/status/954800338120445952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from MELANIATRUMP: RT @FLOTUS: Wonderful to met Gu Gu 🐼
+#FLOTUSinAsia https://t.co/ZdWWrj9bV8
+
+archiving URL http://twitter.com/MELANIATRUMP/status/954800353811329025
+    ... archiving using prefix http://web.archive.org/save/
