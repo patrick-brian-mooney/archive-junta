@@ -1,0 +1,255 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Wednesday, 24 January 2018 at 13:30
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #956134228726558720 for account
+@realDonaldTrump
+getting all tweets before ID #946725057384108032
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503307 (char 503306)
+about to get all tweets newer than ID #956057899100450816 for account
+@AshLeeStrong
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #956167648894701568 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509047 (char 509046)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #956180253403213824 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505184 (char 505183)
+about to get all tweets newer than ID #955859287204597760 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 918857 (char 918856)
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #955862434127974400 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 506003 (char 506002)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #954049288866279425 for account
+@TomBossert45
+about to get all tweets newer than ID #956014223611650051 for account @PressSec
+about to get all tweets newer than ID #956179452823851008 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=RealBenCarson&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb63fabac>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #956213760951291907 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #956224170546823168 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SBALinda&count=200 (Caused by
+ NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnecti
+on object at 0xb63fd7cc>: Failed to establish a new connection: [Errno -2] Name
+or service not known',))
+about to get all tweets newer than ID #956226585815846913 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 509356 (char 509355)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #955634336887332864 for account
+@MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=MickMulvaneyOMB&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb630164c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #956226773510836224 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503088 (char 503087)
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 510803 (char 510802)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #954518400298045441 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #956195195472744448 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 507908 (char 507907)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509322 (char 509321)
+about to get all tweets newer than ID #956194949464252421 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506001 (char 506000)
+about to get all tweets newer than ID #955917062391640065 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #956235041444646912 for account
+@SecretarySonny
+getting all tweets before ID #927366222261362687
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretarySonny: At @centralpafb talking about American
+agricultural abundance and efforts to help feed people in need. In our…
+https://t.co/fXUKwBZeil
+
+archiving URL http://twitter.com/SecretarySonny/status/956253912100728834
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954748876887592960 for account @FLOTUS
+
+archiving URL https://twitter.com/SecretarySonny/status/956253912100728834
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Great to be with you today @CongressmanGT.
+https://t.co/GeRQCCuLaZ
+
+archiving URL http://twitter.com/SecretarySonny/status/956256120544419841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/956256120544419841
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502588 (char 502587)
+about to get all tweets newer than ID #956160959999078402 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507440 (char 507439)
+about to get all tweets newer than ID #955159265110458368 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 509355 (char 509354)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #956138643894276096 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506770 (char 506769)
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+about to get all tweets newer than ID #954137162827649024 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #956181119287857153 for account
+@SecondLady
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #956131391955197952 for account
+@KellyannePolls
+about to get all tweets newer than ID #956219179295825920 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 507907 (char 507906)
+about to get all tweets newer than ID #956183700663873542 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 511568 (char 511567)
+about to get all tweets newer than ID #955901718470029313 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 685348 (char 685347)
+about to get all tweets newer than ID #955929315228749824 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #956166144175599616 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=IvankaTrump&count=200 (Caused
+ by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConne
+ction object at 0xb689308c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #956178348207636480 for account
+@SecShulkin
+getting all tweets before ID #929347724188749824
+    ...400 tweets downloaded so far
+
+
+New tweet from SecShulkin: RT @DeptVetAffairs: VA News Release: VA's National
+PTSD Brain Bank Collaborates With PINK Concussions Group: Women Veterans Urged
+to ... ht…
+
+archiving URL http://twitter.com/SecShulkin/status/956240905165574144
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+... OK, we're set up, and about to watch 20733972, 728361177986797568, 25073877,
+ 296060169, 599530439, 830128820447539208, 29547260, 799764016885329921,
+827258161841135623, 620571475, 1923451808, 20776147, 829782369670410240,
+22203756, 866746592853979137, 818927131883356161, 1180379185, 733751245,
+819992522109894658, 818910970567344128, 105267762, 803703725730779136,
+888031054141022209, 24578794, 108471631, 65522706, 819980276570976256, 6577802,
+828613457020870657, 15985455, 822215673812119553, 798195585824104449,
+842072478834909184, 818876014390603776, 822215679726100480, 823638938590085124,
+212262370, 823367015830323201, 836305915452272641, 828997388920619008, 18906561,
+ 822127086194348032, 826065858548133888, 892173412818354177, 471672239,
+836724024688410625, 18916432, 832672006113931269, 37666984, 52544275,
+831482588246196225, 809836066316451840
+
+archiving URL https://twitter.com/SecShulkin/status/956240905165574144
+    ... archiving using prefix http://web.archive.org/save/
