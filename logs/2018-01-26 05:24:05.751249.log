@@ -1,0 +1,165 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 26 January 2018 at 05:24
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #956668064061427712 for account
+@SecondLady
+about to get all tweets newer than ID #956678854994735104 for account @VP
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #956855563954073601 for account @POTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #956616135494942721 for account @PressSec
+about to get all tweets newer than ID #956821151564447744 for account
+@SecretaryZinke
+about to get all tweets newer than ID #954049288866279425 for account
+@TomBossert45
+about to get all tweets newer than ID #956302295028916224 for account
+@SecretarySonny
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #956131391955197952 for account
+@KellyannePolls
+about to get all tweets newer than ID #956700649160368128 for account
+@SpeakerRyan
+about to get all tweets newer than ID #956819295526313984 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #956263088608677888 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #956849981528379392 for account
+@realDonaldTrump
+about to get all tweets newer than ID #956282530315096064 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #956570871912681478 for account @SBALinda
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #956564285274181633 for account @FLOTUS
+about to get all tweets newer than ID #956542310531129347 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #956858948262514688 for account
+@JessicaDitto45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #956850791645696000 for account
+@WhiteHouse
+about to get all tweets newer than ID #956609852926816256 for account
+@nikkihaley
+about to get all tweets newer than ID #956633220900061184 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503357 (char 503356)
+about to get all tweets newer than ID #956864712263782400 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506096 (char 506095)
+about to get all tweets newer than ID #956651489136652289 for account
+@seanspicer
+about to get all tweets newer than ID #954518400298045441 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508385 (char 508384)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507106 (char 507105)
+about to get all tweets newer than ID #956681592981917696 for account @PRyan
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #956564586529984512 for account
+@StephGrisham45
+about to get all tweets newer than ID #955634336887332864 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #956654858295181313 for account
+@IvankaTrump
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+about to get all tweets newer than ID #956608918033231872 for account
+@SecretaryCarson
+about to get all tweets newer than ID #956687732939599872 for account
+@RealBenCarson
+about to get all tweets newer than ID #956787069317189632 for account
+@AshLeeStrong
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #956850691447902209 for account @Scavino45
+about to get all tweets newer than ID #956604376503734272 for account
+@SecretaryPerry
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+... OK, we're set up, and about to watch 826065858548133888, 822127086194348032,
+ 818910970567344128, 829782369670410240, 65522706, 822215679726100480,
+599530439, 15985455, 818927131883356161, 827258161841135623, 866746592853979137,
+ 842072478834909184, 105267762, 471672239, 18916432, 799764016885329921,
+828997388920619008, 25073877, 832672006113931269, 819992522109894658, 108471631,
+ 20733972, 809836066316451840, 818876014390603776, 798195585824104449,
+892173412818354177, 728361177986797568, 836724024688410625, 212262370, 6577802,
+822215673812119553, 37666984, 831482588246196225, 24578794, 20776147,
+819980276570976256, 803703725730779136, 733751245, 18906561, 823638938590085124,
+ 888031054141022209, 52544275, 836305915452272641, 828613457020870657,
+1180379185, 296060169, 29547260, 823367015830323201, 830128820447539208,
+620571475, 22203756, 1923451808
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+956864712263782400,
+                       'id_str': '956864712263782400',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1516970308570'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 956864712263782400 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 956864712263782400 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/956864712263782400
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Today, please take it upon
+yourself to retweet the @ScaramucciPost Opioid Epidemic Tweet embedded below
+and/or at least…
+
+archiving URL http://twitter.com/Scaramucci/status/956869017813311489
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

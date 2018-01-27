@@ -1,0 +1,395 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-4-686-pae', version='#1 SMP Debian 3.16.51-3 (2017-12-13)', machine='i686')
+This log was begun Friday, 26 January 2018 at 05:42
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #956616135494942721 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 508323 (char 508322)
+about to get all tweets newer than ID #956604376503734272 for account
+@SecretaryPerry
+about to get all tweets newer than ID #956850691447902209 for account @Scavino45
+about to get all tweets newer than ID #956668064061427712 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 691790 (char 691789)
+about to get all tweets newer than ID #956542310531129347 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508885 (char 508884)
+about to get all tweets newer than ID #956678854994735104 for account @VP
+about to get all tweets newer than ID #956609852926816256 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 509852 (char 509851)
+about to get all tweets newer than ID #956131391955197952 for account
+@KellyannePolls
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #956681592981917696 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 507372 (char 507371)
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+about to get all tweets newer than ID #956282530315096064 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508814 (char 508813)
+about to get all tweets newer than ID #956651489136652289 for account
+@seanspicer
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #956654858295181313 for account
+@IvankaTrump
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #956564285274181633 for account @FLOTUS
+about to get all tweets newer than ID #956787069317189632 for account
+@AshLeeStrong
+about to get all tweets newer than ID #955634336887332864 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+about to get all tweets newer than ID #956864712263782400 for account
+@Scaramucci
+getting all tweets before ID #946805634497957887
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Today, please take it upon
+yourself to retweet the @ScaramucciPost Opioid Epidemic Tweet embedded below
+and/or at least…
+
+archiving URL http://twitter.com/Scaramucci/status/956869017813311489
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #954518400298045441 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #956608918033231872 for account
+@SecretaryCarson
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #956633220900061184 for account
+@SecShulkin
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+archiving URL https://twitter.com/Scaramucci/status/956869017813311489
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956302295028916224 for account
+@SecretarySonny
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #956687732939599872 for account
+@RealBenCarson
+about to get all tweets newer than ID #956849981528379392 for account
+@realDonaldTrump
+getting all tweets before ID #947328044821336069
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Join me live at the 2018 World Economic Forum
+in Davos, Switzerland! #WEF18 https://t.co/fdHejCmv73 https://t.co/DuKJlVTWB8
+
+archiving URL http://twitter.com/realDonaldTrump/status/956873004776116225
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+
+archiving URL https://twitter.com/realDonaldTrump/status/956873004776116225
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956570871912681478 for account @SBALinda
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #956263088608677888 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #956855563954073601 for account @POTUS
+getting all tweets before ID #944769453442596863
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Join me live at the 2018 World
+Economic Forum in Davos, Switzerland! #WEF18 https://t.co/fdHejCmv73
+https://t.co/DuKJl…
+
+archiving URL http://twitter.com/POTUS/status/956873055917215745
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956858948262514688 for account
+@JessicaDitto45
+
+archiving URL https://twitter.com/POTUS/status/956873055917215745
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #942839497552777215
+    ...400 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Join me live at the 2018
+World Economic Forum in Davos, Switzerland! #WEF18 https://t.co/fdHejCmv73
+https://t.co/DuKJl…
+
+archiving URL http://twitter.com/JessicaDitto45/status/956874148663496704
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956819295526313984 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/JessicaDitto45/status/956874148663496704
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954049288866279425 for account
+@TomBossert45
+about to get all tweets newer than ID #956821151564447744 for account
+@SecretaryZinke
+about to get all tweets newer than ID #956850791645696000 for account
+@WhiteHouse
+getting all tweets before ID #950890187332124673
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Join me live at the 2018 World
+ Economic Forum in Davos, Switzerland! #WEF18 https://t.co/fdHejCmv73
+https://t.co/DuKJl…
+
+archiving URL http://twitter.com/WhiteHouse/status/956873219545489408
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956700649160368128 for account
+@SpeakerRyan
+about to get all tweets newer than ID #956564586529984512 for account
+@StephGrisham45
+
+archiving URL https://twitter.com/WhiteHouse/status/956873219545489408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Watch LIVE as President Trump addresses the World
+Economic Forum in Davos, Switzerland: https://t.co/VgA3p8QEMA
+https://t.co/or5jaqGzUh
+
+archiving URL http://twitter.com/WhiteHouse/status/956874175410470912
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 818927131883356161, 830128820447539208,
+ 823367015830323201, 822127086194348032, 798195585824104449, 818910970567344128,
+ 37666984, 471672239, 65522706, 733751245, 836305915452272641,
+832672006113931269, 20776147, 212262370, 52544275, 108471631,
+728361177986797568, 803703725730779136, 599530439, 29547260, 1923451808,
+818876014390603776, 296060169, 888031054141022209, 20733972, 24578794, 6577802,
+22203756, 819980276570976256, 828613457020870657, 620571475, 829782369670410240,
+ 831482588246196225, 826065858548133888, 842072478834909184, 892173412818354177,
+ 18906561, 1180379185, 25073877, 105267762, 819992522109894658,
+809836066316451840, 15985455, 828997388920619008, 822215679726100480,
+836724024688410625, 799764016885329921, 866746592853979137, 827258161841135623,
+822215673812119553, 18916432, 823638938590085124
+
+archiving URL https://twitter.com/WhiteHouse/status/956874175410470912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: .@POTUS: "There has never been a better time to hire,
+ to build, to invest and to grow in the United States. America…
+https://t.co/qRmTbW4p40
+
+archiving URL http://twitter.com/PressSec/status/956877664438177792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/956877664438177792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "As President of the United States, I will always
+put America first... America first does not mean America alone. W…
+https://t.co/kbYmD8USa4
+
+archiving URL http://twitter.com/WhiteHouse/status/956878088876511233
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: .@POTUS "The world is witnessing the resurgence of a
+strong and prosperous America" #WEF18
+
+archiving URL http://twitter.com/PressSec/status/956878122036625409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/956878088876511233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/956878122036625409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: .@POTUS: "America First does not mean America Alone.
+When the United States grows, so does the world." #WEF18
+
+archiving URL http://twitter.com/PressSec/status/956878318300786688
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: "America is roaring back and now is the time to
+invest in the future of America." #WEF18
+
+archiving URL http://twitter.com/WhiteHouse/status/956878771872784385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/956878771872784385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/956878318300786688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: .@POTUS: "We cannot have free and open trade if some
+countries exploit the system at the expense of others. We supp…
+https://t.co/1wYC0pepET
+
+archiving URL http://twitter.com/PressSec/status/956878924507701249
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/956878924507701249
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: "America is a cutting-edge economy, but our
+immigration system is stuck in the past." #WEF18
+
+archiving URL http://twitter.com/WhiteHouse/status/956879513744535553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/956879513744535553
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from TomBossert45: .@realDonaldTrump speaking to the world at @wef —
+ “America is open for business and we are competitive again.”
+https://t.co/taFLgiIroZ
+
+archiving URL http://twitter.com/TomBossert45/status/956880206786191361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/956880206786191361
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: .@POTUS: "America First does not
+mean America Alone. When the United States grows, so does the world." #WEF18
+
+archiving URL http://twitter.com/JessicaDitto45/status/956881019352776704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/956881019352776704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: .@POTUS: "We cannot have free and
+ open trade if some countries exploit the system at the expense of others. We
+support free t…
+
+archiving URL http://twitter.com/JessicaDitto45/status/956881052173324288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/956881052173324288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: .@POTUS: "There has never been a
+better time to hire, to build, to invest and to grow in the United States.
+America is open f…
+
+archiving URL http://twitter.com/JessicaDitto45/status/956881083877994496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/956881083877994496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "Each of you has the power to change hearts,
+transform lives, and shape your countries' destinies. With this power…
+https://t.co/YTXUKZVjLu
+
+archiving URL http://twitter.com/WhiteHouse/status/956882042263932928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/956882042263932928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "So together let us resolve to use our power, our
+resources, &amp; our voices, not just for ourselves, but for our peop…
+https://t.co/2OYkIVLnO3
+
+archiving URL http://twitter.com/WhiteHouse/status/956882337580683264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/956882337580683264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @RepShimkus: Government is shrinking, the
+economy is growing, federal taxes are decreasing, and more Americans are
+optimistic about the…
+
+archiving URL http://twitter.com/SpeakerRyan/status/956883098616070144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/956883098616070144
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scaramucci: RT @wef: President Donald Trump's Davos address in
+full https://t.co/dydvfdu7Zf #wef18 @POTUS https://t.co/S5PwU3P2Xk
+
+archiving URL http://twitter.com/Scaramucci/status/956886462091399175
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/956886462091399175
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from Scaramucci: GDP grew 2.6% in Q4, but underlying data even more
+impressive. Private domestic final purchases (PDFP) - the sum of…
+https://t.co/0zULgglxoc
+
+archiving URL http://twitter.com/Scaramucci/status/956890142370947074
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/956890142370947074
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
