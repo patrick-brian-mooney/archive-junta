@@ -1,0 +1,286 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Saturday, 27 January 2018 at 16:39
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #957251305705222144 for account
+@SecondLady
+about to get all tweets newer than ID #957353853413978114 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #957353252504338432 for account
+@seanspicer
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #957336341032984576 for account @POTUS
+getting all tweets before ID #945287615636557824
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @FLOTUS: We recognize International
+#HolocaustRemembranceDay so that #WeRemember all the innocent men, women, and
+children lost. May we…
+about to get all tweets newer than ID #957256996545351680 for account @PressSec
+
+archiving URL http://twitter.com/POTUS/status/957352908839940097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/957352908839940097
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #957332043905585152 for account
+@SecretarySonny
+
+
+New tweet from POTUS: RT @VP: A few days ago, Karen &amp; I paid our respects
+at Yad Vashem to honor the 6 million Jewish martyrs of the Holocaust who 3 years
+ after…
+
+archiving URL http://twitter.com/POTUS/status/957353585993449472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/957353585993449472
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503532 (char 503531)
+about to get all tweets newer than ID #955634336887332864 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #956917317216165888 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #957298759163154433 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505998 (char 505997)
+about to get all tweets newer than ID #957316916363825152 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 501660 (char 501659)
+about to get all tweets newer than ID #957383864762150914 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504974 (char 504973)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #956935200168177664 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506438 (char 506437)
+about to get all tweets newer than ID #956947615601610752 for account @SBALinda
+about to get all tweets newer than ID #957272089723129856 for account
+@JessicaDitto45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #957297411876995072 for account @FLOTUS
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #957352414906060800 for account
+@WhiteHouse
+getting all tweets before ID #951221933852545024
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #957270502946562048 for account
+@nikkihaley
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Taliban targeted innocent
+Afghans, brave police in Kabul today. Our thoughts and prayers go to the
+victims, and first…
+
+archiving URL http://twitter.com/WhiteHouse/status/957388290595827713
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/957388290595827713
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #921020985423421441
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #956608918033231872 for account
+@SecretaryCarson
+
+
+New tweet from nikkihaley: Clemson Univ will always be a place close to my
+heart. It’s where I met Michael, received an amazing education, and…
+https://t.co/wDyoceaRFZ
+
+archiving URL http://twitter.com/nikkihaley/status/957371781144342528
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504555 (char 504554)
+about to get all tweets newer than ID #957376877420859393 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+archiving URL https://twitter.com/nikkihaley/status/957371781144342528
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+about to get all tweets newer than ID #956131391955197952 for account
+@KellyannePolls
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #957336535493435392 for account @Scavino45
+getting all tweets before ID #945745623470542847
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: “Trump's America First triumphs in Davos with a new
+message of economic success” via @CNBCopinion @larry_kudlow:
+https://t.co/enm3SnBXvC
+
+archiving URL http://twitter.com/Scavino45/status/957362476164804609
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+
+archiving URL https://twitter.com/Scavino45/status/957362476164804609
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Statement from President @realDonaldTrump on the
+Attack in Kabul: https://t.co/hNkWWY1esz
+
+archiving URL http://twitter.com/Scavino45/status/957371724919726080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/957371724919726080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Taliban targeted innocent
+Afghans, brave police in Kabul today. Our thoughts and prayers go to the
+victims, and first…
+
+archiving URL http://twitter.com/Scavino45/status/957388240075591682
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 502610 (char 502609)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/Scavino45/status/957388240075591682
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #957018058228367360 for account
+@IvankaTrump
+getting all tweets before ID #938777791482552319
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: Great conversation with @SenatorTimScott yesterday
+ in SC. Thank you Senator for your commitment to American working…
+https://t.co/UMUdhdY8CC
+about to get all tweets newer than ID #956905287704772608 for account
+@BetsyDeVosED
+
+archiving URL http://twitter.com/IvankaTrump/status/957391544696426496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/957391544696426496
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 283964 (char 283963)
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 507268 (char 507267)
+about to get all tweets newer than ID #957284071436115971 for account
+@SpeakerRyan
+getting all tweets before ID #951174806032003073
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: Today, #WeRemember all of the men, women, and
+children, including six million Jews, who were senselessly murdered d…
+https://t.co/z5qDxEXTz2
+
+archiving URL http://twitter.com/SpeakerRyan/status/957402713331060736
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/957402713331060736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #957317342945398784 for account
+@SecretaryZinke
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509824 (char 509823)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508388 (char 508387)
+about to get all tweets newer than ID #957385635068772360 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 508900 (char 508899)
+about to get all tweets newer than ID #957279093615144960 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #957334999522533376 for account
+@realDonaldTrump
+getting all tweets before ID #947588263103139840
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Taliban targeted innocent Afghans, brave
+police in Kabul today. Our thoughts and prayers go to the victims, and fir…
+https://t.co/nxuDZV0VYZ
+
+archiving URL http://twitter.com/realDonaldTrump/status/957387711693905925
+about to get all tweets newer than ID #957376018070867968 for account
+@SecShulkin
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/957387711693905925
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #957297765889044480 for account
+@StephGrisham45
+about to get all tweets newer than ID #957367109276839936 for account @PRyan
+... OK, we're set up, and about to watch 822127086194348032, 1180379185,
+20776147, 29547260, 822215679726100480, 818927131883356161, 842072478834909184,
+888031054141022209, 819980276570976256, 620571475, 830128820447539208,
+296060169, 24578794, 599530439, 798195585824104449, 819992522109894658,
+836724024688410625, 809836066316451840, 826065858548133888, 818876014390603776,
+105267762, 822215673812119553, 37666984, 828613457020870657, 799764016885329921,
+ 829782369670410240, 866746592853979137, 471672239, 728361177986797568,
+823367015830323201, 892173412818354177, 6577802, 212262370, 15985455, 52544275,
+828997388920619008, 22203756, 65522706, 18916432, 836305915452272641,
+1923451808, 827258161841135623, 20733972, 18906561, 803703725730779136,
+818910970567344128, 832672006113931269, 108471631, 25073877, 831482588246196225,
+ 823638938590085124, 733751245
