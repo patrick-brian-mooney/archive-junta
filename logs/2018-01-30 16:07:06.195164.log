@@ -1,0 +1,555 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 30 January 2018 at 16:07
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #958448955058253825 for account
+@KellyannePolls
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #958152964694212608 for account
+@nikkihaley
+about to get all tweets newer than ID #956608918033231872 for account
+@SecretaryCarson
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #958467363552288769 for account @PRyan
+about to get all tweets newer than ID #956905287704772608 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #958448430749310978 for account
+@SecondLady
+about to get all tweets newer than ID #958451710141321217 for account
+@SecretaryPerry
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #958436013893935107 for account @FLOTUS
+about to get all tweets newer than ID #958439112171753472 for account
+@StephGrisham45
+about to get all tweets newer than ID #958471271418859525 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #958461640181276672 for account
+@WhiteHouse
+getting all tweets before ID #951833911142834176
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+
+
+New tweet from WhiteHouse: President Trump is taking steps to reform the
+Department of Veterans Affairs, which can serve as a model for wider…
+https://t.co/MlM4J8V811
+
+archiving URL http://twitter.com/WhiteHouse/status/958475200546463744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958475200546463744
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #958467469001322496 for account
+@SpeakerRyan
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+about to get all tweets newer than ID #958418930237952000 for account
+@SecretarySonny
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #958466184348864512 for account
+@Scaramucci
+getting all tweets before ID #948207711489023999
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #958433184227655680 for account
+@IvankaTrump
+
+
+New tweet from Scaramucci: Actually, it's a @POTUS quote from pool interview
+with network anchors ahead of #SOTU. Too many members of the medi…
+https://t.co/9Ki6Mpa855
+
+archiving URL http://twitter.com/Scaramucci/status/958473554235928576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/958473554235928576
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #957736917642235909 for account
+@RealBenCarson
+about to get all tweets newer than ID #958357748072243203 for account
+@AshLeeStrong
+about to get all tweets newer than ID #958375644060160001 for account @PressSec
+about to get all tweets newer than ID #958399995073454082 for account
+@SecShulkin
+getting all tweets before ID #929415025042870271
+    ...400 tweets downloaded so far
+
+
+New tweet from SecShulkin: RT @HUDDepSec: It was an honor to represent @HUDgov
+ &amp; our community partners alongside @SecShulkin &amp; @HUDMidAtlantic field
+office director…
+
+archiving URL http://twitter.com/SecShulkin/status/958477396004524032
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+
+archiving URL https://twitter.com/SecShulkin/status/958477396004524032
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 508900 (char 508899)
+about to get all tweets newer than ID #958070403901124609 for account
+@realDonaldTrump
+about to get all tweets newer than ID #958118563843334144 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #958467745653379074 for account
+@SecretaryZinke
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #958155581684142080 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #958455946929467392 for account
+@seanspicer
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 506460 (char 506459)
+about to get all tweets newer than ID #958472730948620288 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Invalid \uXXXX escape:
+ line 1 column 508898 (char 508897)
+about to get all tweets newer than ID #958364537237000193 for account @VP
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #958449750885457921 for account @Scavino45
+getting all tweets before ID #946416698718064639
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: 🚨Happening Now:
+President @realDonaldTrump walks
+along the West Wing Colonnade with @WhiteHouse Staff Secretary Rob…
+https://t.co/1izLfiXV8R
+
+archiving URL http://twitter.com/Scavino45/status/958469299374579713
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #958401195458072576 for account @POTUS
+
+archiving URL https://twitter.com/Scavino45/status/958469299374579713
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #958057877960261632 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #958463084376608768 for account @SBALinda
+... OK, we're set up, and about to watch 471672239, 888031054141022209,
+37666984, 828613457020870657, 1923451808, 826065858548133888, 733751245,
+828997388920619008, 822127086194348032, 830128820447539208, 29547260,
+818876014390603776, 823638938590085124, 799764016885329921, 822215673812119553,
+866746592853979137, 22203756, 809836066316451840, 18916432, 836305915452272641,
+842072478834909184, 6577802, 24578794, 52544275, 803703725730779136,
+829782369670410240, 1180379185, 296060169, 818927131883356161,
+831482588246196225, 620571475, 25073877, 798195585824104449, 827258161841135623,
+ 599530439, 819980276570976256, 20776147, 15985455, 108471631, 20733972,
+728361177986797568, 65522706, 836724024688410625, 818910970567344128, 105267762,
+ 823367015830323201, 892173412818354177, 822215679726100480, 18906561,
+832672006113931269, 212262370, 819992522109894658
+
+
+New tweet from WhiteHouse: Excerpts from tonight's #SOTU
+
+More:
+https://t.co/nJF9j414YL https://t.co/tKRgucVAkT
+
+archiving URL http://twitter.com/WhiteHouse/status/958482434475118593
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958482434475118593
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Under President Trump’s leadership, the United
+States is defeating the terrorists who threaten our homeland and cit…
+https://t.co/iG8lSWU5Hc
+
+archiving URL http://twitter.com/WhiteHouse/status/958482721008947202
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958482721008947202
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @WhiteHouse: Excerpts from tonight's #SOTU
+
+More:
+https://t.co/nJF9j414YL https://t.co/tKRgucVAkT
+
+archiving URL http://twitter.com/PressSec/status/958482939335118849
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @WhiteHouse: President Trump's #SOTU is less than
+3 hours away. Here are the first excerpts. See more at https://t.co/nJF9j414YL
+https:/…
+
+archiving URL http://twitter.com/PressSec/status/958482960562511872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: More from tonight's #SOTU: https://t.co/nJF9j414YL
+https://t.co/4LAk1bxJAU
+
+archiving URL http://twitter.com/WhiteHouse/status/958483019379113985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/958482960562511872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958483019379113985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/958482939335118849
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/ddvn9jKiIG
+
+archiving URL http://twitter.com/WhiteHouse/status/958483925181128704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958483925181128704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/ddvn9jKiIG
+
+archiving URL http://twitter.com/JessicaDitto45/status/958484067137327105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Excerpts from tonight's #SOTU
+More: https://t.co/nJF9j414YL https://t.co/tKRgucVAkT
+
+archiving URL http://twitter.com/JessicaDitto45/status/958484121134813184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/958484067137327105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Excerpt from tonight's #SOTU ⬇️ 
+
+Read more:
+https://t.co/nJF9j414YL https://t.co/a9451WUTab
+
+archiving URL http://twitter.com/WhiteHouse/status/958484220682305536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/958484121134813184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958484220682305536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/ddvn9jKiIG
+
+archiving URL http://twitter.com/PressSec/status/958484313112305664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Read more before tonight's #SOTU:
+https://t.co/nJF9j414YL https://t.co/0NFvyjysbJ
+
+archiving URL http://twitter.com/WhiteHouse/status/958484374349115394
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958484374349115394
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/958484313112305664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU
+
+More: https://t.co/nJF9j414YL
+https://t.co/q82x7BAo2s
+
+archiving URL http://twitter.com/WhiteHouse/status/958484560202911745
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958484560202911745
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/309ONpXfdi
+
+archiving URL http://twitter.com/WhiteHouse/status/958484736036438016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958484736036438016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: A preview of what's in President Trump's first
+#SOTU...
+More: https://t.co/nJF9j414YL https://t.co/PZnLZoOAx7
+
+archiving URL http://twitter.com/WhiteHouse/status/958485126731714561
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958485126731714561
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/89EKbhtfhp
+
+archiving URL http://twitter.com/WhiteHouse/status/958485320026214400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958485320026214400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: An excerpt from tonight's #SOTU
+More:
+https://t.co/nJF9j414YL https://t.co/BWeW9QnDGr
+
+archiving URL http://twitter.com/WhiteHouse/status/958485532517990400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958485532517990400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/HMnJu3a2Ok
+
+archiving URL http://twitter.com/WhiteHouse/status/958485741822205952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958485741822205952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/9pIfRIzjg4
+
+archiving URL http://twitter.com/WhiteHouse/status/958485887473672192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958485887473672192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump is putting the American worker
+FIRST. #SOTU https://t.co/7zSiyU68SI
+
+archiving URL http://twitter.com/WhiteHouse/status/958486492527104000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958486492527104000
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/nhzNyLxmjE
+
+archiving URL http://twitter.com/WhiteHouse/status/958486576375398400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958486576375398400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/o6H8THKBnk
+
+archiving URL http://twitter.com/WhiteHouse/status/958486724069548032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/WhiteHouse/status/958486724069548032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/vKykKS7UUh
+
+archiving URL http://twitter.com/WhiteHouse/status/958487204778659841
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Looking forward to @POTUS’ #SOTU tonight. Tomorrow I’ll
+take his message that the State of the Union &amp; the State of…
+https://t.co/b1ZljjxOGD
+
+archiving URL http://twitter.com/VP/status/958487235988480000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958487204778659841
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @WhiteHouse: An excerpt from tonight's #SOTU
+More:
+ https://t.co/nJF9j414YL https://t.co/BWeW9QnDGr
+
+archiving URL http://twitter.com/SBALinda/status/958487266070093825
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1443
+more expected)', IncompleteRead(0 bytes read, 1443 more expected)); sleeping and
+ trying again ...
+
+archiving URL https://twitter.com/VP/status/958487235988480000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/958487266070093825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: In #SOTU @POTUS @realDonaldTrump :In our drive to
+make Washington accountable, we have eliminated more regulations…
+https://t.co/Q5xR1s2WLw
+
+archiving URL http://twitter.com/seanspicer/status/958489970112679941
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958489970112679941
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: The Trump Administration is keeping its promise to
+cut unnecessary regulations, saving our Nation billions of dolla…
+https://t.co/E4iJVA4wn9
+
+archiving URL http://twitter.com/WhiteHouse/status/958490267446906880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958490267446906880
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from RealBenCarson: Tonight @realDonaldTrump readies to deliver the
+#SOTU, Please take the time to pray that God gives him guidance and…
+https://t.co/CWHfXboonX
+
+archiving URL http://twitter.com/RealBenCarson/status/958492829013209094
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/958492829013209094
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @FLOTUS: I will be joined tonight by an honorable group
+of Americans. Sitting with me are heroes who have served our nation in times of…
+
+archiving URL http://twitter.com/VP/status/958493015420620801
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/958493015420620801
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @_mollyedw The smell of Red Bull that has since
+ensued is really taking me back to a dark place.
+
+archiving URL http://twitter.com/AshLeeStrong/status/958493337782226944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/958493337782226944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump’s plan will renew our country’s
+once-great infrastructure and help build a more prosperous future f…
+https://t.co/RAnV0ABsLS
+
+archiving URL http://twitter.com/WhiteHouse/status/958494046313426944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958494046313426944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/ddvn9jKiIG
+
+archiving URL http://twitter.com/EPAScottPruitt/status/958494456436740096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/9pIfRIzjg4
+
+archiving URL http://twitter.com/EPAScottPruitt/status/958494609977610240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/958494609977610240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @WhiteHouse: #SOTU: https://t.co/nJF9j414YL
+https://t.co/o6H8THKBnk
+
+archiving URL http://twitter.com/EPAScottPruitt/status/958494772607574017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/958494456436740096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/958494772607574017
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from JessicaDitto45: RT @haferre45: Unemployment at lowest recorded
+levels for Hispanics and African Americans.@POTUS  #SOTU https://t.co/7gI2AE8uv3
+
+archiving URL http://twitter.com/JessicaDitto45/status/958496050960125958
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/958496050960125958
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...

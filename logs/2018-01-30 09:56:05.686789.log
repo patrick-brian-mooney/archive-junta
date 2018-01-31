@@ -1,0 +1,393 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 30 January 2018 at 09:56
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #958174986467987458 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505863 (char 505862)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #958169916493922304 for account
+@JessicaDitto45
+about to get all tweets newer than ID #958172116284792832 for account
+@KellyannePolls
+about to get all tweets newer than ID #958078963775102976 for account
+@SecretaryPerry
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #958097258683207681 for account
+@IvankaTrump
+about to get all tweets newer than ID #955492025830387714 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 679140 (char 679139)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #958070722554982403 for account @POTUS
+getting all tweets before ID #946416631768592383
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @WhiteHouse: "Growth is back, and millions of
+Americans are personally reaping the benefits." Read more from the Director of
+the Nationa…
+
+archiving URL http://twitter.com/POTUS/status/958382727279136769
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+archiving URL https://twitter.com/POTUS/status/958382727279136769
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #956608918033231872 for account
+@SecretaryCarson
+
+
+New tweet from POTUS: RT @SecretarySonny: At the @WhiteHouse this morning,
+greeted by a great crowd of agricultural leaders from across the country -
+@NASDAnews,…
+
+archiving URL http://twitter.com/POTUS/status/958382753552240642
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958364537237000193 for account @VP
+
+archiving URL https://twitter.com/POTUS/status/958382753552240642
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @AGJeffLandry: BREAKING: Local Heroes Chosen by
+@POTUS as Special Guests of the President and @FLOTUS at the State of the Union;
+ AG Land…
+
+archiving URL http://twitter.com/POTUS/status/958382786330669057
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/958382786330669057
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #958357748072243203 for account
+@AshLeeStrong
+about to get all tweets newer than ID #958099815111581696 for account
+@SecretaryZinke
+getting all tweets before ID #937751589128826879
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: Happy to join @SecretarySonny at the White
+House Conference on Rural Prosperity. Talked #Grazing #Broadband
+https://t.co/RFiprML3Ok
+
+archiving URL http://twitter.com/SecretaryZinke/status/958353462990987265
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #953073831534612480 for account
+@SecretaryRoss
+
+archiving URL https://twitter.com/SecretaryZinke/status/958353462990987265
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958155581684142080 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #958070403901124609 for account
+@realDonaldTrump
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #958378445809037312 for account
+@SpeakerRyan
+getting all tweets before ID #951527601075564545
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504753 (char 504752)
+about to get all tweets newer than ID #958375504184143872 for account @PRyan
+about to get all tweets newer than ID #958057877960261632 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #957376877420859393 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #958331509496303616 for account
+@SecretarySonny
+about to get all tweets newer than ID #958152964694212608 for account
+@nikkihaley
+about to get all tweets newer than ID #957736917642235909 for account
+@RealBenCarson
+about to get all tweets newer than ID #958375644060160001 for account @PressSec
+about to get all tweets newer than ID #957990002557931520 for account
+@SecShulkin
+about to get all tweets newer than ID #958357761418518533 for account
+@seanspicer
+about to get all tweets newer than ID #958355130121846785 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #956905287704772608 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #958118563843334144 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #958170497883176961 for account @Scavino45
+getting all tweets before ID #945827858886348800
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: #SOTU https://t.co/SPK3XyXWrX
+
+archiving URL http://twitter.com/Scavino45/status/958382488191107072
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958364871137153024 for account
+@StephGrisham45
+
+archiving URL https://twitter.com/Scavino45/status/958382488191107072
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+about to get all tweets newer than ID #957297411876995072 for account @FLOTUS
+about to get all tweets newer than ID #958069379639513089 for account
+@SecondLady
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #958381317841997825 for account @SBALinda
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+... OK, we're set up, and about to watch 105267762, 24578794,
+892173412818354177, 836724024688410625, 471672239, 830128820447539208,
+803703725730779136, 826065858548133888, 52544275, 20733972, 6577802, 15985455,
+29547260, 18906561, 822215679726100480, 108471631, 728361177986797568,
+828613457020870657, 818910970567344128, 212262370, 296060169,
+827258161841135623, 836305915452272641, 819980276570976256, 22203756,
+888031054141022209, 65522706, 25073877, 829782369670410240, 18916432, 733751245,
+ 832672006113931269, 799764016885329921, 620571475, 842072478834909184,
+37666984, 1180379185, 818927131883356161, 831482588246196225, 20776147,
+822215673812119553, 828997388920619008, 798195585824104449, 809836066316451840,
+823367015830323201, 823638938590085124, 866746592853979137, 818876014390603776,
+822127086194348032, 599530439, 819992522109894658, 1923451808
+
+
+New tweet from Scavino45: ICYMI in @Pfizer Press Release! They are giving one-
+time #NancyPelosiCRUMBS to non-executive colleagues...
+
+“The co…
+https://t.co/qTeUTGAU1C
+
+archiving URL http://twitter.com/Scavino45/status/958392253252333568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/958392253252333568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Today I testified before the Senate Banking
+Committee. We are working hard to implement tax reform and regulatory r…
+https://t.co/LzFDkdZwVm
+
+archiving URL http://twitter.com/stevenmnuchin1/status/958393643227852800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/958393643227852800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Here's @USDA working together with @US_FDA as I
+ signed an agreement w/@SGottliebFDA at the @WhiteHouse to increase…
+https://t.co/kdJ8fp8dwb
+
+archiving URL http://twitter.com/SecretarySonny/status/958394645008076800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/958394645008076800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: The state of our union is looking up. Wages are
+rising and economic confidence is coming back to America. Excited t…
+https://t.co/4cBMhVEhOV
+
+archiving URL http://twitter.com/SpeakerRyan/status/958394752176676864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/958394752176676864
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: As @POTUS @realDonaldTrump prepares for his first
+#SOTU Address, check out the stock market increases since his ele…
+https://t.co/HqQeAKtarl
+
+archiving URL http://twitter.com/Scavino45/status/958397533436424192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/958397533436424192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @CNBC: Infrastructure the 'next leg of the
+stool' on Trump's agenda, Gary Cohn says, discussing the president's State of
+the Union addre…
+
+archiving URL http://twitter.com/IvankaTrump/status/958399782162259969
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: Thank you @POTUS @realDonaldTrump for inviting some
+ of our nations heroes to the #SOTU, these #Veterans, family mem…
+https://t.co/ivblngSN7b
+
+archiving URL http://twitter.com/SecShulkin/status/958399995073454082
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/958399995073454082
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/958399782162259969
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: At @USDA our new motto is "Do right and feed
+everyone." By signing a formal agreement of collaboration with…
+https://t.co/N9MmVRlKtB
+
+archiving URL http://twitter.com/SecretarySonny/status/958400273495613441
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from IvankaTrump: I look forward to meeting @POTUS and @FLOTUS
+Special Guests at the State of the Union. Thank you for sharing your s…
+https://t.co/mQMXXVjpXQ
+
+archiving URL http://twitter.com/IvankaTrump/status/958400422250733569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/958400422250733569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/958400273495613441
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @Scavino45: #SOTU https://t.co/SPK3XyXWrX
+
+archiving URL http://twitter.com/POTUS/status/958400512210108416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: .@POTUS &amp; @FLOTUS are welcoming several
+great Americans to tonight’s #SOTU address. Learn more &amp; watch the SOTU at
+9:10 PM as the P…
+
+archiving URL http://twitter.com/POTUS/status/958400558129348608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WaysandMeansGOP: .@RepKevinBrady on #SOTU: "[@POTUS]
+ gets to do something that rarely do presidents have the opportunity, which is
+to s…
+
+archiving URL http://twitter.com/POTUS/status/958400614983241728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @SecShulkin: Thank you @POTUS @realDonaldTrump for
+inviting some of our nations heroes to the #SOTU, these #Veterans, family
+members and…
+
+archiving URL http://twitter.com/POTUS/status/958400691235631104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @GOPLeader: I hope @POTUS asks the question Reagan
+asked: Are you better off today than you were before he was the President? #SOTU
+ http…
+
+archiving URL http://twitter.com/POTUS/status/958400935662882816
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from POTUS: RT @SBALinda: Did you know #SmallBiz owners and siblings
+ Steve Staub &amp; Sandy Kepingler are guests of @POTUS and @FLOTUS at the #SOTU
+ tonigh…
+
+archiving URL http://twitter.com/POTUS/status/958401008534786048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/958400935662882816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @HouseHomeland: .@RepMcCaul: "I saw the rise of ISIS
+under my chairmanship for six years — President Obama did virtually nothing to
+stop…
+
+archiving URL http://twitter.com/POTUS/status/958401072653062148
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @MikeKellyPA: Tonight I'll have the privilege of
+hearing the #SOTU I've been waiting to hear since I first came to Congress 7
+years ago:…
+
+archiving URL http://twitter.com/POTUS/status/958401110825455616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/958400691235631104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @TeamCornyn: From confirming a record number of
+judges in a president’s first term to passing historic tax reform – we’ve
+accomplished a…
+
+archiving URL http://twitter.com/POTUS/status/958401138918699008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @RepMikeTurner: #BehindTheScenes talking with media
+and @POTUS #SotU guests from #OH10’s Staub Manufacturing Solutions, which has
+been a…
+
+archiving URL http://twitter.com/POTUS/status/958401166261604352
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/POTUS/status/958401110825455616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/958401072653062148
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/958400512210108416
+    ... archiving using prefix http://web.archive.org/save/
