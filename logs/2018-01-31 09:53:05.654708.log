@@ -1,0 +1,362 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Wednesday, 31 January 2018 at 09:53
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #958731553349296131 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 686988 (char 686987)
+about to get all tweets newer than ID #958520216429957121 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505496 (char 505495)
+about to get all tweets newer than ID #958698368909398017 for account @VP
+getting all tweets before ID #948663339265249279
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #958730365740421124 for account
+@nikkihaley
+
+
+New tweet from VP: Joining @HoppyKercheval on @WVMetroNews in West Virginia to
+ discuss last night’s strong &amp; optimistic #SOTU &amp; my vis…
+https://t.co/jYMRqgNxfx
+
+archiving URL http://twitter.com/VP/status/958723892666912770
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/958723892666912770
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #923268465443721215
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 510188 (char 510187)
+about to get all tweets newer than ID #958662163224317952 for account
+@SecondLady
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #958705751173795841 for account @SBALinda
+getting all tweets before ID #933343632291172351
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506125 (char 506124)
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504806 (char 504805)
+about to get all tweets newer than ID #958543122706952193 for account @PressSec
+about to get all tweets newer than ID #958702829992071168 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508890 (char 508889)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 509851 (char 509850)
+about to get all tweets newer than ID #958548340987387905 for account
+@EPAScottPruitt
+getting all tweets before ID #880814744432672768
+    ...395 tweets downloaded so far
+about to get all tweets newer than ID #958553649365569536 for account
+@SecretarySonny
+
+
+New tweet from EPAScottPruitt: Speaking with folks in #Michigan, #Georgia and
+#Ohio this morning about @POTUS’s inspiring #SOTU speech. I look for…
+https://t.co/NprW4FpZZa
+
+archiving URL http://twitter.com/EPAScottPruitt/status/958733330740019200
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 511276 (char 511275)
+about to get all tweets newer than ID #958730555947962372 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504536 (char 504535)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #958702180319596544 for account @POTUS
+about to get all tweets newer than ID #958566469763260417 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510342 (char 510341)
+about to get all tweets newer than ID #958118563843334144 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #958729825140854785 for account @Scavino45
+about to get all tweets newer than ID #958728159398162433 for account
+@SecretaryPerry
+about to get all tweets newer than ID #958571306685030403 for account
+@KellyannePolls
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506884 (char 506883)
+about to get all tweets newer than ID #958538384905003009 for account
+@StephGrisham45
+getting all tweets before ID #910892722843680768
+    ...399 tweets downloaded so far
+
+
+New tweet from StephGrisham45: RT @FLOTUS: Last night I was surrounded by a
+wonderful group of guests for the State of the Union. It was a privilege to meet
+ them and hear…
+
+archiving URL http://twitter.com/StephGrisham45/status/958745218832130050
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+
+archiving URL https://twitter.com/StephGrisham45/status/958745218832130050
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510326 (char 510325)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #958551223606575104 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #958726695598608385 for account
+@seanspicer
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #958547634851078145 for account
+@RealBenCarson
+about to get all tweets newer than ID #958728586508333056 for account
+@Scaramucci
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #958720276757401600 for account @PRyan
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #958544434303442944 for account @Reince
+about to get all tweets newer than ID #958436013893935107 for account @FLOTUS
+getting all tweets before ID #857676935966720001
+    ...235 tweets downloaded so far
+
+
+New tweet from FLOTUS: Last night I was surrounded by a wonderful group of
+guests for the State of the Union. It was a privilege to meet t…
+https://t.co/jK8aQ5w08J
+
+archiving URL http://twitter.com/FLOTUS/status/958743445073403904
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+
+archiving URL https://twitter.com/FLOTUS/status/958743445073403904
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #958571719383494656 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504962 (char 504961)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #958731315393847296 for account
+@JessicaDitto45
+getting all tweets before ID #949825280318869506
+    ...400 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @EPAScottPruitt: Speaking with folks in
+#Michigan, #Georgia and #Ohio this morning about @POTUS’s inspiring #SOTU
+speech. I look forward…
+
+archiving URL http://twitter.com/JessicaDitto45/status/958736146649018373
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958732700071981056 for account
+@SpeakerRyan
+
+archiving URL https://twitter.com/JessicaDitto45/status/958736146649018373
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503093 (char 503092)
+about to get all tweets newer than ID #958702891405111297 for account
+@IvankaTrump
+
+
+New tweet from JessicaDitto45: RT @CLH45: .@TomBossert45 with @markpmeredith
+talking #nationalsecurity post-SOTU https://t.co/V7DImoTtRh
+
+archiving URL http://twitter.com/JessicaDitto45/status/958736383727886336
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #939257995644624896
+
+archiving URL https://twitter.com/JessicaDitto45/status/958736383727886336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @CLH45: General Kelly, WH Chief of Staff, at
+ #MediaRow right now with @ScottThuman #SOTU https://t.co/MTux9s2rON
+
+archiving URL http://twitter.com/JessicaDitto45/status/958736447074439168
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: "There has never been a better time to start
+living the American dream.” @realDonaldTrump laid out a powerful and u…
+https://t.co/cLxL9ydHE0
+
+archiving URL http://twitter.com/IvankaTrump/status/958741326597640192
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958677801430913024 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/IvankaTrump/status/958741326597640192
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+
+archiving URL https://twitter.com/JessicaDitto45/status/958736447074439168
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+... OK, we're set up, and about to watch 827258161841135623, 25073877,
+818910970567344128, 37666984, 822127086194348032, 888031054141022209,
+819992522109894658, 866746592853979137, 818927131883356161, 828613457020870657,
+829782369670410240, 15985455, 108471631, 832672006113931269, 842072478834909184,
+ 822215673812119553, 826065858548133888, 105267762, 1923451808,
+828997388920619008, 822215679726100480, 831482588246196225, 798195585824104449,
+29547260, 823367015830323201, 830128820447539208, 471672239, 803703725730779136,
+ 823638938590085124, 18906561, 22203756, 6577802, 819980276570976256, 20776147,
+836305915452272641, 1180379185, 24578794, 65522706, 733751245, 212262370,
+20733972, 818876014390603776, 809836066316451840, 728361177986797568, 296060169,
+ 892173412818354177, 836724024688410625, 18916432, 52544275, 799764016885329921,
+ 599530439, 620571475
+
+
+New tweet from stevenmnuchin1: Great to join @varneyco to discuss the #SOTU.
+It is a testament to how much @realDonaldTrump has accomplished for A…
+https://t.co/4Wb0oS0oyk
+
+archiving URL http://twitter.com/stevenmnuchin1/status/958754186329550848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Nice speaking w/ Philadelphia's @JoeHoldenCBS3.
+ President @realdonaldtrump is #MAGA! https://t.co/6x4Te2CQbU
+
+archiving URL http://twitter.com/stevenmnuchin1/status/958754318995292160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/958754186329550848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/958754318995292160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: President @realDonaldTrump #SOTU emphasized our
+ American values &amp; united us w/ patriotism. @wish_tv @BrookeMartinTV
+https://t.co/5ZoEBxu1LF
+
+archiving URL http://twitter.com/stevenmnuchin1/status/958754500315111424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/958754500315111424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: RT @VP: Inspiring &amp; powerful #SOTU. @POTUS
+made clear the state of our Union is STRONG. In just 1 year @POTUS has cut
+taxes, grown our econ…
+
+archiving URL http://twitter.com/RealBenCarson/status/958754952733646848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: On behalf of everyone at the
+@WhiteHouse, our thoughts and prayers are with everyone involved in today’s
+Virginia train acci…
+
+archiving URL http://twitter.com/WhiteHouse/status/958754963328524289
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/958754952733646848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958754963328524289
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from seanspicer: Thank you for your dedicated service and unyielding
+ efforts to advance conservative principles and policies https://t.co/Bc4jUm6Z22
+
+archiving URL http://twitter.com/seanspicer/status/958755307118911489
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @FoxNews: .@seanspicer's Advice to Trump: Wait
+to Release Surveillance Memo, 'Ride Wave' After SOTU https://t.co/Jy16aHVgNH
+
+archiving URL http://twitter.com/seanspicer/status/958755355038830593
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958755307118911489
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958755355038830593
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from nikkihaley: I always said the reason @TGowdySC was amazing at
+his job was bc he disliked politics so much. Trey, thank you for…
+https://t.co/bga2Zj7cF8
+
+archiving URL http://twitter.com/nikkihaley/status/958755780186050560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/958755780186050560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Post #SOTU interview w/ @J_Policastro. Last
+nights address reminded us how @realdonaldtrump is setting the foundati…
+https://t.co/vyj7iBv0U9
+
+archiving URL http://twitter.com/stevenmnuchin1/status/958755922020651008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/958755922020651008
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...

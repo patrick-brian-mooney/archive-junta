@@ -1,0 +1,404 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Wednesday, 31 January 2018 at 09:12
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #958662163224317952 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508892 (char 508891)
+about to get all tweets newer than ID #958705751173795841 for account @SBALinda
+getting all tweets before ID #933343632291172351
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503097 (char 503096)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508898 (char 508897)
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #958677801430913024 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #958547634851078145 for account
+@RealBenCarson
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #958543122706952193 for account @PressSec
+about to get all tweets newer than ID #958567018172690438 for account
+@WhiteHouse
+getting all tweets before ID #954392995645853697
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @VP: Last night's HISTORIC #SOTU speech outlined
+ the Trump Admin's record-setting accomplishments in year one - more than 2M new
+ jobs, l…
+
+archiving URL http://twitter.com/WhiteHouse/status/958724928081137664
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958731553349296131 for account
+@SecretaryZinke
+
+archiving URL https://twitter.com/WhiteHouse/status/958724928081137664
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+
+
+New tweet from WhiteHouse: ⚡️ President Trump's #SOTU
+
+https://t.co/zGVFad7CSc
+
+archiving URL http://twitter.com/WhiteHouse/status/958730555947962372
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/958730555947962372
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 502705 (char 502704)
+about to get all tweets newer than ID #958566469763260417 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505034 (char 505033)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #958702180319596544 for account @POTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #958548340987387905 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504549 (char 504548)
+about to get all tweets newer than ID #958571719383494656 for account
+@AshLeeStrong
+about to get all tweets newer than ID #958570259388227584 for account
+@Scaramucci
+getting all tweets before ID #948326288724561922
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @DonaldJTrumpJr: Because Trump Derangement
+Syndrome is real. They can’t acknowledge that anything @realDonaldTrump says or
+does is good…
+
+archiving URL http://twitter.com/Scaramucci/status/958728586508333056
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/Scaramucci/status/958728586508333056
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958118563843334144 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #958538384905003009 for account
+@StephGrisham45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #958732700071981056 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #958436013893935107 for account @FLOTUS
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+about to get all tweets newer than ID #958702829992071168 for account
+@SecretaryCarson
+about to get all tweets newer than ID #958702891405111297 for account
+@IvankaTrump
+about to get all tweets newer than ID #958571306685030403 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 678315 (char 678314)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 854445 (char 854444)
+about to get all tweets newer than ID #958703043201118214 for account @Scavino45
+getting all tweets before ID #947694008012345343
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: “There has never been a better time to start living
+the AMERICAN DREAM!” #SOTU
+@POTUS @realDonaldTrump https://t.co/SeheQM4VFb
+
+archiving URL http://twitter.com/Scavino45/status/958729825140854785
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #958544434303442944 for account @Reince
+
+archiving URL https://twitter.com/Scavino45/status/958729825140854785
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #958520216429957121 for account
+@realDonaldTrump
+about to get all tweets newer than ID #958680940259155968 for account
+@seanspicer
+getting all tweets before ID #943570183758798849
+    ...400 tweets downloaded so far
+
+
+New tweet from seanspicer: RT @AmericaNewsroom: LISTEN: @SandraSmithFox
+@seanspicer on how the next few months look ahead of the 2018 midterm elections
+https://t.co/x…
+
+archiving URL http://twitter.com/seanspicer/status/958718035841441792
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958720276757401600 for account @PRyan
+
+archiving URL https://twitter.com/seanspicer/status/958718035841441792
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504549 (char 504548)
+about to get all tweets newer than ID #958731315393847296 for account
+@JessicaDitto45
+
+
+New tweet from seanspicer: RT @AmericaNewsroom: LISTEN: @SandraSmithFox
+@seanspicer react to @POTUS's comments last night on releasing the controversial
+ FISA surveill…
+
+archiving URL http://twitter.com/seanspicer/status/958720511814635520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958720511814635520
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507369 (char 507368)
+about to get all tweets newer than ID #958698368909398017 for account @VP
+
+
+New tweet from seanspicer: RT @GOPChairwoman: First reactions to
+@realDonaldTrump’s incredible and unifying #SOTU last night.
+https://t.co/E2QUL0KcLR
+
+archiving URL http://twitter.com/seanspicer/status/958723801281425410
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958723801281425410
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+
+
+New tweet from seanspicer: RT @henrymcmaster: In his #SOTU  @POTUS honored our
+ heroes who put their lives on the line to keep us safe. As I said, standing for
+ our ant…
+
+archiving URL http://twitter.com/seanspicer/status/958723860941156352
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+
+archiving URL https://twitter.com/seanspicer/status/958723860941156352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @AmericaNewsroom: LISTEN: "They're out of touch
+with most Americans." - @guypbenson on the Democrats' reactions to the
+President's first…
+
+archiving URL http://twitter.com/seanspicer/status/958723893799288832
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958551223606575104 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #958543360440131585 for account
+@SecretaryPerry
+
+archiving URL https://twitter.com/seanspicer/status/958723893799288832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @CBSNews: 8 in 10 Americans who watched Pres.
+Trump's #SOTU address felt he was trying to unite the country, rather than
+divide it. Two-…
+
+archiving URL http://twitter.com/seanspicer/status/958723954881056768
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #922839212336058372
+
+archiving URL https://twitter.com/seanspicer/status/958723954881056768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @edatpost: “It was an A-plus tonight,”
+@RepMarkMeadows says of Trump’s speech.
+
+archiving URL http://twitter.com/seanspicer/status/958723988741591042
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryPerry: Americans heard an optimistic &amp; unifying
+speech from @realDonaldTrump. There is much to be optimistic about..for th…
+https://t.co/mtHpAE7ANx
+
+archiving URL http://twitter.com/SecretaryPerry/status/958727394944258049
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958553649365569536 for account
+@SecretarySonny
+
+archiving URL https://twitter.com/seanspicer/status/958723988741591042
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/958727394944258049
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @IngrahamAngle: Been saying for a while that in
+2018 we needed to move from the "politics of anger," to the politics of the
+possible &amp; p…
+
+archiving URL http://twitter.com/seanspicer/status/958724042982395905
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @VP: Last night's HISTORIC #SOTU speech
+outlined the Trump Admin's record-setting accomplishments in year one - more
+than 2M new jobs, l…
+
+archiving URL http://twitter.com/SecretaryPerry/status/958727548506181632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958724042982395905
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #929285103745986560
+
+archiving URL https://twitter.com/SecretaryPerry/status/958727548506181632
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Sequel to 'The Passion of the Christ' will be
+biggest film in history: actor https://t.co/3IzFoU3rEm #FoxNews
+
+archiving URL http://twitter.com/seanspicer/status/958724274973536256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @Scavino45: 2018 #SOTU
+10📸https://t.co/5bRxCt9s8W https://t.co/0FZihqsAlx
+
+archiving URL http://twitter.com/SecretaryPerry/status/958727884918657025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958724274973536256
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 681188 (char 681187)
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=DanScavino&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6595c0c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #958730365740421124 for account
+@nikkihaley
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from seanspicer: RT @KatiePavlich: In which a leading leftist says
+church, family, police, military and the national anthem are part of a “bygone
+era.” Not…
+
+archiving URL http://twitter.com/seanspicer/status/958724603710529536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958724603710529536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Did you hacked? https://t.co/6ND6lIWXJg
+
+archiving URL http://twitter.com/seanspicer/status/958725161297031169
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/958727884918657025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958725161297031169
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @RepPeteOlson: Had a fantastic time with
+Needville’s own Katie Vacek, my guest for #SOTU! @SecretaryPerry and Secretary
+Tillerson couldn…
+
+archiving URL http://twitter.com/SecretaryPerry/status/958728159398162433
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: this is the state of the left: @MSNBC host and
+@MeetThePress panelist @JoyAnnReid attacks church, family, police an…
+https://t.co/vgWJbMM8Jp
+
+archiving URL http://twitter.com/seanspicer/status/958726695598608385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/958728159398162433
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/958726695598608385
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+... OK, we're set up, and about to watch 822127086194348032, 819992522109894658,
+ 728361177986797568, 108471631, 888031054141022209, 799764016885329921,
+1180379185, 15985455, 818927131883356161, 822215673812119553,
+827258161841135623, 836305915452272641, 65522706, 828997388920619008,
+831482588246196225, 29547260, 822215679726100480, 599530439, 803703725730779136,
+ 832672006113931269, 296060169, 24578794, 212262370, 798195585824104449,
+823638938590085124, 1923451808, 18916432, 22203756, 818876014390603776,
+866746592853979137, 828613457020870657, 52544275, 471672239, 829782369670410240,
+ 823367015830323201, 826065858548133888, 105267762, 20733972,
+809836066316451840, 25073877, 20776147, 733751245, 836724024688410625,
+818910970567344128, 892173412818354177, 6577802, 819980276570976256,
+830128820447539208, 842072478834909184, 620571475, 37666984, 18906561
