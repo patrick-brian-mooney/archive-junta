@@ -1,0 +1,48 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Friday, 02 February 2018 at 06:51
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #959207300727746560 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #959220904319508480 for account
+@KellyannePolls
+about to get all tweets newer than ID #959309814533840897 for account
+@RealBenCarson
+about to get all tweets newer than ID #959144088577740801 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 686372 (char 686371)
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #959274307682742273 for account @Scavino45
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 507452 (char 507451)
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #959262885145972736 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503005 (char 503004)
+about to get all tweets newer than ID #959414853290119173 for account
+@seanspicer
+about to get all tweets newer than ID #959192617694187520 for account
+@SecretaryPerry
+about to get all tweets newer than ID #959422062568853504 for account
+@IvankaTrump
+about to get all tweets newer than ID #959172368131379201 for account
+@SecretaryZinke

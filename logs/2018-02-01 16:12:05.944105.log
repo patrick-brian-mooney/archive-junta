@@ -1,0 +1,199 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Thursday, 01 February 2018 at 16:12
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #954948632666693632 for account
+@DanScavino
+about to get all tweets newer than ID #958745218832130050 for account
+@StephGrisham45
+about to get all tweets newer than ID #959104539667386368 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 505243 (char 505242)
+about to get all tweets newer than ID #959180154143621120 for account
+@SecondLady
+about to get all tweets newer than ID #958118563843334144 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #959196134894907392 for account
+@IvankaTrump
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #959174634246520832 for account
+@RealBenCarson
+about to get all tweets newer than ID #959165486444490752 for account @SBALinda
+about to get all tweets newer than ID #958544434303442944 for account @Reince
+about to get all tweets newer than ID #959172368131379201 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 504552 (char 504551)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #959101087407108101 for account
+@seanspicer
+about to get all tweets newer than ID #959112897552175105 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #959186520774242305 for account
+@WhiteHouse
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #959106679722868736 for account
+@nikkihaley
+about to get all tweets newer than ID #930982584649175047 for account
+@mike_pence
+about to get all tweets newer than ID #959192617694187520 for account
+@SecretaryPerry
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #959184461773656064 for account
+@AshLeeStrong
+about to get all tweets newer than ID #959096994462609408 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508898 (char 508897)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #959188511474769920 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 506004 (char 506003)
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #959115939378802689 for account @Scavino45
+about to get all tweets newer than ID #959189618578087936 for account @PRyan
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #959182512194023426 for account
+@Scaramucci
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #959095268154204162 for account @FLOTUS
+about to get all tweets newer than ID #959181389731188736 for account
+@SpeakerRyan
+about to get all tweets newer than ID #959197751849422849 for account
+@SecretarySonny
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #959164267915300864 for account
+@JessicaDitto45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #959195253554274304 for account @VP
+about to get all tweets newer than ID #959144088577740801 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 510763 (char 510762)
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #959034299222843394 for account
+@realDonaldTrump
+about to get all tweets newer than ID #959162441224675329 for account @PressSec
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #959151104964493312 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #958817190525984773 for account @POTUS
+... OK, we're set up, and about to watch 620571475, 823638938590085124,
+471672239, 822127086194348032, 798195585824104449, 52544275, 803703725730779136,
+ 65522706, 1180379185, 819992522109894658, 20733972, 827258161841135623,
+6577802, 599530439, 20776147, 819980276570976256, 829782369670410240, 29547260,
+15985455, 822215673812119553, 826065858548133888, 37666984, 22203756,
+830128820447539208, 18906561, 296060169, 828613457020870657, 892173412818354177,
+ 831482588246196225, 809836066316451840, 823367015830323201, 733751245,
+828997388920619008, 24578794, 108471631, 818876014390603776, 18916432,
+842072478834909184, 728361177986797568, 212262370, 836724024688410625,
+105267762, 1923451808, 818910970567344128, 799764016885329921,
+866746592853979137, 836305915452272641, 25073877, 818927131883356161,
+888031054141022209, 832672006113931269, 822215679726100480
+
+
+New tweet from VP: Promoting religious freedom is a foreign policy priority
+for the Trump Admin. It will be Amb. Sam Brownback’s respo…
+https://t.co/2swHX10wq8
+
+archiving URL http://twitter.com/VP/status/959208927115272193
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/959208927115272193
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: 300 firms giving tax cut bonus, Costco
+dismisses Pelosi's 'crumbs' attack https://t.co/gZLquyuybK
+
+archiving URL http://twitter.com/KellyannePolls/status/959213542271606784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/959213542271606784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: #Poll: Majority of viewers give Trump a thumbs-
+up for State of the Union speech https://t.co/RrVOJZ5SaW via @nbcnews
+
+archiving URL http://twitter.com/KellyannePolls/status/959218428929331200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/959218428929331200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @RepAnnWagner: My statement on today's
+proposal by @EPAScottPruitt &amp; @EPA on the West Lake Landfill:
+https://t.co/Vu52qMPd6L https://t.c…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/959219179680395264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/959219179680395264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: Starting this month, 90% of American workers will see
+bigger paychecks, and there's great news already from Pensaco…
+https://t.co/eNsMjigUJE
+
+archiving URL http://twitter.com/PRyan/status/959219565266792448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/959219565266792448
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: ICE chief rips DC politicians: 'Sick and tired'
+ of them trashing border cops https://t.co/IwnKoWDXki
+
+archiving URL http://twitter.com/KellyannePolls/status/959220904319508480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/959220904319508480
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
