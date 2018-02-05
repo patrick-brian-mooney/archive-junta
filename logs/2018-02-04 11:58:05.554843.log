@@ -1,0 +1,706 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Sunday, 04 February 2018 at 11:58
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #960196191026806785 for account @POTUS
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #960209597595377664 for account
+@IvankaTrump
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #960162718203265024 for account
+@SpeakerRyan
+about to get all tweets newer than ID #959509964615188480 for account
+@SecretaryCarson
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #959227007719571456 for account @Reince
+about to get all tweets newer than ID #959831598412656640 for account @PRyan
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #959488475971162113 for account @FLOTUS
+about to get all tweets newer than ID #959576379753889793 for account
+@RealBenCarson
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #960210110596374529 for account
+@WhiteHouse
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #959520026410831872 for account
+@SecondLady
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #959207300727746560 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #960167253353402371 for account
+@Scaramucci
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #957383382358528001 for account
+@TomBossert45
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #959812736728403968 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506002 (char 506001)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #959855149199093761 for account
+@SecretaryZinke
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #960000954459475969 for account
+@nikkihaley
+about to get all tweets newer than ID #959460807493988353 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #960195808141414400 for account
+@realDonaldTrump
+about to get all tweets newer than ID #959931538803707904 for account
+@AshLeeStrong
+getting all tweets before ID #951875703552831487
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: Convicting line at mass today: Jesus was busier
+than you. Priest mic drop.
+
+archiving URL http://twitter.com/AshLeeStrong/status/960227360980205568
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #959503328014225408 for account
+@mike_pence
+
+archiving URL https://twitter.com/AshLeeStrong/status/960227360980205568
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #959551900046807046 for account
+@SecretaryPerry
+about to get all tweets newer than ID #959444866303516672 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #960206179006844928 for account
+@KellyannePolls
+about to get all tweets newer than ID #960205885820887042 for account
+@JessicaDitto45
+about to get all tweets newer than ID #959594750184697856 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #960002107406475264 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504516 (char 504515)
+about to get all tweets newer than ID #960199459140448256 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509309 (char 509308)
+about to get all tweets newer than ID #959505983859982336 for account
+@SecretarySonny
+about to get all tweets newer than ID #960209063740149761 for account @VP
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #958745218832130050 for account
+@StephGrisham45
+about to get all tweets newer than ID #960138539131396096 for account @PressSec
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #959535906171621376 for account
+@SecShulkin
+... OK, we're set up, and about to watch 822215679726100480, 29547260, 18906561,
+ 52544275, 803703725730779136, 1923451808, 18916432, 828613457020870657,
+15985455, 20733972, 733751245, 105267762, 818876014390603776, 1180379185,
+836305915452272641, 888031054141022209, 822215673812119553, 620571475,
+822127086194348032, 829782369670410240, 798195585824104449, 24578794, 599530439,
+ 866746592853979137, 6577802, 819992522109894658, 728361177986797568,
+827258161841135623, 212262370, 809836066316451840, 37666984, 799764016885329921,
+ 826065858548133888, 25073877, 296060169, 22203756, 830128820447539208,
+819980276570976256, 828997388920619008, 471672239, 836724024688410625,
+832672006113931269, 823367015830323201, 20776147, 842072478834909184,
+818910970567344128, 108471631, 823638938590085124, 818927131883356161,
+892173412818354177, 65522706, 831482588246196225
+
+
+New tweet from SecondLady: RT @VP: Karen and I are praying for everyone
+involved in the Amtrak collision in South Carolina. @POTUS and I are monitoring
+the situation.…
+
+archiving URL http://twitter.com/SecondLady/status/960233950504464384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/960233950504464384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Charter/Spectrum just raised the minimum wage for its
+ 94,000 employees to $15/hour because of the Trump tax cuts. S…
+https://t.co/gO67Gvmi8L
+
+archiving URL http://twitter.com/PressSec/status/960237862271770625
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/960237862271770625
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretarySonny: As kickoff of #SuperBowlLII approaches, want to
+ thank our @USDAFoodSafety employees in MN who have worked around th…
+https://t.co/ks7FIa4Cvi
+
+archiving URL http://twitter.com/SecretarySonny/status/960249075978321921
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/960249075978321921
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from stevenmnuchin1: RT @VP: Karen and I are praying for everyone
+involved in the Amtrak collision in South Carolina. @POTUS and I are monitoring
+the situation.…
+
+archiving URL http://twitter.com/stevenmnuchin1/status/960259393576210432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/960259393576210432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Presidential Message #SuperBowl
+https://t.co/RnfrqYYpyN
+
+archiving URL http://twitter.com/Scavino45/status/960259473934823425
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/960259473934823425
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: RT @realDonaldTrump: My thoughts and prayers
+are with all of the victims involved in this mornings train collision in South
+Carolina. Thank…
+
+archiving URL http://twitter.com/stevenmnuchin1/status/960259547221905408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/960259547221905408
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+959775906565971968,
+                       'id_str': '959775906565971968',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1517779806327'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 959775906565971968 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 959775906565971968 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/959775906565971968
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/960264238727155712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960264238727155712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: President’s message to brave men and women of our
+Armed Forces unable to be home with family and friends to enjoy t…
+https://t.co/NvrUiAPfAn
+
+archiving URL http://twitter.com/PressSec/status/960271228153028608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/960271228153028608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Let’s go @patriots #superbowl50 #SuperBowl
+#tombrady #notdone #gopats #gopatriots🏈 #SuperBowl52 #SuperBowlLII…
+https://t.co/v3qz680vTq
+
+archiving URL http://twitter.com/seanspicer/status/960273238587736064
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960273238587736064
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from nikkihaley: There are many things our administration did when I
+ was Governor that I am proud of. This is definitely one that wa…
+https://t.co/PRchFvC02O
+
+archiving URL http://twitter.com/nikkihaley/status/960287888742256646
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/960287888742256646
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @TeamCornyn: The Tax Cuts &amp; Jobs Act is a
+gift that keeps on giving. Sen @JohnCornyn met with the owners of
+@GroomerSeafood on Friday &amp;…
+
+archiving URL http://twitter.com/AshLeeStrong/status/960287955012243457
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/960287955012243457
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from seanspicer: Here we go @patriots #notdone #gopats🏈 #superbowl
+#patriots #patriotsnation #superbowl52 #superbowllli🏈 #sblii
+https://t.co/GqEFhH4ur5
+
+archiving URL http://twitter.com/seanspicer/status/960291229249556480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960291229249556480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Our @USDAFoodSafety personnel put in a lot of
+game prep leading up to #SuperbowlLII, conducting surveillance on…
+https://t.co/YDvq8R9lye
+
+archiving URL http://twitter.com/SecretarySonny/status/960291939190018048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/960291939190018048
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @PressSec: President’s message to brave men and
+women of our Armed Forces unable to be home with family and friends to enjoy the
+ Super B…
+
+archiving URL http://twitter.com/WhiteHouse/status/960292094727348224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960292094727348224
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from VP: RT @PressSec: President’s message to brave men and women of
+ our Armed Forces unable to be home with family and friends to enjoy the Super
+B…
+
+archiving URL http://twitter.com/VP/status/960292821898063879
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/960292821898063879
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Great start of #SuperBowlLII by @Pink - clocking in
+ #NationalAnthem at 1:51 for those betting on that
+
+archiving URL http://twitter.com/seanspicer/status/960292911672889345
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960292911672889345
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scavino45: RT @usairforce: U.S. Air Force - live
+https://t.co/vQcRG52cpp
+
+archiving URL http://twitter.com/Scavino45/status/960300440524132357
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/960300440524132357
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from KellyannePolls: #FlyEaglesFly Pederson-Foles trolling
+Belichick-Brady. https://t.co/RFmj5lJx8o
+
+archiving URL http://twitter.com/KellyannePolls/status/960320686333026308
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/960320686333026308
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Before @patriots come back in #superbowl it’s
+#justintimberlake #halftimeshow https://t.co/kojt314HK9
+
+archiving URL http://twitter.com/seanspicer/status/960321419505750016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960321419505750016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @SNFonNBC: One of THE wildest plays we've ever
+seen in a #SuperBowl. Hands down. 
+
+📺: @NBC 
+
+https://t.co/Drc4bfYrJm
+
+archiving URL http://twitter.com/IvankaTrump/status/960326110348234752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/960326110348234752
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: To say @jtimberlake is talented is an
+understatement. Halftime show was awesome! #Superbowl
+
+archiving URL http://twitter.com/nikkihaley/status/960326625375203334
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/960326625375203334
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from TomBossert45: #AllOurThanks to first responders across America!
+ @jtimberlake @realDonaldTrump
+
+archiving URL http://twitter.com/TomBossert45/status/960326860478599168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/960326860478599168
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from seanspicer: Truly #notdone @patriots #tombrady #superbowl
+#again #superbowl52 #gronk @RobGronkowski #SuperBowl2018…
+https://t.co/PZuPTAw3MX
+
+archiving URL http://twitter.com/seanspicer/status/960342325749837824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960342325749837824
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from seanspicer: https://t.co/M0FGNGJJP9
+
+archiving URL http://twitter.com/seanspicer/status/960342421388308480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960342421388308480
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: Pass interference on the extra point attempt
+
+archiving URL http://twitter.com/Scaramucci/status/960347582588370945
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960347582588370945
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Kharma
+
+archiving URL http://twitter.com/Scaramucci/status/960348207594201089
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960348207594201089
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: President’s message to brave men
+and women of our Armed Forces unable to be home with family and friends to enjoy
+ the Super B…
+
+archiving URL http://twitter.com/JessicaDitto45/status/960349701097902081
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/960349701097902081
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Loved the game, loved the halftime show, and loved
+the Olympic ads, but the highlight of the #SuperBowl is Nick Fol…
+https://t.co/AHlYUheNIN
+
+archiving URL http://twitter.com/PressSec/status/960351731594022914
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/960351731594022914
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Congratulations to @Eagles @PhiladelphiaGov and
+what a record breaking day for #tombrady!
+
+archiving URL http://twitter.com/Scaramucci/status/960352463269216256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960352463269216256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: .@Eagles are @SuperBowl Champions for the first
+ time ever! 
+
+Best fans ever.
+
+archiving URL http://twitter.com/KellyannePolls/status/960353092347850753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/960353092347850753
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @Eagles: WE DID IT, PHILLY!
+
+#SBLII |
+#FlyEaglesFly https://t.co/rxcgUQnF2n
+
+archiving URL http://twitter.com/KellyannePolls/status/960353122530062341
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/960353122530062341
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Now he adds @SuperBowl MVP to the list.
+#NickFoles https://t.co/WE2AfxcnD7
+
+archiving URL http://twitter.com/KellyannePolls/status/960353769543356417
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/960353769543356417
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Congrats @KellyannePolls, @LWalters45, and Gen. H.R.
+McMaster on the Eagles’ big win. Also a shout out to… https://t.co/UopjIsA9BR
+
+archiving URL http://twitter.com/PressSec/status/960357271535607813
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/960357271535607813
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @ShannonBream: Beautiful thing to hear these
+coaches and players humbly sharing their faith tonight. 🙏🏼
+
+archiving URL http://twitter.com/PressSec/status/960358080562200576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/960358080562200576
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from TomBossert45: RT @realDonaldTrump: Congratulations to the
+Philadelphia Eagles on a great Super Bowl victory!
+
+archiving URL http://twitter.com/TomBossert45/status/960362146323468288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/960362146323468288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Congratulations to the Philadelphia
+ Eagles on a great Super Bowl victory!
+
+archiving URL http://twitter.com/POTUS/status/960363650551894023
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/960363650551894023
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Congratulations to the
+Philadelphia Eagles on a great Super Bowl victory!
+
+archiving URL http://twitter.com/WhiteHouse/status/960363694889799680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960363694889799680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Congratulations to the
+Philadelphia Eagles on a great Super Bowl victory!
+
+archiving URL http://twitter.com/Scavino45/status/960363750246244352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/960363750246244352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @realDonaldTrump: Congratulations to the
+Philadelphia Eagles on a great Super Bowl victory!
+
+archiving URL http://twitter.com/EPAScottPruitt/status/960366870904815616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/960366870904815616
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: RT @Favre4Official: So proud of my friend Doug Pederson
+ and the performance his @Eagles showed tonight. Doug called a great game and
+his te…
+
+archiving URL http://twitter.com/Reince/status/960367165114380290
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/960367165114380290
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Congratulations to the Philadelphia @Eagles on
+their incredible 1st #SuperBowl win! 🏆 🏈
+
+archiving URL http://twitter.com/IvankaTrump/status/960367823104151553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/960367823104151553
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from KellyannePolls: @jamestaranto "Where's the Beef?" was a
+commercial by Wendy's, as I recall, featuring an elderly woman named Clara…
+https://t.co/lnTws1KjLs
+
+archiving URL http://twitter.com/KellyannePolls/status/960404434433069056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/960404434433069056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: “Only experience teaches the supreme force of
+gentleness” —Andrew Carnegie
+
+archiving URL http://twitter.com/Scaramucci/status/960413796752904192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960413796752904192
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: The Democrats are pushing for Universal
+HealthCare while thousands of people are marching in the UK because their U…
+https://t.co/9JK8HHq2bb
+
+archiving URL http://twitter.com/realDonaldTrump/status/960486144818450432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/960486144818450432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Thank you to @foxandfriends for exposing the
+truth. Perhaps that’s why your ratings are soooo much better than your
+untruthful competition!
+
+archiving URL http://twitter.com/realDonaldTrump/status/960487657691385856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/960487657691385856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: @hey_its_rena Haha. It’s good you didn’t!
+
+archiving URL http://twitter.com/nikkihaley/status/960489370288578560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/960489370288578560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: The Democrats are pushing
+for Universal HealthCare while thousands of people are marching in the UK
+because their U sy…
+
+archiving URL http://twitter.com/JessicaDitto45/status/960490480592179200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/960490480592179200
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
