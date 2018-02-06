@@ -1,0 +1,153 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Monday, 05 February 2018 at 09:46
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #960530665702912000 for account
+@realDonaldTrump
+about to get all tweets newer than ID #960546247894446081 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #960553358686908416 for account
+@WhiteHouse
+about to get all tweets newer than ID #959488475971162113 for account @FLOTUS
+getting all tweets before ID #860346504862683136
+    ...238 tweets downloaded so far
+
+
+New tweet from FLOTUS: Very much looking forward to visit @CincyChildrens
+today &amp; learn more about their efforts in combatting the effects…
+https://t.co/GvUZxLySNP
+
+archiving URL http://twitter.com/FLOTUS/status/960542896570142721
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/FLOTUS/status/960542896570142721
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #960362146323468288 for account
+@TomBossert45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #960259547221905408 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #959576379753889793 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #960367823104151553 for account
+@IvankaTrump
+about to get all tweets newer than ID #960518884670533632 for account
+@SpeakerRyan
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 680693 (char 680692)
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #959444866303516672 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #960233950504464384 for account
+@SecondLady
+about to get all tweets newer than ID #960291939190018048 for account
+@SecretarySonny
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #959551900046807046 for account
+@SecretaryPerry
+about to get all tweets newer than ID #960363750246244352 for account @Scavino45
+about to get all tweets newer than ID #959509964615188480 for account
+@SecretaryCarson
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #960413796752904192 for account
+@Scaramucci
+about to get all tweets newer than ID #960553437946613761 for account @PressSec
+about to get all tweets newer than ID #959855149199093761 for account
+@SecretaryZinke
+about to get all tweets newer than ID #960549511205736448 for account
+@JessicaDitto45
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #959831598412656640 for account @PRyan
+about to get all tweets newer than ID #959535906171621376 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505777 (char 505776)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #960292821898063879 for account @VP
+about to get all tweets newer than ID #960489370288578560 for account
+@nikkihaley
+about to get all tweets newer than ID #960529828029100038 for account
+@seanspicer
+about to get all tweets newer than ID #960520039991513088 for account
+@AshLeeStrong
+about to get all tweets newer than ID #960539280752902144 for account @SBALinda
+about to get all tweets newer than ID #959207300727746560 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #959503328014225408 for account
+@mike_pence
+about to get all tweets newer than ID #960363650551894023 for account @POTUS
+about to get all tweets newer than ID #960551665882542081 for account
+@StephGrisham45
+getting all tweets before ID #911268966999429120
+    ...399 tweets downloaded so far
+
+
+New tweet from StephGrisham45: .@FLOTUS will visit @CincyChildrens today to
+meet w drs &amp; learn more about #OpioidAbuse and its negative effects on
+babies.
+
+archiving URL http://twitter.com/StephGrisham45/status/960557703578947585
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+
+archiving URL https://twitter.com/StephGrisham45/status/960557703578947585
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960367165114380290 for account @Reince
+about to get all tweets newer than ID #960404434433069056 for account
+@KellyannePolls
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+... OK, we're set up, and about to watch 25073877, 832672006113931269,
+822215673812119553, 818876014390603776, 15985455, 105267762, 866746592853979137,
+ 829782369670410240, 799764016885329921, 1180379185, 836305915452272641,
+52544275, 18916432, 828997388920619008, 18906561, 819980276570976256,
+826065858548133888, 803703725730779136, 822127086194348032, 842072478834909184,
+29547260, 212262370, 892173412818354177, 830128820447539208, 823367015830323201,
+ 828613457020870657, 809836066316451840, 6577802, 24578794, 818927131883356161,
+827258161841135623, 836724024688410625, 65522706, 620571475, 108471631,
+733751245, 831482588246196225, 728361177986797568, 818910970567344128, 37666984,
+ 20776147, 296060169, 819992522109894658, 798195585824104449, 22203756,
+822215679726100480, 823638938590085124, 599530439, 1923451808, 20733972,
+471672239, 888031054141022209
