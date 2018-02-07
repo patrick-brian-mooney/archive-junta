@@ -1,0 +1,1200 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 06 February 2018 at 09:39
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #960879674468589568 for account
+@nikkihaley
+about to get all tweets newer than ID #960367165114380290 for account @Reince
+about to get all tweets newer than ID #960362146323468288 for account
+@TomBossert45
+about to get all tweets newer than ID #959831598412656640 for account @PRyan
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #960896439449804800 for account
+@Scaramucci
+about to get all tweets newer than ID #958536228302880769 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #960885041000861696 for account @SBALinda
+about to get all tweets newer than ID #960899891353522177 for account
+@WhiteHouse
+getting all tweets before ID #956566846819401728
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Polling shows nearly 7 in 10
+Americans support an immigration reform package that includes DACA, fully
+secures the bor…
+
+archiving URL http://twitter.com/WhiteHouse/status/960906782955753472
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+
+archiving URL https://twitter.com/WhiteHouse/status/960906782955753472
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960675778361995264 for account
+@KellyannePolls
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We need a 21st century MERIT-
+BASED immigration system.  Chain migration and the visa lottery are outdated
+programs tha…
+
+archiving URL http://twitter.com/WhiteHouse/status/960907790930898944
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=KellyannePolls&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb65f780c>: Failed to establish a new connection: [Errno
+ 101] Network is unreachable',))
+about to get all tweets newer than ID #959503328014225408 for account
+@mike_pence
+
+archiving URL https://twitter.com/WhiteHouse/status/960907790930898944
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960658286868680704 for account
+@seanspicer
+about to get all tweets newer than ID #960907859310661632 for account @Scavino45
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #960583280256061440 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #959207300727746560 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #960712811528601600 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #960911302536282112 for account
+@SpeakerRyan
+about to get all tweets newer than ID #960906710742380544 for account @POTUS
+getting all tweets before ID #953768862641721344
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: We need a 21st century MERIT-BASED
+immigration system.  Chain migration and the visa lottery are outdated programs
+tha…
+
+archiving URL http://twitter.com/POTUS/status/960907750619406336
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+
+archiving URL https://twitter.com/POTUS/status/960907750619406336
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #960905306904645632 for account @VP
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #960903840064208896 for account
+@SecondLady
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #960259547221905408 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #960886972398100480 for account
+@SecShulkin
+about to get all tweets newer than ID #960367823104151553 for account
+@IvankaTrump
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #960889376996843521 for account
+@SecretarySonny
+about to get all tweets newer than ID #959509964615188480 for account
+@SecretaryCarson
+about to get all tweets newer than ID #960899819039490049 for account
+@AshLeeStrong
+about to get all tweets newer than ID #960897524121964545 for account
+@SecretaryZinke
+getting all tweets before ID #939598561649614848
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: RT @USFWSHistory: #TriviaTuesday:  Chief of the
+ Biological Survey Jay "Ding" Darling designed the original blue goose symbol
+for the @USFWS…
+
+archiving URL http://twitter.com/SecretaryZinke/status/960919685553442817
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/SecretaryZinke/status/960919685553442817
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504532 (char 504531)
+about to get all tweets newer than ID #960600656146059264 for account
+@SecretaryPerry
+getting all tweets before ID #923552297879310335
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryPerry: According to @EIAgov Energy Outlook, total U.S.
+ crude oil production will average 10.6 million b/d in 2018, which w…
+https://t.co/VXU17fiNyx
+
+archiving URL http://twitter.com/SecretaryPerry/status/960903709990576131
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960651491441827840 for account @PressSec
+
+archiving URL https://twitter.com/SecretaryPerry/status/960903709990576131
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: @EIAgov We’re producing more, and using less.
+That allows us to export our energy bounty to friends and allies acro…
+https://t.co/tbdG6Aj02c
+
+archiving URL http://twitter.com/SecretaryPerry/status/960904138526810113
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/960904138526810113
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960901771798482945 for account @FLOTUS
+about to get all tweets newer than ID #958552614026784770 for account
+@SecretaryRoss
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #960902631836266496 for account
+@StephGrisham45
+about to get all tweets newer than ID #960901276316954625 for account
+@JessicaDitto45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #959576379753889793 for account
+@RealBenCarson
+getting all tweets before ID #755091779683319807
+    ...400 tweets downloaded so far
+
+
+New tweet from RealBenCarson: RT @RollingGreenEl: We are ready to welcome our
+guests for the Ben Carson Reading room opening! Feeling very thankful. Read,
+Read, Read!
+@p…
+
+archiving URL http://twitter.com/RealBenCarson/status/960916361315831808
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #960869939694505984 for account
+@realDonaldTrump
+
+archiving URL https://twitter.com/RealBenCarson/status/960916361315831808
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #949126530839572480
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Polling shows nearly 7 in 10 Americans support
+ an immigration reform package that includes DACA, fully secures the…
+https://t.co/OD93mZebu7
+
+archiving URL http://twitter.com/realDonaldTrump/status/960906105982464000
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 212262370, 37666984, 20733972,
+866746592853979137, 733751245, 809836066316451840, 24578794, 828997388920619008,
+ 108471631, 819992522109894658, 822215673812119553, 18906561, 471672239,
+22203756, 20776147, 823367015830323201, 892173412818354177, 599530439, 6577802,
+819980276570976256, 29547260, 798195585824104449, 65522706, 832672006113931269,
+620571475, 18916432, 822215679726100480, 803703725730779136, 888031054141022209,
+ 818910970567344128, 829782369670410240, 822127086194348032, 1923451808,
+799764016885329921, 831482588246196225, 52544275, 826065858548133888,
+842072478834909184, 828613457020870657, 296060169, 827258161841135623, 15985455,
+ 830128820447539208, 818927131883356161, 818876014390603776, 836305915452272641,
+ 105267762, 823638938590085124, 836724024688410625, 728361177986797568,
+1180379185, 25073877
+
+archiving URL https://twitter.com/realDonaldTrump/status/960906105982464000
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We need a 21st century MERIT-BASED immigration
+ system.  Chain migration and the visa lottery are outdated programs…
+https://t.co/5SzmbuLXuY
+
+archiving URL http://twitter.com/realDonaldTrump/status/960907362109452288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/960907362109452288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @MayorFung: A tribute to my father, with details
+ of his services this Wednesday... https://t.co/5mbdyDSsJW
+https://t.co/cU8eekMUup
+
+archiving URL http://twitter.com/seanspicer/status/960921819485229061
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/960921819485229061
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from AshLeeStrong: "Recent changes in the U.S. tax law are not only
+benefiting employees of large companies, smaller companies such as…
+https://t.co/eq8sRLKgPe
+
+archiving URL http://twitter.com/AshLeeStrong/status/960929088507645957
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/960929088507645957
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Just now → With a unanimous vote, the House passed
+ legislation to reform the Congressional Accountability Act and h…
+https://t.co/1CCcMuqYTB
+
+archiving URL http://twitter.com/SpeakerRyan/status/960934646816141312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/960934646816141312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @KRNV: EPA head agrees to give Nevada
+oversight of Anaconda Copper Mine cleanup https://t.co/BlqZbfnY87
+https://t.co/rAjDnKGfGR
+
+archiving URL http://twitter.com/EPAScottPruitt/status/960935884836151296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/960935884836151296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @ASIIADomenech: Secretary Zinke Announces
+Expanded Role for Assistant Secretary for Insular Areas to Include Ocean
+Activities and Intern…
+
+archiving URL http://twitter.com/SecretaryZinke/status/960937276015632384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/960937276015632384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: No peace! Not even at the airport. And I am not
+sitting on a box  it is a full Milk Crate! @ChrisCuomo @CNN
+https://t.co/9FAZ8wur4C
+
+archiving URL http://twitter.com/Scaramucci/status/960937360518152192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/960937360518152192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump addressed workers at an Ohio
+manufacturing company yesterday, talking through the effects of tax re…
+https://t.co/KP6LgO6c9s
+
+archiving URL http://twitter.com/WhiteHouse/status/960945693207576576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960945693207576576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Watch LIVE as President Trump hosts a law
+enforcement roundtable on MS-13: https://t.co/w9j3CX10eN https://t.co/ukpqJYFW1Y
+
+archiving URL http://twitter.com/WhiteHouse/status/960950615261302785
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960950615261302785
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: I appreciated the opportunity to discuss key
+Treasury priorities, including the 2017 report of the Financial Stabil…
+https://t.co/9qUhIwHKoD
+
+archiving URL http://twitter.com/stevenmnuchin1/status/960952477595176960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/960952477595176960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: "House Adopts Rules to Curb Sexual Harassment"
+https://t.co/O0O9IjeHO8
+
+archiving URL http://twitter.com/AshLeeStrong/status/960953723764858880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/960953723764858880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: 🚨Happening Now:
+President @realDonaldTrump hosts a
+law enforcement roundtable on MS-13 in the Cabinet Room:…
+https://t.co/Cz2qq10D8P
+
+archiving URL http://twitter.com/Scavino45/status/960955161354145794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/960955161354145794
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: Great to talk with you about my visit to
+#Nevada &amp; much more, Gerard! #EPA https://t.co/HZD4HM5sG2
+
+archiving URL http://twitter.com/EPAScottPruitt/status/960959922140725248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/960959922140725248
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretaryZinke: You brought it in? You take it out.
+#SportsmanStewardship means cleaning up after yourself on #publiclands cc…
+https://t.co/FhFJSrbh4X
+
+archiving URL http://twitter.com/SecretaryZinke/status/960963317152940032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/960963317152940032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @thehill: JUST IN: House passes landmark bill
+to overhaul sexual harassment policy on Capitol Hill https://t.co/mHMJR5sD4U
+https://t.co/…
+
+archiving URL http://twitter.com/SpeakerRyan/status/960969349795340289
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/960969349795340289
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecShulkin: RT @DeptVetAffairs: Meet @WoodyWilliams45, the
+Medal of Honor recipient who flipped the coin at the Super Bowl. He sat down
+with us a while…
+
+archiving URL http://twitter.com/SecShulkin/status/960969625151442944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecShulkin/status/960969625151442944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: On February 6, 1911, President Ronald Reagan was
+born. Happy birthday to the Gipper. https://t.co/rMPaip3bnj
+
+archiving URL http://twitter.com/SpeakerRyan/status/960973218508099586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/960973218508099586
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “The overall Economic Optimism Index reached its
+highest level since October of 2004...Clearly, as far as optimism…
+https://t.co/3DhjyhLqBb
+
+archiving URL http://twitter.com/Scavino45/status/960986265985409025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/960986265985409025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Welcomed Seán Ó Fearghaíl, Ceann Comhairle of the
+Irish Parliament, to the Capitol this afternoon. Even if my Gaeli…
+https://t.co/H0MpQerx7n
+
+archiving URL http://twitter.com/SpeakerRyan/status/960987813427761153
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/960987813427761153
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: When More Women Join the Workforce, Wages Rise —
+Including for Men via Harvard Business Review @HarvardBiz
+https://t.co/Q9vQ3JxWpz
+
+archiving URL http://twitter.com/IvankaTrump/status/960989185028091904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/960989185028091904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Everything you need to know about the 2018 White
+House Easter Egg Roll: https://t.co/taP1nTe4p5 https://t.co/HuJTtosUu8
+
+archiving URL http://twitter.com/WhiteHouse/status/960989740311961600
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960989740311961600
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump’s Administration has undertaken
+serious efforts to bring the violent criminals of MS-13 to justice.…
+https://t.co/z4X3clkiRp
+
+archiving URL http://twitter.com/WhiteHouse/status/960998040957054976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/960998040957054976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Now→I’m signing major reforms to help ensure
+children who participate in athletics are protected—not taken advantag…
+https://t.co/yQr2SCq0P3
+
+archiving URL http://twitter.com/SpeakerRyan/status/961001368814198784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961001368814198784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @CNN: Former White House communications director
+ Anthony Scaramucci says President Trump was “clearly joking” when he said some
+Democrat…
+
+archiving URL http://twitter.com/Scaramucci/status/961002777857150976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/961002777857150976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: NEW BLOG!
+https://t.co/XFcbucB7TQ
+
+archiving URL http://twitter.com/SecondLady/status/961004771736866816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/961004771736866816
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+756688247695273985,
+                       'id_str': '756688247695273985',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1517956778821'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 756688247695273985 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 756688247695273985 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from BetsyDeVosED: It was great to speak with several outstanding
+school counselors today! They work every day to help students chart…
+https://t.co/RHhi0Y5ywY
+
+archiving URL http://twitter.com/BetsyDeVosED/status/961007407831896065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/961007407831896065
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Today, we heard the experiences of law
+enforcement professionals and community leaders working to combat the threat…
+https://t.co/BAHG9Ajkio
+
+archiving URL http://twitter.com/realDonaldTrump/status/961008057756127232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/961008057756127232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Today, we heard the experiences of
+law enforcement professionals and community leaders working to combat the threat
+ of…
+
+archiving URL http://twitter.com/POTUS/status/961008581897347073
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/961008581897347073
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @SecretsBedard: Roaring: Economic Optimism Index
+ hits 13-year high, credit to tax cuts https://t.co/JpRmcBr2qn via @dcexaminer
+
+archiving URL http://twitter.com/seanspicer/status/961009779471798273
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/961009779471798273
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Today, we heard the
+experiences of law enforcement professionals and community leaders working to
+combat the threat of…
+
+archiving URL http://twitter.com/WhiteHouse/status/961010650490261504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961010650490261504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @businessinsider: Even Joe Biden is telling
+Trump to avoid an interview with Mueller https://t.co/NHCnzkaLJV
+https://t.co/RRcHTKDozz
+
+archiving URL http://twitter.com/Scaramucci/status/961011468010475520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/961011468010475520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Jake, why do you keep having this guy on your
+show?! I prefer only to consume content that confirms my preconceived…
+https://t.co/sKwGfrfX3J
+
+archiving URL http://twitter.com/Scaramucci/status/961013716065112065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/961013716065112065
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DonaldJTrumpJr: Well that and the fact that
+#potus was literally laughing as he said it. Strange that details like that
+don’t get picke…
+
+archiving URL http://twitter.com/Scaramucci/status/961014717564309510
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/961014717564309510
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "The IBD/TIPP Economic Optimism Index climbed 1.6
+points to 56.7 in February, riding a wave of tax-cut-fueled pay h…
+https://t.co/5vVFbAL9iS
+
+archiving URL http://twitter.com/WhiteHouse/status/961014899521589248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961014899521589248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Today, we heard the
+experiences of law enforcement professionals and community leaders working to
+combat the threat of…
+
+archiving URL http://twitter.com/JessicaDitto45/status/961020288736661504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/961020288736661504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: We need a 21st century
+MERIT-BASED immigration system.  Chain migration and the visa lottery are
+outdated programs tha…
+
+archiving URL http://twitter.com/JessicaDitto45/status/961020309020299264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/961020309020299264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT@USUN:Productive meeting w/Archbishop Auza
+Permanent Observer-Holy See discussing the Catholic Church’s leadershi…
+https://t.co/MKOsMScP5m
+
+archiving URL http://twitter.com/nikkihaley/status/961020975688056832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/961020975688056832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Landed in Japan &amp; will be meeting w/ PM @AbeShinzo in
+Tokyo today. We will discuss security &amp; stability in the regi…
+https://t.co/QHpAKsbr8U
+
+archiving URL http://twitter.com/VP/status/961021773956313088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961021773956313088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: The House just took another critical step to fund
+our military. I now urge Senate Democrats to stop playing games—t…
+https://t.co/cwexnbsvZt
+
+archiving URL http://twitter.com/SpeakerRyan/status/961026799605026817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961026799605026817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: MS-13 has brought violence, fear, and suffering to
+communities across the country, and President Trump and his Admi…
+https://t.co/Zdbnq7EfSC
+
+archiving URL http://twitter.com/WhiteHouse/status/961028994211700741
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961028994211700741
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: Our success won’t be defined by how many people
+we can bring into government assistance programs, but rather by how…
+https://t.co/LascsYl37w
+
+archiving URL http://twitter.com/RealBenCarson/status/961031191964143616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/961031191964143616
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: More $1,000 bonuses (or tortilla chip crumbs to
+Nancy Pelosi) https://t.co/z7b3twAMOo
+
+archiving URL http://twitter.com/AshLeeStrong/status/961036844254232577
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/961036844254232577
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Proud to send this important, bipartisan
+legislation addressing problems within the amateur athletic system to the…
+https://t.co/RCtcOW2fbh
+
+archiving URL http://twitter.com/SpeakerRyan/status/961037263760175104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961037263760175104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: HAPPY BIRTHDAY to our 40th President of the
+United States of America, Ronald Reagan! https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/realDonaldTrump/status/961038807658352640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/961038807658352640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: HAPPY BIRTHDAY to our 40th
+President of the United States of America, Ronald Reagan!
+https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/POTUS/status/961038881763266560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/961038881763266560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: HAPPY BIRTHDAY to our 40th
+President of the United States of America, Ronald Reagan!
+https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/WhiteHouse/status/961038971328499712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961038971328499712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: HAPPY BIRTHDAY to our 40th
+President of the United States of America, Ronald Reagan!
+https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/Scavino45/status/961039056103706624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/961039056103706624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: Several followers have asked about some things
+we are doing at HUD. Check it out at... https://t.co/jQgOKldBsc
+
+archiving URL http://twitter.com/RealBenCarson/status/961041018077540353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/961041018077540353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @realDonaldTrump: HAPPY BIRTHDAY to our 40th
+President of the United States of America, Ronald Reagan!
+https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/seanspicer/status/961041743750877184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/961041743750877184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: In the Washington Examiner, Paul Bedard reports
+that the IBD/TIPP Economic Optimism Index reached its highest level…
+https://t.co/OH0zuJ7jMv
+
+archiving URL http://twitter.com/WhiteHouse/status/961044846852091905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961044846852091905
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Congrats @SpaceX on today's launch! It demonstrates
+America's unparalleled space leadership as the Trump Admin &amp; th…
+https://t.co/GUeEVefaCh
+
+archiving URL http://twitter.com/VP/status/961048610866577408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961048610866577408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: @JoeTalkShow @newsmax @NewsmaxTV
+@iHeartTrending Pleasure to join your show today. Thanks for having me!
+
+archiving URL http://twitter.com/JessicaDitto45/status/961049488675700737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/961049488675700737
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: NEW BLOG!
+https://t.co/XFcbucB7TQ
+
+archiving URL http://twitter.com/VP/status/961059439527645184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961059439527645184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Happy birthday to Pres. Reagan. His leadership inspired a
+generation to believe in America. Honored to have been sw…
+https://t.co/PeS1HmfNwM
+
+archiving URL http://twitter.com/VP/status/961059976750891008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961059976750891008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Inspired by the youth in Chiba City, Japan! As
+Honorary Chairwoman of @SisterCitiesInt, met with Mayor Kumagai, stu…
+https://t.co/E9zePdxWmz
+
+archiving URL http://twitter.com/SecondLady/status/961060851120857088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/961060851120857088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: HAPPY BIRTHDAY to our 40th
+President of the United States of America, Ronald Reagan!
+https://t.co/JtEglBhm4c
+
+archiving URL http://twitter.com/PressSec/status/961061061335056384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/961061061335056384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Inspired by the youth in Chiba City, Japan!
+ As Honorary Chairwoman of @SisterCitiesInt, met with Mayor Kumagai, students
+fr…
+
+archiving URL http://twitter.com/VP/status/961061206483226626
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961061206483226626
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @RepSeanDuffy: Watch @SpeakerRyan's remarks on
+how #TaxReform is already helping millions of people! https://t.co/wxdIkAT34h
+
+archiving URL http://twitter.com/SpeakerRyan/status/961065173812502530
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961065173812502530
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from PressSec: Nick Foles - Super Bowl MVP and Champion - has a
+powerful message about failure, faith &amp; family https://t.co/cmqNUK0CO7
+
+archiving URL http://twitter.com/PressSec/status/961068723015733250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/961068723015733250
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @SteveScalise: Chipotle is paying its employees
+ bonuses thanks to the Tax Cuts &amp; Jobs Act. #TacoTuesday
+https://t.co/lNZ5EhGIVJ
+
+archiving URL http://twitter.com/SpeakerRyan/status/961068883498225664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961068883498225664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Why are Democrats so angry about lower taxes and
+higher wages? Unclear why Democrats aren’t celebrating but instead…
+https://t.co/yX6AJpy7KP
+
+archiving URL http://twitter.com/PressSec/status/961071551532752896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/961071551532752896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Congratulations @ElonMusk and @SpaceX on the
+successful #FalconHeavy launch. This achievement, along with @NASA’s c…
+https://t.co/MaQocjQKcI
+
+archiving URL http://twitter.com/realDonaldTrump/status/961073467784421382
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/961073467784421382
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Congratulations @ElonMusk and
+@SpaceX on the successful #FalconHeavy launch. This achievement, along with
+@NASA’s comm…
+
+archiving URL http://twitter.com/Scavino45/status/961073658734219264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/961073658734219264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Congratulations @ElonMusk and
+@SpaceX on the successful #FalconHeavy launch. This achievement, along with
+@NASA’s comm…
+
+archiving URL http://twitter.com/WhiteHouse/status/961073720247898115
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961073720247898115
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Congratulations @ElonMusk and
+@SpaceX on the successful #FalconHeavy launch. This achievement, along with
+@NASA’s comm…
+
+archiving URL http://twitter.com/POTUS/status/961073822794420224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/961073822794420224
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: Our administration is fully committed to the future of
+space &amp;  I am excited to announce I will host the next meeti…
+https://t.co/H9GZMiNIVO
+
+archiving URL http://twitter.com/VP/status/961088666767712256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961088666767712256
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: Important discussion w/ Japanese Defense Minister Onodera
+on our unwavering commitment to the U.S-Japan alliance. A…
+https://t.co/MnLb43UEpc
+
+archiving URL http://twitter.com/VP/status/961096671512944641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961096671512944641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @NRO: Since When Have We Sniffed at $1,000?
+https://t.co/UwhoGoYQiz via @charlescwcooke https://t.co/Phv0b3fQXL
+
+archiving URL http://twitter.com/AshLeeStrong/status/961097922006929408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/961097922006929408
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: Mtg w/Japanese Prime Minister @AbeShinzo to discuss
+US/Japanese jt efforts to put crippling pressure on North Korea…
+https://t.co/DNDs61tFEM
+
+archiving URL http://twitter.com/VP/status/961123309994823681
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961123309994823681
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Enjoyed a beautiful tour of the Hama-rikyu Gardens
+in Tokyo! Great to be joined by Mrs. Aso, wife of the Deputy Pri…
+https://t.co/zFVKumTuDf
+
+archiving URL http://twitter.com/SecondLady/status/961124128941133824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/961124128941133824
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @elonmusk: @realDonaldTrump @SpaceX @NASA Thank
+you on behalf of SpaceX. An exciting future lies ahead!
+
+archiving URL http://twitter.com/Scavino45/status/961127132746407936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/961127132746407936
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: The United States of America will soon unveil the toughest
+and most aggressive round of economic sanctions on North…
+https://t.co/dPrwLiq9Ux
+
+archiving URL http://twitter.com/VP/status/961163032876511232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961163032876511232
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecondLady: Enjoyed meeting Mrs. Akie Abe, the wife of the
+Prime Minister of Japan. https://t.co/mMAfse8oi9
+
+archiving URL http://twitter.com/SecondLady/status/961178804562644993
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/961178804562644993
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Enjoyed meeting Mrs. Akie Abe, the wife of
+the Prime Minister of Japan. https://t.co/mMAfse8oi9
+
+archiving URL http://twitter.com/VP/status/961181944515104768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961181944515104768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: “Republican tax cuts shift voters’ perceptions
+ahead of midterms” https://t.co/YK568rDhfD
+
+archiving URL http://twitter.com/AshLeeStrong/status/961209718764179457
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/961209718764179457
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Critical mtg w/PM @AbeShinzo where I announced new
+sanctions on the North Korean regime. The US stands shoulder-to-…
+https://t.co/7BH0ifsvZW
+
+archiving URL http://twitter.com/VP/status/961214034270871552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961214034270871552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Happy Birthday to a great husband, sweet dad,
+loving son, and really cute soldier! This is going to be a great year…
+https://t.co/q9guC5M7X7
+
+archiving URL http://twitter.com/nikkihaley/status/961214601181483008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/961214601181483008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Earlier today in Japan I announced the U.S will soon unveil
+ the TOUGHEST &amp; most AGGRESSIVE round of economic sancti…
+https://t.co/jdozS9rdKd
+
+archiving URL http://twitter.com/VP/status/961221519144837120
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/961221519144837120
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SpeakerRyan: All 126 employees at Sheffer Corp. in Ohio
+received $1,000 bonuses because of #TaxReform. Where Democrats see "crum…
+https://t.co/Txfs47vTfO
+
+archiving URL http://twitter.com/SpeakerRyan/status/961223063344963585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/961223063344963585
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Worth another look. . . https://t.co/OmkFQkKmsQ
+
+archiving URL http://twitter.com/Scaramucci/status/961224935762006022
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/961224935762006022
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Lower taxes, better jobs, higher wages. America is
+rising again 
+ https://t.co/qF13o9NSua
+
+archiving URL http://twitter.com/PressSec/status/961230417562165248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/961230417562165248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @PressSec: Lower taxes, better jobs, higher
+wages. America is rising again 
+ https://t.co/qF13o9NSua
+
+archiving URL http://twitter.com/WhiteHouse/status/961232726266470400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/961232726266470400
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from JessicaDitto45: RT @PressSec: Lower taxes, better jobs, higher
+wages. America is rising again 
+ https://t.co/qF13o9NSua
+
+archiving URL http://twitter.com/JessicaDitto45/status/961236677128794112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecNielsen: This week @POTUS signed an
+order creating the National Vetting Center at @DHSgov. Will make America safer
+by fusing intel a…
+
+archiving URL http://twitter.com/JessicaDitto45/status/961236733437280257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/961236677128794112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/961236733437280257
+    ... archiving using prefix http://web.archive.org/save/
