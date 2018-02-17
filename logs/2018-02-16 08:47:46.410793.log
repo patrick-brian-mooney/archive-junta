@@ -1,0 +1,343 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Friday, 16 February 2018 at 08:47
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #964511810782138368 for account
+@SpeakerRyan
+about to get all tweets newer than ID #898401955847876608 for account
+@Linda_McMahon
+about to get all tweets newer than ID #963902159531147264 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #964523763105697793 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #964513600575561728 for account @VP
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #964515441602416640 for account @POTUS
+about to get all tweets newer than ID #964237873972219906 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #961725970108633089 for account
+@SecShulkin
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #964349912786681856 for account
+@KellyannePolls
+about to get all tweets newer than ID #964300297517625345 for account @PressSec
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #959503328014225408 for account
+@mike_pence
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #964524813531451392 for account
+@Scaramucci
+about to get all tweets newer than ID #963887637311434753 for account
+@SecretaryZinke
+about to get all tweets newer than ID #964225557276823552 for account
+@RealBenCarson
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #964521172032475136 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #963903835965214720 for account
+@SecretaryPerry
+about to get all tweets newer than ID #962184059052011522 for account @Reince
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #964521452052664320 for account
+@JessicaDitto45
+about to get all tweets newer than ID #963882369831919616 for account
+@StephGrisham45
+about to get all tweets newer than ID #959831598412656640 for account @PRyan
+about to get all tweets newer than ID #964322475755655170 for account
+@seanspicer
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #964515159300558849 for account
+@SecretarySonny
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #963917729328746496 for account
+@TomBossert45
+about to get all tweets newer than ID #963882232179019781 for account @FLOTUS
+about to get all tweets newer than ID #963899156300488704 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #963949296121937920 for account
+@IvankaTrump
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #964520058713198592 for account
+@AshLeeStrong
+about to get all tweets newer than ID #964232805902356482 for account @Scavino45
+about to get all tweets newer than ID #964516119729049600 for account
+@WhiteHouse
+getting all tweets before ID #958529632579543040
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: "Melania and I send our best wishes for a Happy
+Lunar New Year as people come together to celebrate this special oc…
+https://t.co/GCgWsyZ5p4
+about to get all tweets newer than ID #964503180120870913 for account
+@nikkihaley
+
+archiving URL http://twitter.com/WhiteHouse/status/964527049355464705
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/964527049355464705
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #964297993762562048 for account
+@SecondLady
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #964512164865363968 for account
+@realDonaldTrump
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #964180456685129729 for account @SBALinda
+about to get all tweets newer than ID #964524657834647552 for account
+@SecretaryCarson
+about to get all tweets newer than ID #955254388423118849 for account
+@GovernorPerry
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+... OK, we're set up, and about to watch 18916432, 65522706, 828997388920619008,
+ 819980276570976256, 818910970567344128, 108471631, 822215679726100480,
+799764016885329921, 831482588246196225, 888031054141022209, 471672239,
+818927131883356161, 212262370, 22203756, 105267762, 24578794,
+827258161841135623, 1180379185, 836305915452272641, 826065858548133888,
+832672006113931269, 830128820447539208, 20733972, 892173412818354177, 15985455,
+836724024688410625, 823638938590085124, 733751245, 20776147, 728361177986797568,
+ 620571475, 842072478834909184, 1923451808, 866746592853979137,
+818876014390603776, 798195585824104449, 52544275, 599530439, 296060169,
+823367015830323201, 822215673812119553, 37666984, 803703725730779136,
+822127086194348032, 809836066316451840, 25073877, 29547260, 829782369670410240,
+819992522109894658, 828613457020870657, 18906561, 6577802
+
+
+New tweet from seanspicer: RT @IzzyOrtega: Pelosi: the gift that keeps on
+giving for the @GOP https://t.co/AAZ4fkVlqP
+
+archiving URL http://twitter.com/seanspicer/status/964532938946891777
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @RedSoxFanClub: Sources: Red Sox, Nunez close to
+ deal https://t.co/fRs14iKBCW https://t.co/XAZlFxbuTy
+
+archiving URL http://twitter.com/seanspicer/status/964532950250475520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/964532938946891777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/964532950250475520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Looking forward to visiting @tracyskidsdc art
+therapy program while we're in #Texas. #ArtTherapy https://t.co/EiOOaWvunE
+
+archiving URL http://twitter.com/SecondLady/status/964540173861249025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/964540173861249025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @HenryRamosTV: Here’s background info on what
+Art Therapy is and what the @SecondLady will be discussing here at Methodist
+Children’s Ho…
+
+archiving URL http://twitter.com/SecondLady/status/964545575080353793
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/964545575080353793
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @pastormarkburns: I am officially seeking the
+Republican nomination for South Carolina's 4th Congressional district seat,
+being vacated…
+
+archiving URL http://twitter.com/Scaramucci/status/964545615672827905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/964545615672827905
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Looking forward to visiting @tracyskidsdc
+art therapy program while we're in #Texas. #ArtTherapy https://t.co/EiOOaWvunE
+
+archiving URL http://twitter.com/VP/status/964546846613016576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/964546846613016576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DavidBahnsen: Thoroughly enjoyed signing my new
+ book at @BNBuzz on 5th Avenue. #CrisisOfResponsibility is out now!
+https://t.co/33m1jJY…
+
+archiving URL http://twitter.com/Scaramucci/status/964549082273501191
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/964549082273501191
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: We just published a draft list of
+#CriticalMinerals  - https://t.co/nuZOY2dDlW
+
+archiving URL http://twitter.com/SecretaryZinke/status/964568670633709568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/964568670633709568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @HenryRamosTV: .@SecondLady “#ArtTherapy is not
+just arts and crafts.” #kens5eyewitness https://t.co/8p7cZoqIR0
+
+archiving URL http://twitter.com/SecondLady/status/964569883794202626
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/964569883794202626
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @HenryRamosTV: .@SecondLady #ArtTherapy is
+really working. It changes the kids attitudes, gives them more optimism.  It
+also takes stres…
+
+archiving URL http://twitter.com/SecondLady/status/964584141428789254
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/964584141428789254
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @HenryRamosTV: The @SecondLady gifted the
+hospital with a piece of artwork, and thanked them for their dedication to
+#ArtTherapy. #kens5…
+
+archiving URL http://twitter.com/SecondLady/status/964584654006378498
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/964584654006378498
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: My statement on the Department of Justice’s
+indictments against Russian nationals and entities→… https://t.co/j5JEmDYmxw
+
+archiving URL http://twitter.com/SpeakerRyan/status/964586143768596480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/964586143768596480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @USUN: We had a great meeting with Ethiopia’s
+Foreign Minister Dr. Gebeyehu about the future of his country and…
+https://t.co/PTHC5SjpZT
+
+archiving URL http://twitter.com/nikkihaley/status/964587166734127105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/964587166734127105
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+964586143768596480,
+                       'id_str': '964586143768596480',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1518810668610'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 964586143768596480 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 964586143768596480 for account
+ SpeakerRyan
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SpeakerRyan/st
+atus/964586143768596480	My statement on the Department of Justice’s indictments
+against Russian nationals and entities→… https://t.co/j5JEmDYmxw
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+
+
+New tweet from SpeakerRyan: My statement on the Department of Justice’s
+indictments against Russian nationals and entities→… https://t.co/Ch5zC4lwrM
+
+archiving URL http://twitter.com/SpeakerRyan/status/964588244267687937
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/964588244267687937
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Russia started their anti-US campaign in 2014,
+ long before I announced that I would run for President. The results…
+https://t.co/B4D7ZcKHPp
+
+archiving URL http://twitter.com/realDonaldTrump/status/964594780088033282
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/964594780088033282
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Some of these are true! Some are fake news! Tune in
+ to sort it all out!😎 https://t.co/avbWNnkoWa
+
+archiving URL http://twitter.com/Scaramucci/status/964595096304963584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/964595096304963584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @TheRoyalsOnE: .@Scaramucci we could use your
+help denying these obviously false rumors. #TheRoyals https://t.co/E36w6fiZYT
+
+archiving URL http://twitter.com/Scaramucci/status/964595114076188673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/964595114076188673
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "President Trump’s proposal will create new jobs,
+strengthen our economy, and improve quality of life." More from S…
+https://t.co/Zp4mHwKFiG
+
+archiving URL http://twitter.com/WhiteHouse/status/964595754303152128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/964595754303152128
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2040
+more expected)', IncompleteRead(0 bytes read, 2040 more expected)); sleeping and
+ trying again ...
