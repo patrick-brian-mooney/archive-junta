@@ -1,0 +1,501 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Monday, 19 February 2018 at 20:43
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #965665276925743105 for account
+@SpeakerRyan
+about to get all tweets newer than ID #963917729328746496 for account
+@TomBossert45
+about to get all tweets newer than ID #965638316359118849 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #965586581007499264 for account
+@SecretaryPerry
+about to get all tweets newer than ID #965033528059719680 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #964349912786681856 for account
+@KellyannePolls
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #965749508444446720 for account
+@seanspicer
+about to get all tweets newer than ID #965235438230343680 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #965663780238778368 for account
+@WhiteHouse
+about to get all tweets newer than ID #963899156300488704 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #965069215509237760 for account
+@mike_pence
+about to get all tweets newer than ID #965002523840008192 for account
+@StephGrisham45
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #965700614322819072 for account
+@SecretarySonny
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #964524657834647552 for account
+@SecretaryCarson
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #965643859408621568 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #965775382598311937 for account
+@realDonaldTrump
+getting all tweets before ID #952538350333939712
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #962184059052011522 for account @Reince
+
+
+New tweet from realDonaldTrump: “The Faith of Donald Trump,” a book just out
+by David Brody and Scott Lamb, is a very interesting read. Enjoy!
+
+archiving URL http://twitter.com/realDonaldTrump/status/965780052167286784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/965780052167286784
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #964984439175614464 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #965632567067201536 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #963902159531147264 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #965637014233247744 for account @Scavino45
+about to get all tweets newer than ID #964180456685129729 for account @SBALinda
+about to get all tweets newer than ID #961725970108633089 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #965691623240761344 for account
+@JessicaDitto45
+about to get all tweets newer than ID #965744119380357121 for account
+@AshLeeStrong
+about to get all tweets newer than ID #965618896454803456 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #965216673484673029 for account
+@IvankaTrump
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #965641793097355264 for account
+@RealBenCarson
+getting all tweets before ID #760902952886296575
+    ...400 tweets downloaded so far
+
+
+New tweet from RealBenCarson: RT @Franklin_Graham: On this #PresidentsDay, we
+remember the past presidents who have served throughout our country’s history.
+Let’s also r…
+about to get all tweets newer than ID #965757857621823495 for account
+@Scaramucci
+
+archiving URL http://twitter.com/RealBenCarson/status/965790835643215873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/965790835643215873
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #954468566950137857
+    ...400 tweets downloaded so far
+
+
+New tweet from Scaramucci: If you grew up in a neighborhood  you would get it.
+ Remember @potus is from Queens. https://t.co/5nHqhdC3P7
+about to get all tweets newer than ID #964979194387222528 for account @PressSec
+
+archiving URL http://twitter.com/Scaramucci/status/965788767507251200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/965788767507251200
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #947491780773150719
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #964902954967891968 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #965658622381486080 for account @VP
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #965231014632132610 for account
+@Linda_McMahon
+about to get all tweets newer than ID #964531082665193472 for account @PRyan
+about to get all tweets newer than ID #965608196063813632 for account
+@nikkihaley
+getting all tweets before ID #931276010489774079
+    ...400 tweets downloaded so far
+
+
+New tweet from nikkihaley: Celebrating Mom and Dad’s 57th Anniversary! We are
+blessed ❤️ https://t.co/wZJxhIvi5h
+
+archiving URL http://twitter.com/nikkihaley/status/965782237517172741
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 18916432, 866746592853979137,
+827258161841135623, 830128820447539208, 822127086194348032, 599530439,
+826065858548133888, 471672239, 888031054141022209, 20776147, 18906561, 6577802,
+822215673812119553, 798195585824104449, 892173412818354177, 22203756,
+823638938590085124, 620571475, 842072478834909184, 1923451808,
+828613457020870657, 803703725730779136, 212262370, 819980276570976256,
+836305915452272641, 25073877, 20733972, 822215679726100480, 799764016885329921,
+828997388920619008, 15985455, 108471631, 829782369670410240, 823367015830323201,
+ 819992522109894658, 831482588246196225, 836724024688410625, 296060169,
+832672006113931269, 105267762, 52544275, 728361177986797568, 1180379185,
+24578794, 818927131883356161, 818876014390603776, 29547260, 818910970567344128,
+809836066316451840, 65522706, 733751245, 37666984
+
+archiving URL https://twitter.com/nikkihaley/status/965782237517172741
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+161886973768892416,
+                       'id_str': '161886973768892416',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1519101400213'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 161886973768892416 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 161886973768892416 for account
+ seanspicer
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+182120353571672064,
+                       'id_str': '182120353571672064',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1519101432881'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 182120353571672064 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 182120353571672064 for account
+ seanspicer
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+326373824457216001,
+                       'id_str': '326373824457216001',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1519101487888'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 326373824457216001 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 326373824457216001 for account
+ AshLeeStrong
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+403269648361463808,
+                       'id_str': '403269648361463808',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1519101692617'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 403269648361463808 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 403269648361463808 for account
+ AshLeeStrong
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+532324892780146688,
+                       'id_str': '532324892780146688',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1519101736151'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 532324892780146688 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 532324892780146688 for account
+ KellyannePolls
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+585550418404646912,
+                       'id_str': '585550418404646912',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1519101884683'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 585550418404646912 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 585550418404646912 for account
+ AshLeeStrong
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+661382370407407617,
+                       'id_str': '661382370407407617',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1519101924550'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 661382370407407617 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 661382370407407617 for account
+ KellyannePolls
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+704407341853184001,
+                       'id_str': '704407341853184001',
+
+                       'user_id': 1180379185,
+'user_id_str': '1180379185'},
+            'timestamp_ms': '1519102058533'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 704407341853184001 on
+ account RealBenCarson
+INFO: get_archived_tweet() called to get tweet ID 704407341853184001 for account
+ RealBenCarson
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/RealBenCarson/
+status/704407341853184001	RT @foxnation: @RealBenCarson : Why I Intend To Stay
+In The GOP Presidential Race https://t.co/8FPXQXcGse #GOP #BenCarson
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because RealBenCarson is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+761244925044350976,
+                       'id_str': '761244925044350976',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1519102065308'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 761244925044350976 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 761244925044350976 for account
+ SpeakerRyan
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+719583352915955713,
+                       'id_str': '719583352915955713',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1519102072950'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 719583352915955713 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 719583352915955713 for account
+ SpeakerRyan
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+627602970516062208,
+                       'id_str': '627602970516062208',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1519102113859'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 627602970516062208 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 627602970516062208 for account
+ realDonaldTrump
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+738047106540261376,
+                       'id_str': '738047106540261376',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1519102221212'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 738047106540261376 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 738047106540261376 for account
+ SpeakerRyan
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+797268503791337472,
+                       'id_str': '797268503791337472',
+
+                       'user_id': 18916432,
+'user_id_str': '18916432'},
+            'timestamp_ms': '1519102317959'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 797268503791337472 on
+ account SpeakerRyan
+INFO: get_archived_tweet() called to get tweet ID 797268503791337472 for account
+ SpeakerRyan
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/SpeakerRyan/s
+tatus/797268503791337472	RT @foxnation: .@SpeakerRyan and President-Elect
+@realDonaldTrump Ready to Enforce Policy Agenda, Including Border Security:
+https://t.co/u…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SpeakerRyan is not in the list
+ of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: Thank you to @foxandfriends for the great
+timeline on all of the failures the Obama Administration had against Russ…
+https://t.co/SI7CxX4a7C
+
+archiving URL http://twitter.com/realDonaldTrump/status/965925223949357056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/965925223949357056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “There is no serious person out there who
+would suggest somehow that you could even rig America’s elections, there’…
+https://t.co/eJ9M6A2H50
+
+archiving URL http://twitter.com/realDonaldTrump/status/965928352614965248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/965928352614965248
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
