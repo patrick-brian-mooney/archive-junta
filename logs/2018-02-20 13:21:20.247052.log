@@ -1,0 +1,506 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 20 February 2018 at 13:21
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #964902954967891968 for account @FLOTUS
+about to get all tweets newer than ID #966006815745040384 for account
+@realDonaldTrump
+about to get all tweets newer than ID #962184059052011522 for account @Reince
+about to get all tweets newer than ID #965632567067201536 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #964349912786681856 for account
+@KellyannePolls
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #965969872311193601 for account
+@SecretaryZinke
+about to get all tweets newer than ID #966029838510444545 for account
+@SecretaryPerry
+about to get all tweets newer than ID #965033528059719680 for account
+@SecondLady
+about to get all tweets newer than ID #966000144293548032 for account
+@IvankaTrump
+about to get all tweets newer than ID #961725970108633089 for account
+@SecShulkin
+about to get all tweets newer than ID #964524657834647552 for account
+@SecretaryCarson
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #966019696939151361 for account
+@AshLeeStrong
+getting all tweets before ID #954736569914675202
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: But seriously, no way Nancy Pelosi still thinks
+these are crumbs, right? https://t.co/KtFq6Sp7gN
+about to get all tweets newer than ID #966026420647616514 for account
+@WhiteHouse
+
+archiving URL http://twitter.com/AshLeeStrong/status/966046516736593920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/966046516736593920
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #966010108948992000 for account @VP
+about to get all tweets newer than ID #965002523840008192 for account
+@StephGrisham45
+about to get all tweets newer than ID #965643859408621568 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #965788767507251200 for account
+@Scaramucci
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #965782237517172741 for account
+@nikkihaley
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #965987571892477952 for account
+@SpeakerRyan
+about to get all tweets newer than ID #964531082665193472 for account @PRyan
+about to get all tweets newer than ID #966022828721090560 for account
+@SecretarySonny
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #966014824563052545 for account @POTUS
+about to get all tweets newer than ID #966013218471768087 for account @SBALinda
+about to get all tweets newer than ID #965618896454803456 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #963899156300488704 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #965235438230343680 for account
+@GovernorPerry
+about to get all tweets newer than ID #966020317696192513 for account
+@JessicaDitto45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #965231014632132610 for account
+@Linda_McMahon
+about to get all tweets newer than ID #965988363470811136 for account @PressSec
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #965637014233247744 for account @Scavino45
+about to get all tweets newer than ID #965790835643215873 for account
+@RealBenCarson
+about to get all tweets newer than ID #963917729328746496 for account
+@TomBossert45
+about to get all tweets newer than ID #963902159531147264 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #965983744384434176 for account
+@seanspicer
+about to get all tweets newer than ID #965069215509237760 for account
+@mike_pence
+... OK, we're set up, and about to watch 818876014390603776, 25073877, 20733972,
+ 799764016885329921, 108471631, 809836066316451840, 599530439, 471672239,
+6577802, 827258161841135623, 830128820447539208, 822127086194348032, 52544275,
+831482588246196225, 828613457020870657, 829782369670410240, 888031054141022209,
+15985455, 296060169, 822215673812119553, 29547260, 803703725730779136,
+892173412818354177, 818910970567344128, 823638938590085124, 819980276570976256,
+728361177986797568, 24578794, 1923451808, 37666984, 836305915452272641,
+620571475, 18916432, 733751245, 842072478834909184, 826065858548133888,
+822215679726100480, 819992522109894658, 832672006113931269, 798195585824104449,
+18906561, 836724024688410625, 105267762, 65522706, 818927131883356161,
+212262370, 823367015830323201, 1180379185, 866746592853979137,
+828997388920619008, 20776147, 22203756
+
+
+New tweet from SpeakerRyan: RT @SteveScalise: Tax reform is working. Now that
+workers are seeing bonuses and higher pay, a majority of Americans support the
+Tax Cuts &amp;…
+
+archiving URL http://twitter.com/SpeakerRyan/status/966052015892828161
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/966052015892828161
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Watch LIVE as President Trump hosts the Public
+Safety Medal of Valor awards ceremony: https://t.co/QzXnrxse6m
+https://t.co/Ae6SEs1WVI
+
+archiving URL http://twitter.com/WhiteHouse/status/966052255618228225
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966052255618228225
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scavino45: 🚨Happening Now:
+President Trump hosts the Public
+Safety Medal of Valor awards ceremony in the East Room. 
+
+LIVE:…
+https://t.co/6vRY1uMzom
+
+archiving URL http://twitter.com/Scavino45/status/966053269163466753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/966053269163466753
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Had a good, productive meeting with my
+counterpart from Mexico, my good friend @ppcalzada, reaffirming our positive…
+https://t.co/t5uKug1P8Z
+
+archiving URL http://twitter.com/SecretarySonny/status/966055552559341571
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/966055552559341571
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Some quality photos here. https://t.co/ZNXLbIKT7P
+
+archiving URL http://twitter.com/AshLeeStrong/status/966060212762365952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/966060212762365952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump’s infrastructure plan will give
+states the flexibility to address the unique needs of their rural c…
+https://t.co/CZSyzeYKMj
+
+archiving URL http://twitter.com/WhiteHouse/status/966060901139996673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966060901139996673
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: Tonight at 7 p.m. EST, I will be a panelist on a
+ special town hall titled, "The Forgotten Poor," where we'll discus…
+https://t.co/Gazv4PONez
+
+archiving URL http://twitter.com/RealBenCarson/status/966060936934187008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/966060936934187008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "Under President Trump’s ‘Building a Stronger
+America’ infrastructure agenda, we can restore our position in the wo…
+https://t.co/hl3Mc1lxg9
+
+archiving URL http://twitter.com/WhiteHouse/status/966067694444384257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966067694444384257
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @USUN: “Our negotiators are sitting right behind
+ me, ready to talk. We will not chase after you. The choice, Mr.…
+https://t.co/xrmvbWyqUc
+
+archiving URL http://twitter.com/nikkihaley/status/966078871224414208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/966078871224414208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: In President Trump's infrastructure plan, the $50
+billion dedicated to rural America represents 25% of all federal…
+https://t.co/2K1rP09vGL
+
+archiving URL http://twitter.com/WhiteHouse/status/966080278195294209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966080278195294209
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SpeakerRyan: RT @RepSmucker: .@smuckers (...no relation) is
+awarding $1,000 bonuses to nearly 5,000 employees as a result of #taxreform, and
+ is investin…
+
+archiving URL http://twitter.com/SpeakerRyan/status/966085093503782914
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/966085093503782914
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @LizOberg45: Did You Know? The President’s
+Infrastructure Plan Will Help Bolster Broadband Access to Rural America
+https://t.co/3fwLRLRu…
+
+archiving URL http://twitter.com/JessicaDitto45/status/966090209564811269
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/966090209564811269
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: In President Trump's
+infrastructure plan, the $50 billion dedicated to rural America represents 25%
+of all federal funds in…
+
+archiving URL http://twitter.com/JessicaDitto45/status/966090330872442880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/966090330872442880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecAzar: .@POTUS and the entire
+Administration are taking action so individuals and families have access to
+quality, affordable #health…
+
+archiving URL http://twitter.com/JessicaDitto45/status/966090509247832069
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/966090509247832069
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+965561401539473414,
+                       'id_str': '965561401539473414',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1519168968039'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 965561401539473414 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 965561401539473414 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/965561401539473414
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/966090798998736897
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/966090798998736897
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Tweet first, correct later https://t.co/wM4YzttIm7
+
+archiving URL http://twitter.com/seanspicer/status/966091902813704192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/966091902813704192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Axios: "Prominent Democrats rebuke Pelosi for
+calling tax bonuses 'crumbs'" https://t.co/WtmrOO7gua
+
+archiving URL http://twitter.com/AshLeeStrong/status/966094832111415297
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/966094832111415297
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: "‘Public opinion is moving in
+the direction of this bill,’ Chief Research Officer for SurveyMonkey Jon Cohen
+told the Times…
+
+archiving URL http://twitter.com/JessicaDitto45/status/966105854079569921
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/966105854079569921
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @guypbenson: NYT polling: Support for new GOP
+tax law -- supported by 0 Congressional Dems -- has gained *26 net points* since
+ the end o…
+
+archiving URL http://twitter.com/AshLeeStrong/status/966109695999139842
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/966109695999139842
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: Tonight's edition of West Wing Reads:
+https://t.co/HqLlJZSZQa https://t.co/eOTbyKqVK7
+
+archiving URL http://twitter.com/WhiteHouse/status/966112494375841792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966112494375841792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Bad ratings @CNN &amp; @MSNBC got scammed when
+ they covered the anti-Trump Russia rally wall-to-wall. They probably kne…
+https://t.co/1s5PQaBe2g
+
+archiving URL http://twitter.com/realDonaldTrump/status/966117265426001920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/966117265426001920
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: So true, thank you! https://t.co/9TTXlfokYz
+
+archiving URL http://twitter.com/realDonaldTrump/status/966118856874971138
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/966118856874971138
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: NEW BLOG: Art Therapy: My First Music Therapy
+Session with Children #ArtTherapy  https://t.co/ayzqbLPlFY
+
+archiving URL http://twitter.com/SecondLady/status/966119190141816832
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from VP: RT @SecondLady: NEW BLOG: Art Therapy: My First Music
+Therapy Session with Children #ArtTherapy  https://t.co/ayzqbLPlFY
+
+archiving URL http://twitter.com/VP/status/966129231183994882
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/966129231183994882
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Today I surveyed @blueorigin and     @ulalaunch’s
+manufacturing facilities. These companies are making huge advance…
+https://t.co/3ASXlPEZhd
+
+archiving URL http://twitter.com/VP/status/966151791112015878
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/966151791112015878
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecondLady: RT @VP: Today I surveyed @blueorigin and
+@ulalaunch’s manufacturing facilities. These companies are making huge
+advancements on the #Ne…
+
+archiving URL http://twitter.com/SecondLady/status/966164147049295874
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/966164147049295874
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @foxandfriends: Coming up…!
+@DrMarcSiegel
+@sbcountysheriff 
+@wjmcgurn
+@QuestionableCIP
+@ericbeachgop
+@PatrickForCO
+@michellemalkin
+@Fre…
+
+archiving URL http://twitter.com/Scaramucci/status/966283441019990017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/966283441019990017
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Our Undersecretary for Trade &amp; Foreign Ag
+Affairs Ted McKinney wakes up every day looking to sell more American agr…
+https://t.co/pbPYozF7RG
+
+archiving URL http://twitter.com/SecretarySonny/status/966291974847455233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/966291974847455233
+    ... archiving using prefix http://web.archive.org/save/
