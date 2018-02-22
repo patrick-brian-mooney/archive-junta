@@ -1,0 +1,202 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Wednesday, 21 February 2018 at 10:42
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #966343365364154373 for account @FLOTUS
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #966343724589637632 for account
+@StephGrisham45
+about to get all tweets newer than ID #966000144293548032 for account
+@IvankaTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #966357496549007360 for account @VP
+about to get all tweets newer than ID #965618896454803456 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #966321700588711936 for account
+@realDonaldTrump
+about to get all tweets newer than ID #966361481871872000 for account
+@SecShulkin
+about to get all tweets newer than ID #966342441904328704 for account
+@SpeakerRyan
+about to get all tweets newer than ID #966352136337534976 for account
+@seanspicer
+about to get all tweets newer than ID #962184059052011522 for account @Reince
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #964531082665193472 for account @PRyan
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #966357679861051392 for account
+@SecretaryZinke
+about to get all tweets newer than ID #966357593932423168 for account
+@WhiteHouse
+getting all tweets before ID #958541717715800064
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @WhiteHouseCEA: .@WhiteHouseCEA is excited to
+announce that you can now read the Economic Report of the President:
+https://t.co/HF3yikfA…
+about to get all tweets newer than ID #966325343110955009 for account
+@RealBenCarson
+
+archiving URL http://twitter.com/WhiteHouse/status/966368795827810306
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/966368795827810306
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #965069215509237760 for account
+@mike_pence
+about to get all tweets newer than ID #964524657834647552 for account
+@SecretaryCarson
+about to get all tweets newer than ID #965632567067201536 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #963902159531147264 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #966358979352899584 for account @SBALinda
+about to get all tweets newer than ID #963899156300488704 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #966335330457718785 for account
+@Scaramucci
+getting all tweets before ID #954900351379009535
+    ...400 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @UnruhInstitute: Former White House
+Communications Director, Fox News, CNN, and MSNBC commentator, and Founder and
+former Managing Partn…
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+archiving URL http://twitter.com/Scaramucci/status/966365031578374144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/966365031578374144
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #966350645308612613 for account
+@SecretarySonny
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #966308847194464256 for account
+@SecretaryPerry
+about to get all tweets newer than ID #966347582267150336 for account
+@AshLeeStrong
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #963917729328746496 for account
+@TomBossert45
+about to get all tweets newer than ID #965988363470811136 for account @PressSec
+about to get all tweets newer than ID #959613255206555648 for account
+@DanScavino
+about to get all tweets newer than ID #966317319323561984 for account
+@SecondLady
+about to get all tweets newer than ID #966014824563052545 for account @POTUS
+about to get all tweets newer than ID #966345522993942528 for account
+@JessicaDitto45
+about to get all tweets newer than ID #965643859408621568 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #966053269163466753 for account @Scavino45
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #966342513542955010 for account
+@nikkihaley
+about to get all tweets newer than ID #958090523364986887 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #965235438230343680 for account
+@GovernorPerry
+about to get all tweets newer than ID #965231014632132610 for account
+@Linda_McMahon
+about to get all tweets newer than ID #966352428617621504 for account
+@KellyannePolls
+... OK, we're set up, and about to watch 818876014390603776, 29547260,
+836305915452272641, 823638938590085124, 52544275, 15985455, 818910970567344128,
+832672006113931269, 25073877, 831482588246196225, 18916432, 20776147, 20733972,
+212262370, 803703725730779136, 809836066316451840, 105267762, 6577802,
+599530439, 733751245, 826065858548133888, 827258161841135623,
+822215673812119553, 1180379185, 22203756, 828613457020870657,
+799764016885329921, 828997388920619008, 819992522109894658, 798195585824104449,
+24578794, 829782369670410240, 842072478834909184, 892173412818354177,
+830128820447539208, 296060169, 728361177986797568, 866746592853979137,
+818927131883356161, 620571475, 822127086194348032, 822215679726100480,
+836724024688410625, 819980276570976256, 823367015830323201, 108471631,
+1923451808, 37666984, 888031054141022209, 18906561, 65522706, 471672239
+
+
+New tweet from VP: With the good work of the National Space Council at
+@NASAKennedy today, and with the strong leadership of @POTUS Tr…
+https://t.co/99rkUpubxV
+
+archiving URL http://twitter.com/VP/status/966374619296002050
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/966374619296002050
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: Saddened by the passing of America's Pastor -
+Billy Graham. He was a modern-day apostle. His message was simple: "G…
+https://t.co/5t12GX1JtW
+
+archiving URL http://twitter.com/EPAScottPruitt/status/966376957771468802
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/966376957771468802
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Yesterday, it was my great honor to recognize
+extraordinary Law Enforcement Officers and First Responders, and to a…
+https://t.co/PsfNaJrfEB
+
+archiving URL http://twitter.com/realDonaldTrump/status/966377081469882368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/966377081469882368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: The GREAT Billy Graham is dead.
+There was nobody like him! He will be missed by Christians and all religions. A
+very s…
+
+archiving URL http://twitter.com/POTUS/status/966377246092079104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Yesterday, it was my great honor to
+ recognize extraordinary Law Enforcement Officers and First Responders, and to
+awar…
+
+archiving URL http://twitter.com/POTUS/status/966377262777020417
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/966377246092079104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/966377262777020417
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
