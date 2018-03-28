@@ -1,0 +1,144 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Monday, 12 March 2018 at 20:17
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #973301085208240128 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #972579903391567872 for account
+@DanScavino
+about to get all tweets newer than ID #973363349550399488 for account @VP
+about to get all tweets newer than ID #969786327666450432 for account @Reince
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #973378693887295488 for account
+@KellyannePolls
+about to get all tweets newer than ID #973348171639349248 for account
+@seanspicer
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #973324614624477184 for account
+@SecretaryZinke
+about to get all tweets newer than ID #973240527129862145 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506936 (char 506935)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #973313363534020608 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #973380995503284224 for account
+@IvankaTrump
+about to get all tweets newer than ID #972227882121613312 for account
+@SecretarySonny
+about to get all tweets newer than ID #973219753534853125 for account
+@mike_pence
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #971815119272505345 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 504059 (char 504058)
+about to get all tweets newer than ID #971852894520651776 for account
+@RealBenCarson
+about to get all tweets newer than ID #972135175336480769 for account
+@StephGrisham45
+about to get all tweets newer than ID #972208654723272715 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #973307748795469829 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #973339166359674883 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 507325 (char 507324)
+about to get all tweets newer than ID #971089084394491905 for account
+@GovernorPerry
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #971172037891887104 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #971897060097249282 for account @FLOTUS
+about to get all tweets newer than ID #973297098522267651 for account
+@nikkihaley
+about to get all tweets newer than ID #973284831722459136 for account
+@Scaramucci
+about to get all tweets newer than ID #972170519385657344 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #973230293321748480 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #973368489602936832 for account
+@AshLeeStrong
+about to get all tweets newer than ID #972564587823452160 for account
+@SecShulkin
+about to get all tweets newer than ID #973312357920333829 for account @Scavino45
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #972246960903196675 for account
+@TomBossert45
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #973312566129807361 for account @SBALinda
+about to get all tweets newer than ID #973319631476871169 for account
+@SecretaryPerry
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #973289495587184640 for account @PRyan
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #973363133430497280 for account @POTUS
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 857826 (char 857825)
+about to get all tweets newer than ID #972260303718223872 for account @PressSec
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #973352692335759360 for account
+@WhiteHouse
+about to get all tweets newer than ID #973360355790479361 for account
+@realDonaldTrump
+... OK, we're set up, and about to watch 828613457020870657, 620571475,
+818910970567344128, 20733972, 826065858548133888, 471672239, 20776147,
+105267762, 728361177986797568, 6577802, 809836066316451840, 827258161841135623,
+836724024688410625, 29547260, 836305915452272641, 819980276570976256, 52544275,
+842072478834909184, 22203756, 212262370, 822127086194348032, 1180379185,
+823638938590085124, 799764016885329921, 828997388920619008, 18916432, 18906561,
+892173412818354177, 888031054141022209, 818876014390603776, 37666984, 24578794,
+798195585824104449, 832672006113931269, 296060169, 831482588246196225,
+823367015830323201, 108471631, 866746592853979137, 65522706, 819992522109894658,
+ 830128820447539208, 599530439, 15985455, 733751245, 803703725730779136,
+822215679726100480, 1923451808, 818927131883356161, 829782369670410240,
+822215673812119553, 25073877
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

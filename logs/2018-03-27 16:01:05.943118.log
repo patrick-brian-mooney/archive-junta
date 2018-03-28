@@ -1,0 +1,350 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 27 March 2018 at 16:01
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #978743842131324929 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 604388 (char 604387)
+about to get all tweets newer than ID #978725955421265922 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #978621079257313280 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603014 (char 603013)
+about to get all tweets newer than ID #978713869458788357 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510693 (char 510692)
+about to get all tweets newer than ID #977969609360986113 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 506954 (char 506953)
+about to get all tweets newer than ID #978710204631072769 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508507 (char 508506)
+about to get all tweets newer than ID #978713292909826050 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508231 (char 508230)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #978732737032015872 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #975822796075888640 for account @Reince
+about to get all tweets newer than ID #974331628364423171 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #978733758672064512 for account
+@AshLeeStrong
+about to get all tweets newer than ID #978702331238854656 for account @Scavino45
+about to get all tweets newer than ID #976874036616626178 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #978702446313828353 for account
+@WhiteHouse
+getting all tweets before ID #971819605663547392
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: Consumer and business confidence continues to soar
+as President Trump’s tax reforms and policies are helping the U.…
+https://t.co/xbDDHQDEuM
+
+archiving URL http://twitter.com/WhiteHouse/status/978748248889405440
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978259609050861569 for account
+@seanspicer
+
+archiving URL https://twitter.com/WhiteHouse/status/978748248889405440
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #978712014112612357 for account @PressSec
+
+
+New tweet from WhiteHouse: RT @PressSec: Under the leadership of
+@DrMcCance_Katz, the Substance Abuse and Mental Health Services Admin. is
+working to combat the worst…
+
+archiving URL http://twitter.com/WhiteHouse/status/978757668100804609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/978757668100804609
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #953778317626396672
+    ...400 tweets downloaded so far
+
+
+New tweet from PressSec: Under the leadership of @DrMcCance_Katz, the
+Substance Abuse and Mental Health Services Admin. is working to combat…
+https://t.co/oRm8q811gA
+
+archiving URL http://twitter.com/PressSec/status/978757358280114176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+archiving URL https://twitter.com/PressSec/status/978757358280114176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #977309765935091712 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #977295792624033792 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #978695581303484416 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #976504167714971648 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #978649343610753024 for account @FLOTUS
+getting all tweets before ID #868208426538676223
+    ...267 tweets downloaded so far
+
+
+New tweet from FLOTUS: We welcome the opioid memorial to the Ellipse in
+President’s Park in April. I encourage everyone to take a moment &amp;…
+https://t.co/CB5hlS0a6f
+
+archiving URL http://twitter.com/FLOTUS/status/978761875457499136
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978691235937386496 for account
+@KellyannePolls
+
+archiving URL https://twitter.com/FLOTUS/status/978761875457499136
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508397 (char 508396)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #978653010908729344 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #977957348336721920 for account
+@RealBenCarson
+about to get all tweets newer than ID #978356929276862466 for account
+@SecondLady
+about to get all tweets newer than ID #977907503978680321 for account
+@TomBossert45
+about to get all tweets newer than ID #978047772053114880 for account
+@GovernorPerry
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #978734996625162240 for account
+@SecretaryZinke
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #977220176704815104 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #978747409948987392 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #978337500983955456 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #978702291825037317 for account @POTUS
+about to get all tweets newer than ID #978701966456082433 for account
+@realDonaldTrump
+about to get all tweets newer than ID #975385331221651456 for account
+@DanScavino
+about to get all tweets newer than ID #978650282321235969 for account
+@StephGrisham45
+... OK, we're set up, and about to watch 818910970567344128, 819992522109894658,
+ 24578794, 828613457020870657, 22203756, 52544275, 18916432, 212262370,
+830128820447539208, 599530439, 20733972, 888031054141022209, 65522706,
+108471631, 831482588246196225, 809836066316451840, 296060169,
+823367015830323201, 799764016885329921, 822215673812119553, 20776147, 29547260,
+818927131883356161, 829782369670410240, 728361177986797568, 6577802,
+828997388920619008, 842072478834909184, 826065858548133888, 836724024688410625,
+105267762, 798195585824104449, 803703725730779136, 818876014390603776,
+471672239, 15985455, 832672006113931269, 1180379185, 822127086194348032,
+866746592853979137, 18906561, 1923451808, 892173412818354177,
+827258161841135623, 836305915452272641, 733751245, 37666984, 819980276570976256,
+ 822215679726100480, 25073877, 620571475, 823638938590085124
+
+
+New tweet from SBALinda: Great meeting with our local @SBA_Wichita
+@SBAgreatplains staff and resource partners. #SBAIgniteTour
+https://t.co/Zxyejl96V3
+
+archiving URL http://twitter.com/SBALinda/status/978769156723105798
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/978769156723105798
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: Tonight's edition of West Wing Reads:
+https://t.co/xxSD8FrUVj https://t.co/g4cXjkk85J
+
+archiving URL http://twitter.com/WhiteHouse/status/978780968742998017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/978780968742998017
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @BobShrum: @Scaramucci @USC Thanks to you-again.
+ Students loved the event, even those who might disagree with you. And I’m
+grateful for…
+
+archiving URL http://twitter.com/Scaramucci/status/978792837826465792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/978792837826465792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: THANK YOU North Dakota! Great visit to Fargo. And thank you
+ Gov. @DougBurgum, @RepKevinKramer &amp; @SenJohnHoeven for…
+https://t.co/pxLahlMjU4
+
+archiving URL http://twitter.com/VP/status/978792843748806657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/978792843748806657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DanScavino: 🚨Breaking News🚨
+
+Top Twitter Trend Tonight:
+#Roseanne
+
+Congratulations to @therealroseanne  and the crew — so awes…
+https://t.co/iw1eByTM05
+
+archiving URL http://twitter.com/DanScavino/status/978793669963800577
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/978793669963800577
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+978792843748806657,
+                       'id_str': '978792843748806657',
+
+                       'user_id': 818910970567344128,
+'user_id_str': '818910970567344128'},
+            'timestamp_ms':
+'1522197834325'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 978792843748806657 on
+ account VP
+INFO: get_archived_tweet() called to get tweet ID 978792843748806657 for account
+ VP
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/VP/status/978792843748806657	THANK
+YOU North Dakota! Great visit to Fargo. And thank you Gov. @DougBurgum,
+@RepKevinKramer &amp; @SenJohnHoeven for… https://t.co/pxLahlMjU4
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because VP is not in the list of
+accounts we tweet about
+
+
+New tweet from VP: THANK YOU North Dakota! Great visit to Fargo. And thank you
+ Gov. @DougBurgum, @RepKevinCramer &amp; @SenJohnHoeven for…
+https://t.co/gXxcBDQgo1
+
+archiving URL http://twitter.com/VP/status/978795035146838018
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/978795035146838018
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

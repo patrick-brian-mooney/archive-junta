@@ -1,0 +1,228 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Thursday, 08 March 2018 at 21:31
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 141521 (char 141520)
+about to get all tweets newer than ID #971914902444048385 for account
+@seanspicer
+about to get all tweets newer than ID #971852894520651776 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 602996 (char 602995)
+about to get all tweets newer than ID #971947826275061762 for account
+@JessicaDitto45
+about to get all tweets newer than ID #971387816453312512 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504509 (char 504508)
+about to get all tweets newer than ID #971815119272505345 for account
+@SecondLady
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #971458262427152384 for account
+@SecretarySonny
+getting all tweets before ID #951483548342587391
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #971894630433349633 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #969786327666450432 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #971852180994093060 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 607359 (char 607358)
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #971579128012050432 for account
+@TomBossert45
+about to get all tweets newer than ID #971519362216681472 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505988 (char 505987)
+about to get all tweets newer than ID #971914709132894208 for account
+@nikkihaley
+about to get all tweets newer than ID #971917252646916097 for account @POTUS
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #970484798019063808 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #971897047946317825 for account
+@SecretaryPerry
+about to get all tweets newer than ID #971910912553685000 for account @PressSec
+getting all tweets before ID #952561888507908095
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #971089084394491905 for account
+@GovernorPerry
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #971916819882758144 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608164 (char 608163)
+about to get all tweets newer than ID #971908631909355520 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504040 (char 504039)
+about to get all tweets newer than ID #971863999968169984 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 681665 (char 681664)
+about to get all tweets newer than ID #971871668326092800 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #971210326711582720 for account
+@mike_pence
+about to get all tweets newer than ID #965231014632132610 for account
+@Linda_McMahon
+about to get all tweets newer than ID #971944689329934336 for account
+@KellyannePolls
+getting all tweets before ID #927294735672381439
+    ...400 tweets downloaded so far
+
+
+New tweet from KellyannePolls: RT @JulietMacur: A waitress asked me if I was a
+ journalist and said in a whisper while wiping away tears, “We need your help.”
+Here’s what…
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL http://twitter.com/KellyannePolls/status/971971087796912129
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/971971087796912129
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @McCormickProf: "Killed, aborted or
+neglected, at least 100m girls have disappeared—and the number is rising"--The
+Economist in 2010. An…
+
+archiving URL http://twitter.com/KellyannePolls/status/971971835859316736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/971971835859316736
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #971799576515661824 for account
+@SecretaryZinke
+about to get all tweets newer than ID #971172037891887104 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #971916739620556801 for account
+@WhiteHouse
+about to get all tweets newer than ID #971897283297054720 for account
+@StephGrisham45
+about to get all tweets newer than ID #971400326690504709 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #971897060097249282 for account @FLOTUS
+about to get all tweets newer than ID #971915531346436096 for account
+@realDonaldTrump
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #970003576784375809 for account @PRyan
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #971916089553666048 for account @VP
+about to get all tweets newer than ID #971848810883371008 for account
+@SecShulkin
+about to get all tweets newer than ID #971918659907211270 for account @Scavino45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #971852300124762112 for account @SBALinda
+about to get all tweets newer than ID #971869453511282690 for account
+@stevenmnuchin1
+getting all tweets before ID #916068000473800703
+    ...400 tweets downloaded so far
+
+
+New tweet from stevenmnuchin1: Honored to receive the Sheldon and Miriam
+Adelson Family Award at the World Values Network's Champions of Jewish Va…
+https://t.co/Qf5HiQgYF3
+
+archiving URL http://twitter.com/stevenmnuchin1/status/971943542313627648
+... OK, we're set up, and about to watch 6577802, 20776147, 1180379185,
+836724024688410625, 819980276570976256, 822127086194348032, 826065858548133888,
+809836066316451840, 842072478834909184, 18916432, 20733972, 828613457020870657,
+836305915452272641, 866746592853979137, 828997388920619008, 37666984,
+822215679726100480, 1923451808, 803703725730779136, 892173412818354177,
+620571475, 830128820447539208, 818927131883356161, 18906561, 15985455, 24578794,
+ 296060169, 52544275, 832672006113931269, 22203756, 65522706, 471672239,
+212262370, 105267762, 599530439, 827258161841135623, 888031054141022209,
+822215673812119553, 823638938590085124, 798195585824104449, 29547260,
+818876014390603776, 25073877, 829782369670410240, 733751245, 108471631,
+818910970567344128, 831482588246196225, 823367015830323201, 728361177986797568,
+819992522109894658, 799764016885329921
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/971943542313627648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @TheBlueHouseKR: 정의용 안보실장은 백악관에서 브리핑을 갖고 트럼프
+대통령과의 면담 결과를 설명했습니다. 정 실장은 북한 김정은 위원장이 비핵화와 추가적인 핵, 미사일 실험을 중단할 것이라고 약속했으며 트럼프
+대통령이 항구적인 한반…
+
+archiving URL http://twitter.com/Scavino45/status/971976607236743174
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/971976607236743174
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @TheBlueHouseKR: 정의용 국가안보실장의 '트럼프 대통령 면담 결과' 백악관
+브리핑 전문입니다. 트럼프 대통령은 항구적인 한반도 비핵화를 위해 북한 김정은 위원장을 5월까지 만날 것이라고 밝혔습니다.
+https://t.co/ulWbb…
+
+archiving URL http://twitter.com/Scavino45/status/971976671568867328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/971976671568867328
+    ... archiving using prefix http://web.archive.org/save/

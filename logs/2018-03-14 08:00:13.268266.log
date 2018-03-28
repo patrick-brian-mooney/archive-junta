@@ -1,0 +1,357 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Wednesday, 14 March 2018 at 08:00
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #972135175336480769 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 509184 (char 509183)
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #973914676320002053 for account @SBALinda
+about to get all tweets newer than ID #972260303718223872 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504056 (char 504055)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #973692796845555713 for account
+@SecondLady
+about to get all tweets newer than ID #973674919790825472 for account
+@nikkihaley
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #971897060097249282 for account @FLOTUS
+about to get all tweets newer than ID #973643354050383872 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #973559834242179073 for account
+@mike_pence
+about to get all tweets newer than ID #973404593433522178 for account @Reince
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #973727444577538048 for account @VP
+about to get all tweets newer than ID #973655781001302016 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #973920406800302080 for account
+@WhiteHouse
+getting all tweets before ID #966348552766152703
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Five of our incredible
+@Cabinet Secretaries are testifying on the Hill this morning on the need to
+rebuild our Nation’…
+
+archiving URL http://twitter.com/WhiteHouse/status/973920648786579456
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #973748890167054338 for account
+@IvankaTrump
+
+archiving URL https://twitter.com/WhiteHouse/status/973920648786579456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @SenateCommerce: TODAY AT 10AM: @SenateCommerce
+to hold a hearing to examine #InfrastructureInAmerica with testimony from
+@SecElaineChao…
+
+archiving URL http://twitter.com/WhiteHouse/status/973921286396268546
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/973921286396268546
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508888 (char 508887)
+about to get all tweets newer than ID #971089084394491905 for account
+@GovernorPerry
+about to get all tweets newer than ID #973721857022029824 for account @POTUS
+about to get all tweets newer than ID #973593870725537792 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #973897523176902656 for account
+@SecretarySonny
+getting all tweets before ID #955079856349483008
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretarySonny: Getting ready to head into @SenateCommerce
+hearing on infrastructure. Just a couple of spare moments w/…
+https://t.co/LHLYumIvrr
+
+archiving URL http://twitter.com/SecretarySonny/status/973924181678182400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+
+archiving URL https://twitter.com/SecretarySonny/status/973924181678182400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #973741676186488832 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504010 (char 504009)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 505298 (char 505297)
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #972564587823452160 for account
+@SecShulkin
+about to get all tweets newer than ID #973920392543793154 for account
+@realDonaldTrump
+about to get all tweets newer than ID #973696159394025474 for account
+@SecretaryCarson
+about to get all tweets newer than ID #972170519385657344 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #973687024988315648 for account
+@seanspicer
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #973289495587184640 for account @PRyan
+about to get all tweets newer than ID #971852894520651776 for account
+@RealBenCarson
+about to get all tweets newer than ID #973875840437153793 for account
+@Scaramucci
+about to get all tweets newer than ID #972246960903196675 for account
+@TomBossert45
+about to get all tweets newer than ID #973597326735499265 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #972579903391567872 for account
+@DanScavino
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #973709289754804224 for account @Scavino45
+about to get all tweets newer than ID #973914324015243269 for account
+@SecretaryZinke
+about to get all tweets newer than ID #973920394221670400 for account
+@SpeakerRyan
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #973767593348788225 for account
+@JessicaDitto45
+getting all tweets before ID #958167958467022848
+    ...400 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Five of our incredible
+@Cabinet Secretaries are testifying on the Hill this morning on the need to
+rebuild our Nation’…
+
+archiving URL http://twitter.com/JessicaDitto45/status/973920684605935617
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #972208654723272715 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=stevenmnuchin1&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb61f638c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #973913929658363904 for account
+@SecretaryPerry
+
+archiving URL https://twitter.com/JessicaDitto45/status/973920684605935617
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #973378693887295488 for account
+@KellyannePolls
+... OK, we're set up, and about to watch 599530439, 823638938590085124,
+892173412818354177, 819992522109894658, 818927131883356161, 728361177986797568,
+822127086194348032, 37666984, 809836066316451840, 818876014390603776,
+828997388920619008, 22203756, 20733972, 1923451808, 818910970567344128,
+819980276570976256, 822215673812119553, 52544275, 18906561, 822215679726100480,
+832672006113931269, 842072478834909184, 6577802, 803703725730779136, 212262370,
+296060169, 15985455, 836305915452272641, 829782369670410240, 29547260,
+831482588246196225, 25073877, 828613457020870657, 798195585824104449, 20776147,
+105267762, 733751245, 1180379185, 24578794, 866746592853979137,
+888031054141022209, 620571475, 108471631, 823367015830323201,
+827258161841135623, 18916432, 65522706, 836724024688410625, 799764016885329921,
+826065858548133888, 830128820447539208, 471672239
+
+
+New tweet from Scaramucci: RT @MichaelCohen212: Even @MSNBC knows I did
+nothing wrong! #Stormy https://t.co/0JZ6vvgjTZ
+
+archiving URL http://twitter.com/Scaramucci/status/973928391094173696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/973928391094173696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Tragic violence has no place in our schools.
+Today, the House will take concrete action to prevent this violence th…
+https://t.co/YjAazclQP9
+
+archiving URL http://twitter.com/SpeakerRyan/status/973928853805547520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SecretarySonny: Joining my @Cabinet
+colleagues in testifying at @SenateCommerce hearing on #InfrastructureinAmerica.
+ Thanks Chairman @S…
+
+archiving URL http://twitter.com/JessicaDitto45/status/973928881966206976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/973928853805547520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/973928881966206976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We cannot keep a blind eye to the rampant
+unfair trade practices against our Country!
+
+archiving URL http://twitter.com/realDonaldTrump/status/973931154796457984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/973931154796457984
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from TomBossert45: RT @business: Watch LIVE: U.S. House subcommittee
+ holds hearing on cryptocurrencies and ICO markets ▶️ https://t.co/rRBVsTFECS
+
+archiving URL http://twitter.com/TomBossert45/status/973931487522381824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/TomBossert45/status/973931487522381824
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecretarySonny: Telling @SenateCommerce this morning that
+@POTUS #InfrastructureinAmerica agenda is crucial to revitalizing the eco…
+https://t.co/avWa8ZMGSC
+
+archiving URL http://twitter.com/SecretarySonny/status/973933122533326848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/973933122533326848
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from IvankaTrump: Yesterday I hosted a bipartisan group of lawmakers
+ &amp; leaders from the private sector &amp; NGO community to discuss leg…
+https://t.co/zGqd1ul5X0
+
+archiving URL http://twitter.com/IvankaTrump/status/973936007719604226
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/973936007719604226
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scavino45: #BuildTheWall #AmericaFirst🇺🇸
+https://t.co/1Yf9fIvgp7
+
+archiving URL http://twitter.com/Scavino45/status/973942575722721287
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/973942575722721287
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @MorningsMaria: Small business growing in
+technology, health services: @SBALinda https://t.co/hYOeecOxwE
+
+archiving URL http://twitter.com/SBALinda/status/973944004051120128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/973944004051120128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Congratulations to Director Mike Pompeo — couldn’t
+be happier for the opportunity that is before him. There is no q…
+https://t.co/bvE5WJ1TgL
+
+archiving URL http://twitter.com/Scavino45/status/973944772002906112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/973944772002906112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @IvankaTrump: Thank you @SenateCommerce and
+our @Cabinet Secretaries, @SecElaineChao, @SecretaryRoss, @SecretarySonny,
+@SecretaryAcosta…
+
+archiving URL http://twitter.com/JessicaDitto45/status/973944864298749955
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/973944864298749955
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Great to meet with @LtGovDanForest this morning -
+beginning conversations on rural NC with regards to #SmallBiz opp…
+https://t.co/NSCyCbkK59
+
+archiving URL http://twitter.com/SBALinda/status/973945187083972608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/973945187083972608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @Interior: Celebrate 115 years of wildlife
+refuges that protect fascinating animals &amp; extraordinary scenery.
+https://t.co/AVDCFMlr2S
+
+Pi…
+
+archiving URL http://twitter.com/SecretaryZinke/status/973946150855282688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/973946150855282688
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
