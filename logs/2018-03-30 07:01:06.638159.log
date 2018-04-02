@@ -1,0 +1,189 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Friday, 30 March 2018 at 07:01
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #979527046752755712 for account
+@AshLeeStrong
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #979466558916481024 for account
+@StephGrisham45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #979692736164126720 for account
+@Scaramucci
+about to get all tweets newer than ID #979056009904885762 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 675788 (char 675787)
+about to get all tweets newer than ID #977907503978680321 for account
+@TomBossert45
+about to get all tweets newer than ID #979494524551606274 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504983 (char 504982)
+about to get all tweets newer than ID #979493919598829568 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #975822796075888640 for account @Reince
+getting all tweets before ID #779718194680344575
+    ...399 tweets downloaded so far
+
+
+New tweet from Reince: RT @VP: Today, Karen and I join Christians everywhere
+as we remember Christ’s sacrifice on the Cross. “By his wounds we are healed.”
+(Isa.…
+
+archiving URL http://twitter.com/Reince/status/979705454984122370
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 504549 (char 504548)
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+
+archiving URL https://twitter.com/Reince/status/979705454984122370
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 605914 (char 605913)
+about to get all tweets newer than ID #979430886583291905 for account @SBALinda
+about to get all tweets newer than ID #979449770640015361 for account
+@realDonaldTrump
+about to get all tweets newer than ID #979464085711581186 for account
+@SecretarySonny
+about to get all tweets newer than ID #974331628364423171 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #979560677466673152 for account @Scavino45
+about to get all tweets newer than ID #979464997880451072 for account @FLOTUS
+about to get all tweets newer than ID #979383714122797058 for account
+@seanspicer
+about to get all tweets newer than ID #977220176704815104 for account @PRyan
+about to get all tweets newer than ID #979468563902881792 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 624073 (char 624072)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #979441464206913536 for account
+@nikkihaley
+about to get all tweets newer than ID #979695999353581568 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #979448215027224582 for account
+@SpeakerRyan
+about to get all tweets newer than ID #978047772053114880 for account
+@GovernorPerry
+about to get all tweets newer than ID #979495427090403328 for account
+@WhiteHouse
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #979485892141252609 for account @POTUS
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #979677034178924544 for account @VP
+about to get all tweets newer than ID #979702134756331523 for account
+@SecondLady
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #979340867583569920 for account @PressSec
+about to get all tweets newer than ID #979481456203456512 for account
+@SecretaryPerry
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #979505614190649344 for account
+@IvankaTrump
+getting all tweets before ID #956626830043344896
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: RT @newtgingrich: .@IvankaTrump on why skill-based
+ education is crucial to putting more Americans on a path to promising careers
+https://t.…
+
+archiving URL http://twitter.com/IvankaTrump/status/979509680190889986
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978753403621969921 for account
+@KellyannePolls
+
+archiving URL https://twitter.com/IvankaTrump/status/979509680190889986
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #979424653969100801 for account
+@SecretaryCarson
+
+
+New tweet from IvankaTrump: Today, President Trump shared his vision for
+modernizing our nation's #Infrastructure and preparing the American…
+https://t.co/fWjZ7c3gwi
+
+archiving URL http://twitter.com/IvankaTrump/status/979563340484825088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/979563340484825088
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #977957348336721920 for account
+@RealBenCarson
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #979141311310843905 for account
+@BetsyDeVosED
+getting all tweets before ID #866814538531954687
+    ...395 tweets downloaded so far
+
+
+New tweet from BetsyDeVosED: While there are positive trends from the annual
+report on crime and school safety, we know there is more we must do…
+https://t.co/coSKecGK41
+
+archiving URL http://twitter.com/BetsyDeVosED/status/979441414416281600
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #979026720723435522 for account
+@mike_pence
+
+archiving URL https://twitter.com/BetsyDeVosED/status/979441414416281600
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978793669963800577 for account
+@DanScavino
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #976874036616626178 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+... OK, we're set up, and about to watch 296060169, 803703725730779136,
+823638938590085124, 29547260, 24578794, 798195585824104449, 866746592853979137,
+819980276570976256, 836724024688410625, 836305915452272641, 826065858548133888,
+20733972, 15985455, 831482588246196225, 819992522109894658, 25073877,
+842072478834909184, 888031054141022209, 823367015830323201, 818876014390603776,
+20776147, 733751245, 827258161841135623, 105267762, 809836066316451840,
+65522706, 37666984, 832672006113931269, 18916432, 18906561, 822215673812119553,
+728361177986797568, 892173412818354177, 822215679726100480, 212262370,
+818910970567344128, 822127086194348032, 6577802, 818927131883356161,
+830128820447539208, 599530439, 52544275, 471672239, 828613457020870657,
+1180379185, 829782369670410240, 828997388920619008, 22203756, 620571475,
+1923451808, 799764016885329921, 108471631

@@ -1,0 +1,180 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Sunday, 01 April 2018 at 12:18
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #980493476751134721 for account @FLOTUS
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #979757293670666240 for account @SBALinda
+about to get all tweets newer than ID #980082198295523328 for account
+@nikkihaley
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #979026720723435522 for account
+@mike_pence
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #980429816183869440 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #980451798606602241 for account
+@realDonaldTrump
+about to get all tweets newer than ID #980430338156580865 for account
+@WhiteHouse
+about to get all tweets newer than ID #980403646931329024 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 683222 (char 683221)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #980423218698665984 for account
+@SpeakerRyan
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #980460547392049153 for account
+@SecretaryZinke
+about to get all tweets newer than ID #979804532539568128 for account
+@SecretarySonny
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #980446585560621056 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 510338 (char 510337)
+about to get all tweets newer than ID #979441414416281600 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #979817230224515074 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 280116 (char 280115)
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #980440712402604033 for account @PressSec
+about to get all tweets newer than ID #980426301705142272 for account @PRyan
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #979056009904885762 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #979824475339444234 for account
+@SecretaryCarson
+about to get all tweets newer than ID #980441629554282496 for account
+@JessicaDitto45
+about to get all tweets newer than ID #980438053503291397 for account @POTUS
+about to get all tweets newer than ID #980452005771661313 for account
+@SecretaryPerry
+about to get all tweets newer than ID #980414057583955968 for account
+@KellyannePolls
+about to get all tweets newer than ID #980500726202892288 for account
+@StephGrisham45
+about to get all tweets newer than ID #980454291180871683 for account
+@Scaramucci
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #980457808469602304 for account
+@SecondLady
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #980413686576803842 for account
+@TomBossert45
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #974331628364423171 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #978793669963800577 for account
+@DanScavino
+about to get all tweets newer than ID #980473974294564866 for account
+@seanspicer
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #979871922375737344 for account
+@IvankaTrump
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #976874036616626178 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #980440795269476353 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #980451148669833217 for account
+@RealBenCarson
+about to get all tweets newer than ID #980438292502949888 for account
+@AshLeeStrong
+about to get all tweets newer than ID #979776589016662016 for account
+@GovernorPerry
+... OK, we're set up, and about to watch 108471631, 818876014390603776,
+803703725730779136, 819992522109894658, 37666984, 892173412818354177, 22203756,
+809836066316451840, 819980276570976256, 25073877, 822215673812119553,
+818910970567344128, 728361177986797568, 18916432, 29547260, 827258161841135623,
+842072478834909184, 212262370, 15985455, 20733972, 828997388920619008,
+823367015830323201, 1923451808, 818927131883356161, 733751245,
+829782369670410240, 798195585824104449, 828613457020870657, 836724024688410625,
+822215679726100480, 830128820447539208, 471672239, 823638938590085124, 24578794,
+ 65522706, 822127086194348032, 105267762, 866746592853979137,
+836305915452272641, 888031054141022209, 620571475, 20776147, 6577802, 52544275,
+599530439, 826065858548133888, 799764016885329921, 832672006113931269,
+831482588246196225, 1180379185, 296060169, 18906561
+
+
+New tweet from Scaramucci: Agree! https://t.co/o8U2OpmtDK
+
+archiving URL http://twitter.com/Scaramucci/status/980515089655713792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ryansongalia: .@macantone as @Scaramucci was
+pretty hilarious https://t.co/oMKZ7dGsFZ
+
+archiving URL http://twitter.com/Scaramucci/status/980515101122924544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/980515089655713792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/980515101122924544
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: Learn more about tomorrow's Easter Egg Roll and the
+ history behind this timeless tradition: https://t.co/taP1nTe4p5
+https://t.co/VGogrQts1N
+
+archiving URL http://twitter.com/WhiteHouse/status/980532261274771456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/980532261274771456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Happy Easter! Wishing everyone a time of
+reflection, love, and blessings. https://t.co/T5dKwi1bqv
+
+archiving URL http://twitter.com/nikkihaley/status/980537655585886208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/980537655585886208
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

@@ -1,0 +1,513 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Wednesday, 28 March 2018 at 10:50
+
+
+
+INFO: read target account data; we're tracking 52 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 613135 (char 613134)
+about to get all tweets newer than ID #979031272591896577 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 503935 (char 503934)
+about to get all tweets newer than ID #978732068669714433 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 508538 (char 508537)
+about to get all tweets newer than ID #979030109104562176 for account
+@realDonaldTrump
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #979030565507747847 for account
+@WhiteHouse
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #978753403621969921 for account
+@KellyannePolls
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #978702331238854656 for account @Scavino45
+about to get all tweets newer than ID #979012722363953152 for account
+@IvankaTrump
+about to get all tweets newer than ID #979033916211449858 for account
+@SpeakerRyan
+about to get all tweets newer than ID #976504167714971648 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #976874036616626178 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #977295792624033792 for account
+@SecretarySonny
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #979025744033611777 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryPerry
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb640674c>: Failed to establish a new connection: [Errno
+ 101] Network is unreachable',))
+about to get all tweets newer than ID #977309765935091712 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #978733758672064512 for account
+@AshLeeStrong
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #979003743927664641 for account
+@nikkihaley
+about to get all tweets newer than ID #978761875457499136 for account @FLOTUS
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #979026720723435522 for account
+@mike_pence
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #975822796075888640 for account @Reince
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #979002464245514241 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #977907503978680321 for account
+@TomBossert45
+about to get all tweets newer than ID #978837171644887040 for account
+@SecondLady
+about to get all tweets newer than ID #978973962397941760 for account
+@seanspicer
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #979026791850418176 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #978734996625162240 for account
+@SecretaryZinke
+about to get all tweets newer than ID #898632795517403136 for account
+@GeneralJFKellly
+ERROR: unable to get tweets for account @GeneralJFKellly
+           the system said: Not authorized.
+about to get all tweets newer than ID #977957348336721920 for account
+@RealBenCarson
+about to get all tweets newer than ID #978793669963800577 for account
+@DanScavino
+about to get all tweets newer than ID #977220176704815104 for account @PRyan
+about to get all tweets newer than ID #979033692566884353 for account
+@Scaramucci
+about to get all tweets newer than ID #979003541850292225 for account @VP
+about to get all tweets newer than ID #979031124583251968 for account
+@SecretaryCarson
+about to get all tweets newer than ID #974331628364423171 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #978650282321235969 for account
+@StephGrisham45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #978047772053114880 for account
+@GovernorPerry
+about to get all tweets newer than ID #978757358280114176 for account @PressSec
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #979030508498759681 for account @SBALinda
+... OK, we're set up, and about to watch 105267762, 829782369670410240,
+822215679726100480, 836724024688410625, 25073877, 29547260, 822215673812119553,
+108471631, 471672239, 6577802, 823367015830323201, 52544275, 18916432,
+798195585824104449, 831482588246196225, 799764016885329921, 728361177986797568,
+842072478834909184, 212262370, 830128820447539208, 828997388920619008,
+296060169, 809836066316451840, 37666984, 818876014390603776, 836305915452272641,
+ 22203756, 1923451808, 20733972, 65522706, 819980276570976256,
+866746592853979137, 822127086194348032, 20776147, 599530439, 832672006113931269,
+ 827258161841135623, 892173412818354177, 1180379185, 620571475, 733751245,
+24578794, 818910970567344128, 828613457020870657, 888031054141022209,
+823638938590085124, 826065858548133888, 18906561, 818927131883356161,
+803703725730779136, 15985455, 819992522109894658
+
+
+New tweet from SpeakerRyan: Because of the tax cuts bill, #MadeInAmerica
+businesses can not only reward workers, but expand and become more com…
+https://t.co/u47Tgf3SbM
+
+archiving URL http://twitter.com/SpeakerRyan/status/979047302143889409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/979047302143889409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: .@USTradeRep just
+announced an agreement in principle with South Korea on KORUS! A great deal for
+American and Korean…
+
+archiving URL http://twitter.com/JessicaDitto45/status/979048102685478915
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/979048102685478915
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Talking about how this Administration is
+fighting to end the opioid crisis with @StateRepWhite &amp; @RobertGLoughery i…
+https://t.co/Yl7PN5kWpW
+
+archiving URL http://twitter.com/SecretaryCarson/status/979049268999852033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/979049268999852033
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @CLH45: CLEVELAND - catch an exclusive
+interview on @WEWS tomorrow morning between CEA Chair Kevin Hassett and
+@KosichJohn previewing PO…
+
+archiving URL http://twitter.com/JessicaDitto45/status/979049635967840257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/979049635967840257
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Millions of Americans have been affected by the
+opioid crisis and President Trump is dedicated to fighting and endi…
+https://t.co/A2PbrYjGkf
+
+archiving URL http://twitter.com/WhiteHouse/status/979049731216191488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979049731216191488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Congrats to @USDA's CIO Gary Washington, named
+to Federal Computer Weekly's #Fed100 list. Gary is a dynamic &amp; innov…
+https://t.co/eDX5OuDHel
+
+archiving URL http://twitter.com/SecretarySonny/status/979049948137381888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/979049948137381888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: We've got the RV gassed up and ready to roll
+again for our 3rd #BacktoOurRoots tour. This time driving across Michi…
+https://t.co/SrKE254nnG
+
+archiving URL http://twitter.com/SecretarySonny/status/979051088069447680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/979051088069447680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @WhiteHouse: Millions of Americans have been
+affected by the opioid crisis and President Trump is dedicated to fighting and
+ending this…
+
+archiving URL http://twitter.com/Scavino45/status/979052144216150022
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/979052144216150022
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Enjoy 2018 @WhiteHouse Spring Garden Tours! 🌸
+Tix are available through @NatlParkService… https://t.co/7EAdXA0B7g
+
+archiving URL http://twitter.com/FLOTUS/status/979055974903418880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrumpHQ: Pencil, midi, floor-length—skirts to wear all
+season long: https://t.co/lyEEvBAgKV https://t.co/SEetTizgad
+
+archiving URL http://twitter.com/IvankaTrumpHQ/status/979056009904885762
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/979055974903418880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrumpHQ/status/979056009904885762
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @FLOTUS: Enjoy 2018 @WhiteHouse Spring Garden
+Tours! 🌸          Tix are available through @NatlParkService
+https://t.co/DIQwE6CH6R http…
+
+archiving URL http://twitter.com/WhiteHouse/status/979056764497924096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979056764497924096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Expanding infrastructure investment would increase
+American economic growth and prosperity. More: https://t.co/n3Nw2YPFV5
+
+archiving URL http://twitter.com/WhiteHouse/status/979057538279845888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979057538279845888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: Productive meetings with CA agriculture
+community &amp; tour of almond processing facility. Farmers shared problems the…
+ https://t.co/KqVhaOmbGZ
+
+archiving URL http://twitter.com/EPAScottPruitt/status/979063487216300032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/979063487216300032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Discussing how we all can work together to
+lift up our communities with the leaders of the African American Chamber…
+https://t.co/kdw7zW9r3Q
+
+archiving URL http://twitter.com/SecretaryCarson/status/979064652876333056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/979064652876333056
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: Great to be in Minneapolis today with @RepErikPaulsen,
+@RepJasonLewis, and @RepTomEmmer talking about how the Trump…
+https://t.co/T7vxKZa9yA
+
+archiving URL http://twitter.com/VP/status/979102198117339141
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/979102198117339141
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Since President Trump’s election, American businesses have
+created nearly 3 million new jobs—including 22,000+ new… https://t.co/t9gNIZDcOm
+
+archiving URL http://twitter.com/VP/status/979103683651743744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/979103683651743744
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: .@RealDonaldTrump and I are committed to ending
+ the #OpioidCrisis in #IndianCountry https://t.co/0YPnRznmIa
+
+archiving URL http://twitter.com/SecretaryZinke/status/979104019523125248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/979104019523125248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@POTUS promised to rebuild our military &amp; restore the
+arsenal of democracy. 5 days ago, he signed into law the lar…
+https://t.co/Lv4pfMLy9t
+
+archiving URL http://twitter.com/VP/status/979104887366651904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/979104887366651904
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979103683651743744,
+                       'id_str': '979103683651743744',
+
+                       'user_id': 818910970567344128,
+'user_id_str': '818910970567344128'},
+            'timestamp_ms':
+'1522271928866'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979103683651743744 on
+ account VP
+INFO: get_archived_tweet() called to get tweet ID 979103683651743744 for account
+ VP
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/VP/status/979103683651743744	Since
+President Trump’s election, American businesses have created nearly 3 million
+new jobs—including 22,000+ new… https://t.co/t9gNIZDcOm
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because VP is not in the list of
+accounts we tweet about
+
+
+New tweet from IvankaTrump: Historic moment for U.S.- South Korea relations!
+Not only is #KORUS fair and more reciprocal, it will also strength…
+https://t.co/ZohH4SQ6UE
+
+archiving URL http://twitter.com/IvankaTrump/status/979106543248568320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/979106543248568320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I am pleased to announce that I intend to
+nominate highly respected Admiral Ronny L. Jackson, MD, as the new Secret…
+https://t.co/YiQiyG8Xi2
+
+archiving URL http://twitter.com/realDonaldTrump/status/979108653377703936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/979108653377703936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....In the interim, Hon. Robert Wilkie of DOD
+will serve as Acting Secretary. I am thankful for Dr. David Shulkin’s…
+https://t.co/YTgVqILsvk
+
+archiving URL http://twitter.com/realDonaldTrump/status/979108846408003584
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/realDonaldTrump/status/979108846408003584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: I am pleased to announce that I
+intend to nominate highly respected Admiral Ronny L. Jackson, MD, as the new
+Secretary…
+
+archiving URL http://twitter.com/POTUS/status/979109796182986752
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: ....In the interim, Hon. Robert
+Wilkie of DOD will serve as Acting Secretary. I am thankful for Dr. David
+Shulkin’s se…
+
+archiving URL http://twitter.com/POTUS/status/979109801694244866
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/979109801694244866
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/979109796182986752
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: I am pleased to announce that I
+ intend to nominate highly respected Admiral Ronny L. Jackson, MD, as the new
+Secretary…
+
+archiving URL http://twitter.com/Scavino45/status/979109934238453760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/979109934238453760
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979109801694244866,
+                       'id_str': '979109801694244866',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1522272992919'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979109801694244866 on
+ account POTUS
+INFO: get_archived_tweet() called to get tweet ID 979109801694244866 for account
+ POTUS
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/979109801694244866	RT
+@realDonaldTrump: ....In the interim, Hon. Robert Wilkie of DOD will serve as
+Acting Secretary. I am thankful for Dr. David Shulkin’s se…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: RT @VP: .@POTUS promised to rebuild our military
+&amp; restore the arsenal of democracy. 5 days ago, he signed into law the
+largest investment…
+
+archiving URL http://twitter.com/WhiteHouse/status/979111403780038656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979111403780038656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: I am pleased to announce that
+I intend to nominate highly respected Admiral Ronny L. Jackson, MD, as the new
+Secretary…
+
+archiving URL http://twitter.com/WhiteHouse/status/979111935777083392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979111935777083392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @BrendanBuck: Maryland manufacturer visited by
+ Paul Ryan announces tax cut bonuses https://t.co/9rUGnHr95N
+
+archiving URL http://twitter.com/AshLeeStrong/status/979112390741565440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/979112390741565440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump has fulfilled his promise to fight
+for American workers and businesses in an amended trade deal wit…
+https://t.co/y6onyarvcC
+
+archiving URL http://twitter.com/WhiteHouse/status/979119193009393665
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/979119193009393665
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Congrats to Admiral Ronny Jackson, MD. Thank you Dr. David
+Shulkin for your dedication and service to helping our veterans.
+
+archiving URL http://twitter.com/VP/status/979120391296831488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/979120391296831488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Since President Trump’s election, American businesses have
+created nearly 3 million new jobs—including 22,000+ new… https://t.co/d75QnVWLRw
+
+archiving URL http://twitter.com/VP/status/979121581569044480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/979121581569044480
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
