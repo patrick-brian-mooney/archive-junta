@@ -379,7 +379,7 @@ def export_web_page():
            the URL fields blank;
         2. Restarting the script so that it re-reads the data and begins archiving
            the new account(s);
-        3. Waiting for enough of the archiving to complete that all of the
+        3. Waiting for enough of the archiving to complete so that all of the
            necessary files have been generated and archived (begun uploading to
            DropBox, archived in GitHub, etc.) so that the appropriate URLs have been
            created and can be found;
@@ -391,11 +391,9 @@ def export_web_page():
     the_page = """<!doctype html>
 <html prefix="og: http://ogp.me/ns#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta name="generator" content="Bluefish 2.2.9" />
+  <meta name="generator" content="Bluefish 2.2.7" />
   <meta charset="utf-8" />
-  <link rel="stylesheet" type="text/css" href="/~patrick/css/skeleton-normalize.css" />
-  <link rel="stylesheet" type="text/css" href="/~patrick/css/skeleton.css" />
-  <link rel="stylesheet" type="text/css" href="/~patrick/css/content-skel.css" />
+  <link rel="stylesheet" type="text/css" href="/~patrick/css/content.css" />
   <link rel="meta" type="application/rdf+xml" title="FOAF" href="/~patrick/foaf.rdf" />
   <meta name="foaf:maker" content="foaf:mbox_sha1sum '48a3091d919c5e75a5b21d2f18164eb4d38ef2cd'" />
   <link rel="profile" href="http://microformats.org/profile/hcard" />
@@ -427,7 +425,7 @@ def export_web_page():
   <meta name="twitter:description" content="A script that backs up Donald Trump's and his cadre's tweets to the Internet Archive" />
   <meta name="twitter:image:src" content="http://patrickbrianmooney.nfshost.com/~patrick/icons/gear.png" />
 </head>
-""" % ('date', datetime.datetime.now().isoformat())
+""" % ('date', datetime.datetime.now().isoformat())                 # Subbing in 'date' because otherwise Bluefish will helpfully overwrite our other '%s'
     the_page += """  <body lang="en-US" xml:lang="en-US"><div class="container">
   <!-- Begin navigation and tracking code -->
   <header id="main-nav">
@@ -458,7 +456,7 @@ def export_web_page():
 
 <p>The <a rel="me" href="https://github.com/patrick-brian-mooney/archive-trump"><code>archive_junta.py</code> script</a> runs on one of my spare laptops, constantly listening for new tweets on certain Twitter accounts associated with specific members of the current American corporatist junta. When new tweets on those accounts occur, it uses the Internet Archive to create an offsite copy of those tweets. At the beginning, it just watched Donald Trump's Twitter accounts; but I've been gradually expanding, in a non-systematic way, the scope of its areas of attention.</p>
 
-<p>The full list of accounts currently archived the operation of this script on my spare laptop is:</p>
+<p>The full list of accounts which the script currently attempts to archive is:</p>
 
 <table class="vcalendar">
     <tr><th scope="col">Account</th><th scope="col">Date archiving began</th><th scope="col">Dropbox index<br />(most up-to-date)</th><th scope="col">GitHub index<br />(easier to read)</th><th scope="col">Search<br />(via Internet Archive)</th><th scope="col">Notes</th></tr>"""
@@ -478,7 +476,9 @@ def export_web_page():
 
 <h2 id="missed-someone"><q>Hey, there's someone who should be in the list above, but isn't!</q></h2>
 
-<p>Please <a rel="me" href="https://twitter.com/patrick_mooney">contact me on Twitter</a> and give me their verified Twitter account names.</p>
+<p>Alas, maintaining this data is a hobby, not a revenue-generating activity, and it sometimes happens that I look up and say <q>Has it really been six months that I haven't made any updates? Holy jeez, how <em>have</em> the contents of <a rel="me" href="https://twitter.com/patrick_mooney/status/980866775410663424">the Clown Car</a> changed in the last six months, exactly?</q> And I then spend several hours updating everything and trying to make good archival decisions before disappearing for another month or so.</p>
+
+<p>That being said, please <a rel="me" href="https://twitter.com/patrick_mooney">contact me on Twitter</a> and give me the verified Twitter account names of the people you think belong on this list if you notice I'm lagging on updates.</p>
 
 <h2 id="where-archives"><q>Where can I see the tweets archived by your script?</q></h2>
 
@@ -486,7 +486,7 @@ def export_web_page():
 
 <p>If you are unhappy with the display options, it's probably wisest to download the current .csv from Dropbox and search through it using your favorite spreadsheet program. Currently, it's not possible to search deleted tweets from this page, but if you want make an offer to finance hosting such a service, we can talk.</p>
 
-<p>If you want to see a tweet from me every time the script detects a deleted tweet from the junta, you can <a rel="me author" href="https://twitter.com/patrick_mooney">follow me</a> on Twitter.</p>
+<p>If you want to see a tweet from me every time the script detects a deleted tweet from The Donald, you can <a rel="me author" href="https://twitter.com/patrick_mooney">follow me</a> on Twitter. If you just want to see a list of all of the tweets that this script has noticed being deleted, they are available <a href="https://www.dropbox.com/s/i74qez4zqk4rulk/deleted_tweets.csv?dl=0">here</a>.</p>
 
 <h2 id="why-would-you"><q>Why would you even bother to get a machine to archive these tweets in the first place?</q></h2>
 
@@ -516,7 +516,7 @@ def export_web_page():
 
 <ol>
     <li><strong>Very old tweets.</strong> The Twitter API only allows access to someone's last 3200 or so tweets, so the first tweet this script archived was probably produced by Donnie somewhere around March 2016. I have not made any attempt to go back and algorithmically save older Trump tweets, in part because that would require a totally different methodology, and quite possibly substantial manual intervention. (There <em>are</em> older Trump tweets archived on the Internet Archive, but they were not saved by this script.)</li>
-    <li><strong>Tweets that both appear and disappear while the script is not running.</strong> Normally, the script runs constantly, but if the power goes off in my apartment, or if the script crashes, and Donnie tweets and then deletes that tweet before the script runs again, then the tweet won't get archived. Similarly, it is possible that a tweet could get noticed but still disappear before it <em>can</em> be archived.</li>
+    <li><strong>Tweets that both appear and disappear while the script is not running.</strong> Normally, the script runs constantly, but if the power goes off in my apartment, or if the script crashes, and Donnie tweets and then deletes that tweet before the script runs again, then the tweet won't get archived. Similarly, it is possible that a tweet could get noticed but still disappear before it <em>can</em> be archived. Since lately <a rel="me" href="">my Internet service is terrible</a>, there may be tweets that my spare laptop isn't getting becuase</li>
 </ol>
 
 <p>There are at least two other groups of potential problems that might, in theory, keep a tweet from being archived:</p>
@@ -526,7 +526,7 @@ def export_web_page():
     <li>It is possible, in theory, that Creepy Don or his servile brownshirt brigade might interfere with one or more of the services required for this to work.</li>
 </ol>
 
-<p>I don't currently have cause to believe that anything has been missed for any of the reasons above except for <q>very old tweets</q> ... but then, if it did, how would I know? (This is part of why the reason why the redunancy of several other people running the script would be a good thing.)</p>
+<p>I don't currently have cause to believe that anything has been missed for any of the reasons above except for <q>very old tweets</q> and <q>sometimes my Internet connection goes down</q> ... but then, if it did, how would I know? (This is part of why the reason why the redunancy of several other people running the script would be a good thing.)</p>
 
 <h2 id="were-all-of-the"><q>Were all of the tweets I can see on the Internet Archive for these accounts saved by your script?</q></h2>
 
