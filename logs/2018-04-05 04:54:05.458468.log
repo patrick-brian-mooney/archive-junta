@@ -1,0 +1,52 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Thursday, 05 April 2018 at 04:54
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #981606934511017984 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 621835 (char 621834)
+about to get all tweets newer than ID #979026720723435522 for account
+@mike_pence
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #981547054643273728 for account @VP
+about to get all tweets newer than ID #981644325330223104 for account @SecAzar
+about to get all tweets newer than ID #981745861268000768 for account @Scavino45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 624732 (char 624731)
+about to get all tweets newer than ID #981566738390241280 for account
+@TomBossert45
+about to get all tweets newer than ID #981652332172791808 for account
+@SecretaryPerry
+about to get all tweets newer than ID #979776589016662016 for account
+@GovernorPerry
+about to get all tweets newer than ID #981639062451781632 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608308 (char 608307)
+about to get all tweets newer than ID #981715106261340165 for account
+@statedeptspox
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #981641610336329728 for account
+@RealBenCarson
+about to get all tweets newer than ID #981657355443232768 for account @SBALinda
