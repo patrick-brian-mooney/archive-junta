@@ -1,0 +1,166 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Monday, 09 April 2018 at 04:05
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #982354372377104384 for account @POTUS
+about to get all tweets newer than ID #980909765860708352 for account
+@StephGrisham45
+about to get all tweets newer than ID #980970021898866694 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609751 (char 609750)
+about to get all tweets newer than ID #982066498465353728 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #983150166617272320 for account
+@AshLeeStrong
+about to get all tweets newer than ID #982277244390465536 for account
+@SecretaryCarson
+about to get all tweets newer than ID #981604505371447296 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #982279841541230593 for account
+@DepSecHargan
+about to get all tweets newer than ID #981954374133075968 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #983143437158502400 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=seanspicer&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6229dac>: Failed to establish a new connection: [Errno 101]
+Network is unreachable',))
+about to get all tweets newer than ID #983062006428258306 for account
+@nikkihaley
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #982634098337419265 for account @SecAzar
+about to get all tweets newer than ID #983112053123702784 for account
+@JessicaDitto45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #982330273017876481 for account @SBALinda
+about to get all tweets newer than ID #981378292790984704 for account @Comey
+about to get all tweets newer than ID #981938415334772736 for account @Cabinet
+about to get all tweets newer than ID #982772321923616768 for account @Scavino45
+about to get all tweets newer than ID #983035999218470912 for account @PressSec
+about to get all tweets newer than ID #983062272095457280 for account
+@statedeptspox
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #982962594209325057 for account
+@TomBossert45
+about to get all tweets newer than ID #979026720723435522 for account
+@mike_pence
+about to get all tweets newer than ID #982968420479176704 for account @Reince
+about to get all tweets newer than ID #981677295399251969 for account
+@KellyannePolls
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #981529239097937920 for account
+@SecondLady
+about to get all tweets newer than ID #981641610336329728 for account
+@RealBenCarson
+about to get all tweets newer than ID #982980530235936768 for account
+@SecNielsen
+about to get all tweets newer than ID #979056009904885762 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609244 (char 609243)
+about to get all tweets newer than ID #981895098018533377 for account
+@EnergyDepSec
+about to get all tweets newer than ID #982323593483882497 for account
+@SecretaryZinke
+about to get all tweets newer than ID #982978126073532416 for account
+@WhiteHouse
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #983016587195244544 for account
+@SpeakerRyan
+about to get all tweets newer than ID #981691674354216960 for account @PRyan
+about to get all tweets newer than ID #983196333577330688 for account
+@Scaramucci
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #982954315387195394 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #982356890612043776 for account
+@SecretarySonny
+about to get all tweets newer than ID #983002916280729601 for account @VP
+about to get all tweets newer than ID #982256547622342656 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #982311417591279617 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #982452105276481536 for account
+@GovernorPerry
+about to get all tweets newer than ID #983284198046826496 for account
+@realDonaldTrump
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #983033104720957440 for account
+@DanScavino
+about to get all tweets newer than ID #983136740893446146 for account
+@SecretaryPerry
+about to get all tweets newer than ID #983090159695613952 for account
+@IvankaTrump
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+... OK, we're set up, and about to watch 822215679726100480, 823638938590085124,
+ 818876014390603776, 828997388920619008, 1923451808, 809836066316451840,
+728361177986797568, 599530439, 829782369670410240, 296060169,
+828613457020870657, 832672006113931269, 920035992073064450, 888031054141022209,
+20776147, 37666984, 29547260, 956283913835614208, 836724024688410625,
+803703725730779136, 819992522109894658, 2334193741, 818928162449068032,
+823367015830323201, 818927131883356161, 1967216306, 826065858548133888,
+15985455, 866746592853979137, 22203756, 20733972, 471672239, 105267762,
+822127086194348032, 1180379185, 935148134505828353, 798195585824104449,
+108471631, 894923298374651904, 827258161841135623, 822215673812119553,
+836305915452272641, 18916432, 733751245, 24578794, 831482588246196225,
+118756393, 842072478834909184, 818910970567344128, 819980276570976256,
+799764016885329921, 212262370, 18906561, 25073877, 6577802, 620571475,
+830128820447539208, 52544275, 65522706
+
+
+New tweet from seanspicer: RT @nikkihaley: We along with 8 other members have
+called for an emergency Security Council mtg tomorrow in reference to the
+horrible chemi…
+
+archiving URL http://twitter.com/seanspicer/status/983294820599902208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/983294820599902208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Mike,  I think you may be right. Sean and I have
+also debated this. It is a difficult issue because conservatives a…
+https://t.co/2XSQzaaHck
+
+archiving URL http://twitter.com/Scaramucci/status/983295229578145792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/983295229578145792
+    ... archiving using prefix http://web.archive.org/save/

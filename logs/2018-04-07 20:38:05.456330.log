@@ -233,3 +233,74 @@ WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
 WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: “The FBI closed the case on Hillary, which was
+ a rigged investigation. They exonerated her even before they ever in…
+https://t.co/Xg0ZLHYGHu
+
+archiving URL http://twitter.com/realDonaldTrump/status/982943088330108928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/982943088330108928
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: The Washington Post is far more fiction than
+fact. Story after story is made up made garbage - more like a poorly w…
+https://t.co/QaRZgagNKA
+
+archiving URL http://twitter.com/realDonaldTrump/status/982947260005781505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/982947260005781505
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+982947260005781505,
+                       'id_str': '982947260005781505',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1523188044881'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 982947260005781505 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 982947260005781505 for account
+ realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/982947260005781505	The Washington Post is far more fiction than fact.
+Story after story is made up made garbage - more like a poorly w…
+https://t.co/QaRZgagNKA
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from realDonaldTrump: The Washington Post is far more fiction than
+fact. Story after story is made up garbage - more like a poorly writte…
+https://t.co/cNgsBmnJlE
+
+archiving URL http://twitter.com/realDonaldTrump/status/982950739441004544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/982950739441004544
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
