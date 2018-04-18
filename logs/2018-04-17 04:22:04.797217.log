@@ -1,0 +1,301 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 17 April 2018 at 04:22
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #985884695731867649 for account
+@KellyannePolls
+about to get all tweets newer than ID #986133698709016576 for account
+@Scaramucci
+about to get all tweets newer than ID #985886375290572800 for account
+@StephGrisham45
+about to get all tweets newer than ID #986055528936853508 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #985945605246799872 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryAcosta
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb63338ac>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #985905614332231688 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606854 (char 606853)
+about to get all tweets newer than ID #986092972197507072 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 612627 (char 612626)
+about to get all tweets newer than ID #986028310265294848 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 608316 (char 608315)
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #986026346630533121 for account
+@SpeakerRyan
+about to get all tweets newer than ID #985874235762634758 for account @Comey
+ERROR: unable to get tweets for account @Comey
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #986046906672599043 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=nikkihaley (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb636356c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #985933937682931713 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #981954374133075968 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #984872152246693888 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #986061485813260289 for account @Reince
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #985927803311984640 for account @SecAzar
+about to get all tweets newer than ID #986047601047896064 for account
+@realDonaldTrump
+about to get all tweets newer than ID #986029944848486403 for account
+@SecondLady
+about to get all tweets newer than ID #983854772305448960 for account
+@mike_pence
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #985944306656645120 for account
+@SecretaryPerry
+about to get all tweets newer than ID #985941813981798402 for account @FLOTUS
+about to get all tweets newer than ID #986037275254542337 for account
+@WhiteHouse
+about to get all tweets newer than ID #982452105276481536 for account
+@GovernorPerry
+about to get all tweets newer than ID #985179824258994176 for account
+@SecNielsen
+about to get all tweets newer than ID #985866650007334912 for account @PRyan
+about to get all tweets newer than ID #986052695000846336 for account
+@seanspicer
+getting all tweets before ID #969377620122054655
+    ...400 tweets downloaded so far
+
+
+New tweet from seanspicer: Looking forward to tomorrow night’s debate with
+@GovHowardDean sponsored by @PennStateGOP and @PSUCollegeDems
+https://t.co/mhlFRarjsa
+
+archiving URL http://twitter.com/seanspicer/status/986064717612449793
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #984586337704644609 for account
+@DanScavino
+
+archiving URL https://twitter.com/seanspicer/status/986064717612449793
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #985967395075391488 for account
+@EnergyDepSec
+about to get all tweets newer than ID #979056009904885762 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #983907190493908992 for account
+@TomBossert45
+about to get all tweets newer than ID #985980883038560256 for account
+@SecretaryCarson
+about to get all tweets newer than ID #986016150197882881 for account
+@DepSecHargan
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #986010075796996096 for account
+@IvankaTrump
+about to get all tweets newer than ID #985923243587579904 for account @PressSec
+about to get all tweets newer than ID #986030568969207808 for account
+@JessicaDitto45
+about to get all tweets newer than ID #986042947899658240 for account @VP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #985948192972951557 for account
+@SecretarySonny
+about to get all tweets newer than ID #984774893953867776 for account @Cabinet
+about to get all tweets newer than ID #982954315387195394 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #983500045436772353 for account
+@RealBenCarson
+about to get all tweets newer than ID #986019688533635073 for account
+@SecretaryZinke
+about to get all tweets newer than ID #985982610919907329 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #985955010512027649 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+... OK, we're set up, and about to watch 471672239, 24578794,
+823638938590085124, 296060169, 819980276570976256, 822215679726100480,
+823367015830323201, 1967216306, 65522706, 18916432, 2334193741, 37666984,
+819992522109894658, 6577802, 108471631, 888031054141022209, 212262370,
+828997388920619008, 20733972, 831482588246196225, 956283913835614208, 25073877,
+822127086194348032, 22203756, 826065858548133888, 830128820447539208,
+818876014390603776, 822215673812119553, 18906561, 935148134505828353, 733751245,
+ 20776147, 620571475, 894923298374651904, 798195585824104449,
+866746592853979137, 828613457020870657, 920035992073064450, 728361177986797568,
+829782369670410240, 52544275, 818927131883356161, 836724024688410625,
+818910970567344128, 15985455, 809836066316451840, 599530439, 842072478834909184,
+ 818928162449068032, 118756393, 803703725730779136, 1923451808, 1180379185,
+827258161841135623, 832672006113931269, 29547260, 799764016885329921, 105267762,
+ 836305915452272641
+
+
+New tweet from stevenmnuchin1: RT @IvankaTrump: Looking forward to traveling
+to Manchester, NH tomorrow with Sec @stevenmnuchin1 to celebrate the last
+#TaxDay under the o…
+
+archiving URL http://twitter.com/stevenmnuchin1/status/986197923292590080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/986197923292590080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: RT @SquawkCNBC: @BizRoundtable @cathymcmorris
+@CFPBDirector @stevenmnuchin1 @WhipHoyer @SpeakerRyan @Perduesenate @GOPLeader
+@RepKevinBrady…
+
+archiving URL http://twitter.com/SpeakerRyan/status/986204355283030018
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/986204355283030018
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @CondoleezzaRice: My thoughts and prayers are
+with Mrs. Barbara Bush and the Bush Family. God bless you, Mrs. Bush, and may he
+ hold you…
+
+archiving URL http://twitter.com/Scaramucci/status/986207189072269312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/986207189072269312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Kicking off #TaxDay with @SquawkCNBC, talking
+about how this new tax code is already helping hardworking American f…
+https://t.co/YVT6wF85oA
+
+archiving URL http://twitter.com/SpeakerRyan/status/986209120528359424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/986209120528359424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: ✂️✂️✂️ @realDonaldTrump: “On this Tax Day,
+America is strong and roaring back. Paychecks are climbing. Tax rates ar…
+https://t.co/pKMY86FAjg
+
+archiving URL http://twitter.com/JessicaDitto45/status/986210014003154944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/986210014003154944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Joined @SquawkCNBC to discuss the historic
+#TaxCutsandJobsAct that is benefiting American workers and business.…
+https://t.co/Vl7wYeeFdo
+
+archiving URL http://twitter.com/stevenmnuchin1/status/986212421462380544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/986212421462380544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @lisamurkowski: During the @NativeFed
+roundtable the AK Delegation &amp; @SecretaryZinke discussed the land-exchange
+agreement signed in Jan…
+
+archiving URL http://twitter.com/SecretaryZinke/status/986218795319603202
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/986218795319603202
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Employment is up, Taxes are DOWN. Enjoy!
+
+archiving URL http://twitter.com/realDonaldTrump/status/986218862625648640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I am in Florida and looking forward to my
+meeting with Prime Minister Abe of Japan. Working on Trade and Military
+Security.
+
+archiving URL http://twitter.com/realDonaldTrump/status/986218867780448261
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Looks like Jerry Brown and California are not
+looking for safety and security along their very porous Border. He ca…
+https://t.co/ngO5hLiIWx
+
+archiving URL http://twitter.com/realDonaldTrump/status/986218870506754048
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: So many people are seeing the benefits of the
+Tax Cut Bill. Everyone is talking, really nice to see!
+
+archiving URL http://twitter.com/realDonaldTrump/status/986218871991492608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/986218862625648640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/986218870506754048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/986218871991492608
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2 more
+ expected)', IncompleteRead(0 bytes read, 2 more expected)); sleeping and trying
+ again ...
+
+archiving URL https://twitter.com/realDonaldTrump/status/986218867780448261
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...

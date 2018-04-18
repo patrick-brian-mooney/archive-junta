@@ -1,0 +1,287 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Sunday, 15 April 2018 at 20:36
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #985501808608141312 for account
+@SecretaryZinke
+about to get all tweets newer than ID #985649127039098881 for account
+@SpeakerRyan
+about to get all tweets newer than ID #985159525647994880 for account
+@SecondLady
+getting all tweets before ID #930586330198892550
+    ...400 tweets downloaded so far
+
+
+New tweet from SecondLady: Honored to serve as the keynote speaker tonight at
+@OmahaCities Annual Meeting. Thank you for all that you do to en…
+https://t.co/8CI1zly1wN
+
+archiving URL http://twitter.com/SecondLady/status/985684098730602497
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #985681040403550208 for account
+@Scaramucci
+about to get all tweets newer than ID #985519308561362950 for account @PressSec
+
+archiving URL https://twitter.com/SecondLady/status/985684098730602497
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #983854772305448960 for account
+@mike_pence
+
+
+New tweet from SecondLady: RT @VP: Karen and I are praying for Barbara Bush
+and the entire Bush family tonight.
+
+archiving URL http://twitter.com/SecondLady/status/985684773656985601
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+
+archiving URL https://twitter.com/SecondLady/status/985684773656985601
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @OmahaCities: Thanks @SecondLady Karen Pence for
+ being our keynote speaker, telling us about your background and  singing with
+our Japan…
+
+archiving URL http://twitter.com/SecondLady/status/985688666847760385
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #984890764764336128 for account
+@EnergyDepSec
+
+archiving URL https://twitter.com/SecondLady/status/985688666847760385
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #985603718778445825 for account
+@statedeptspox
+about to get all tweets newer than ID #985529299905187840 for account
+@realDonaldTrump
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #985584806108057602 for account
+@nikkihaley
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #985572782489686024 for account
+@JessicaDitto45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #984820654573850624 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 603508 (char 603507)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #985179824258994176 for account
+@SecNielsen
+about to get all tweets newer than ID #985617793440772101 for account
+@KellyannePolls
+about to get all tweets newer than ID #984898890867662849 for account
+@SecretaryPerry
+about to get all tweets newer than ID #984840188772962304 for account @SBALinda
+about to get all tweets newer than ID #985681621419548677 for account @VP
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #985168153197056000 for account @FLOTUS
+about to get all tweets newer than ID #984878181823012864 for account
+@SecretaryCarson
+about to get all tweets newer than ID #983907190493908992 for account
+@TomBossert45
+about to get all tweets newer than ID #984869727678926848 for account
+@DepSecHargan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #982452105276481536 for account
+@GovernorPerry
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #985655361486118912 for account @SecAzar
+about to get all tweets newer than ID #984890216510033921 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #985161535894024192 for account
+@StephGrisham45
+about to get all tweets newer than ID #979056009904885762 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #985498117587030017 for account @POTUS
+about to get all tweets newer than ID #985568015029886979 for account @Comey
+about to get all tweets newer than ID #984830914378305536 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #985602879674339329 for account
+@IvankaTrump
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #985302079534182400 for account
+@SecretarySonny
+about to get all tweets newer than ID #984245559543386113 for account @Reince
+about to get all tweets newer than ID #985364479105028096 for account @Scavino45
+about to get all tweets newer than ID #984872152246693888 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #983500045436772353 for account
+@RealBenCarson
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #985263371082780673 for account
+@seanspicer
+about to get all tweets newer than ID #985623933008449536 for account
+@WhiteHouse
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #984774893953867776 for account @Cabinet
+about to get all tweets newer than ID #984131466362699777 for account @PRyan
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #984586337704644609 for account
+@DanScavino
+about to get all tweets newer than ID #985540606003904512 for account
+@AshLeeStrong
+about to get all tweets newer than ID #981954374133075968 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #982954315387195394 for account
+@AmbJohnBolton
+... OK, we're set up, and about to watch 827258161841135623, 18916432,
+822127086194348032, 24578794, 818927131883356161, 22203756, 108471631,
+894923298374651904, 1967216306, 25073877, 29547260, 37666984, 599530439,
+836724024688410625, 212262370, 819980276570976256, 15985455, 935148134505828353,
+ 471672239, 830128820447539208, 819992522109894658, 818910970567344128,
+826065858548133888, 728361177986797568, 818876014390603776, 828613457020870657,
+866746592853979137, 920035992073064450, 1923451808, 803703725730779136,
+105267762, 18906561, 831482588246196225, 956283913835614208, 832672006113931269,
+ 6577802, 823638938590085124, 798195585824104449, 822215679726100480,
+2334193741, 799764016885329921, 52544275, 809836066316451840,
+842072478834909184, 20733972, 823367015830323201, 828997388920619008,
+1180379185, 829782369670410240, 20776147, 822215673812119553,
+836305915452272641, 818928162449068032, 733751245, 65522706, 620571475,
+296060169, 888031054141022209, 118756393
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+985306469800251392,
+                       'id_str': '985306469800251392',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1523847368908'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 985306469800251392 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 985306469800251392 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/985306469800251392
+“Joined by Allies, President Trump Takes Action to End Syria’s Chemical Weapons
+Attacks” https://t.co/MaXMpy1rCD
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+985334295064711169,
+                       'id_str': '985334295064711169',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1523847383464'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 985334295064711169 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 985334295064711169 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/985334295064711169
+RT @DeptofDefense: Watch as @USNavy #sailors aboard #USSJohnWarner (SSN 765)
+launch a Tomahawk land attack missile on April 14, the from th…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+985334285489098752,
+                       'id_str': '985334285489098752',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1523847391772'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 985334285489098752 on
+ account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 985334285489098752 for account
+ Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/985334285489098752
+RT @thejointstaff: “I would use three words to describe the operation: Precise,
+overwhelming and effective.” -@thejointstaff Director Lt. G…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @CRTV: The Mooch @scaramucci joins @MillerStream
+ to talk about the latest developments in @RealDonaldTrump's legal battles, the
+Mueller…
+
+archiving URL http://twitter.com/Scaramucci/status/985714401415172096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/985714401415172096
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+644354112365068288,
+                       'id_str': '644354112365068288',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1523855435167'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 644354112365068288 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 644354112365068288 for account
+ AshLeeStrong
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

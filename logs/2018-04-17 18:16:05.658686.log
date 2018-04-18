@@ -1,0 +1,356 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Tuesday, 17 April 2018 at 18:16
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #963927915284062209 for account
+@SecretaryRoss
+about to get all tweets newer than ID #986343754792624128 for account
+@AshLeeStrong
+about to get all tweets newer than ID #986347991295496192 for account
+@SecretaryZinke
+getting all tweets before ID #967500238473789439
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: Lola and I are deeply saddened to hear of the
+passing of First Lady Barbara Bush. The love she and President Bush shared was
+inspirational.
+
+archiving URL http://twitter.com/SecretaryZinke/status/986391668957089794
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #982452105276481536 for account
+@GovernorPerry
+
+archiving URL https://twitter.com/SecretaryZinke/status/986391668957089794
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #985886375290572800 for account
+@StephGrisham45
+about to get all tweets newer than ID #986365259991650307 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 600113 (char 600112)
+about to get all tweets newer than ID #986028310265294848 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 604377 (char 604376)
+about to get all tweets newer than ID #986347076488433664 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #986301954547691520 for account
+@SecretaryPerry
+getting all tweets before ID #954435460968996863
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryPerry: Anita and I send our love to the entire Bush
+family tonight. 
+
+We should all cherish the wisdom we received from Fi…
+https://t.co/swUdjupYLK
+
+archiving URL http://twitter.com/SecretaryPerry/status/986398186662191105
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/SecretaryPerry/status/986398186662191105
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 622767 (char 622766)
+about to get all tweets newer than ID #985874235762634758 for account @Comey
+about to get all tweets newer than ID #986351367743819777 for account
+@JessicaDitto45
+about to get all tweets newer than ID #982954315387195394 for account
+@AmbJohnBolton
+ERROR: unable to get tweets for account @AmbJohnBolton
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608296 (char 608295)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #986296708089835520 for account @SBALinda
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #986394922667462656 for account
+@seanspicer
+about to get all tweets newer than ID #986369706742501376 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #983907190493908992 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608305 (char 608304)
+about to get all tweets newer than ID #986061485813260289 for account @Reince
+about to get all tweets newer than ID #986264945888198656 for account
+@SecretaryCarson
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 612151 (char 612150)
+about to get all tweets newer than ID #986385320911474695 for account
+@WhiteHouse
+getting all tweets before ID #979082707375403009
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: .@FLOTUS Melania and I join
+the Nation in celebrating the life of Barbara Bush: https://t.co/4NzyjxqAFM
+
+archiving URL http://twitter.com/WhiteHouse/status/986395572591579138
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986327372831055872 for account
+@EnergyDepSec
+
+archiving URL https://twitter.com/WhiteHouse/status/986395572591579138
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 601562 (char 601561)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #986374359697604608 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610671 (char 610670)
+about to get all tweets newer than ID #986323643117350912 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #986388490282774528 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610241 (char 610240)
+about to get all tweets newer than ID #986349659194052608 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 625193 (char 625192)
+about to get all tweets newer than ID #986046906672599043 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 613601 (char 613600)
+about to get all tweets newer than ID #983854772305448960 for account
+@mike_pence
+about to get all tweets newer than ID #984774893953867776 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 612586 (char 612585)
+about to get all tweets newer than ID #986355022677118976 for account
+@IvankaTrump
+getting all tweets before ID #963949296121937919
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: This year’s #TaxDay is the last time you’ll have
+to file your taxes through an outdated, broken system. #BYE-BYE
+https://t.co/tYpN50zDxY
+
+archiving URL http://twitter.com/IvankaTrump/status/986395888422653952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986345169908879361 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/IvankaTrump/status/986395888422653952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #986317014238187522 for account
+@KellyannePolls
+getting all tweets before ID #934443265239154688
+    ...400 tweets downloaded so far
+
+
+New tweet from KellyannePolls: God bless the soul of Barbara Pierce Bush,
+First Lady, First Mother, a matriarch and a patriot. Condolences to the Bush
+family.
+
+archiving URL http://twitter.com/KellyannePolls/status/986396094971154433
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986346178357972992 for account @POTUS
+getting all tweets before ID #967406114622058496
+
+archiving URL https://twitter.com/KellyannePolls/status/986396094971154433
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: .@FLOTUS Melania and I join the
+Nation in celebrating the life of Barbara Bush: https://t.co/4NzyjxqAFM
+
+archiving URL http://twitter.com/POTUS/status/986396478078947328
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986240067231297538 for account
+@SecretaryAcosta
+
+archiving URL https://twitter.com/POTUS/status/986396478078947328
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611705 (char 611704)
+about to get all tweets newer than ID #986312116088070144 for account
+@SecretarySonny
+about to get all tweets newer than ID #986338608016777216 for account
+@Scaramucci
+getting all tweets before ID #976526126364479497
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: We send our love thoughts and prayers . . .
+https://t.co/P0uX35lHTt
+
+archiving URL http://twitter.com/Scaramucci/status/986391616285036545
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #985927803311984640 for account @SecAzar
+
+archiving URL https://twitter.com/Scaramucci/status/986391616285036545
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @dick_nixon: The last time the Mets went to the
+Series I felt like they fell backward into it. If they stay healthy this year
+they won't…
+
+archiving URL http://twitter.com/Scaramucci/status/986396901539971072
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #967512593362554879
+
+archiving URL https://twitter.com/Scaramucci/status/986396901539971072
+    ... archiving using prefix http://web.archive.org/save/
+    ...287 tweets downloaded so far
+
+
+New tweet from SecAzar: RT @DepSecHargan: I enjoyed meeting patients, family
+members and their representatives to discuss the high cost of drugs, the work
+@HHS is…
+
+archiving URL http://twitter.com/SecAzar/status/986389824524431361
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986348072040108032 for account @PRyan
+
+archiving URL https://twitter.com/SecAzar/status/986389824524431361
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Jennifer and I are keeping Barbara Bush and her family
+ in our prayers. Her commitment to service, faith, &amp; family i…
+https://t.co/T8c2ykDIKP
+
+archiving URL http://twitter.com/SecAzar/status/986405933919162368
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986288533055983616 for account
+@IvankaTrumpHQ
+
+archiving URL https://twitter.com/SecAzar/status/986405933919162368
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986379890319659009 for account
+@SpeakerRyan
+getting all tweets before ID #974052654736437248
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: The new tax code was written with everyday
+families and #SmallBiz in mind. Enjoyed sitting down with @RepKevinBrady…
+https://t.co/xooD6fcG63
+
+archiving URL http://twitter.com/SpeakerRyan/status/986385875738218496
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #986356301340008450 for account
+@SecondLady
+
+archiving URL https://twitter.com/SpeakerRyan/status/986385875738218496
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #930969025831751679
+
+
+New tweet from SpeakerRyan: Barbara Bush holds a revered place in the hearts
+of generations of Americans. She so loved her family and our count…
+https://t.co/abbVbmy2A1
+
+archiving URL http://twitter.com/SpeakerRyan/status/986398023352758272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/986398023352758272
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 613155 (char 613154)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #985941813981798402 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 613114 (char 613113)
+about to get all tweets newer than ID #986378606606737408 for account
+@realDonaldTrump
+getting all tweets before ID #974656757187440639
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: .@FLOTUS Melania and I join the Nation in
+celebrating the life of Barbara Bush: https://t.co/4NzyjxqAFM
+
+archiving URL http://twitter.com/realDonaldTrump/status/986395361815166981
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #984586337704644609 for account
+@DanScavino
+
+archiving URL https://twitter.com/realDonaldTrump/status/986395361815166981
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #983500045436772353 for account
+@RealBenCarson
+about to get all tweets newer than ID #986347269246128128 for account
+@EPAScottPruitt
+getting all tweets before ID #930866620569935873
+    ...400 tweets downloaded so far
+... OK, we're set up, and about to watch 836305915452272641, 296060169,
+827258161841135623, 105267762, 18906561, 823638938590085124, 823367015830323201,
+ 1967216306, 828997388920619008, 830128820447539208, 65522706, 2334193741,
+836724024688410625, 118756393, 599530439, 819992522109894658, 1923451808,
+803703725730779136, 20776147, 920035992073064450, 866746592853979137, 20733972,
+828613457020870657, 728361177986797568, 15985455, 822215673812119553,
+894923298374651904, 212262370, 935148134505828353, 888031054141022209,
+826065858548133888, 809836066316451840, 831482588246196225, 818927131883356161,
+818910970567344128, 37666984, 22203756, 818928162449068032, 52544275,
+799764016885329921, 29547260, 471672239, 822215679726100480, 819980276570976256,
+ 108471631, 842072478834909184, 24578794, 956283913835614208, 733751245,
+798195585824104449, 18916432, 822127086194348032, 6577802, 818876014390603776,
+829782369670410240, 25073877, 620571475, 1180379185, 832672006113931269
+
+
+New tweet from EPAScottPruitt: Marlyn and I join the rest of the nation in
+mourning the loss of former First Lady Barbara Bush. We continue to lif…
+https://t.co/qQ67wj0lW5
+
+archiving URL http://twitter.com/EPAScottPruitt/status/986399213494956032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/986399213494956032
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
