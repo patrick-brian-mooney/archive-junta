@@ -1,0 +1,927 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-5-686-pae', version='#1 SMP Debian 3.16.51-3+deb8u1 (2018-01-08)', machine='i686')
+This log was begun Saturday, 05 May 2018 at 10:24
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #992139802500878337 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #992791055572627456 for account
+@SecondLady
+about to get all tweets newer than ID #992775829674446856 for account
+@SpeakerRyan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #992574357670105088 for account @Comey
+about to get all tweets newer than ID #986323643117350912 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #992562394051293186 for account
+@realDonaldTrump
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #992791603306815488 for account @VP
+about to get all tweets newer than ID #992481194288828416 for account
+@IvankaTrump
+about to get all tweets newer than ID #990432939954630656 for account @Reince
+about to get all tweets newer than ID #992143419051933696 for account
+@SecretaryPerry
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #988111278899068932 for account
+@RealBenCarson
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #988806269883609089 for account @PRyan
+about to get all tweets newer than ID #990237296086716416 for account @Cabinet
+about to get all tweets newer than ID #989316172830134272 for account
+@mike_pence
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #992722943624007680 for account
+@seanspicer
+about to get all tweets newer than ID #992784469898727424 for account @SecAzar
+about to get all tweets newer than ID #991131778260852736 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #992413421110022144 for account @PressSec
+about to get all tweets newer than ID #992514607523778560 for account
+@DepSecHargan
+about to get all tweets newer than ID #992571558760677377 for account
+@statedeptspox
+about to get all tweets newer than ID #992385014183682049 for account
+@TomBossert45
+about to get all tweets newer than ID #989593314302218240 for account
+@GovernorPerry
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #992107210317713408 for account @Scavino45
+about to get all tweets newer than ID #992146451433181184 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #991829585632391168 for account
+@StephGrisham45
+about to get all tweets newer than ID #991829113244737537 for account @FLOTUS
+about to get all tweets newer than ID #992541192381493253 for account
+@SecretarySonny
+getting all tweets before ID #969984174416449536
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?max_id=969984174416449536&screen_name=Sec
+retarySonny&count=200 (Caused by NewConnectionError('<requests.packages.urllib3.
+connection.VerifiedHTTPSConnection object at 0xb6461eec>: Failed to establish a
+new connection: [Errno 101] Network is unreachable',))
+about to get all tweets newer than ID #992780453160636416 for account
+@SecretaryAcosta
+getting all tweets before ID #918150016623144959
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryAcosta: #CincoDeMayo https://t.co/vpDfpXuAB3
+
+archiving URL http://twitter.com/SecretaryAcosta/status/992799308025090049
+about to get all tweets newer than ID #991149719362551808 for account
+@stevenmnuchin1
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/992799308025090049
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #992500913825869824 for account
+@SecretaryZinke
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #991014421802733568 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #992459761445752832 for account
+@JessicaDitto45
+about to get all tweets newer than ID #989344309060210688 for account
+@DanScavino
+about to get all tweets newer than ID #992767874115801088 for account
+@WhiteHouse
+getting all tweets before ID #986316619621289984
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: President Trump recently received a letter from one
+ OH resident, Mrs. Sharlene Thornton, who will be joining him in…
+https://t.co/r3vg23Xr7U
+about to get all tweets newer than ID #992431915780182017 for account
+@nikkihaley
+
+archiving URL http://twitter.com/WhiteHouse/status/992801847982411776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/992801847982411776
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #992548079550304256 for account @POTUS
+getting all tweets before ID #979448167350636543
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @WhiteHouse: A closer look at the White House gardens
+ past and present: https://t.co/tkN2cUA9wd
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+
+archiving URL http://twitter.com/POTUS/status/992802918263910400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/992802918263910400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #992467135418028033 for account
+@EnergyDepSec
+
+
+New tweet from POTUS: RT @WhiteHouse: President Trump recently received a
+letter from one OH resident, Mrs. Sharlene Thornton, who will be joining him in
+Clevela…
+
+archiving URL http://twitter.com/POTUS/status/992802928317616128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/992802928317616128
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #991141758535917574 for account
+@KellyannePolls
+about to get all tweets newer than ID #992557314409451521 for account @SBALinda
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #992455806393176064 for account
+@SecNielsen
+about to get all tweets newer than ID #992432577972666368 for account
+@SecretaryRoss
+about to get all tweets newer than ID #992507262269784075 for account
+@AshLeeStrong
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #992049936991772674 for account
+@SecretaryCarson
+about to get all tweets newer than ID #992794932455845888 for account
+@Scaramucci
+... OK, we're set up, and about to watch 832672006113931269, 822127086194348032,
+ 18916432, 15985455, 2334193741, 888031054141022209, 25073877, 599530439,
+826065858548133888, 818910970567344128, 52544275, 20733972, 830128820447539208,
+803703725730779136, 1180379185, 212262370, 733751245, 818928162449068032,
+22203756, 831482588246196225, 6577802, 20776147, 956283913835614208, 118756393,
+818927131883356161, 920035992073064450, 1967216306, 866746592853979137,
+18906561, 809836066316451840, 823367015830323201, 828997388920619008,
+823638938590085124, 818876014390603776, 842072478834909184, 819980276570976256,
+799764016885329921, 1923451808, 827258161841135623, 29547260, 108471631,
+728361177986797568, 798195585824104449, 836724024688410625, 620571475,
+822215673812119553, 37666984, 822215679726100480, 65522706, 894923298374651904,
+471672239, 819992522109894658, 829782369670410240, 935148134505828353,
+836305915452272641, 296060169, 105267762, 828613457020870657, 24578794
+
+
+New tweet from SBALinda: RT @SBAgov: Thank you for celebrating National
+#SmallBusinessWeek with the SBA and a special THANK YOU to the 30 million small
+businesses t…
+
+archiving URL http://twitter.com/SBALinda/status/992807616593133569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/992807616593133569
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: Watch LIVE as President Trump attends a roundtable
+discussion on tax reform: https://t.co/EmsdctGWtd https://t.co/XdHUEd7TQf
+
+archiving URL http://twitter.com/WhiteHouse/status/992816448140660741
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @WhiteHouse: President Trump recently
+received a letter from one OH resident, Mrs. Sharlene Thornton, who will be
+joining him in Clevela…
+
+archiving URL http://twitter.com/KellyannePolls/status/992816477832142853
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/992816448140660741
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/992816477832142853
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: RT @WhiteHouse: Watch LIVE as President Trump
+attends a roundtable discussion on tax reform: https://t.co/EmsdctGWtd
+https://t.co/XdHUEd7TQf
+
+archiving URL http://twitter.com/SecretaryAcosta/status/992816747567763462
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/992816747567763462
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Spoke with Puerto Rico Governor @RicardoRossello to offer
+our heartfelt condolences for the 9 airmen lost in the C-…
+https://t.co/rCvq0eVkxq
+
+archiving URL http://twitter.com/VP/status/992818180933419008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/992818180933419008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: These brave Americans were part of 156th Airlift Wing in
+Puerto Rico and had decades of combined service to our cou…
+https://t.co/uIb5QY18DK
+
+archiving URL http://twitter.com/VP/status/992819545516716032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: As I told Governor @RicardoRossello, the American people
+will always be grateful for the service and sacrifice of t…
+https://t.co/cUQSlGOQMo
+
+archiving URL http://twitter.com/VP/status/992819548322754562
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/992819548322754562
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/992819545516716032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Great morning with great people. Have some free
+time? Check it out: https://t.co/gs8JJ4mHeM https://t.co/DjfV3Qi47J
+
+archiving URL http://twitter.com/AshLeeStrong/status/992819968117964805
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/992819968117964805
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Watch LIVE as President Trump attends a
+roundtable discussion on tax reform: https://t.co/EmsdctGWtd
+https://t.co/XdHUEd7TQf
+
+archiving URL http://twitter.com/POTUS/status/992820568700448773
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/992820568700448773
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from statedeptspox: The United States condemns #Russia’s detention
+of hundreds of peaceful protestors and calls for their immediate rel…
+https://t.co/uoL8W9er08
+
+archiving URL http://twitter.com/statedeptspox/status/992834229863141376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/992834229863141376
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Today, on the 156th anniversary of Mexico’s hard fought
+victory at the Battle of Puebla, we honor the history of th…
+https://t.co/w1K8SbXEvi
+
+archiving URL http://twitter.com/VP/status/992836727915057152
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/992836727915057152
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992809830086795264,
+                       'id_str': '992809830086795264',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525545897736'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992809830086795264 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992809830086795264 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992735481979981824,
+                       'id_str': '992735481979981824',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525545913352'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992735481979981824 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992735481979981824 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992735481979981824
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/992837644064382976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 26 retweets to hit 9600
+retweets by 3pm‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA
+🇺🇸 last ye…
+
+archiving URL http://twitter.com/Scaramucci/status/992837661541961728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992837661541961728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992837644064382976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @CharlesPPierce It was just me doing what I can.
+I hope the same for you. Have a nice day.
+
+archiving URL http://twitter.com/AshLeeStrong/status/992842270092201984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/992842270092201984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @karaswisher: @peterwells @Jason I know
+@Scaramucci. We did a great podcast
+
+archiving URL http://twitter.com/Scaramucci/status/992844614800433154
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @peterwells: @karaswisher @Jason @Scaramucci I
+heard! It was hilarious :)
+
+archiving URL http://twitter.com/Scaramucci/status/992844629061009411
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992844614800433154
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992844629061009411
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from VP: Congrats to @NASA on a successful launch!
+https://t.co/rQMdWhgio9
+
+archiving URL http://twitter.com/VP/status/992852088718876673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/992852088718876673
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Great discussion on how @POTUS’s tax cuts and
+pro-growth policies are creating jobs and opportunity for Ohio famili…
+https://t.co/n8Y0Ojl8D4
+
+archiving URL http://twitter.com/SecretaryAcosta/status/992852580991725574
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/992852580991725574
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992837661541961728,
+                       'id_str': '992837661541961728',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525549915250'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992837661541961728 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992837661541961728 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992837661541961728
+	RT @ScaramucciPost: Need 26 retweets to hit 9600 retweets by 3pm‼️
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last ye…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 400 retweets to hit 10,000
+ by midnight‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸
+last yea…
+
+archiving URL http://twitter.com/Scaramucci/status/992854482458497025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992854482458497025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: There is no one more qualified to be the first woman
+to lead the CIA than 30+ year CIA veteran Gina Haspel. Any Dem…
+https://t.co/utXxKzk0Bv
+
+archiving URL http://twitter.com/PressSec/status/992861267005231104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/992861267005231104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxNews: Business Owner Sherry Sheely to
+President @realDonaldTrump: "We felt with your strong leadership, that now was
+the time to inv…
+
+archiving URL http://twitter.com/JessicaDitto45/status/992876376083652609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/992876376083652609
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Thank you Cleveland, Ohio!
+https://t.co/ROEFRLY7jP
+
+archiving URL http://twitter.com/realDonaldTrump/status/992880573025865729
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/992880573025865729
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Thank you Cleveland, Ohio!
+https://t.co/ROEFRLY7jP
+
+archiving URL http://twitter.com/POTUS/status/992881165450309632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/992881165450309632
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Thank you Cleveland, Ohio!
+https://t.co/ROEFRLY7jP
+
+archiving URL http://twitter.com/Scavino45/status/992882974315163649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/992882974315163649
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992854482458497025,
+                       'id_str': '992854482458497025',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525556823708'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992854482458497025 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992854482458497025 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992854482458497025
+	RT @ScaramucciPost: Need 400 retweets to hit 10,000 by midnight‼️
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last yea…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 60 retweets to hit 9700 by
+ 7pm‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last
+year.
+
+This…
+
+archiving URL http://twitter.com/Scaramucci/status/992883481683382272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992883481683382272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: As I addressed the 2018 graduating class of
+@avemariauniv this morning, I reflected on graduates from all across th…
+https://t.co/Bglr1yXPAv
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992890860646879232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992890860646879232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: I want to focus on a key component of life that’s
+ at the core of what it means to be an American: service. Public s…
+https://t.co/AnD2f4JMHq
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992891271156043777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992891271156043777
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: No matter your anticipated profession, each of
+you has the potential to make a profound difference for others.
+https://t.co/YFxMphljj3
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992891666699837440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992891666699837440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: America is the most prosperous nation on the face
+ of the earth, and it’s also the most generous. But that strong tr…
+https://t.co/D6l4jkDLTn
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992892055629258752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992892055629258752
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992837644064382976,
+                       'id_str': '992837644064382976',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525558935934'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992837644064382976 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992837644064382976 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992837644064382976
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/992892265357037569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992892265357037569
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: What will you do to put your newly gained skills
+to work in service of others? Now is the time to start doing it. A…
+https://t.co/dcH9E8Ry1X
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992893339799293953
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992893339799293953
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: As you venture out into the world, know that your
+ life won’t always unfold according to plan. Anticipate being call…
+https://t.co/LVEU1hML8k
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992893676148969473
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992893676148969473
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: Congratulations to the class of 2018! I wish you
+all the best as you embark on the next step of your journey.
+
+archiving URL http://twitter.com/BetsyDeVosED/status/992894047000940544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/992894047000940544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Thank you Cleveland, Ohio!
+https://t.co/ROEFRLY7jP
+
+archiving URL http://twitter.com/WhiteHouse/status/992896637839097856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/992896637839097856
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992883481683382272,
+                       'id_str': '992883481683382272',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525562031690'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992883481683382272 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992883481683382272 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992883481683382272
+	RT @ScaramucciPost: Need 60 retweets to hit 9700 by 7pm‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last year.
+
+This…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992892265357037569,
+                       'id_str': '992892265357037569',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525562039449'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992892265357037569 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992892265357037569 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992892265357037569
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/992911184964849664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992911184964849664
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992908710535225347,
+                       'id_str': '992908710535225347',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525565043145'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992908710535225347 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992908710535225347 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 298 retweets to hit 10,000
+ by midnight‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸
+last yea…
+
+archiving URL http://twitter.com/Scaramucci/status/992917989539438592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992917989539438592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@potus @realdonaldtrump thanks for the birthday
+wishes tonight for @DeidreScaramuc2 we are part of the 52% on our way to 60!
+
+archiving URL http://twitter.com/Scaramucci/status/992928870398660608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992928870398660608
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 10 retweets to hit 9750 by
+ 10pm‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last
+year.
+
+Thi…
+
+archiving URL http://twitter.com/Scaramucci/status/992943490073022464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992943490073022464
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992943490073022464,
+                       'id_str': '992943490073022464',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525571357727'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992943490073022464 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992943490073022464 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992943490073022464
+	RT @ScaramucciPost: Need 10 retweets to hit 9750 by 10pm‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last year.
+
+Thi…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+992917989539438592,
+                       'id_str': '992917989539438592',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1525572806381'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 992917989539438592 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 992917989539438592 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/992917989539438592
+	RT @ScaramucciPost: Need 298 retweets to hit 10,000 by midnight‼️
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸 last yea…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 250 retweets to hit 10,000
+ by midnight‼️
+
+HELP‼️‼️🚨🚨🚨🚨🚨🚨
+
+67,000+ people died of Drug Overdoses in USA 🇺🇸
+last yea…
+
+archiving URL http://twitter.com/Scaramucci/status/992950472116985856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992950472116985856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @Scaramucci: .@potus @realdonaldtrump thanks for
+ the birthday wishes tonight for @DeidreScaramuc2 we are part of the 52% on our
+way to 6…
+
+archiving URL http://twitter.com/Scaramucci/status/992950501829378049
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/992950501829378049
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
