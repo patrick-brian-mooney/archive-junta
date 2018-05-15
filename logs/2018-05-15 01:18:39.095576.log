@@ -1,0 +1,183 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1 (2018-04-28)', machine='i686')
+This log was begun Tuesday, 15 May 2018 at 01:18
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #996066257727250432 for account
+@IvankaTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #996214051184181248 for account
+@statedeptspox
+about to get all tweets newer than ID #996181117882585090 for account
+@WhiteHouse
+about to get all tweets newer than ID #996105935641858049 for account
+@SecretaryRoss
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #994570039348035585 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #996135684086878210 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #995770686303035393 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #996189020672540678 for account
+@SecretarySonny
+about to get all tweets newer than ID #996210893745684482 for account
+@Scaramucci
+about to get all tweets newer than ID #996151822464274433 for account
+@AshLeeStrong
+about to get all tweets newer than ID #995724750033956864 for account
+@mike_pence
+about to get all tweets newer than ID #995729262748557312 for account
+@RealBenCarson
+about to get all tweets newer than ID #995135137175293952 for account @Comey
+about to get all tweets newer than ID #995688948738469888 for account @FLOTUS
+about to get all tweets newer than ID #996044344393191425 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #996033571474366464 for account @PressSec
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #996172817736626176 for account
+@BetsyDeVosED
+getting all tweets before ID #903355764269514751
+    ...400 tweets downloaded so far
+
+
+New tweet from BetsyDeVosED: Great things happening in the Granite State! Very
+ encouraging to see innovative #STEM programs at both @SNHU &amp;…
+https://t.co/hGgeS0jBKF
+
+archiving URL http://twitter.com/BetsyDeVosED/status/996181743215538176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #996157349688639488 for account
+@StephGrisham45
+
+archiving URL https://twitter.com/BetsyDeVosED/status/996181743215538176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #996209601812066305 for account
+@nikkihaley
+about to get all tweets newer than ID #996135379802755072 for account
+@realDonaldTrump
+about to get all tweets newer than ID #996139436445503489 for account @POTUS
+about to get all tweets newer than ID #994662124159893505 for account
+@EnergyDepSec
+about to get all tweets newer than ID #994640750540460033 for account @SBALinda
+about to get all tweets newer than ID #995384358273015812 for account @PRyan
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #996100025381019649 for account
+@DepSecHargan
+about to get all tweets newer than ID #993564392615751686 for account
+@GovernorPerry
+about to get all tweets newer than ID #996088694992982017 for account @SecAzar
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #996138500457222145 for account
+@SpeakerRyan
+about to get all tweets newer than ID #996142073945513984 for account
+@SecondLady
+about to get all tweets newer than ID #996220368279998465 for account @VP
+about to get all tweets newer than ID #989344309060210688 for account
+@DanScavino
+about to get all tweets newer than ID #996130217298137089 for account
+@SecretaryZinke
+about to get all tweets newer than ID #995026493888704519 for account @Cabinet
+about to get all tweets newer than ID #986323643117350912 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #995765120319049728 for account @Reince
+about to get all tweets newer than ID #996054393089937408 for account
+@JessicaDitto45
+about to get all tweets newer than ID #996159719537631233 for account
+@SecretaryCarson
+about to get all tweets newer than ID #996020227208040449 for account
+@seanspicer
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #996084664493277187 for account
+@SecretaryPerry
+about to get all tweets newer than ID #996164645814722563 for account @Scavino45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #996065169217335297 for account
+@SecNielsen
+about to get all tweets newer than ID #995863805258321922 for account
+@KellyannePolls
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #996165548680667136 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+... OK, we're set up, and about to watch 52544275, 15985455, 29547260,
+108471631, 1967216306, 822215673812119553, 836305915452272641, 6577802,
+118756393, 832672006113931269, 798195585824104449, 212262370,
+842072478834909184, 24578794, 296060169, 22203756, 1180379185, 2334193741,
+818876014390603776, 799764016885329921, 818927131883356161, 1923451808,
+828997388920619008, 823638938590085124, 803703725730779136, 826065858548133888,
+37666984, 25073877, 822215679726100480, 894923298374651904, 819992522109894658,
+733751245, 728361177986797568, 920035992073064450, 18906561, 956283913835614208,
+ 809836066316451840, 18916432, 822127086194348032, 818910970567344128,
+620571475, 827258161841135623, 818928162449068032, 888031054141022209,
+831482588246196225, 20733972, 836724024688410625, 828613457020870657, 20776147,
+866746592853979137, 830128820447539208, 823367015830323201, 829782369670410240,
+935148134505828353, 471672239, 599530439, 819980276570976256, 65522706,
+105267762
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from seanspicer: RT @charlipence: I was always certain I would write
+ this book.
+I was not certain anyone would read it other than my family.
+I am
+emotional…
+
+archiving URL http://twitter.com/seanspicer/status/996343791576584192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/996343791576584192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: A tour de force on all of the good things in life.
+Kenny is a world class person, charitable and kind but also a gr…
+https://t.co/Y8Kuw0tklC
+
+archiving URL http://twitter.com/Scaramucci/status/996346196426969089
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/996346196426969089
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @HHSMedia: Today, Tuesday May 15th, @SecAzar will
+participate in media interviews with regional TV and radio stations around the
+country…
+
+archiving URL http://twitter.com/SecAzar/status/996358549977563137
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/996358549977563137
+    ... archiving using prefix http://web.archive.org/save/
