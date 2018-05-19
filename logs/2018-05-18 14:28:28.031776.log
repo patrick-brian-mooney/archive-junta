@@ -1,0 +1,676 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Friday, 18 May 2018 at 14:28
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #995026493888704519 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 607819 (char 607818)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #997159894078935041 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619859 (char 619858)
+about to get all tweets newer than ID #997533497328881664 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 607776 (char 607775)
+about to get all tweets newer than ID #997483110437720064 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 620384 (char 620383)
+about to get all tweets newer than ID #996416565024346112 for account
+@SecretaryRoss
+about to get all tweets newer than ID #997484665211670528 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #997573139663028224 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 612660 (char 612659)
+about to get all tweets newer than ID #997296794555047937 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 612619 (char 612618)
+about to get all tweets newer than ID #996430323511676928 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603432 (char 603431)
+about to get all tweets newer than ID #997555281235148801 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610954 (char 610953)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #997118135479267328 for account
+@SecretaryZinke
+about to get all tweets newer than ID #986323643117350912 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #997570067792646146 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611677 (char 611676)
+about to get all tweets newer than ID #997497519537049600 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611560 (char 611559)
+about to get all tweets newer than ID #997525327126679552 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609752 (char 609751)
+about to get all tweets newer than ID #996762691170693121 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610953 (char 610952)
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 849239 (char 849238)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609868 (char 609867)
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610944 (char 610943)
+about to get all tweets newer than ID #997568260538294272 for account @Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 844426 (char 844425)
+about to get all tweets newer than ID #995729262748557312 for account
+@RealBenCarson
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #997282095805468672 for account
+@AshLeeStrong
+about to get all tweets newer than ID #997533613225840640 for account @VP
+about to get all tweets newer than ID #997426552051814400 for account
+@seanspicer
+about to get all tweets newer than ID #997518427790200832 for account
+@SecretarySonny
+about to get all tweets newer than ID #997511492546318336 for account
+@SecretaryPerry
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #997563269782102016 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #996474044269522944 for account @PRyan
+about to get all tweets newer than ID #995135137175293952 for account @Comey
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #997493038774616066 for account @FLOTUS
+about to get all tweets newer than ID #997564467901812737 for account
+@IvankaTrump
+about to get all tweets newer than ID #997567725403889665 for account
+@SecretaryCarson
+about to get all tweets newer than ID #997097408365506562 for account
+@KellyannePolls
+about to get all tweets newer than ID #997423474032472065 for account
+@statedeptspox
+getting all tweets before ID #987882657739689984
+    ...400 tweets downloaded so far
+
+
+New tweet from statedeptspox: At #PartnershipAgainstImpunity meeting today, we
+ joined #France &amp; other responsible nations to address recent uses…
+https://t.co/mi6Yt1q8va
+
+archiving URL http://twitter.com/statedeptspox/status/997540428181393408
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/statedeptspox/status/997540428181393408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: .@SecPompeo spoke with @AUC_MoussaFaki today to
+reaffirm the strong partnership between the United States and…
+https://t.co/zI2YqmgvMu
+
+archiving URL http://twitter.com/statedeptspox/status/997572828819001344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997572828819001344
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997494162537803776 for account
+@StephGrisham45
+
+
+New tweet from statedeptspox: In a phone call today, @SecPompeo thanked
+@UKenyatta for his leadership in calling for an important national conver…
+https://t.co/elROxyVuPH
+
+archiving URL http://twitter.com/statedeptspox/status/997575272240242690
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997575272240242690
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997532872369197056 for account
+@SecondLady
+about to get all tweets newer than ID #997564925336793088 for account
+@SecNielsen
+about to get all tweets newer than ID #997512574425067520 for account
+@WhiteHouse
+getting all tweets before ID #991009301178343423
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: America is a Nation that
+believes in the power of redemption. America is a Nation that believes in second
+ chances - an…
+
+archiving URL http://twitter.com/WhiteHouse/status/997573582216728576
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997476702891708416 for account
+@DanScavino
+
+archiving URL https://twitter.com/WhiteHouse/status/997573582216728576
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997569886695182336 for account @POTUS
+getting all tweets before ID #988821005152944132
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: America is a Nation that believes
+in the power of redemption. America is a Nation that believes in second chances
+- an…
+
+archiving URL http://twitter.com/POTUS/status/997573923087835136
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/997573923087835136
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997507059527684097 for account @SBALinda
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #997483327983706113 for account
+@SpeakerRyan
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #993564392615751686 for account
+@GovernorPerry
+about to get all tweets newer than ID #997283744632442880 for account @Reince
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #997519065118859264 for account @SecAzar
+about to get all tweets newer than ID #997278811048828928 for account
+@stevenmnuchin1
+... OK, we're set up, and about to watch 818928162449068032, 826065858548133888,
+ 798195585824104449, 24578794, 37666984, 836305915452272641, 118756393,
+25073877, 818927131883356161, 894923298374651904, 832672006113931269, 29547260,
+827258161841135623, 888031054141022209, 836724024688410625, 920035992073064450,
+828997388920619008, 22203756, 866746592853979137, 803703725730779136, 212262370,
+ 831482588246196225, 6577802, 823367015830323201, 1180379185, 65522706,
+296060169, 818910970567344128, 20776147, 842072478834909184, 830128820447539208,
+ 105267762, 819980276570976256, 733751245, 2334193741, 809836066316451840,
+108471631, 818876014390603776, 52544275, 828613457020870657, 471672239,
+1967216306, 15985455, 823638938590085124, 822127086194348032,
+935148134505828353, 822215673812119553, 620571475, 822215679726100480,
+829782369670410240, 819992522109894658, 1923451808, 18916432,
+728361177986797568, 18906561, 20733972, 599530439, 956283913835614208,
+799764016885329921
+
+
+New tweet from VP: We're grateful for the heroic first responders who
+apprehended the shooter - and to local, state, and federal offic…
+https://t.co/AY62WjLtPy
+
+archiving URL http://twitter.com/VP/status/997583541981667333
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997583541981667333
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: This is another heartbreaking day for students and parents
+in Santa Fe and all across the Nation. I promise you thi…
+https://t.co/xAj6KnOtyC
+
+archiving URL http://twitter.com/VP/status/997583949835751430
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997583949835751430
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: America is a Nation that believes in
+the power of redemption. America is a Nation that believes in second chances -
+an…
+
+archiving URL http://twitter.com/VP/status/997594121232699393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997594121232699393
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997594121232699393,
+                       'id_str': '997594121232699393',
+
+                       'user_id': 818910970567344128,
+'user_id_str': '818910970567344128'},
+            'timestamp_ms':
+'1526680089882'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997594121232699393 on
+ account VP
+INFO: get_archived_tweet() called to get tweet ID 997594121232699393 for account
+ VP
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/VP/status/997594121232699393	RT
+@realDonaldTrump: America is a Nation that believes in the power of redemption.
+America is a Nation that believes in second chances - an…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because VP is not in the list of
+accounts we tweet about
+
+
+New tweet from VP: As @POTUS said, “No child or teacher should ever be in
+danger in an American school…It's not enough to simply take…
+https://t.co/hxg9LuPgHt
+
+archiving URL http://twitter.com/VP/status/997595881934237696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997595881934237696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: America is a Nation that believes in
+the power of redemption. America is a Nation that believes in second chances -
+an…
+
+archiving URL http://twitter.com/VP/status/997596113090895872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997596113090895872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: California finally deserves a great Governor,
+one who understands borders, crime and lowering taxes. John Cox is th…
+https://t.co/cmabmnO8VK
+
+archiving URL http://twitter.com/realDonaldTrump/status/997597940444221440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/997597940444221440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Generals, Prince Harry has the beard! You guys
+never had a chance!! Congratulations 🎈🎊🍾 to the Royal Couple!!
+https://t.co/3WqVWBYcZJ
+
+archiving URL http://twitter.com/Scaramucci/status/997600090331275264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997600090331275264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: .@SecPompeo and @Aloysio_Nunes reaffirmed the
+importance of the U.S.-#Brazil economic partnership in a phone call t…
+https://t.co/0d1TeTyjVU
+
+archiving URL http://twitter.com/statedeptspox/status/997600947634425862
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @TheOpposition: .@Scaramucci gave Jordan a lot
+of love this week, and the feeling was Moochual. https://t.co/HmAfbsMC1v
+
+archiving URL http://twitter.com/Scaramucci/status/997600956471808004
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997600947634425862
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997600956471808004
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today at @StateDept, @SecPompeo thanked
+@ministerBlok for Dutch support in #Iraq, #Afghanistan, and #Mali and for t…
+https://t.co/KnuWzCberm
+
+archiving URL http://twitter.com/statedeptspox/status/997604399110328320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997604399110328320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: THANK YOU Hannah Jackson for being a voice for positive
+change &amp; speaking at the Prison Reform Summit. Prison refor…
+https://t.co/OgvPx657aZ
+
+archiving URL http://twitter.com/VP/status/997604957468659712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997604957468659712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @USIndianAffairs: Thank you for following
+our tributes during this year’s #NationalPoliceWeek. We shall continue to hold
+our law enforce…
+
+archiving URL http://twitter.com/SecretaryZinke/status/997606334106304512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/997606334106304512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: .@SteveForbesCEO recognizes @POTUS blueprint is a
+sophisticated &amp; strategic plan that delivers results. More on put…
+https://t.co/YOiqeHgGuc
+
+archiving URL http://twitter.com/SecAzar/status/997607365070458882
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/997607365070458882
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997607365070458882,
+                       'id_str': '997607365070458882',
+
+                       'user_id': 956283913835614208,
+'user_id_str': '956283913835614208'},
+            'timestamp_ms':
+'1526683178135'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997607365070458882 on
+ account SecAzar
+INFO: get_archived_tweet() called to get tweet ID 997607365070458882 for account
+ SecAzar
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/SecAzar/status/997607365070458882
+.@SteveForbesCEO recognizes @POTUS blueprint is a sophisticated &amp; strategic
+plan that delivers results. More on put… https://t.co/YOiqeHgGuc
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecAzar is not in the list of
+accounts we tweet about
+
+
+New tweet from VP: Always an honor to thank our men and women in uniform.
+Today, on the eve of Armed Forces Day, Karen and I met with…
+https://t.co/vMGhx0Omjr
+
+archiving URL http://twitter.com/VP/status/997608916161875968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/997608916161875968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: .@SteveForbesCEO recognizes @POTUS blueprint is a
+sophisticated &amp; strategic plan that delivers results. More on put…
+https://t.co/97M6agA4DL
+
+archiving URL http://twitter.com/SecAzar/status/997609202993463296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/997609202993463296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: America is blessed with extraordinary energy
+abundance, including more than 250 years worth of beautiful clean coal…
+https://t.co/Um82NEyz0G
+
+archiving URL http://twitter.com/realDonaldTrump/status/997612079375945728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/997612079375945728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: Always an honor to thank our men and women
+in uniform. Today, on the eve of Armed Forces Day, Karen and I met with the
+@38thID of t…
+
+archiving URL http://twitter.com/SecondLady/status/997614588886691841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/997614588886691841
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: A great meeting on multiple hotspots around the
+world. 🇺🇸 https://t.co/4f0NQBTzwz
+
+archiving URL http://twitter.com/nikkihaley/status/997617447728570368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/997617447728570368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today @SecPompeo called Ethiopian Prime Minister
+ Abiy Ahmed to congratulate the Prime Minister on his new position…
+https://t.co/M8MfJiHd3A
+
+archiving URL http://twitter.com/statedeptspox/status/997629821638324224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997629821638324224
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @USAIDMarkGreen: Had a frank &amp; open
+discussion with Daw Aung San Suu Kyi about the need for concrete action to end
+the #Rakhine crisis h…
+
+archiving URL http://twitter.com/statedeptspox/status/997650060627402753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997650060627402753
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: We support the #Iranian people
+who are demonstrating against an oppressive government.  3 deaths &amp; internet
+ interruption sho…
+
+archiving URL http://twitter.com/statedeptspox/status/997662966861398016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/997662966861398016
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997533497328881664,
+                       'id_str': '997533497328881664',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1526697769302'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997533497328881664 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 997533497328881664 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/997533497328881664
+	RT @ScaramucciPost: Need 52 retweets to hit 11,111 ‼️
+
+HELP‼️
+
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+68,000 people died of Drug Overdoses in USA 🇺🇸 last year.
+This…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997533416387219456,
+                       'id_str': '997533416387219456',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1526697772650'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997533416387219456 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 997533416387219456 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/997533416387219456
+	RT @ScaramucciPost: Who else wants to fight the Opioid Epidemic? Answer and
+retweet. Let's make this the most retweeted tweet ever. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Who else wants to fight the
+Opioid Epidemic? Answer and retweet. Let's make this the most retweeted tweet
+ever. https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/997669010455105536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @ScaramucciPost: Need 11 retweets to hit 11,111
+‼️
+
+HELP‼️
+
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+68,000 people died of Drug Overdoses in USA 🇺🇸 last
+year.
+This…
+
+archiving URL http://twitter.com/Scaramucci/status/997669024229142530
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997669010455105536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997669024229142530
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @MoochPost: Can you name three @GoldenKnights?
+
+archiving URL http://twitter.com/Scaramucci/status/997672188349214722
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997672188349214722
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997600956471808004,
+                       'id_str': '997600956471808004',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1526698863141'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997600956471808004 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 997600956471808004 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/997600956471808004
+	RT @TheOpposition: .@Scaramucci gave Jordan a lot of love this week, and the
+feeling was Moochual. https://t.co/HmAfbsMC1v
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: RT @TheOpposition: .@Scaramucci gave Jordan a lot
+of love this week, and the feeling was Moochual. https://t.co/HmAfbsMC1v
+
+archiving URL http://twitter.com/Scaramucci/status/997673469449048065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/997673469449048065
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from AshLeeStrong: RT @WillieGeist: I always think about the
+victims’ parents on these nights. You pour yourself into your child with every
+bottle in the midd…
+
+archiving URL http://twitter.com/AshLeeStrong/status/997700209848209408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/997700209848209408
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+997474976105103360,
+                       'id_str': '997474976105103360',
+
+                       'user_id': 620571475,
+'user_id_str': '620571475'},
+            'timestamp_ms': '1526706534606'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 997474976105103360 on
+ account DanScavino
+INFO: get_archived_tweet() called to get tweet ID 997474976105103360 for account
+ DanScavino
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/DanScavino/status/997474976105103360
+	RT @realDonaldTrump: Reports are there was indeed at least one FBI
+representative implanted, for political purposes, into my campaign for p…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
