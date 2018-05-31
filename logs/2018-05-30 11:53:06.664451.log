@@ -1,0 +1,1322 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Wednesday, 30 May 2018 at 11:53
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1001529772806168577 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 610259 (char 610258)
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1001536001817370630 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606247 (char 606246)
+about to get all tweets newer than ID #1001857579880976385 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 623228 (char 623227)
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609260 (char 609259)
+about to get all tweets newer than ID #1001214832778076168 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1001098317856673793 for account @FLOTUS
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 604458 (char 604457)
+about to get all tweets newer than ID #1001835156527775745 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1001496554438561793 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1001572948501848064 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 606368 (char 606367)
+about to get all tweets newer than ID #1001609833152475136 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 600497 (char 600496)
+about to get all tweets newer than ID #1001879959831396352 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #999294071683268609 for account @Comey
+about to get all tweets newer than ID #1001867129740775426 for account
+@Scaramucci
+about to get all tweets newer than ID #1001859797984083974 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 621326 (char 621325)
+about to get all tweets newer than ID #1001876650680836096 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603500 (char 603499)
+about to get all tweets newer than ID #999379623552192513 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608808 (char 608807)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1001186256087285765 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 625452 (char 625451)
+about to get all tweets newer than ID #1001562115667365889 for account
+@DepSecHargan
+about to get all tweets newer than ID #1001816784398438401 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 624913 (char 624912)
+about to get all tweets newer than ID #1001107769682989056 for account
+@mike_pence
+about to get all tweets newer than ID #1001869967556521984 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1001871989320114176 for account @POTUS
+getting all tweets before ID #996755322692866054
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Today I am proud to keep another
+promise to the American people as I sign the #RightToTry Legislation into law.
+https:…
+
+archiving URL http://twitter.com/POTUS/status/1001875710154330113
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001493803159707649 for account
+@EPAScottPruitt
+
+archiving URL https://twitter.com/POTUS/status/1001875710154330113
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1000481293233262592 for account @Reince
+
+
+New tweet from POTUS: RT @realDonaldTrump: With the #RightToTry Law I signed
+today, patients with life threatening illnesses will finally have access to
+experime…
+
+archiving URL http://twitter.com/POTUS/status/1001875718777827330
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 605369 (char 605368)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/POTUS/status/1001875718777827330
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608726 (char 608725)
+about to get all tweets newer than ID #1001860001865125889 for account
+@SecretaryRoss
+
+
+New tweet from POTUS: RT @realDonaldTrump: Moments ago, it was my great honor
+to sign #RightToTry into law! https://t.co/mtPiHsBc1H https://t.co/hFtpyJlV4h
+
+archiving URL http://twitter.com/POTUS/status/1001876336103841792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001876336103841792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Today, the White House will host a
+celebratory “field day” to encourage youth sports participation and introduce
+intended a…
+
+archiving URL http://twitter.com/POTUS/status/1001877861693902848
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1001480998805278722 for account @PRyan
+
+archiving URL https://twitter.com/POTUS/status/1001877861693902848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Two years ago, we met an 11-year-old boy named
+Zack in Lancaster, PA. He asked if @POTUS Trump would pass #RightToTry to help
+his d…
+
+archiving URL http://twitter.com/POTUS/status/1001879211089498116
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001495822146646016 for account
+@EnergyDepSec
+
+archiving URL https://twitter.com/POTUS/status/1001879211089498116
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Every day of this administration, @POTUS Trump
+has fought to advance the interests of American families. Today, he keeps a
+promise…
+
+archiving URL http://twitter.com/POTUS/status/1001879517470887937
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001855049423839232 for account @SBALinda
+
+archiving URL https://twitter.com/POTUS/status/1001879517470887937
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603502 (char 603501)
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+
+
+New tweet from POTUS: RT @VP: To these courageous families, to a @POTUS who
+keeps his promise, let me say with a prayer on my lips: Thank you for giving a
+hope a…
+
+archiving URL http://twitter.com/POTUS/status/1001880044346793986
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001880044346793986
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001823371066134528 for account
+@seanspicer
+
+
+New tweet from POTUS: RT @WhiteHouse: President Donald J. Trump Signs Right to
+ Try Legislation Fulfilling the Promise He Made to Expand Healthcare Options for
+ Te…
+
+archiving URL http://twitter.com/POTUS/status/1001889142601666561
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+
+archiving URL https://twitter.com/POTUS/status/1001889142601666561
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 615046 (char 615045)
+about to get all tweets newer than ID #1001481523642630144 for account @PressSec
+
+
+New tweet from POTUS: RT @WhiteHouse: Before "Right to Try" legislation,
+options for terminally ill patients who had exhausted all treatment options were
+ extreme…
+
+archiving URL http://twitter.com/POTUS/status/1001892365697765379
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 603931 (char 603930)
+about to get all tweets newer than ID #1001803272167084032 for account
+@statedeptspox
+
+archiving URL https://twitter.com/POTUS/status/1001892365697765379
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603460 (char 603459)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #973198296897466368 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1001208199456882689 for account
+@Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 623078 (char 623077)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #999294404425846784 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1001824387472019457 for account @SecAzar
+ERROR: unable to get tweets for account @SecAzar
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608810 (char 608809)
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1000406866319630336 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1001855788409860096 for account
+@SecretarySonny
+getting all tweets before ID #976100813293670400
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretarySonny: Just about to start. Listen live at
+https://t.co/ICRhU9CQ2G https://t.co/cm0sBTE5mF
+
+archiving URL http://twitter.com/SecretarySonny/status/1001893214670991361
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #997484665211670528 for account
+@AmbJohnBolton
+
+archiving URL https://twitter.com/SecretarySonny/status/1001893214670991361
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001127931282944005 for account
+@StephGrisham45
+about to get all tweets newer than ID #1001870908565458944 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1001647653174706176 for account
+@GovernorPerry
+about to get all tweets newer than ID #1001848460881035265 for account
+@realDonaldTrump
+getting all tweets before ID #992880573025865728
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Today I am proud to keep another promise to
+the American people as I sign the #RightToTry Legislation into law.
+https://t.co/VD8CN5YfIo
+
+archiving URL http://twitter.com/realDonaldTrump/status/1001873279597064194
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001211869691039744 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/realDonaldTrump/status/1001873279597064194
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001627812468613120 for account
+@AshLeeStrong
+
+
+New tweet from realDonaldTrump: With the #RightToTry Law I signed today,
+patients with life threatening illnesses will finally have access to exper…
+https://t.co/6tTYqoJviG
+
+archiving URL http://twitter.com/realDonaldTrump/status/1001873868498325504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1001873868498325504
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1001198372869541891 for account
+@SecondLady
+
+
+New tweet from realDonaldTrump: Moments ago, it was my great honor to sign
+#RightToTry into law! https://t.co/mtPiHsBc1H https://t.co/hFtpyJlV4h
+
+archiving URL http://twitter.com/realDonaldTrump/status/1001875884142362625
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #956181119287857152
+
+archiving URL https://twitter.com/realDonaldTrump/status/1001875884142362625
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+... OK, we're set up, and about to watch 1923451808, 818928162449068032,
+15985455, 828997388920619008, 52544275, 831482588246196225, 827258161841135623,
+809836066316451840, 818876014390603776, 6577802, 620571475, 830128820447539208,
+935148134505828353, 37666984, 818910970567344128, 2334193741, 24578794,
+822215673812119553, 829782369670410240, 836724024688410625, 798195585824104449,
+728361177986797568, 471672239, 920035992073064450, 828613457020870657, 22203756,
+ 18916432, 822215679726100480, 832672006113931269, 20733972, 212262370,
+836305915452272641, 803703725730779136, 733751245, 894923298374651904,
+819992522109894658, 108471631, 20776147, 866746592853979137, 818927131883356161,
+ 1967216306, 826065858548133888, 65522706, 823367015830323201, 599530439,
+888031054141022209, 29547260, 956283913835614208, 105267762, 799764016885329921,
+ 842072478834909184, 118756393, 823638938590085124, 819980276570976256,
+18906561, 25073877, 1180379185, 296060169, 822127086194348032
+
+
+New tweet from SecondLady: RT @VP: Every day of this administration, @POTUS
+Trump has fought to advance the interests of American families. Today, he keeps
+a promise…
+
+archiving URL http://twitter.com/SecondLady/status/1001896947412881409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1001896947412881409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Happy to sit down with @JohnJenkinson2 of
+@OfficialRFDTV - a Kansan himself - and Senate Ag Chairman @SenPatRoberts…
+https://t.co/80avMwQR5O
+
+archiving URL http://twitter.com/SecretarySonny/status/1001899058368335872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001899058368335872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @lisamurkowski: Check out the editorial I
+wrote w/ @Energy @SecretaryPerry on why Alaska is the best place in the world to
+ prove a conce…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1001903255109226496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1001903255109226496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @USUN: Today's @USTreasury sanctions target
+the Iranian regime’s repression of its own people and the suppression of their
+freedoms of s…
+
+archiving URL http://twitter.com/statedeptspox/status/1001905454862274560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001905454862274560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Grateful for the opportunity to speak at the 2018
+National Coalition for Homeless Veterans Annual Conference…
+https://t.co/GPhGXH3Byo
+
+archiving URL http://twitter.com/SecondLady/status/1001906370831159296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1001906370831159296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @HHSGov: .@SecAzar, @HHS_ASH and @Surgeon_General
+team up with @LouFerrigno, @HerschelWalker, @natalie_gulbis and members of
+@FitnessGov…
+
+archiving URL http://twitter.com/SecAzar/status/1001908462455058432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1001908462455058432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @nyvetvote: @Scaramucci @Scaramucci
+@wallstreetweek https://t.co/6chXaxFMnU ☕️💻🇺🇸 &gt;Episode 34 | Best of 2015 with
+ @Carl_C_Icahn , #Dick…
+
+archiving URL http://twitter.com/Scaramucci/status/1001908594000965637
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1001908594000965637
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump delivers remarks and participates
+in the White House Sports and Fitness Day.
+
+Watch LIVE:… https://t.co/OTfF2EbA4M
+
+archiving URL http://twitter.com/WhiteHouse/status/1001908859399757825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001908859399757825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: A “once in a lifetime” disaster can happen at any
+time.  As Secretary @DHSgov, I urge Americans to take this hurric…
+https://t.co/XhOt39Esoy
+
+archiving URL http://twitter.com/SecNielsen/status/1001910063727030272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1001910063727030272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @WhiteHouse: President Trump delivers remarks and
+participates in the White House Sports and Fitness Day.
+
+Watch LIVE:
+https://t.co/Emsd…
+
+archiving URL http://twitter.com/SecAzar/status/1001910754650488833
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1001910754650488833
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: The People’s House is not slowing down. From
+#RightToTry to ensuring our veterans get the care they need, we’re mov…
+https://t.co/V2Zcbk4GcK
+
+archiving URL http://twitter.com/SpeakerRyan/status/1001911256889069569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1001911256889069569
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: In Kansas for an Agriculture Roundup with
+Senate Ag Chairman @SenPatRoberts &amp; Sen. @JerryMoran. My first trip to Ka…
+https://t.co/pvNpwwpgKx
+
+archiving URL http://twitter.com/SecretarySonny/status/1001911450464636928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001911450464636928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: In a phone call with #Russia FM Lavrov today,
+@SecPompeo discussed issues and concerns including #Ukraine, #Syria,…
+https://t.co/eQRjV94NBm
+
+archiving URL http://twitter.com/statedeptspox/status/1001911487483514880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001911487483514880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: I see the media is working overtime speculating where I
+ am &amp; what I'm doing.  Rest assured, I'm here at the…
+https://t.co/mtxxnl0iMF
+
+archiving URL http://twitter.com/FLOTUS/status/1001912411933364224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1001912411933364224
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @FLOTUS: I see the media is working overtime
+speculating where I am &amp; what I'm doing.  Rest assured, I'm here at the
+@WhiteHouse w my fa…
+
+archiving URL http://twitter.com/POTUS/status/1001912532838289408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001912532838289408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: Straight from @FLOTUS! https://t.co/ff8MUtm0Bq
+
+archiving URL http://twitter.com/StephGrisham45/status/1001912703672373251
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/StephGrisham45/status/1001912703672373251
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from DepSecHargan: Great to see @HHSGov and @US_FDA being
+represented by @SecAzar and @SGottliebFDA today at the signing ceremony for…
+https://t.co/ecAuw3O6Yv
+
+archiving URL http://twitter.com/DepSecHargan/status/1001914166951673858
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1001914166951673858
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @FLOTUS: I see the media is working overtime
+speculating where I am &amp; what I'm doing.  Rest assured, I'm here at the
+@WhiteHouse w my fa…
+
+archiving URL http://twitter.com/seanspicer/status/1001915344678727680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1001915344678727680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SGottliebFDA: Today the President signed into
+ law the Right to Try Act https://t.co/w8XC7at7Vj #FDA is dedicated to achieving
+ the goals…
+
+archiving URL http://twitter.com/DepSecHargan/status/1001915394557403136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1001915394557403136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @hughhewitt: When I suggested to @mckaycoppins
+that the counterpart to Stephen Miller on the left is @jonfavs I got a knowing,
+agreeing…
+
+archiving URL http://twitter.com/seanspicer/status/1001915614057910272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1001915614057910272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: @showbiz411 @shannoncoulter @FLOTUS Actually
+Roger, it’s completely true unlike the blog you wrote.
+
+archiving URL http://twitter.com/StephGrisham45/status/1001918005209714688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1001918005209714688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Good Medicine: My Tour of the USS Arlington
+https://t.co/37CcGrwhDK #Newsmax via @Newsmax_Media
+
+archiving URL http://twitter.com/Scaramucci/status/1001919909289488384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1001919909289488384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @eVestment_Hedge: Back in the saddle at
+#SkyBridgeCapital, @Scaramucci scores $30 million #investment from the Korean
+Teacher’s Credit U…
+
+archiving URL http://twitter.com/Scaramucci/status/1001919953279307776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1001919953279307776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Many thanks to the Mertz family for hosting
+today's Kansas Agriculture Roundup at their River Creek Farms near Manh…
+https://t.co/Y7jcVI4FDq
+
+archiving URL http://twitter.com/SecretarySonny/status/1001922728834863105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001922728834863105
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1001922728834863105,
+                       'id_str': '1001922728834863105',
+
+                       'user_id': 842072478834909184,
+'user_id_str': '842072478834909184'},
+            'timestamp_ms':
+'1527712164774'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1001922728834863105
+on account SecretarySonny
+INFO: get_archived_tweet() called to get tweet ID 1001922728834863105 for
+account SecretarySonny
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretarySonny
+/status/1001922728834863105	Many thanks to the Mertz family for hosting today's
+Kansas Agriculture Roundup at their River Creek Farms near Manh…
+https://t.co/Y7jcVI4FDq
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretarySonny is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretarySonny: Many thanks to the Mertz family for hosting
+today's Kansas Agriculture Roundup at River Creek Farms near Manhattan,…
+https://t.co/jhzVFduOXV
+
+archiving URL http://twitter.com/SecretarySonny/status/1001924199034826752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001924199034826752
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "Participating in sports builds character, forges
+friendships, tears down barriers, and brings people from all walk…
+https://t.co/g5FUFthli4
+
+archiving URL http://twitter.com/WhiteHouse/status/1001924379519795200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001924379519795200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: "Participating in sports builds
+character, forges friendships, tears down barriers, and brings people from all
+walks of lif…
+
+archiving URL http://twitter.com/POTUS/status/1001924540300132352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001924540300132352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @WhiteHouse: "Participating in sports builds
+character, forges friendships, tears down barriers, and brings people from all
+walks of lif…
+
+archiving URL http://twitter.com/SecAzar/status/1001924951274934272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1001924951274934272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "But most of all we want our youth to learn these
+valuable lessons while creating a better future for themselves, t…
+https://t.co/vW5kiVj9sN
+
+archiving URL http://twitter.com/WhiteHouse/status/1001925717272285186
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001925717272285186
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Really appreciated the chance to visit with
+fine leaders for Kansas and America in @SenPatRoberts and Sen.…
+https://t.co/0XcuW10sKJ
+
+archiving URL http://twitter.com/SecretarySonny/status/1001927529584910343
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001927529584910343
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @MaryVought: Thank you, @realDonaldTrump for
+signing the #RightToTry act today. Huge win for the sickest among us. It was an
+honor to at…
+
+archiving URL http://twitter.com/seanspicer/status/1001927917969043456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1001927917969043456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @FoxNews: .@POTUS: "Participating in sports
+builds character, forges friendships, tears down barriers and brings people from
+ all walks o…
+
+archiving URL http://twitter.com/IvankaTrump/status/1001928539321651202
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001928539321651202
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @AP_Politics: Trump set to promote youth
+sports, wants such activities to be more accessible to economically
+disadvantaged children: htt…
+
+archiving URL http://twitter.com/IvankaTrump/status/1001931352332275717
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001931352332275717
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: President Trump signs #RightToTry
+into law. https://t.co/6UcmJznEqc https://t.co/UmpmJjjKQB
+
+archiving URL http://twitter.com/WhiteHouse/status/1001932471313879040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001932471313879040
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: A photo roundup made great by cowboy boots.
+https://t.co/NVtvG6grij
+
+archiving URL http://twitter.com/AshLeeStrong/status/1001932859471532033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1001932859471532033
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @senorrinhatch @frankthorp Happy bday Frank!
+
+archiving URL http://twitter.com/AshLeeStrong/status/1001933225688694786
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1001933225688694786
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great honor to welcome these heroic families to the Vice
+President’s office today right after @POTUS signed… https://t.co/Xs6ub3kHud
+
+archiving URL http://twitter.com/VP/status/1001933823347757056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1001933823347757056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: "But most of all we want our youth to
+learn these valuable lessons while creating a better future for themselves,
+their fam…
+
+archiving URL http://twitter.com/POTUS/status/1001934090696839173
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001934090696839173
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @Scavino45: President Trump signs #RightToTry into
+law. https://t.co/6UcmJznEqc https://t.co/UmpmJjjKQB
+
+archiving URL http://twitter.com/POTUS/status/1001934106400354304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001934106400354304
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Great honor to welcome these heroic families to
+the Vice President’s office today right after @POTUS signed #RightToTry into
+law. A…
+
+archiving URL http://twitter.com/POTUS/status/1001934148020432898
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001934148020432898
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @WhiteHouse: "Participating in sports builds
+character, forges friendships, tears down barriers, and brings people from all
+walks of lif…
+
+archiving URL http://twitter.com/IvankaTrump/status/1001934608588517383
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001934608588517383
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @dougmillsnyt: Children race as
+@realDonaldTrump looks on with @IvankaTrump and New York Yankees legend Mariano
+Rivera they as they part…
+
+archiving URL http://twitter.com/IvankaTrump/status/1001934746203672576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001934746203672576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @WhiteHouse: "But most of all we want our youth
+ to learn these valuable lessons while creating a better future for themselves,
+their fam…
+
+archiving URL http://twitter.com/IvankaTrump/status/1001935241139941377
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001935241139941377
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@POTUS gave me a pen at the historic signing of
+#RightToTry and I gave it – with his blessing – to young Zack Mong…
+https://t.co/Rj9a1iXMxU
+
+archiving URL http://twitter.com/VP/status/1001935740383776768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1001935740383776768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @charliespiering: Jordan McLinn, a boy suffering from
+Duchenne Muscular Dystrophy hugs @realDonaldTrump after he signs “Right to Try”
+Le…
+
+archiving URL http://twitter.com/VP/status/1001936215132733441
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1001936215132733441
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDept: .@USUN Ambassador Haley spoke at
+the #UNSC today about #Hamas rocket attacks against #Israel: “The United States
+called this…
+
+archiving URL http://twitter.com/statedeptspox/status/1001937197153554434
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDept: "To allow #Hamas to continue to
+get away with its terrorist acts, and to somehow expect #Israel to sit on its
+hands when it…
+
+archiving URL http://twitter.com/statedeptspox/status/1001937215746990081
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001937197153554434
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001937215746990081
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: .@USUN Ambassador @nikkihaley's remarks today
+were clear. The United States condemns #Hamas for launching at least…
+https://t.co/wt5MgLOJRl
+
+archiving URL http://twitter.com/statedeptspox/status/1001937651954569216
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001937651954569216
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @USUN: Yesterday, Hamas launched 70 rockets into
+ Israel. Who among us would accept 70 rockets launched into your…
+https://t.co/tGyFyszyYV
+
+archiving URL http://twitter.com/nikkihaley/status/1001941044445954048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1001941044445954048
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FLOTUS: I see the media is working overtime
+ speculating where I am &amp; what I'm doing.  Rest assured, I'm here at the
+@WhiteHouse w my fa…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1001941845553942530
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1001941845553942530
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Today @POTUS hosted #FieldDay at the @WhiteHouse
+with the announced President’s Council on Sports, Fitness and Nutr…
+https://t.co/Cy78cEHlv1
+
+archiving URL http://twitter.com/IvankaTrump/status/1001949811069812736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1001949811069812736
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: I had a very cool visit to Teddy Roosevelt’s
+@SagamoreHillNHS. Amazing artwork and taxidermy reflective of his appr…
+https://t.co/XJdYwJBrla
+
+archiving URL http://twitter.com/SecretaryZinke/status/1001954144469635072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1001954144469635072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @Amyjoi16: The 1.5 mile Corona Arch trail in
+ #Utah was designated a national trail by @SecretaryZinke
+https://t.co/sfXJ1qOYWM
+
+archiving URL http://twitter.com/SecretaryZinke/status/1001954308773044233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1001954308773044233
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Looking forward to meeting with
+Kim Yong Chol in New York to discuss @Potus potential summit with Chairman Kim.
+  We are comm…
+
+archiving URL http://twitter.com/statedeptspox/status/1001958163543969794
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001958163543969794
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from statedeptspox: .@SecPompeo has arrived in New York for meetings
+ with #NorthKorea Vice-Chairman Kim Yong Chol as we continue to act…
+https://t.co/j2qYAKBLb1
+
+archiving URL http://twitter.com/statedeptspox/status/1001964386079133696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1001964386079133696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Great meeting with @KimKardashian
+today, talked about prison reform and sentencing. https://t.co/uOy4UJ41JF
+
+archiving URL http://twitter.com/POTUS/status/1001965776482525184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1001965776482525184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @betsy_klein: me, on a date
+https://t.co/ByBJHcckkL
+
+archiving URL http://twitter.com/SecretaryZinke/status/1001966969632018441
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1001966969632018441
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1001966969632018441,
+                       'id_str': '1001966969632018441',
+
+                       'user_id': 827258161841135623,
+'user_id_str': '827258161841135623'},
+            'timestamp_ms':
+'1527722534140'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1001966969632018441
+on account SecretaryZinke
+INFO: get_archived_tweet() called to get tweet ID 1001966969632018441 for
+account SecretaryZinke
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretaryZinke
+/status/1001966969632018441	RT @betsy_klein: me, on a date
+https://t.co/ByBJHcckkL
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryZinke is not in the
+list of accounts we tweet about
+
+
+New tweet from WhiteHouse: Brooke Singman in Fox News: "Trump signs 'Right to
+Try,' says it will save 'tremendous number of lives'"
+
+Read more…
+https://t.co/FylpD1p60R
+
+archiving URL http://twitter.com/WhiteHouse/status/1001969256920240128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001969256920240128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Nice crowd at @KansasDeptofAg for a forum with
+@GovJeffColyer and leading state ag producers. This is a who's who o…
+https://t.co/9tIwGQC3lt
+
+archiving URL http://twitter.com/SecretarySonny/status/1001969657807597568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1001969657807597568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Great meeting with
+@KimKardashian today, talked about prison reform and sentencing.
+https://t.co/uOy4UJ41JF
+
+archiving URL http://twitter.com/WhiteHouse/status/1001970662746021889
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1001970662746021889
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: There is no one better to represent the people
+ of N.Y. and Staten Island (a place I know very well) than…
+https://t.co/bE5iSiBkYA
+
+archiving URL http://twitter.com/realDonaldTrump/status/1001973090107248641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1001973090107248641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: The over reach hysteria and hyperbole is now having
+ the opposite of the intended effect. Jordan Peterson is proving…
+https://t.co/seiBcKri6T
+
+archiving URL http://twitter.com/Scaramucci/status/1001974768567046144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1001974768567046144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @RepStevePearce: Today, @SecretaryZinke
+announced the creation of the Guadalupe Ridge Trail. Covering more than 100
+miles in southern Ne…
+
+archiving URL http://twitter.com/SecretaryZinke/status/1001976313643716610
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1001976313643716610
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Very importantly, @RepDanDonovan will win for
+the Republicans in November...and his opponent will not. Remember Ala…
+https://t.co/RVWUwUz01J
+
+archiving URL http://twitter.com/realDonaldTrump/status/1001978774219644929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1001978774219644929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: I was honored to participate in the Right To Try bill
+signing ceremony at the @WhiteHouse today. @POTUS &amp; @VP fough…
+https://t.co/k4CbkAlkzC
+
+archiving URL http://twitter.com/SecAzar/status/1001985927328215040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1001985927328215040
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Thanks again to these #RightToTry families, the McLinns,
+Bellinas, Mongiellos &amp; Wendlers. Because of your (and so m…
+https://t.co/SsgAXdXYHE
+
+archiving URL http://twitter.com/VP/status/1001993785361010688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1001993785361010688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: About to take the stage to address the
+@KansasFFA state convention. 
+
+Watch live:
+
+https://t.co/HyUXSVFdZ7
+
+archiving URL http://twitter.com/SecretarySonny/status/1002002551036837888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1002002551036837888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @Scavino45: President Trump signs #RightToTry into
+ law. https://t.co/6UcmJznEqc https://t.co/UmpmJjjKQB
+
+archiving URL http://twitter.com/PressSec/status/1002006261427265542
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1002006261427265542
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @EricTrump: This is amazing. As someone who has
+dedicated so much of my life to fighting pediatric cancer, I’ve seen the pain an
+ entire…
+
+archiving URL http://twitter.com/PressSec/status/1002006563542982656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1002006563542982656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: If only you’d had on tennis shoes!
+https://t.co/2DosXcGB5t
+
+archiving URL http://twitter.com/PressSec/status/1002008071097540608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1002008071097540608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @HerschelWalker: What an awesome day in D.C.
+participating @WhiteHouse Sports &amp; Fitness Day with @IvankaTrump @POTUS
+@MistyMayTreanor @M…
+
+archiving URL http://twitter.com/IvankaTrump/status/1002013339046772736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1002013339046772736
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @dougmillsnyt: .@IvankaTrump throws a pass to
+former NFL star Herschel Walker as they participate in the White House Sports
+and Fitness…
+
+archiving URL http://twitter.com/IvankaTrump/status/1002013584707215363
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1002013584707215363
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: President Trump kisses Jordan McLinn, who suffers
+from Duchenne Muscular Dystrophy (DMD), after signing the…
+https://t.co/o6M5ofvbWm
+
+archiving URL http://twitter.com/Scavino45/status/1002014854356590592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1002014854356590592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: Life-changing legislation signed by @POTUS
+today. #PromiseMadePromiseKept 🇺🇸✔️ https://t.co/0zGw7rs87U
+
+archiving URL http://twitter.com/JessicaDitto45/status/1002019999555506176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1002019999555506176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Spotted tonight: the make and model of my first
+car: Ford Tempo. Mine was red. Can anyone top this sweet ride for t…
+https://t.co/pQHfjn2uAj
+
+archiving URL http://twitter.com/AshLeeStrong/status/1002021218701148161
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1002021218701148161
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @Surgeon_General: Even had a chance to race
+@JohnnyDamon in my dress blues. I’m calling a rematch. Next time I’ll be in my
+PT uniform. B…
+
+archiving URL http://twitter.com/IvankaTrump/status/1002022470075985920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1002022470075985920
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The soon to be released book, “The Russia
+Hoax, The Illicit Scheme To Clear Hillary Clinton And Frame Donald Trump,…
+https://t.co/bYHjyfPnKA
+
+archiving URL http://twitter.com/realDonaldTrump/status/1002023477531070464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1002023477531070464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Scavino45: President Trump kisses Jordan
+McLinn, who suffers from Duchenne Muscular Dystrophy (DMD), after signing the
+#RightToTry Act…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1002023935360339969
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1002023935360339969
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @IvankaTrump: Today @POTUS hosted #FieldDay at the
+@WhiteHouse with the announced President’s Council on Sports, Fitness and
+Nutrition.…
+
+archiving URL http://twitter.com/POTUS/status/1002025330763337728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1002025330763337728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @IvankaTrump: Today @POTUS hosted #FieldDay at
+the @WhiteHouse with the announced President’s Council on Sports, Fitness and
+Nutrition.…
+
+archiving URL http://twitter.com/WhiteHouse/status/1002025428742262784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1002025428742262784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “The recusal of Jeff Sessions was an unforced
+betrayal of the President of the United States.” JOE DIGENOVA, former U.S.
+Attorney.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1002027245131661312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1002027245131661312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Good working dinner with Kim Yong
+ Chol in New York tonight. Steak, corn, and cheese on the menu.
+https://t.co/1pu4K3oym7
+
+archiving URL http://twitter.com/statedeptspox/status/1002040906218958848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1002040906218958848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: Thank you @Gov_Martinez for inviting me to view how
+ New Mexico is working alongside @DHSgov to strengthen our south…
+https://t.co/BvIKCOu143
+
+archiving URL http://twitter.com/SecNielsen/status/1002042986685874178
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1002042986685874178
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
