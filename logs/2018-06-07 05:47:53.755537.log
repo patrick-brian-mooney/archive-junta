@@ -1,0 +1,75 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Thursday, 07 June 2018 at 05:47
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 605678 (char 605677)
+about to get all tweets newer than ID #1004478326336040960 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1004690138868469760 for account
+@IvankaTrump
+about to get all tweets newer than ID #1004529530881691648 for account
+@AshLeeStrong
+getting all tweets before ID #991337567617470463
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: “You are about to embark upon the great crusade,
+toward which we have striven these many months. The eyes of the wo…
+https://t.co/d9qRnuCKWZ
+
+archiving URL http://twitter.com/AshLeeStrong/status/1004583152919117825
+about to get all tweets newer than ID #1004472039615410176 for account
+@GovernorPerry
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1004583152919117825
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004535478979301381 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1004541486627778560 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1004413193349935108 for account
+@SecretarySonny
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1004407460302639104 for account
+@nikkihaley
+about to get all tweets newer than ID #1001860001865125889 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1004527090601996289 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #999379623552192513 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1004512403764236288 for account @Cabinet
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1004668474143080448 for account
+@Scaramucci
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1004445272913666048 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 602482 (char 602481)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1004497509316726784 for account
+@DepSecHargan
+about to get all tweets newer than ID #1004509641085243392 for account
+@statedeptspox

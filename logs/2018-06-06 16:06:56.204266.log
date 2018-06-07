@@ -1,0 +1,467 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Wednesday, 06 June 2018 at 16:06
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1001860001865125889 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1001107769682989056 for account
+@mike_pence
+about to get all tweets newer than ID #1004461960048599040 for account @POTUS
+getting all tweets before ID #1000043803854753791
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Thank you to everyone at @FEMA HQ
+for today’s briefing on preparations for the upcoming hurricane season. Disaster
+ res…
+
+archiving URL http://twitter.com/POTUS/status/1004481882598395905
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+
+archiving URL https://twitter.com/POTUS/status/1004481882598395905
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004412356124819456 for account @PRyan
+getting all tweets before ID #931556258108399621
+    ...400 tweets downloaded so far
+
+
+New tweet from PRyan: RT @BadgerFootball: One season. Two games.
+
+Two historic
+ venues.
+
+#OnWisconsin https://t.co/QTZjqyyNkO
+
+archiving URL http://twitter.com/PRyan/status/1004485174195904513
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004121647035699201 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/PRyan/status/1004485174195904513
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1003690193474514944 for account
+@KellyannePolls
+about to get all tweets newer than ID #1004451521621381121 for account @Cabinet
+getting all tweets before ID #911239334069542912
+    ...400 tweets downloaded so far
+
+
+New tweet from Cabinet: RT @FLGovScott: I joined @POTUS, members of his
+Cabinet, and other Governors today to discuss hurricane preparedness. The
+message is clear…
+
+archiving URL http://twitter.com/Cabinet/status/1004481202047324161
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004481202047324161
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+
+
+New tweet from Cabinet: RT @PhilBryantMS: Thanks to @realDonaldTrump, @FLOTUS
+and @fema leadership for briefing via video conference coastal governors on
+preparati…
+
+archiving URL http://twitter.com/Cabinet/status/1004481385724366849
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004481385724366849
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @ricardorossello: En videoconferencia con
+@realDonaldTrump, @FLOTUS, @VP, @SecretaryCarson, @FEMA_Brock y otros
+funcionarios federales,…
+
+archiving URL http://twitter.com/Cabinet/status/1004481587944226816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004481587944226816
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #997484665211670528 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1004459196232945664 for account
+@SecNielsen
+about to get all tweets newer than ID #1004455537348669443 for account
+@Scavino45
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1004446288862220288 for account
+@SecondLady
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1004410253780377601 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1004037987607498754 for account @PressSec
+about to get all tweets newer than ID #1004069301484220416 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1004462016755531776 for account
+@WhiteHouse
+getting all tweets before ID #999332379494899711
+    ...399 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Thank you to everyone at @FEMA
+ HQ for today’s briefing on preparations for the upcoming hurricane season.
+Disaster res…
+about to get all tweets newer than ID #1003804427436941320 for account
+@SecretaryCarson
+
+archiving URL http://twitter.com/WhiteHouse/status/1004481931025829888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1004481931025829888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump continues to keep his promises to
+America’s Veterans by signing the VA Mission Act, which will prov…
+https://t.co/QrPUBrhu66
+
+archiving URL http://twitter.com/WhiteHouse/status/1004486591883202560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1004486591883202560
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1004060340534079488 for account @FLOTUS
+about to get all tweets newer than ID #1004427112533712896 for account
+@IvankaTrump
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1004436823450505216 for account
+@statedeptspox
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1004413193349935108 for account
+@SecretarySonny
+about to get all tweets newer than ID #1004463765423820806 for account
+@DepSecHargan
+about to get all tweets newer than ID #1003853149633949696 for account
+@DanScavino
+about to get all tweets newer than ID #1004445272913666048 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1004407460302639104 for account
+@nikkihaley
+about to get all tweets newer than ID #1004060601788850176 for account
+@StephGrisham45
+about to get all tweets newer than ID #1003676875095461889 for account @Comey
+about to get all tweets newer than ID #1004395159235284993 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1003255393374613504 for account @Reince
+about to get all tweets newer than ID #1004394527355031552 for account
+@JessicaDitto45
+getting all tweets before ID #983833602273181695
+    ...393 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @RepAndyBarr: I'm honored to be at the Rose
+Garden ahead of the signing ceremony for the #VAMissionAct, which ensures our
+veterans recei…
+about to get all tweets newer than ID #1004421796832083968 for account
+@EPAScottPruitt
+
+archiving URL http://twitter.com/JessicaDitto45/status/1004486382000263169
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1004486382000263169
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Thank you to everyone at
+@FEMA HQ for today’s briefing on preparations for the upcoming hurricane season.
+ Disaster res…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1004486510538838017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1004486510538838017
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: We must always protect
+those who protect us. Today, it was my great honor to sign the #VAMissionAct and
+ to make Vetera…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1004486541849350144
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004392583391596546 for account @SBALinda
+
+archiving URL https://twitter.com/JessicaDitto45/status/1004486541849350144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @ricardorossello: In videoconference with
+@RealDonaldTrump, @FLOTUS, @VP, @SecretaryCarson, @FEMA_Brock and other federal
+officials, as…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1004486741347196929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1004486741347196929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FLGovScott: I joined @POTUS, members of his
+ Cabinet, and other Governors today to discuss hurricane preparedness. The
+message is clear…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1004486995777937413
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+archiving URL https://twitter.com/JessicaDitto45/status/1004486995777937413
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #999379623552192513 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1004347089269161984 for account @SecAzar
+about to get all tweets newer than ID #1002993456845852672 for account
+@RealBenCarson
+about to get all tweets newer than ID #1004480223235203074 for account
+@AshLeeStrong
+getting all tweets before ID #991156475979542528
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: @riccimike @JakeSherman I look forward to a full
+readout on your suggested weed talkers.
+about to get all tweets newer than ID #1004457624342065152 for account
+@seanspicer
+
+archiving URL http://twitter.com/AshLeeStrong/status/1004481114805886978
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1004481114805886978
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004472039615410176 for account
+@GovernorPerry
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1004461862954717189 for account @VP
+getting all tweets before ID #996389563273752575
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: As General Eisenhower said—the eyes of the world were upon
+our allied fighting forces on #DDay in 1944. Despite the…
+https://t.co/lMoEmfQV7p
+about to get all tweets newer than ID #1003663449342271488 for account
+@BetsyDeVosED
+
+archiving URL http://twitter.com/VP/status/1004485669920657408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1004485669920657408
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004478609296379904 for account
+@Scaramucci
+about to get all tweets newer than ID #1004094841368784896 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1004478326336040960 for account
+@realDonaldTrump
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1004397878876524544 for account
+@SecretaryAcosta
+... OK, we're set up, and about to watch 836305915452272641, 22203756,
+822215679726100480, 105267762, 733751245, 799764016885329921, 599530439,
+471672239, 818928162449068032, 728361177986797568, 831482588246196225, 29547260,
+ 118756393, 935148134505828353, 823367015830323201, 108471631, 1923451808,
+822127086194348032, 803703725730779136, 18916432, 818927131883356161,
+830128820447539208, 822215673812119553, 828613457020870657, 6577802,
+818876014390603776, 52544275, 866746592853979137, 829782369670410240,
+1967216306, 15985455, 842072478834909184, 920035992073064450, 620571475,
+894923298374651904, 37666984, 823638938590085124, 2334193741,
+827258161841135623, 20733972, 836724024688410625, 832672006113931269,
+819992522109894658, 826065858548133888, 798195585824104449, 956283913835614208,
+1180379185, 296060169, 20776147, 18906561, 65522706, 818910970567344128,
+828997388920619008, 24578794, 888031054141022209, 25073877, 809836066316451840,
+212262370, 819980276570976256
+
+
+New tweet from VP: RT @realDonaldTrump: Thank you to everyone at @FEMA HQ for
+today’s briefing on preparations for the upcoming hurricane season. Disaster
+res…
+
+archiving URL http://twitter.com/VP/status/1004490035310276609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1004490035310276609
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: We must always protect those who
+protect us. Today, it was my great honor to sign the #VAMissionAct and to make
+Vetera…
+
+archiving URL http://twitter.com/VP/status/1004490064242577408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1004490064242577408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Removing barriers to coordinated care is critical
+ to moving to value based care. As Chief Operating Officer (COO) a…
+https://t.co/N3cutTLXVC
+
+archiving URL http://twitter.com/DepSecHargan/status/1004491788143480832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1004491788143480832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: https://t.co/CR9H1NC3DT
+
+archiving URL http://twitter.com/Scavino45/status/1004492077584003072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1004492077584003072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @FEMA_Brock: Thank you @POTUS, @VP, @SecNielsen and
+ Cabinet members for the leadership and cont’d support of @fema &amp; our staff.
+ Together…
+
+archiving URL http://twitter.com/Cabinet/status/1004492819531227136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004492819531227136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @WVTM13: Alice Johnson, the moment she was
+released from prison and reunited with her family https://t.co/qRi9HhI0JY
+
+archiving URL http://twitter.com/IvankaTrump/status/1004493251968159746
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1004493251968159746
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump and the First Lady attended the
+2018 hurricane briefing today at FEMA HQ where they discussed the i…
+https://t.co/X6djVSlva3
+
+archiving URL http://twitter.com/WhiteHouse/status/1004493375976845313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1004493375976845313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: President Trump and the First Lady
+attended the 2018 hurricane briefing today at FEMA HQ where they discussed the
+importanc…
+
+archiving URL http://twitter.com/POTUS/status/1004493427847979008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1004493427847979008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "For the first time since such record-keeping began
+ in 2000, the number of available positions exceeded the number…
+https://t.co/i1vvW9sdwv
+
+archiving URL http://twitter.com/WhiteHouse/status/1004493638271979520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1004493638271979520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: "For the first time since such record-
+keeping began in 2000, the number of available positions exceeded the number of
+job s…
+
+archiving URL http://twitter.com/POTUS/status/1004493701207511045
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1004493701207511045
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Informative meeting with @FEMA today. With the
+hurricane season is upon us, you can download the FEMA app…
+https://t.co/J32PY1ecMM
+
+archiving URL http://twitter.com/FLOTUS/status/1004494166892711937
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1004494166892711937
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @WhiteHouse: President Trump and the First Lady
+attended the 2018 hurricane briefing today at FEMA HQ where they discussed the
+importanc…
+
+archiving URL http://twitter.com/Cabinet/status/1004494620129222657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004494620129222657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @FLOTUS: Informative meeting with @FEMA today.
+With the hurricane season is upon us, you can download the FEMA app
+https://t.co/GOa1yv41…
+
+archiving URL http://twitter.com/WhiteHouse/status/1004494630682054656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1004494630682054656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @FLOTUS: Informative meeting with @FEMA today. With
+the hurricane season is upon us, you can download the FEMA app
+https://t.co/GOa1yv41…
+
+archiving URL http://twitter.com/POTUS/status/1004494702035554305
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1004494702035554305
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @FLOTUS: Informative meeting with @FEMA today. With
+ the hurricane season is upon us, you can download the FEMA app
+https://t.co/GOa1yv41…
+
+archiving URL http://twitter.com/Cabinet/status/1004494745597562880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1004494745597562880
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
