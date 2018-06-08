@@ -1,0 +1,206 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Thursday, 07 June 2018 at 06:46
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1004506591771680768 for account @POTUS
+getting all tweets before ID #1000381386233188351
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @WhiteHouse: Happy birthday, @VP!
+https://t.co/M0gW1bPC4h
+about to get all tweets newer than ID #1004395159235284993 for account
+@SecretaryZinke
+
+archiving URL http://twitter.com/POTUS/status/1004705634963648512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1004705634963648512
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1004509641085243392 for account
+@statedeptspox
+about to get all tweets newer than ID #1004407460302639104 for account
+@nikkihaley
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1004577269824794624 for account @PressSec
+about to get all tweets newer than ID #1004689220840148992 for account
+@SecretaryCarson
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1004544510909714432 for account
+@seanspicer
+about to get all tweets newer than ID #1004696266297827328 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1004668474143080448 for account
+@Scaramucci
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1003676875095461889 for account @Comey
+about to get all tweets newer than ID #1001860001865125889 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1004445272913666048 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1004060601788850176 for account
+@StephGrisham45
+about to get all tweets newer than ID #1004506299864936449 for account @VP
+about to get all tweets newer than ID #1004527090601996289 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 625688 (char 625687)
+about to get all tweets newer than ID #1004583152919117825 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1003255393374613504 for account @Reince
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1004494166892711937 for account @FLOTUS
+about to get all tweets newer than ID #1004497509316726784 for account
+@DepSecHargan
+about to get all tweets newer than ID #1002993456845852672 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 613784 (char 613783)
+about to get all tweets newer than ID #1004446288862220288 for account
+@SecondLady
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1004413193349935108 for account
+@SecretarySonny
+about to get all tweets newer than ID #1003663449342271488 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1004515729746677761 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608259 (char 608258)
+about to get all tweets newer than ID #1004485174195904513 for account @PRyan
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1004697707355795456 for account
+@IvankaTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1004537883892514816 for account
+@Scavino45
+about to get all tweets newer than ID #1004421796832083968 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #1004472039615410176 for account
+@GovernorPerry
+about to get all tweets newer than ID #1001107769682989056 for account
+@mike_pence
+about to get all tweets newer than ID #999379623552192513 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1004541486627778560 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1004392583391596546 for account @SBALinda
+about to get all tweets newer than ID #1003690193474514944 for account
+@KellyannePolls
+about to get all tweets newer than ID #1004512403764236288 for account @Cabinet
+about to get all tweets newer than ID #1004704254068756481 for account @SecAzar
+about to get all tweets newer than ID #1004509983365529600 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1004553187494449154 for account
+@WhiteHouse
+getting all tweets before ID #999374913088688132
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: Happy birthday, @VP! https://t.co/M0gW1bPC4h
+
+archiving URL http://twitter.com/WhiteHouse/status/1004705288010829829
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+archiving URL https://twitter.com/WhiteHouse/status/1004705288010829829
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1004094841368784896 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1003853149633949696 for account
+@DanScavino
+about to get all tweets newer than ID #1004535478979301381 for account
+@JessicaDitto45
+about to get all tweets newer than ID #997484665211670528 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 620255 (char 620254)
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 610260 (char 610259)
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1004397878876524544 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+... OK, we're set up, and about to watch 822215679726100480, 827258161841135623,
+ 1967216306, 37666984, 105267762, 29547260, 818927131883356161,
+828613457020870657, 108471631, 20776147, 25073877, 24578794, 728361177986797568,
+ 2334193741, 836305915452272641, 894923298374651904, 823638938590085124,
+818910970567344128, 799764016885329921, 296060169, 20733972, 866746592853979137,
+ 818876014390603776, 920035992073064450, 1180379185, 822127086194348032,
+65522706, 842072478834909184, 828997388920619008, 935148134505828353, 733751245,
+ 803703725730779136, 52544275, 15985455, 823367015830323201, 832672006113931269,
+ 18906561, 22203756, 798195585824104449, 18916432, 819992522109894658,
+471672239, 818928162449068032, 956283913835614208, 830128820447539208,
+822215673812119553, 826065858548133888, 1923451808, 888031054141022209,
+620571475, 836724024688410625, 118756393, 599530439, 831482588246196225,
+6577802, 212262370, 829782369670410240, 819980276570976256, 809836066316451840
+
+
+New tweet from SecretarySonny: Mary and I enjoyed our time at the National
+Arboretum last night. @USDA has done a tremendous job to preserve this…
+https://t.co/KMNfzbMnXR
+
+archiving URL http://twitter.com/SecretarySonny/status/1004714795826909185
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1004714795826909185
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecretaryCarson: This morning in Detroit, I announced dozens of
+ new EnVision Centers in 17 communities around the country. Learn mor…
+https://t.co/9C8vtcDE5u
+
+archiving URL http://twitter.com/SecretaryCarson/status/1004721443031146497
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1004721443031146497
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
