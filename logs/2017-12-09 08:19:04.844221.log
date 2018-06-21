@@ -156,3 +156,27 @@ about to get all tweets newer than ID #903694300306923521 for account
 @SecElaineChao
 about to get all tweets newer than ID #938872791843078147 for account
 @StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #939278924261003264 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=PRyan&count=200 (Caused by Ne
+wConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection
+object at 0xb655114c>: Failed to establish a new connection: [Errno -2] Name or
+service not known',))
+... OK, we're set up, and about to watch 828613457020870657, 798195585824104449,
+ 212262370, 830128820447539208, 108471631, 1180379185, 1923451808,
+818910970567344128, 799764016885329921, 18906561, 24578794, 836724024688410625,
+599530439, 20776147, 823367015830323201, 827258161841135623, 620571475,
+819992522109894658, 728361177986797568, 831482588246196225, 29547260, 6577802,
+892173412818354177, 65522706, 25073877, 828997388920619008, 842072478834909184,
+822127086194348032, 52544275, 20733972, 22203756, 888031054141022209,
+822215673812119553, 819980276570976256, 809836066316451840, 829782369670410240,
+471672239, 822215679726100480, 818876014390603776, 105267762,
+866746592853979137, 818927131883356161, 836305915452272641, 296060169,
+832672006113931269, 18916432, 15985455, 803703725730779136, 37666984,
+826065858548133888, 823638938590085124, 733751245

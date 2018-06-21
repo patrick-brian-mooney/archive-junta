@@ -150,3 +150,69 @@ about to get all tweets newer than ID #832282841471918080 for account
 @BetsyDeVos
 about to get all tweets newer than ID #931658797340389377 for account
 @Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+... OK, we're set up, and about to watch 1923451808, 22203756,
+828613457020870657, 818876014390603776, 296060169, 728361177986797568,
+822215679726100480, 818910970567344128, 20733972, 819980276570976256,
+819992522109894658, 842072478834909184, 25073877, 827258161841135623,
+798195585824104449, 18916432, 836305915452272641, 822215673812119553,
+803703725730779136, 37666984, 1180379185, 105267762, 823367015830323201,
+108471631, 892173412818354177, 826065858548133888, 20776147, 29547260,
+823638938590085124, 52544275, 809836066316451840, 799764016885329921,
+888031054141022209, 832672006113931269, 828997388920619008, 866746592853979137,
+822127086194348032, 831482588246196225, 212262370, 15985455, 836724024688410625,
+ 471672239, 620571475, 6577802, 733751245, 18906561, 65522706,
+830128820447539208, 829782369670410240, 818927131883356161, 599530439, 24578794
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretaryZinke: RT @realDonaldTrump: Put big game trophy
+decision on hold until such time as I review all conservation facts. Under study
+ for years. Wil…
+
+archiving URL http://twitter.com/SecretaryZinke/status/931699040407912448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/931699040407912448
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scavino45: After today’s meet/greet and team photo in the East
+Room of the @WhiteHouse with @POTUS @realDonaldTrump, The Unive…
+https://t.co/KzN92iGJn0
+
+archiving URL http://twitter.com/Scavino45/status/931702389417168896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/931702389417168896
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...

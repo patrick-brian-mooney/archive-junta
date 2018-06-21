@@ -1978,3 +1978,26 @@ archiving URL https://twitter.com/POTUS/status/1009649032367570945
 
 archiving URL https://twitter.com/POTUS/status/1009649025971376128
     ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+301326902487048192,
+                       'id_str': '301326902487048192',
+
+                       'user_id': 20733972,
+'user_id_str': '20733972'},
+            'timestamp_ms': '1529559706505'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 301326902487048192 on
+ account Reince
+INFO: get_archived_tweet() called to get tweet ID 301326902487048192 for account
+ Reince
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Reince is not in the list of
+accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
