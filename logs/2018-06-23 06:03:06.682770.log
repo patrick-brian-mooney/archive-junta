@@ -1,0 +1,925 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Saturday, 23 June 2018 at 06:03
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1009853078906994689 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1007022462205349894 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1009989582186795008 for account
+@IvankaTrump
+about to get all tweets newer than ID #1006582155357642753 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1010231643871830017 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1010188162608586752 for account
+@seanspicer
+about to get all tweets newer than ID #1010286487722713094 for account
+@nikkihaley
+about to get all tweets newer than ID #1010259361497800705 for account
+@DepSecHargan
+about to get all tweets newer than ID #1010244436977176583 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1010346671815917569 for account
+@Scavino45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1010486772541816834 for account
+@realDonaldTrump
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1010252141519409157 for account @SecAzar
+about to get all tweets newer than ID #1009872882053378050 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1010249069963378688 for account
+@SecondLady
+about to get all tweets newer than ID #1008727284159635456 for account @PRyan
+about to get all tweets newer than ID #1010227193526521856 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1010192069762125825 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1009908463072432129 for account
+@SecretarySonny
+about to get all tweets newer than ID #1010158215068340229 for account @PressSec
+about to get all tweets newer than ID #1010330130441539585 for account @VP
+about to get all tweets newer than ID #1010321800201428993 for account @POTUS
+about to get all tweets newer than ID #1010158480890703872 for account
+@JessicaDitto45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1009835960375435264 for account
+@SecretaryCarson
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1010291399961534466 for account
+@statedeptspox
+about to get all tweets newer than ID #1009430894539673605 for account
+@GovernorPerry
+about to get all tweets newer than ID #1010319119860862978 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1008040710283628544 for account @Comey
+about to get all tweets newer than ID #1010272343955050496 for account @SBALinda
+getting all tweets before ID #991291744405909503
+    ...400 tweets downloaded so far
+
+
+New tweet from SBALinda: Staff roundtable at the @SBA_LosAngeles district
+office, discussing how we can better serve our local… https://t.co/48mCy8Grmz
+
+archiving URL http://twitter.com/SBALinda/status/1010293942066110465
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1010215801314410497 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1010345842543382528 for account
+@Scaramucci
+
+archiving URL https://twitter.com/SBALinda/status/1010293942066110465
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1010270730078965760 for account
+@SpeakerRyan
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1008005270235205632 for account
+@RealBenCarson
+about to get all tweets newer than ID #1009554757483159552 for account @Cabinet
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1010226513290170368 for account
+@StephGrisham45
+about to get all tweets newer than ID #1010261118110052353 for account @FLOTUS
+about to get all tweets newer than ID #1009989335960125442 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1009819820433559552 for account
+@SecNielsen
+about to get all tweets newer than ID #1010299648626647040 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 604460 (char 604459)
+about to get all tweets newer than ID #1010187621618855936 for account
+@mike_pence
+about to get all tweets newer than ID #1004919431217152001 for account
+@DanScavino
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1010236704475832321 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1010230822480285696 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1010254414421155846 for account
+@EPAScottPruitt
+... OK, we're set up, and about to watch 15985455, 888031054141022209,
+828997388920619008, 52544275, 118756393, 819980276570976256, 212262370,
+20776147, 37666984, 920035992073064450, 827258161841135623, 823367015830323201,
+728361177986797568, 25073877, 826065858548133888, 809836066316451840,
+956283913835614208, 894923298374651904, 822127086194348032, 733751245,
+798195585824104449, 799764016885329921, 866746592853979137, 1923451808,
+842072478834909184, 818927131883356161, 818910970567344128, 822215679726100480,
+836724024688410625, 29547260, 829782369670410240, 828613457020870657, 105267762,
+ 1967216306, 18906561, 296060169, 2334193741, 819992522109894658,
+830128820447539208, 24578794, 831482588246196225, 18916432, 803703725730779136,
+1180379185, 818928162449068032, 65522706, 823638938590085124,
+818876014390603776, 20733972, 599530439, 935148134505828353, 822215673812119553,
+ 22203756, 620571475, 6577802, 471672239, 108471631, 836305915452272641,
+832672006113931269
+
+
+New tweet from SecretaryAcosta: Heading to Las Vegas, Nevada, with @POTUS
+today for a roundtable discussion on how tax reform and @USDOL’s Associat…
+https://t.co/2RopwsBqvx
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1010500250463821825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1010500250463821825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The National Association of Manufacturers just
+ announced that 95.1% of Manufacturers “have a positive outlook for t…
+https://t.co/Xhx3FDLAxT
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010502249263624195
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010502249263624195
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “Disability applications plunge as economy
+strengthens”  Failing New York Times
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010503423773507584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010503423773507584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: The National Association
+of Manufacturers just announced that 95.1% of Manufacturers “have a positive
+outlook for thei…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010505013414760448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010505013414760448
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: Drudge Report  “OBAMA KEPT THEM IN CAGES,
+WRAPPED THEM IN FOIL” We do a much better job while at the same time main…
+https://t.co/niwUf6T2rg
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010505990259855361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010505990259855361
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2000
+more expected)', IncompleteRead(0 bytes read, 2000 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from JessicaDitto45: Looking forward to being in Nevada today where
+@POTUS will discuss the positive impacts of #TaxCuts enacted just si…
+https://t.co/KlKlho5ssY
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010516710632448000
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010516710632448000
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SenDeanHeller: Today marks six months since
+ the #TaxCutsandJobsAct was signed into law.  As a direct result of the new law,
+ thousands o…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010516788315086848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SenDeanHeller: On top of that, nearly
+25,000 #Nevadans may benefit from things like college tuition assistance,
+increased pension fundi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010516817662676992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010516788315086848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010516817662676992
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Happy 70th Birthday to an inspiring American and a great
+Supreme Court Justice, Clarence Thomas! Honored to welcome…
+https://t.co/meYb7jEpiw
+
+archiving URL http://twitter.com/VP/status/1010520897361530880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1010520897361530880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Happy 70th Birthday to an inspiring American and
+ a great Supreme Court Justice, Clarence Thomas! Honored to welcome you back to
+the…
+
+archiving URL http://twitter.com/POTUS/status/1010521035362455552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: Happy 70th Birthday to an inspiring
+American and a great Supreme Court Justice, Clarence Thomas! Honored to welcome
+you back to the…
+
+archiving URL http://twitter.com/WhiteHouse/status/1010521083404046336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010521035362455552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010521083404046336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: .@VP Pence is heading to Pittsburgh,
+Pennsylvania where we have both strongly endorsed one of the finest men around…
+https://t.co/fkXBNxvWZe
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010522933498806278
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ...everyone how much he likes me, but he will
+only vote with Nancy Pelosi. Keith is strong on borders and tough on…
+https://t.co/ytZoim3yaI
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010522945402224642
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010522933498806278
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010522945402224642
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: "Democrat-supported loopholes in our federal laws
+have enabled roughly half a million illegal immigrant family memb…
+https://t.co/W5xfPICh38
+
+archiving URL http://twitter.com/WhiteHouse/status/1010523778558939137
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010523778558939137
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: "Democrat-supported loopholes in our
+federal laws have enabled roughly half a million illegal immigrant family
+members and…
+
+archiving URL http://twitter.com/POTUS/status/1010523976844660736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010523976844660736
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: This is spectacular! https://t.co/qeunoLZmh3
+
+archiving URL http://twitter.com/Reince/status/1010527605798457344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1010527605798457344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @FoxNews: .@seanspicer: “If we as Americans, if
+we as a society can’t talk to each other, if we can’t engage in civil discourse,
+ then we…
+
+archiving URL http://twitter.com/seanspicer/status/1010531709312520192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010531709312520192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Laura Wilkerson lost her son Josh in 2010. He was
+tortured and beaten to death by an illegal alien. https://t.co/2QqfSk2WSA
+
+archiving URL http://twitter.com/WhiteHouse/status/1010533434899382272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010533434899382272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Laura Wilkerson lost her son Josh in
+2010. He was tortured and beaten to death by an illegal alien.
+https://t.co/2QqfSk2WSA
+
+archiving URL http://twitter.com/POTUS/status/1010533541862690816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010533541862690816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Last night I was told by the owner of Red Hen in
+Lexington, VA to leave because I work for @POTUS and I politely le…
+https://t.co/C5554K1LVJ
+
+archiving URL http://twitter.com/PressSec/status/1010536237457924096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1010536237457924096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: My thoughts and prayers are with
+Representative Katie Arrington of South Carolina, including all of those
+involved… https://t.co/s2qGDVlASC
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010536329766006784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010536329766006784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Oh how we love these friends...#LaughingForHours
+https://t.co/2fsnUpzlV3
+
+archiving URL http://twitter.com/nikkihaley/status/1010536815898644480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1010536815898644480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: My thoughts and prayers are with
+Representative Katie Arrington of South Carolina, including all of those
+involved in…
+
+archiving URL http://twitter.com/POTUS/status/1010537064444538881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010537064444538881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: My thoughts and prayers are
+with Representative Katie Arrington of South Carolina, including all of those
+involved in…
+
+archiving URL http://twitter.com/WhiteHouse/status/1010537346012459009
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: Heading to Pittsburgh to campaign with a good
+friend of mine and a great congressman @RothfusForPA! Keith is a stro…
+https://t.co/j3bCMlQUrf
+
+archiving URL http://twitter.com/mike_pence/status/1010537345559465984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010537346012459009
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010537345559465984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: This makes me genuinely sad. Different opinions
+ are ok people. @PressSec is a class act &amp; someone I’m proud to call…
+https://t.co/TCu7jHnalW
+
+archiving URL http://twitter.com/StephGrisham45/status/1010537969273450497
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1010537969273450497
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: RT @realDonaldTrump: .@VP Pence is heading to
+Pittsburgh, Pennsylvania where we have both strongly endorsed one of the finest
+men around, C…
+
+archiving URL http://twitter.com/mike_pence/status/1010539307923378177
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: RT @realDonaldTrump: ...everyone how much he likes
+me, but he will only vote with Nancy Pelosi. Keith is strong on borders and
+tough on cri…
+
+archiving URL http://twitter.com/mike_pence/status/1010539320049131521
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010539320049131521
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010539307923378177
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: This is upsetting. We should be able to
+disagree respectfully. Once again, Sarah shows grace in the face of intoler…
+https://t.co/u9PmWSOcHH
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010544531568095232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010544531568095232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Delighted to host @KingAbdullahII
+ at @StateDept yesterday. U.S. and #Jordan have a strong strategic partnership.
+Both countr…
+
+archiving URL http://twitter.com/statedeptspox/status/1010545863599542274
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDept: Watch @SecPompeo’s interview with
+ MSNBC's @HughHewitt as he discusses the U.S.-#Iran relationship, his meeting
+with #China's…
+
+archiving URL http://twitter.com/statedeptspox/status/1010545880515129349
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1010545863599542274
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1010545880515129349
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: My thoughts and prayers
+are with Representative Katie Arrington of South Carolina, including all of
+those involved in…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010546178419638278
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: "Democrat-supported loopholes
+in our federal laws have enabled roughly half a million illegal immigrant family
+ members and…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010546212628393986
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010546178419638278
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010546212628393986
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Looking for something to listen to this
+weekend? Check out @ENERGY’s podcast Direct Current where I sit down and ta…
+https://t.co/cCqS07pSnr
+
+archiving URL http://twitter.com/SecretaryPerry/status/1010553068075663360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1010553068075663360
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @SkyBridge: SkyBridge's Troy Gayeski Says
+Regulatory Relief Will Help Market Returns via @business @BloombergTV
+https://t.co/iyv2tOQf71
+
+archiving URL http://twitter.com/Scaramucci/status/1010564148588146689
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010564148588146689
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: #Russia should end its campaign against the
+Crimean Tatars in occupied #Crimea and release all those imprisoned for…
+https://t.co/y1S1Lh2tiK
+
+archiving URL http://twitter.com/statedeptspox/status/1010565086254166016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1010565086254166016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Funny stuff. @Sethrogen I have no brain but let’s
+work together on Alzheimer’s to help the people that do! https://t.co/csXuZ1aXzA
+
+archiving URL http://twitter.com/Scaramucci/status/1010567467465310208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010567467465310208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Heading to Nevada to talk trade and
+immigration with supporters. Country’s economy is stronger than ever before wit…
+ https://t.co/kXEzed3ign
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010567610352611328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010567610352611328
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Heading to Nevada to talk trade and
+ immigration with supporters. Country’s economy is stronger than ever before
+with n…
+
+archiving URL http://twitter.com/POTUS/status/1010567922228649989
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010567922228649989
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @HuckabeeOnTBN: TONIGHT: the President of
+the United States, @realDonaldTrump, sits down to discuss his thoughts about
+international rel…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010568932971896832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010568932971896832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: It’s very sad that Nancy Pelosi and her
+sidekick, Cryin’ Chuck Schumer, want to protect illegal immigrants far more…
+https://t.co/HidQanCeMr
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010569562138406912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010569562138406912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: It’s very sad that Nancy Pelosi and
+ her sidekick, Cryin’ Chuck Schumer, want to protect illegal immigrants far more
+ th…
+
+archiving URL http://twitter.com/POTUS/status/1010569678232489984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010569678232489984
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1010569678232489984,
+                       'id_str': '1010569678232489984',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1529773678308'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1010569678232489984
+on account POTUS
+INFO: get_archived_tweet() called to get tweet ID 1010569678232489984 for
+account POTUS
+ERROR: unable to read line "['40375873032193"']" because: need more than 1 value
+ to unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/1010569678232489984	RT
+@realDonaldTrump: It’s very sad that Nancy Pelosi and her sidekick, Cryin’ Chuck
+ Schumer, want to protect illegal immigrants far more th…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from POTUS: RT @realDonaldTrump: It’s very sad that Nancy Pelosi and
+ her sidekick, Cryin’ Chuck Schumer, want to protect illegal immigrants far more
+ th…
+
+archiving URL http://twitter.com/POTUS/status/1010570188650053633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010570188650053633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @HuckabeeOnTBN: TONIGHT: the President of the United
+States, @realDonaldTrump, sits down to discuss his thoughts about international
+rel…
+
+archiving URL http://twitter.com/POTUS/status/1010570347119198208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010570347119198208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Sarah is one of our finest public servants. Our
+differences shouldn’t be big enough for this sort of behavior, do n…
+https://t.co/DNLFGL6YMd
+
+archiving URL http://twitter.com/Scaramucci/status/1010570707712004097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010570707712004097
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Happy Birthday to Supreme Court Justice
+Clarence Thomas, a friend and great man! https://t.co/hlXYYkTjcv
+
+archiving URL http://twitter.com/realDonaldTrump/status/1010571197271011328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1010571197271011328
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Happy Birthday to Supreme Court
+Justice Clarence Thomas, a friend and great man! https://t.co/hlXYYkTjcv
+
+archiving URL http://twitter.com/POTUS/status/1010571282289590272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1010571282289590272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Happy Birthday to Supreme
+Court Justice Clarence Thomas, a friend and great man! https://t.co/hlXYYkTjcv
+
+archiving URL http://twitter.com/WhiteHouse/status/1010571388162199552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010571388162199552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Happy Birthday to Supreme Court
+ Justice Clarence Thomas, a friend and great man! https://t.co/hlXYYkTjcv
+
+archiving URL http://twitter.com/Scavino45/status/1010571491656679424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1010571491656679424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @PressClubDC: Lots of great events coming up
+this summer at the National Press Club!  Alan Alda, MLB Commission Rob Manfred,
+Sean Spicer…
+
+archiving URL http://twitter.com/seanspicer/status/1010573918745366528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010573918745366528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @PressSec: Last night I was told by the owner of
+ Red Hen in Lexington, VA to leave because I work for @POTUS and I politely
+left. Her ac…
+
+archiving URL http://twitter.com/seanspicer/status/1010574213109944320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010574213109944320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: We are in it together Natalie. That’s the point.
+https://t.co/ecZsy7wBpg
+
+archiving URL http://twitter.com/Scaramucci/status/1010574579818024961
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010574579818024961
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: It is great to be in Pennsylvania showing
+@realDonaldTrump and my support for @RothfusForPA. Congressman Keith Roth…
+https://t.co/OecJj50gm4
+
+archiving URL http://twitter.com/mike_pence/status/1010575535192276993
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010575535192276993
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Within the alternative space, how does SkyBridge
+differentiate itself https://t.co/4nf9TXzpka via @YouTube @SkyBridge
+@SALTConference
+
+archiving URL http://twitter.com/Scaramucci/status/1010576274421624832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010576274421624832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today, @SecPompeo spoke with Canadian Foreign
+Minister @cafreeland to discuss a range of global issues, including c…
+https://t.co/eKdtE1R6I8
+
+archiving URL http://twitter.com/statedeptspox/status/1010576984924139520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1010576984924139520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Shallow intellectualism and crowdthink. Dialogue
+solves problems. https://t.co/2iiBiMybMG
+
+archiving URL http://twitter.com/Scaramucci/status/1010580271392067584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010580271392067584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today, @SecPompeo met with @UN Secretary-General
+ António Guterres to discuss the success of the #SingaporeSummit, e…
+https://t.co/sDmdHtOu4f
+
+archiving URL http://twitter.com/statedeptspox/status/1010582970321768448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1010582970321768448
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: President @realDonaldTrump called it... when he
+said Conor Lamb would “only vote with Nancy Pelosi!” Now, Congressm…
+https://t.co/UZwCPw8r88
+
+archiving URL http://twitter.com/mike_pence/status/1010584739215003648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010584739215003648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: Thank you Pennsylvania for a great day in the
+Keystone State!!! Now, we are off to visit another friend and support…
+https://t.co/wrwuy0erav
+
+archiving URL http://twitter.com/mike_pence/status/1010585431728185344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1010585431728185344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: That’s the ⁦@huntandfishnyc⁩ on ⁦@ESPN⁩ ⁦@ESPNPR⁩
+make your reservation tonight! https://t.co/q4LNd3WCCK
+
+archiving URL http://twitter.com/Scaramucci/status/1010587090822815744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010587090822815744
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: The food is great! ⁦@huntandfishnyc⁩
+https://t.co/1JeyQO179c
+
+archiving URL http://twitter.com/Scaramucci/status/1010587352065101825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1010587352065101825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: We look forward to having several members of Congress
+and the media tour @ACFHHS funded grantee facilities across t…
+https://t.co/1LE9DxTt84
+
+archiving URL http://twitter.com/SecAzar/status/1010589126754791426
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1010589126754791426
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @SenDeanHeller: Looking forward to welcoming
+ @POTUS this morning to southern Nevada to discuss how #taxreform is
+transforming our state,…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010590527446646784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: .@POTUS @realDonaldTrump is greeted in Las
+Vegas, Nevada by @SenDeanHeller where he’ll host a round table discussio…
+https://t.co/xqtE50ltcs
+
+archiving URL http://twitter.com/JessicaDitto45/status/1010590753351876608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1010590753351876608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @Cline4Virginia: On behalf of my hometown of
+Lexington, I want to apologize for the rudeness of one liberal New York
+transplant (who als…
+
+archiving URL http://twitter.com/seanspicer/status/1010592944397737986
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010592944397737986
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @AriFleischer: I guess we’re heading into an
+America with Democrat-only restaurants, which will lead to Republican-only
+restaurants.  Do…
+
+archiving URL http://twitter.com/Scaramucci/status/1010595573236461568
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/Scaramucci/status/1010595573236461568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: 6 months after tax cuts, the real celebration is
+for America’s workers: https://t.co/WFE6BqgD2w https://t.co/yZDGfQt3US
+
+archiving URL http://twitter.com/WhiteHouse/status/1010606168329289729
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1010606168329289729
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Episode 1 of Everything Is Going to Be All Right
+podcast w ⁦@KatiePavlich⁩ is now available in ⁦@iTunes⁩   Please d…
+https://t.co/VoVu6EuJWG
+
+archiving URL http://twitter.com/seanspicer/status/1010608341431840768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010608341431840768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Thanks https://t.co/Geo2OFEiwa
+
+archiving URL http://twitter.com/seanspicer/status/1010609882322612226
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1010609882322612226
+    ... archiving using prefix http://web.archive.org/save/
