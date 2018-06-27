@@ -3646,3 +3646,68 @@ WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
 WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: Congratulations to @RepDanDonovan on his victory
+last night. And to my friend @RealMGrimm I am so glad you are back…
+https://t.co/8Zjsabrrle
+
+archiving URL http://twitter.com/Scaramucci/status/1011901650368368642
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1011901650368368642
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @RealMGrimm: Catch me on @TheStoryFNC with
+@marthamaccallum at 7:40pm!
+
+archiving URL http://twitter.com/Scaramucci/status/1011901710988664832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1011901710988664832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @USUN: We visited a @K_Satyarthi Foundation
+supported shelter to discuss the challenges of child labor, traffick…
+https://t.co/FN1FsIsQt8
+
+archiving URL http://twitter.com/nikkihaley/status/1011907762429857793
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/nikkihaley/status/1011907762429857793
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1011907762429857793,
+                       'id_str': '1011907762429857793',
+
+                       'user_id': 37666984,
+'user_id_str': '37666984'},
+            'timestamp_ms': '1530093374512'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1011907762429857793
+on account nikkihaley
+INFO: get_archived_tweet() called to get tweet ID 1011907762429857793 for
+account nikkihaley
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/nikkihaley/sta
+tus/1011907762429857793	RT @USUN: We visited a @K_Satyarthi Foundation supported
+ shelter to discuss the challenges of child labor, traffick…
+https://t.co/FN1FsIsQt8
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because nikkihaley is not in the list
+of accounts we tweet about
+
+
+New tweet from SecondLady: ICYMI: Second Lady Karen Pence helps to renew
+Sister City relationship during visit in Brasilia. ⁦@SisterCitiesInt⁩
+https://t.co/0NoUHYXxE8
+
+archiving URL http://twitter.com/SecondLady/status/1011915056693596162
+    ... archiving using prefix http://web.archive.org/save/
