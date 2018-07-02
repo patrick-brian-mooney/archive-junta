@@ -461,3 +461,709 @@ archiving URL http://twitter.com/nikkihaley/status/1013503075477311488
 
 archiving URL https://twitter.com/nikkihaley/status/1013503075477311488
     ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: A big week, especially with our numerous
+victories in the Supreme Court. Heading back to the White House now. Focus…
+https://t.co/jPZ5kt4XY1
+
+archiving URL http://twitter.com/realDonaldTrump/status/1013507396558303233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1013507396558303233
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+892464564780105728,
+                       'id_str': '892464564780105728',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474663627'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 892464564780105728 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 892464564780105728 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/892464564780105728	RT
+ @KDorr45: .@POTUS recognizes the Engine of the American Dream - small
+businesses with @SBALinda and @IvankaTrump https://t.co/iyY2vfuVeV
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859415417391128577,
+                       'id_str': '859415417391128577',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474679238'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859415417391128577 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 859415417391128577 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/859415417391128577	RT
+ @KDorr45: Great 📺 by @SecElaineChao who joined @MariaBartiromo this AM to talk
+about  infrastructure reform's impact on jobs https://t.c…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+954171313639383040,
+                       'id_str': '954171313639383040',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474680996'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 954171313639383040 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 954171313639383040 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/954171313639383040	RT @KDorr45: 🚨GREAT OP-ED ALERT🚨Make sure you take a
+minute to read this piece by @RepChrisCollins on how @POTUS is getting things
+done, le…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+871759619202441219,
+                       'id_str': '871759619202441219',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474752364'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 871759619202441219 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 871759619202441219 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/871759619202441219	RT
+ @KDorr45: "Thanks to @POTUS - America is back!" @VP and @SecElaineChao address
+crowd as Admin rolls out infrastructure reform! https://t…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+920066384729661440,
+                       'id_str': '920066384729661440',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474753387'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 920066384729661440 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 920066384729661440 for account
+ JessicaDitto45
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+889859865727913985,
+                       'id_str': '889859865727913985',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474754365'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 889859865727913985 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 889859865727913985 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/889859865727913985	RT
+ @KDorr45: #RegionalMediaDay at the @WhiteHouse is still going strong! Live look
+ at @stevenmnuchin1 interviewing with @BlairMillerTV for…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+892467518287360002,
+                       'id_str': '892467518287360002',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474754423'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 892467518287360002 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 892467518287360002 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/892467518287360002	RT
+ @KDorr45: "Small businesses are the backbone of our communities" .@SBALinda and
+ @IvankaTrump discuss the American dream #SmallBizz https…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+988451725756502016,
+                       'id_str': '988451725756502016',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474755226'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 988451725756502016 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 988451725756502016 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/988451725756502016	RT @KDorr45: .@SenToddYoung is 100% correct
+"Opposition to Mike Pompeo as secretary of state is political" - he is
+incredibly qualified, wi…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+984886333964464128,
+                       'id_str': '984886333964464128',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474758545'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 984886333964464128 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 984886333964464128 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/984886333964464128	RT @KDorr45: ICYMI from yesterday's hearing,
+@SenBobCorker will 'avidly support' confirmation of Mike Pompeo to be Sec. of
+State who 'could…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+920066367902175232,
+                       'id_str': '920066367902175232',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474809046'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 920066367902175232 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 920066367902175232 for account
+ JessicaDitto45
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+871764114753949696,
+                       'id_str': '871764114753949696',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474812166'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 871764114753949696 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 871764114753949696 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/871764114753949696	RT
+ @KDorr45: .@SecElaineChao gives a shout out to the dedicated Air Traffic
+Control professionals - keeping the flying public safe every da…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+960553437946613761,
+                       'id_str': '960553437946613761',
+
+                       'user_id': 818927131883356161,
+'user_id_str': '818927131883356161'},
+            'timestamp_ms':
+'1530474813120'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 960553437946613761 on
+ account PressSec
+INFO: get_archived_tweet() called to get tweet ID 960553437946613761 for account
+ PressSec
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/PressSec/status/960553437946613761
+RT @KDorr45: 🚨 The State of Our Union is STRONG 🚨  Don't miss this @RepByrne Op-
+Ed on @POTUS #SOTU speech and the incredible accomplishment…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because PressSec is not in the list of
+ accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+994051470600400897,
+                       'id_str': '994051470600400897',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530474816351'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 994051470600400897 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 994051470600400897 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/994051470600400897	RT @KDorr45: 🚨MUST READ OPED by @SenTomCotton🚨
+
+"Gina
+ Haspel has spent her life defending our country. She’s an excellent choice for
+CIA"…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857319805233364994,
+                       'id_str': '857319805233364994',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474821122'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857319805233364994 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 857319805233364994 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/857319805233364994	RT
+ @KDorr45: Director Mick Mulvaney talking budget and #100Days with @MarilysLLT51
+ on local media day at the @WhiteHouse! https://t.co/kii9…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864206511500922881,
+                       'id_str': '864206511500922881',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474825225'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864206511500922881 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 864206511500922881 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/864206511500922881	RT
+ @KDorr45: Welcome to the @Cabinet @USTradeRep Lighthizer! After 115 days the
+full Cabinet has FINALLY been sworn in! https://t.co/hv7PYU…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976952182435131392,
+                       'id_str': '976952182435131392',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1530474826622'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976952182435131392 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 976952182435131392 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/976952182435131392
+	RT @KDorr45: Senate Foreign Relations Dem @ChrisCoons has it right - “The
+vacancy in Germany has gone on just far too long.” The Senate sho…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857321279082430464,
+                       'id_str': '857321279082430464',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530474827922'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857321279082430464 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 857321279082430464 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/857321279082430464	RT
+ @KDorr45: Local media day still going strong! Coming to a station near you
+@Cabinet is hard at work discussing @POTUS first #100Days acc…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857357008034574337,
+                       'id_str': '857357008034574337',
+
+                       'user_id': 819992522109894658,
+'user_id_str': '819992522109894658'},
+            'timestamp_ms':
+'1530474827944'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857357008034574337 on
+ account SBALinda
+INFO: get_archived_tweet() called to get tweet ID 857357008034574337 for account
+ SBALinda
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/SBALinda/status/857357008034574337
+RT @KDorr45: Local media day still going strong! Coming to a station near you
+@Cabinet is hard at work discussing @POTUS first #100Days acc…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SBALinda is not in the list of
+ accounts we tweet about
+
+
+New tweet from IvankaTrumpHQ: These tops are floral, flirty and fun:
+https://t.co/dwfdyqjH8S https://t.co/YqUXOQ7sc1
+
+archiving URL http://twitter.com/IvankaTrumpHQ/status/1013516353100230658
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrumpHQ/status/1013516353100230658
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: A big week, especially with our
+numerous victories in the Supreme Court. Heading back to the White House now.
+Focus wi…
+
+archiving URL http://twitter.com/POTUS/status/1013521451276816387
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1013521451276816387
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: The Fairbanks Pipeline Training Center’s
+#skills-based training programs help prepare workers for #apprenticeships…
+https://t.co/U6zwfBWGIG
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1013521515281833988
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1013521515281833988
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from nikkihaley: ❤️🇺🇸 https://t.co/mhlT7eUc0F
+
+archiving URL http://twitter.com/nikkihaley/status/1013533592117538818
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1013533592117538818
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: .@SenDanSullivan and I had a roundtable
+discussion with construction trades leaders in Fairbanks, Alaska.
+https://t.co/FQTWf583AQ
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1013537122668765184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1013537122668765184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: @MeghanMcCain  I just watched the documentary HBO
+did for your father, “John McCain: For Whom The Bell Tolls”. What…
+https://t.co/jtnb0TUR52
+
+archiving URL http://twitter.com/nikkihaley/status/1013537429079412744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1013537429079412744
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @KasieDC: We're live in 4 minutes. Don't miss
+this awesome lineup on @MSNBC https://t.co/hGqGcY4T1Q
+
+archiving URL http://twitter.com/Scaramucci/status/1013561074136821760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013561074136821760
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@KasieDC looking forward to coming on. Just
+arriving at studio! https://t.co/SY8dEW9H3v
+
+archiving URL http://twitter.com/Scaramucci/status/1013561598458433536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013561598458433536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @larryelder: BEWARE!
+#TrumpDerangementSyndrome can be career ending. https://t.co/qm86ya6PlJ
+
+archiving URL http://twitter.com/realDonaldTrump/status/1013563976406437888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1013563976406437888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @larryelder: BEWARE! #TrumpDerangementSyndrome
+can be career ending. https://t.co/qm86ya6PlJ
+
+archiving URL http://twitter.com/seanspicer/status/1013569263905443840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1013569263905443840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: A white man? https://t.co/Ds17vXCM6H
+
+archiving URL http://twitter.com/Scaramucci/status/1013569615975321601
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013569615975321601
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @KasieDC: JUST NOW: @Scaramucci is sending the
+Trump administration a "warning flare" - change tactics towards trade policies
+now. https…
+
+archiving URL http://twitter.com/Scaramucci/status/1013576985040302081
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from Scaramucci: RT @KasieDC: .@kasie: "Has anybody been in touch
+with you about making a return run [at the White House]?"
+@Scaramucci: "No,
+thank god." ht…
+
+archiving URL http://twitter.com/Scaramucci/status/1013577032121319424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013576985040302081
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013577032121319424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @KasieDC: OUCH. Tough words for Chief of Staff
+John Kelly from @Scaramucci:
+
+"He wasn't capable of bringing one person into the
+ White Ho…
+
+archiving URL http://twitter.com/Scaramucci/status/1013577064090349568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013577064090349568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @jonathanvswan: 😂😂😂😂😂😂 https://t.co/Wd9JYnCBtC
+
+archiving URL http://twitter.com/Scaramucci/status/1013581466356387841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013581466356387841
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: WTO has its flaws, but the “United States Fair and
+Reciprocal Tariff Act," aka the U.S. FART Act, stinks. American…
+https://t.co/angWjW6js3
+
+archiving URL http://twitter.com/Scaramucci/status/1013581956972412928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013581956972412928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@USATODAY the truth isn’t that complicated but in
+Washington people are allergic to it.  https://t.co/FDwXeCrKmj
+
+archiving URL http://twitter.com/Scaramucci/status/1013583425314480128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013583425314480128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@BennSteil it’s a phenomenal book. Rich insight
+and personality: how good policy decisions despite the rough and t…
+https://t.co/WZ7AswiIuL
+
+archiving URL http://twitter.com/Scaramucci/status/1013585964814487557
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013585964814487557
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Great visit to @UAFCTC with @SenDanSullivan.
+Students here are learning in-demand #skills that will help them secur…
+https://t.co/r2pOPr6z5J
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1013588542235299841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1013588542235299841
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @RaySalomone: That was my unit. 4/9 Field
+Artillery. Pershing Missiles Heilbronn, West Germany. We ended (and won) the
+Cold War.
+https:/…
+
+archiving URL http://twitter.com/Scaramucci/status/1013597495841230851
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1013597495841230851
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @BernardKerik: .⁦@Scaramucci⁩ to ⁦@USATODAY⁩...
+Democrats have a real credibility problem! https://t.co/MMlmBr1y5b
+
+archiving URL http://twitter.com/Scaramucci/status/1013615434543886337
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from realDonaldTrump: Congratulations to Andres Manuel Lopez Obrador
+ on becoming the next President of Mexico. I look very much forward t…
+https://t.co/g2GfAkKPd0
+
+archiving URL http://twitter.com/realDonaldTrump/status/1013618640061595648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1013618640061595648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Congratulations to Andres Manuel
+Lopez Obrador on becoming the next President of Mexico. I look very much forward
+ to w…
+
+archiving URL http://twitter.com/POTUS/status/1013618905812815872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1013618905812815872
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
