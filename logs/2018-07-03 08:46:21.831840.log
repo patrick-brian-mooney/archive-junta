@@ -1,0 +1,566 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Tuesday, 03 July 2018 at 08:46
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1013867251349512192 for account
+@seanspicer
+about to get all tweets newer than ID #1013145209331429379 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1013791609857732609 for account
+@SecNielsen
+about to get all tweets newer than ID #1013981080129560576 for account
+@KellyannePolls
+about to get all tweets newer than ID #1012722969502781440 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1008040710283628544 for account @Comey
+about to get all tweets newer than ID #1013883300677603328 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1013967258970976256 for account
+@statedeptspox
+about to get all tweets newer than ID #1014093343071010821 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1011645161322008576 for account @Cabinet
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1014141993717501954 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1013828969102303234 for account @VP
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1012690898516430849 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1013902318251794438 for account
+@Scavino45
+about to get all tweets newer than ID #1013949594420555776 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1011794086448238593 for account
+@mike_pence
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1014150224825192448 for account @POTUS
+about to get all tweets newer than ID #1014150016905236480 for account
+@WhiteHouse
+about to get all tweets newer than ID #1006582155357642753 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1013885963939049479 for account
+@SecretaryPerry
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1014150572293812224 for account
+@SecretarySonny
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1013093469848469505 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1014156991353311233 for account
+@Scaramucci
+about to get all tweets newer than ID #1012793166632800256 for account
+@SecondLady
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1014151457954811904 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1013916809576230918 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1014127462081540097 for account @SBALinda
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1012895688819183616 for account
+@DanScavino
+about to get all tweets newer than ID #1014140375731200000 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1012758665386909697 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1012454805804146690 for account
+@GovernorPerry
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1013805166611615750 for account
+@IvankaTrump
+about to get all tweets newer than ID #1013788959636377603 for account
+@nikkihaley
+about to get all tweets newer than ID #1012464763689766913 for account @Reince
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1013791653931421696 for account @PRyan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1012770490371530753 for account @FLOTUS
+about to get all tweets newer than ID #1013841757455421441 for account @SecAzar
+about to get all tweets newer than ID #1012506179350777856 for account @PressSec
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1012761348885893123 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1008005270235205632 for account
+@RealBenCarson
+about to get all tweets newer than ID #1014115798036762626 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1012762946051690496 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1014154999746703360 for account
+@StephGrisham45
+... OK, we're set up, and about to watch 20776147, 920035992073064450,
+935148134505828353, 471672239, 836305915452272641, 2334193741,
+828997388920619008, 1967216306, 836724024688410625, 818928162449068032,
+599530439, 18916432, 818910970567344128, 105267762, 799764016885329921,
+823367015830323201, 819980276570976256, 22203756, 728361177986797568,
+822215679726100480, 822215673812119553, 118756393, 65522706, 830128820447539208,
+ 866746592853979137, 15985455, 842072478834909184, 803703725730779136,
+894923298374651904, 24578794, 822127086194348032, 829782369670410240, 25073877,
+828613457020870657, 819992522109894658, 831482588246196225, 620571475,
+827258161841135623, 832672006113931269, 826065858548133888, 29547260, 18906561,
+809836066316451840, 52544275, 37666984, 20733972, 108471631, 733751245,
+1923451808, 818876014390603776, 956283913835614208, 818927131883356161,
+212262370, 296060169, 1180379185, 798195585824104449, 888031054141022209,
+6577802, 823638938590085124
+
+
+New tweet from WhiteHouse: RT @ICEgov: ICE has taken an active role to combat
+the #opioid crisis. In 2017, HSI seized nearly 2,400 lbs of fentanyl.
+Investigating, dis…
+
+archiving URL http://twitter.com/WhiteHouse/status/1014165456238899200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014165456238899200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: High optimism, low unemployment, millions of new
+jobs: The Tax Cuts and Jobs Act is fulfilling President Trump’s cr…
+https://t.co/1AQv6o4YM9
+
+archiving URL http://twitter.com/WhiteHouse/status/1014167383592853504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014167383592853504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: High optimism, low unemployment,
+millions of new jobs: The Tax Cuts and Jobs Act is fulfilling President Trump’s
+critical g…
+
+archiving URL http://twitter.com/POTUS/status/1014167805070061570
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1014167805070061570
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Incredible day for St. Louis and the
+@NatlParkService! @GatewayArchNPS  🇺🇸 https://t.co/BbDhyTjPRQ
+
+archiving URL http://twitter.com/SecretaryZinke/status/1014170476367826944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1014170476367826944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: They said that in 1986-89 and it didn’t happen.
+https://t.co/wodJmyqBDq
+
+archiving URL http://twitter.com/Scaramucci/status/1014171317325778944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014171317325778944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Great to see you too, @RoyBlunt!  Iv'e been
+looking forward to this opening for a while. And thanks for letting me…
+https://t.co/Yx3oSMFGiM
+
+archiving URL http://twitter.com/SecretaryZinke/status/1014172480779554817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1014172480779554817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: First event of the day: breakfast town hall
+meeting with almost 200 farmers &amp; producers in Richland, WA, hosted by…
+https://t.co/dFE9xPzwDD
+
+archiving URL http://twitter.com/SecretarySonny/status/1014172629538705409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1014172629538705409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAScottPruitt: RT @EPAJustice: EPA and DOJ Settle with MFA
+Inc. and MFA Enterprises Inc. to Address Alleged Chemical Accident Prevention
+Violations: https…
+
+archiving URL http://twitter.com/EPAScottPruitt/status/1014174433693589504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAScottPruitt/status/1014174433693589504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Tremendous breakfast crowd in Richland, WA for
+town hall hosted by @RepNewhouse &amp; @WAFarmBureau. Folks understand t…
+https://t.co/lO3r2eAEYR
+
+archiving URL http://twitter.com/SecretarySonny/status/1014178265995460608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1014178265995460608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: A free press, and those journalists who embody the
+ ideals of the First Amendment, is critical to our democracy. The…
+https://t.co/1QCalTEKve
+
+archiving URL http://twitter.com/SpeakerRyan/status/1014178430710108160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1014178430710108160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrumpHQ: We're celebrating early! Take 35% off any order
+on https://t.co/3mrzQrmUg9 now through Thursday with code: JULY4.
+https://t.co/jevHojP2oM
+
+archiving URL http://twitter.com/IvankaTrumpHQ/status/1014181991984582657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrumpHQ/status/1014181991984582657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: #HighFive ✋🏼 for public private partnerships
+like the one that rebuilt and revitalized @GatewayArchNPS
+https://t.co/cYfwZ5GVzt
+
+archiving URL http://twitter.com/SecretaryZinke/status/1014186096039747584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1014186096039747584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: .@SecPompeo and #Russia Foreign Minister Lavrov
+spoke today. The two discussed the upcoming meeting between Preside…
+https://t.co/U1wYFKXcu8
+
+archiving URL http://twitter.com/statedeptspox/status/1014189382847352832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1014189382847352832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Delightful crowd and great way to kick off our
+day of events in Washington and Oregon. Thanks to @RepNewhouse &amp;…
+https://t.co/kPZ8oqSOkw
+
+archiving URL http://twitter.com/SecretarySonny/status/1014190452994539520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1014190452994539520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: .@repblumenauer, why are you supporting something
+that would protect drug smugglers? You must not know what CBP and…
+https://t.co/WXgmJOAr0S
+
+archiving URL http://twitter.com/WhiteHouse/status/1014191792047247360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014191792047247360
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: .@repblumenauer, why are you supporting
+something that would protect drug smugglers? You must not know what CBP and ICE
+rea…
+
+archiving URL http://twitter.com/POTUS/status/1014191947265773570
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1014191947265773570
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Safeguarding our country is what we ask our law
+enforcement community to do each and every day. See the real storie…
+https://t.co/wkzEruOqPe
+
+archiving URL http://twitter.com/WhiteHouse/status/1014192307929837578
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014192307929837578
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Safeguarding our country is what we ask
+our law enforcement community to do each and every day. See the real stories of
+tho…
+
+archiving URL http://twitter.com/POTUS/status/1014192459864264706
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1014192459864264706
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: Hardworking Americans deserve an economy that works
+for them. The Tax Cuts and Jobs Act is yielding tremendous resu…
+https://t.co/4S2pkuWlMr
+
+archiving URL http://twitter.com/Cabinet/status/1014195074085859328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1014195074085859328
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: In this 4th of July season, let’s remember the
+blessings we’ve been given in this country—and let’s be grateful for…
+https://t.co/6XyJfYlsMe
+
+archiving URL http://twitter.com/SpeakerRyan/status/1014196203108659201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1014196203108659201
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1014191947265773570,
+                       'id_str': '1014191947265773570',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1530638434551'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1014191947265773570
+on account POTUS
+INFO: get_archived_tweet() called to get tweet ID 1014191947265773570 for
+account POTUS
+ERROR: unable to read line "['40375873032193"']" because: need more than 1 value
+ to unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/1014191947265773570	RT
+@WhiteHouse: .@repblumenauer, why are you supporting something that would
+protect drug smugglers? You must not know what CBP and ICE rea…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1013883352380780544,
+                       'id_str': '1013883352380780544',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1530638438676'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1013883352380780544
+on account POTUS
+INFO: get_archived_tweet() called to get tweet ID 1013883352380780544 for
+account POTUS
+ERROR: unable to read line "['40375873032193"']" because: need more than 1 value
+ to unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/1013883352380780544	RT
+@WhiteHouse: .@SenKamalaHarris, why are you supporting the animals of MS-13? You
+ must not know what ICE really does. Here is a link to h…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1013868536375205891,
+                       'id_str': '1013868536375205891',
+
+                       'user_id': 822215679726100480,
+'user_id_str': '822215679726100480'},
+            'timestamp_ms':
+'1530638441660'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1013868536375205891
+on account POTUS
+INFO: get_archived_tweet() called to get tweet ID 1013868536375205891 for
+account POTUS
+ERROR: unable to read line "['40375873032193"']" because: need more than 1 value
+ to unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/POTUS/status/1013868536375205891	RT
+@WhiteHouse: .@SenWarren, why are you supporting criminals moving weapons,
+drugs, and victims across our nation’s borders? You must not…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from statedeptspox: The United States condemns the recent terrorist
+attacks in the Sahel, including attacks in #Mali and #Niger. We sta…
+https://t.co/ZiUytBnwFu
+
+archiving URL http://twitter.com/statedeptspox/status/1014198264151887872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1014198264151887872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@POTUS and I - as well as the American people - STAND with
+ ICE and all of our brave border enforcement officials.… https://t.co/dzxrqw9EPS
+
+archiving URL http://twitter.com/VP/status/1014201653787004928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: On Friday, I’m HONORED to visit @ICEgov to get a briefing
+on their work and thank the hard-working men and women of…
+https://t.co/yb5F4SFPrH
+
+archiving URL http://twitter.com/VP/status/1014201655548698624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Trade rhetoric wreaking havoc on auto industry,
+suppliers, Boeing, Deere, Caterpillar, industrials/cyclicals with g…
+https://t.co/8kF5CErFp7
+
+archiving URL http://twitter.com/Scaramucci/status/1014202251596976129
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014202251596976129
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: .@repmarkpocan, are you supporting human smuggling?
+ You must not know that ICE serves as the leading U.S. law enfor…
+https://t.co/pJeoNe9SnW
+
+archiving URL http://twitter.com/WhiteHouse/status/1014204376448151552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014204376448151552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Yesterday, President Trump welcomed Prime Minister
+Mark Rutte to the White House. 🇺🇸🇳🇱 https://t.co/hJdVvleEyW
+
+archiving URL http://twitter.com/WhiteHouse/status/1014211421008252934
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014211421008252934
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Yesterday, President Trump welcomed
+Prime Minister Mark Rutte to the White House. 🇺🇸🇳🇱 https://t.co/hJdVvleEyW
+
+archiving URL http://twitter.com/POTUS/status/1014211522254589952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1014211522254589952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: I haven’t “switched” on his character. Just calling
+ balls and strikes as I see them. Too many self-interested “yes…
+https://t.co/zJKz4gzl3f
+
+archiving URL http://twitter.com/Scaramucci/status/1014211951147339776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014211951147339776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Awesome. Hardest worker in the business. And the an
+ awesome friend. https://t.co/qA544gY3sU
+
+archiving URL http://twitter.com/Scaramucci/status/1014211966242623490
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014211966242623490
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @MariaBartiromo: Congrats ⁦@MorningsMaria⁩
+⁦@FoxBusiness⁩ ⁦@dagenmcdowell⁩ ⁦@tamimillermwm⁩ 🥂&amp; all of our amazing
+producers &amp; contributo…
+
+archiving URL http://twitter.com/Scaramucci/status/1014211979383398400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014211979383398400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Anonymously of course. One of the reasons people
+are so turned off on social media. Loser troll with no life. Polit…
+https://t.co/L6sPdPhhYL
+
+archiving URL http://twitter.com/Scaramucci/status/1014212634512633856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014212634512633856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Why say it anonymously coward?
+https://t.co/cDXMCrv7iO
+
+archiving URL http://twitter.com/Scaramucci/status/1014213344339877888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014213344339877888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: @MichaelAvenatti @BurgerDogBoy
+ @Scaramucci Thanks for the backup @MichaelAvenatti. People on social media are
+brutal a…
+
+archiving URL http://twitter.com/Scaramucci/status/1014214232710270976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014214232710270976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Priority should be building coalition to confront
+China’s trade abuses within context of WTO, not upending global r…
+https://t.co/loMFGJ98op
+
+archiving URL http://twitter.com/Scaramucci/status/1014215788021080065
+    ... archiving using prefix http://web.archive.org/save/
