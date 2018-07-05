@@ -1,0 +1,491 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Wednesday, 04 July 2018 at 14:48
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1012690898516430849 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1012506179350777856 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 625891 (char 625890)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1014519208946872321 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 625482 (char 625481)
+about to get all tweets newer than ID #1014524677211992065 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1013093469848469505 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 621266 (char 621265)
+about to get all tweets newer than ID #1014589220705460225 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 626640 (char 626639)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1014611307427966976 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619777 (char 619776)
+about to get all tweets newer than ID #1014198264151887872 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1014525769182253057 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 621836 (char 621835)
+about to get all tweets newer than ID #1012722969502781440 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1014297145468510208 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609495 (char 609494)
+about to get all tweets newer than ID #1011794086448238593 for account
+@mike_pence
+about to get all tweets newer than ID #1006582155357642753 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1014297032239013890 for account
+@SecNielsen
+about to get all tweets newer than ID #1014195074085859328 for account @Cabinet
+about to get all tweets newer than ID #1014599493172563969 for account @VP
+about to get all tweets newer than ID #1014333237043310598 for account
+@seanspicer
+about to get all tweets newer than ID #1014582971674787840 for account @SecAzar
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1014530020927209472 for account @FLOTUS
+about to get all tweets newer than ID #1012762946051690496 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1014523289086185473 for account
+@IvankaTrump
+about to get all tweets newer than ID #1014537641252065282 for account @Comey
+about to get all tweets newer than ID #1014462483405340672 for account
+@Scaramucci
+about to get all tweets newer than ID #1014497302071992321 for account
+@StephGrisham45
+about to get all tweets newer than ID #1014553611681128449 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1014532103013388288 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1014544366365376512 for account @PRyan
+about to get all tweets newer than ID #1014475218725711872 for account
+@GovernorPerry
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1014127462081540097 for account @SBALinda
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1014617604114272256 for account
+@WhiteHouse
+about to get all tweets newer than ID #1014582640882561024 for account
+@SecretarySonny
+about to get all tweets newer than ID #1014523149923340288 for account
+@DanScavino
+about to get all tweets newer than ID #1014544613204463616 for account
+@DepSecHargan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1012761348885893123 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1014606723401895936 for account
+@JessicaDitto45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1014514600144986113 for account
+@RealBenCarson
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1014522164354088960 for account
+@Scavino45
+about to get all tweets newer than ID #1013916809576230918 for account
+@SecretaryCarson
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1013981080129560576 for account
+@KellyannePolls
+about to get all tweets newer than ID #1014181991984582657 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1014494482568445953 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #1014504948468510720 for account @Reince
+... OK, we're set up, and about to watch 799764016885329921, 818927131883356161,
+ 728361177986797568, 866746592853979137, 822127086194348032, 37666984,
+894923298374651904, 18916432, 29547260, 25073877, 1967216306,
+822215679726100480, 836305915452272641, 830128820447539208, 22203756, 118756393,
+ 935148134505828353, 818928162449068032, 818910970567344128, 20776147,
+956283913835614208, 809836066316451840, 818876014390603776, 888031054141022209,
+212262370, 52544275, 2334193741, 24578794, 823638938590085124,
+828997388920619008, 827258161841135623, 733751245, 18906561, 65522706,
+599530439, 819992522109894658, 108471631, 6577802, 822215673812119553,
+842072478834909184, 620571475, 920035992073064450, 15985455, 296060169,
+836724024688410625, 1923451808, 1180379185, 803703725730779136, 105267762,
+823367015830323201, 828613457020870657, 826065858548133888, 471672239,
+798195585824104449, 831482588246196225, 829782369670410240, 819980276570976256,
+832672006113931269, 20733972
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+540334499511664641,
+                       'id_str': '540334499511664641',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1530741710224'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 540334499511664641 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 540334499511664641 for account
+ KellyannePolls
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+
+
+New tweet from GovernorPerry: An American patriot....
+#godblessamerica
+#happybirthdayamerica https://t.co/V9ZGz9zHlN
+
+archiving URL http://twitter.com/GovernorPerry/status/1014638631192006657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/GovernorPerry/status/1014638631192006657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @USNavy: RT @USPacificFleet: Happy
+#IndependenceDay from the Pacific with thanks to those defending our freedom and
+ all who support them…
+
+archiving URL http://twitter.com/IvankaTrump/status/1014641610553004032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1014641610553004032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @usairforce: What better way to celebrate freedom
+ than with the sounds of freedom! #4thOfJuly #IndependenceDay #Freedom
+https://t.co/Tn5…
+
+archiving URL http://twitter.com/Scavino45/status/1014645882573279233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014645882573279233
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USArmy: Happy #IndependenceDay.  Brought to you
+by the American Soldier. https://t.co/PDxbuQF3I3
+
+archiving URL http://twitter.com/Scavino45/status/1014645917507518465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014645917507518465
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USNavy: Happy Birthday America from your primary
+ forward-deployed force, the most lethal global maneuver force in the world. We
+hope yo…
+
+archiving URL http://twitter.com/Scavino45/status/1014645982850580480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014645982850580480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USCG: Happy Independence Day! 🇺🇸
+https://t.co/0dfwRr8POe
+
+archiving URL http://twitter.com/Scavino45/status/1014646030569263105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014646030569263105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USMC: Celebrating freedom the Marine Corps way.
+
+
+#4thofJuly https://t.co/MFectD7xVy
+
+archiving URL http://twitter.com/Scavino45/status/1014646079650975746
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014646079650975746
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: On behalf of my grandparents I just want to say
+thank you. I am very grateful to be an American. You came to an ama…
+https://t.co/Y01q6puzay
+
+archiving URL http://twitter.com/Scaramucci/status/1014649977337982976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014649977337982976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Love and life are the same ❤️🇺🇸
+https://t.co/GiAkisfklV
+
+archiving URL http://twitter.com/Scaramucci/status/1014654966089338880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014654966089338880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: #IndependenceDay #HappyFourth🇺🇸
+https://t.co/RYismdhFjy
+
+archiving URL http://twitter.com/Scavino45/status/1014684396337729536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014684396337729536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @BradThor: I had a blast.  Thanks, guys!
+https://t.co/3CQrr1b5Na
+
+archiving URL http://twitter.com/Scaramucci/status/1014688041565335552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1014688041565335552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: Congratulations to the nearly 14,000 new American
+citizens sworn in across the country this Fourth of July!
+
+archiving URL http://twitter.com/SecNielsen/status/1014696029139107846
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1014696029139107846
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Alexander Hamilton: "There is a certain enthusiasm
+in liberty, that makes the human nature rise above itself, in ac…
+https://t.co/i7KLlVdPRv
+
+archiving URL http://twitter.com/WhiteHouse/status/1014696874790486016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014696874790486016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: @POTUS &amp; I were honored to welcome members of our
+military &amp; their families for our second military #FourthofJuly p…
+https://t.co/3jO9EdtEkQ
+
+archiving URL http://twitter.com/FLOTUS/status/1014698216011558913
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1014698216011558913
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: Happy Fourth of July....Our
+Country is doing GREAT!
+
+archiving URL http://twitter.com/PressSec/status/1014700734166847488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1014700734166847488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Happy Birthday, America!
+https://t.co/SIi6xXsfof
+
+archiving URL http://twitter.com/realDonaldTrump/status/1014702302408642562
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1014702302408642562
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Happy Birthday, America!
+https://t.co/SIi6xXsfof
+
+archiving URL http://twitter.com/Scavino45/status/1014702370008305664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1014702370008305664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Happy Birthday, America!
+https://t.co/SIi6xXsfof
+
+archiving URL http://twitter.com/POTUS/status/1014702452808060935
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1014702452808060935
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Honored to join @POTUS to welcome military families this
+afternoon at the @WhiteHouse for the 4th of July. On behal…
+https://t.co/G6OLEJ1x6H
+
+archiving URL http://twitter.com/VP/status/1014702654080143361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1014702654080143361
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Happy Birthday, America!
+https://t.co/SIi6xXsfof
+
+archiving URL http://twitter.com/WhiteHouse/status/1014704179733057536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1014704179733057536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@SecondLady and I joined Wounded Warriors, veterans, and
+their families at the U.S. Capitol to watch the fireworks…
+https://t.co/ZQxjg3pcLi
+
+archiving URL http://twitter.com/VP/status/1014707810033160192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1014707810033160192
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretarySonny: Hello, Alaska! #BackToOurRoots Tour
+https://t.co/Ir8hJryW9U
+
+archiving URL http://twitter.com/SecretarySonny/status/1014717876618444800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1014717876618444800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: Blessed to share Independence Day with our
+granddaughter, Tesora,  watching fireworks from rooftop of the Museum of…
+https://t.co/2A4RvalDKz
+
+archiving URL http://twitter.com/RealBenCarson/status/1014718733435195393
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/1014718733435195393
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1014718733435195393,
+                       'id_str': '1014718733435195393',
+
+                       'user_id': 1180379185,
+'user_id_str': '1180379185'},
+            'timestamp_ms': '1530762837908'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1014718733435195393
+on account RealBenCarson
+INFO: get_archived_tweet() called to get tweet ID 1014718733435195393 for
+account RealBenCarson
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/RealBenCarson/
+status/1014718733435195393	Blessed to share Independence Day with our
+granddaughter, Tesora,  watching fireworks from rooftop of the Museum of…
+https://t.co/2A4RvalDKz
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because RealBenCarson is not in the
+list of accounts we tweet about
+
+
+New tweet from RealBenCarson: Blessed to share Independence Day with our
+granddaughter, Tesora, watching fireworks from the roof of The Museum of…
+https://t.co/Qo6vBkhi30
+
+archiving URL http://twitter.com/RealBenCarson/status/1014719336358010880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/1014719336358010880
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1012338720899518465,
+                       'id_str': '1012338720899518465',
+
+                       'user_id': 620571475,
+'user_id_str': '620571475'},
+            'timestamp_ms': '1530763692852'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1012338720899518465
+on account DanScavino
+INFO: get_archived_tweet() called to get tweet ID 1012338720899518465 for
+account DanScavino
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/DanScavino/sta
+tus/1012338720899518465	This is great! Young baseball fan’s night is made as
+@Yankees star Aaron @TheJudge44 plays catch with him from the…
+https://t.co/rJR9JWurtc
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because DanScavino is not in the list
+of accounts we tweet about
+
+
+New tweet from SecretarySonny: Happy #IndependenceDay2018 from Alaska!
+#BackToOurRoots https://t.co/MZTvvnDw7F
+
+archiving URL http://twitter.com/SecretarySonny/status/1014770917216382976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1014770917216382976
+    ... archiving using prefix http://web.archive.org/save/
