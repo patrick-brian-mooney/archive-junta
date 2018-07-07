@@ -1,0 +1,3851 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Friday, 06 July 2018 at 13:59
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1014638631192006657 for account
+@GovernorPerry
+about to get all tweets newer than ID #1015270996381716481 for account
+@IvankaTrump
+about to get all tweets newer than ID #1015316350712143872 for account @POTUS
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1015274386159493120 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1006582155357642753 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+about to get all tweets newer than ID #1014698216011558913 for account @FLOTUS
+about to get all tweets newer than ID #1015296263745622016 for account
+@seanspicer
+about to get all tweets newer than ID #1012761348885893123 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1015262988687892480 for account
+@Scavino45
+about to get all tweets newer than ID #1012690898516430849 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1015244162315309057 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1015311846755258368 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1015040394499907589 for account
+@nikkihaley
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1014127462081540097 for account @SBALinda
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1015013470906060801 for account @Comey
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1015234657397493761 for account
+@EnergyDepSec
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1014534742522384384 for account
+@SecretaryPerry
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1014890555959054336 for account
+@RealBenCarson
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1013981080129560576 for account
+@KellyannePolls
+about to get all tweets newer than ID #1015272104672026625 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1015204720246435840 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1015301168224985088 for account
+@statedeptspox
+about to get all tweets newer than ID #1014504948468510720 for account @Reince
+about to get all tweets newer than ID #1015278594795417600 for account
+@realDonaldTrump
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1014988842057822208 for account @SecAzar
+about to get all tweets newer than ID #1014195074085859328 for account @Cabinet
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1015283516513378306 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1014497302071992321 for account
+@StephGrisham45
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1015284524496904194 for account
+@Scaramucci
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1015314429397827587 for account
+@mike_pence
+about to get all tweets newer than ID #1015076177550032897 for account
+@SecretarySonny
+about to get all tweets newer than ID #1015294856778932225 for account @VP
+about to get all tweets newer than ID #1015273464154947587 for account
+@SecNielsen
+about to get all tweets newer than ID #1015275809207177217 for account
+@SecretaryRoss
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1014952430503714816 for account
+@DepSecHargan
+about to get all tweets newer than ID #1015259821451497473 for account
+@SecondLady
+about to get all tweets newer than ID #1014544366365376512 for account @PRyan
+about to get all tweets newer than ID #1014553611681128449 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1012762946051690496 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1014523149923340288 for account
+@DanScavino
+about to get all tweets newer than ID #1015256845223628801 for account @PressSec
+about to get all tweets newer than ID #1015316209934438403 for account
+@WhiteHouse
+... OK, we're set up, and about to watch 18906561, 52544275, 822215679726100480,
+ 826065858548133888, 18916432, 118756393, 832672006113931269,
+818876014390603776, 20776147, 296060169, 823367015830323201, 799764016885329921,
+ 819980276570976256, 828613457020870657, 37666984, 1923451808,
+819992522109894658, 803703725730779136, 2334193741, 212262370,
+831482588246196225, 894923298374651904, 6577802, 830128820447539208, 105267762,
+1180379185, 809836066316451840, 15985455, 471672239, 827258161841135623,
+798195585824104449, 1967216306, 20733972, 25073877, 29547260,
+956283913835614208, 818928162449068032, 65522706, 728361177986797568,
+836724024688410625, 823638938590085124, 599530439, 24578794, 866746592853979137,
+ 22203756, 842072478834909184, 818910970567344128, 935148134505828353,
+836305915452272641, 108471631, 829782369670410240, 920035992073064450,
+822127086194348032, 733751245, 828997388920619008, 888031054141022209,
+620571475, 818927131883356161, 822215673812119553
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979091694674067456,
+                       'id_str': '979091694674067456',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908222219'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979091694674067456 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 979091694674067456 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/979091694674067456	Saw firsthand March Air Force Base #Superfund site
+while in CA. This visit improves our partnerships in the Golden…
+https://t.co/MhYgBZ1ZBe
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979063487216300032,
+                       'id_str': '979063487216300032',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908231255'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979063487216300032 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 979063487216300032 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/979063487216300032	Productive meetings with CA agriculture community
+&amp; tour of almond processing facility. Farmers shared problems the…
+https://t.co/KqVhaOmbGZ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979026791850418176,
+                       'id_str': '979026791850418176',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908240073'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979026791850418176 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 979026791850418176 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/979026791850418176	Couldn’t agree more, Senator. Happy to be in CA
+promoting that exact message. #TrueEnvironmentalism https://t.co/lauxXA445B
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+979028240403718145,
+                       'id_str': '979028240403718145',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908240193'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 979028240403718145 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 979028240403718145 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/979028240403718145	RT
+ @EPAScottPruitt: Couldn’t agree more, Senator. Happy to be in CA promoting that
+ exact message. #TrueEnvironmentalism https://t.co/lauxXA…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+978653010908729344,
+                       'id_str': '978653010908729344',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908243623'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 978653010908729344 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 978653010908729344 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/978653010908729344	RT @EPARegion8: EPA Regional Administrator Doug
+Benevento speaking live with Basin Radio Network at EPA’s #CleanPowerPlan public
+ listening…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+849357222249467904,
+                       'id_str': '849357222249467904',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908248793'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 849357222249467904 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 849357222249467904 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/849357222249467904	Important meeting today with @PremierBradWall on ways
+ to work with Canada on international energy &amp; environmental i…
+https://t.co/SNJWW0xd7a
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+978647575099092992,
+                       'id_str': '978647575099092992',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908252757'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 978647575099092992 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 978647575099092992 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/978647575099092992	RT @EPA: There is still work left to do, but in one
+year we’ve made great strides and progress in our promise to the American people
+ to ref…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+849712212004532225,
+                       'id_str': '849712212004532225',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908258504'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 849712212004532225 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 849712212004532225 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/849712212004532225	America’s farmers and ranchers are the stewards of
+our land. I look forward to working with them as partners, not a…
+https://t.co/jtgmx2oITO
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+849733821666910208,
+                       'id_str': '849733821666910208',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908262948'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 849733821666910208 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 849733821666910208 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/849733821666910208	Good to talk w/National Tribal Caucus Chairman
+Evaristo Cruz about state &amp; tribal rights and protecting the environ…
+https://t.co/LvHdseoEMm
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+977161899010920448,
+                       'id_str': '977161899010920448',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908263856'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 977161899010920448 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 977161899010920448 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/977161899010920448	RT @WashTimes: "@EPA’s role is even broader than
+water infrastructure and cleaning up contaminated land — the agency also has a
+key role in…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+849964663592931328,
+                       'id_str': '849964663592931328',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908267891'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 849964663592931328 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 849964663592931328 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/849964663592931328	Had a productive conversation with @LamarSmithTX21
+this week about applying sound science to protect human health,…
+https://t.co/y9oFoUtwIP
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+850394854119153665,
+                       'id_str': '850394854119153665',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908272304'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 850394854119153665 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 850394854119153665 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/850394854119153665	States are the leaders in helping America achieve
+clean air and water while also allowing for an environment that h…
+https://t.co/e6XJLr4E7Z
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+851850809654603778,
+                       'id_str': '851850809654603778',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908277333'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 851850809654603778 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 851850809654603778 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/851850809654603778	Today I had the pleasure of participating in a great
+exchange of ideas today w/@POTUS at his American Innovation In…
+https://t.co/cbQFKvfgfl
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+851866621819990016,
+                       'id_str': '851866621819990016',
+
+                       'user_id': 827258161841135623,
+'user_id_str': '827258161841135623'},
+            'timestamp_ms':
+'1530908277470'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 851866621819990016 on
+ account SecretaryZinke
+INFO: get_archived_tweet() called to get tweet ID 851866621819990016 for account
+ SecretaryZinke
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/SecretaryZink
+e/status/851866621819990016	RT @EPAScottPruitt: Today I had the pleasure of
+participating in a great exchange of ideas today w/@POTUS at his American
+Innovation Initia…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryZinke is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+977276959226056704,
+                       'id_str': '977276959226056704',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908280922'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 977276959226056704 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 977276959226056704 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/977276959226056704	Honored to join @VP in Atlanta. @POTUS has delivered
+on his promise to bring tax cuts to the American people and ha…
+https://t.co/aqodYGeZ5s
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+852573705150636032,
+                       'id_str': '852573705150636032',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908285380'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 852573705150636032 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 852573705150636032 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/852573705150636032	Joined coal miners in PA today to launch
+#EPABack2Basics, my agenda for refocusing @EPA to balance protecting the e…
+https://t.co/M5oWjR9KmJ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976935475910008833,
+                       'id_str': '976935475910008833',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908288655'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976935475910008833 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976935475910008833 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976935475910008833	#ICYMI .@EPA announced $463K in funding for 31 Phase
+1 student teams through the People, Prosperity, and the Planet…
+https://t.co/CcgwQbSoCy
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+852579241690632192,
+                       'id_str': '852579241690632192',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908290672'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 852579241690632192 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 852579241690632192 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/852579241690632192	Learn more about my visit to Harvey Mine in Pa. &amp;
+ the #EPABack2Basics agenda here: https://t.co/FRisLD1fXi
+https://t.co/PiqM3hxZ61
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+852705103945629696,
+                       'id_str': '852705103945629696',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530908290784'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 852705103945629696 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 852705103945629696 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/852705103945629696	RT @EPAScottPruitt: Learn more about my visit to
+Harvey Mine in Pa. &amp; the #EPABack2Basics agenda here:
+https://t.co/FRisLD1fXi https://t.co…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976914382633529344,
+                       'id_str': '976914382633529344',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908299174'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976914382633529344 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976914382633529344 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976914382633529344	On the radio live now with @LarsLarsonShow. Will be
+with @MarkReardonKMOX after. Tune in!
+
+https://t.co/iRrf1f5n3a
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976913321260670977,
+                       'id_str': '976913321260670977',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908305054'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976913321260670977 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976913321260670977 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976913321260670977	RT @EPA: Today is #WorldWaterDay! Water
+infrastructure is a vital part of protecting and providing water resources for
+years to come. https…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976893996499795968,
+                       'id_str': '976893996499795968',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908311149'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976893996499795968 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976893996499795968 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976893996499795968	RT @EPA: Water infrastructure is vital to protecting
+and providing water resources for years to come. This #WorldWaterDay learn more
+about…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976849461891817472,
+                       'id_str': '976849461891817472',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908337666'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976849461891817472 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976849461891817472 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976849461891817472	Through regulatory reforms &amp; targeted
+investments, @EPA will spearhead the much-needed repairs to #infrastructure i…
+https://t.co/Hb1K6b6T6D
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976577889142542336,
+                       'id_str': '976577889142542336',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908361993'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976577889142542336 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976577889142542336 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976577889142542336	RT @EPAregion6: In the news: Our #DERA grants are
+reducing school bus emissions and making headlines! https://t.co/Y505oOF5NT
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+852620320993366016,
+                       'id_str': '852620320993366016',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908400402'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 852620320993366016 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 852620320993366016 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/852620320993366016	We're working to revise regulatory barriers that
+impede energy independence &amp;hurt coal miners/coal-fired electric u…
+https://t.co/Fd9YnfHpxA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+852952592082767872,
+                       'id_str': '852952592082767872',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908408909'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 852952592082767872 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 852952592082767872 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/852952592082767872	It's the beginning of a new era for jobs in our
+country – that’s the focus of my #EPABack2Basics agenda. https://t.co/cpdqAwMhcE
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976489072867860480,
+                       'id_str': '976489072867860480',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908410426'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976489072867860480 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976489072867860480 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976489072867860480	What a beautiful surprise, snow on the second day of
+spring! https://t.co/cX8t0jiErW
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+853956297317908481,
+                       'id_str': '853956297317908481',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908413107'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 853956297317908481 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 853956297317908481 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/853956297317908481	https://t.co/7jDzgTm0Fh
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+854002162283819008,
+                       'id_str': '854002162283819008',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908418641'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 854002162283819008 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 854002162283819008 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/854002162283819008	I hope you’ll enjoy this video of my visit to Harvey
+mine as much as I enjoyed meeting with the miners: https://t.co/ePtvpSCY7u
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+854090872731955204,
+                       'id_str': '854090872731955204',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908418769'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 854090872731955204 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 854090872731955204 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/854090872731955204	RT
+ @EPAScottPruitt: I hope you’ll enjoy this video of my visit to Harvey mine as
+much as I enjoyed meeting with the miners: https://t.co/eP…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+854788356814909441,
+                       'id_str': '854788356814909441',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908423809'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 854788356814909441 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 854788356814909441 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/854788356814909441	Met w/community members in E. Chicago today. We’re
+working to restore a healthy environment for residents. https://t.co/d6ES4JBJm2
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+854791577906143233,
+                       'id_str': '854791577906143233',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908423903'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 854791577906143233 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 854791577906143233 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/854791577906143233	RT
+ @EPAScottPruitt: Met w/community members in E. Chicago today. We’re working to
+restore a healthy environment for residents. https://t.co…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+854796151647817729,
+                       'id_str': '854796151647817729',
+
+                       'user_id': 827258161841135623,
+'user_id_str': '827258161841135623'},
+            'timestamp_ms':
+'1530908423915'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 854796151647817729 on
+ account SecretaryZinke
+INFO: get_archived_tweet() called to get tweet ID 854796151647817729 for account
+ SecretaryZinke
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/SecretaryZink
+e/status/854796151647817729	RT @EPAScottPruitt: Met w/community members in E.
+Chicago today. We’re working to restore a healthy environment for residents.
+https://t.co…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryZinke is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855111646053838848,
+                       'id_str': '855111646053838848',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908440182'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855111646053838848 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 855111646053838848 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/855111646053838848	Brought my #EPABack2Basics agenda to Missouri today
+to share how @EPA is returning to its core mission of protectin…
+https://t.co/BmEsb06Yp1
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855124213530841088,
+                       'id_str': '855124213530841088',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908440372'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855124213530841088 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 855124213530841088 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/855124213530841088	RT
+ @EPAScottPruitt: Brought my #EPABack2Basics agenda to Missouri today to share
+how @EPA is returning to its core mission of protecting th…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855133010496282624,
+                       'id_str': '855133010496282624',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908446057'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855133010496282624 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 855133010496282624 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/855133010496282624	Joined 200 workers and co-op members at Thomas Hill
+Energy Center – a coal-fired power plant in Missouri - to discu…
+https://t.co/POmjoUmfqH
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855428557006417922,
+                       'id_str': '855428557006417922',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908450492'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855428557006417922 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 855428557006417922 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/855428557006417922	#ICYMI – yesterday I was in Missouri as part of
+#EPABack2Basics. Here are the highlights of my trip: https://t.co/s1OnyyzEcN
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855510452981436419,
+                       'id_str': '855510452981436419',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908450602'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855510452981436419 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 855510452981436419 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/855510452981436419	RT
+ @EPAScottPruitt: #ICYMI – yesterday I was in Missouri as part of
+#EPABack2Basics. Here are the highlights of my trip: https://t.co/s1Ony…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+855831041738547202,
+                       'id_str': '855831041738547202',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908456401'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 855831041738547202 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 855831041738547202 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/855831041738547202	https://t.co/ep1QKbK3xW
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+856900412947009538,
+                       'id_str': '856900412947009538',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908462105'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 856900412947009538 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 856900412947009538 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/856900412947009538	Great meeting w/National Turfgrass Association to
+discuss energy savings through turf research &amp; @EPA programs.
+https://t.co/OZNV24bu9I
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+856970534818635776,
+                       'id_str': '856970534818635776',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908466920'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 856970534818635776 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 856970534818635776 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/856970534818635776	Great chat w/@ndfb &amp; @ndarec about regulations
+affecting power producers &amp; rural electric providers &amp; how we can be…
+https://t.co/78fgpIWEZV
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857245258714931201,
+                       'id_str': '857245258714931201',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908472143'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857245258714931201 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857245258714931201 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857245258714931201	At @WhiteHouse talking to @foxnewsradio about
+@POTUS’s 1st #100days, most productive of any president since FDR!
+https://t.co/C5p3UgcVcf
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857245935881117697,
+                       'id_str': '857245935881117697',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908472242'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857245935881117697 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 857245935881117697 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/857245935881117697	RT
+ @EPAScottPruitt: At @WhiteHouse talking to @foxnewsradio about @POTUS’s 1st
+#100days, most productive of any president since FDR! https:…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857248119540633600,
+                       'id_str': '857248119540633600',
+
+                       'user_id': 836724024688410625,
+'user_id_str': '836724024688410625'},
+            'timestamp_ms':
+'1530908472260'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857248119540633600 on
+ account JessicaDitto45
+INFO: get_archived_tweet() called to get tweet ID 857248119540633600 for account
+ JessicaDitto45
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/JessicaDitto45
+/status/857248119540633600	RT @EPAScottPruitt: At @WhiteHouse talking to
+@foxnewsradio about @POTUS’s 1st #100days, most productive of any president
+since FDR! https:…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because JessicaDitto45 is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857262799763976192,
+                       'id_str': '857262799763976192',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908517709'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857262799763976192 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857262799763976192 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857262799763976192	Now I’m talking with Greg Clugston of Salem Radio
+Network about #EPABack2Basics and @POTUS’s 1st #100days. https://t.co/Ep3tTpOIz1
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857283233230327808,
+                       'id_str': '857283233230327808',
+
+                       'user_id': 822215673812119553,
+'user_id_str': '822215673812119553'},
+            'timestamp_ms':
+'1530908517807'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857283233230327808 on
+ account WhiteHouse
+INFO: get_archived_tweet() called to get tweet ID 857283233230327808 for account
+ WhiteHouse
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/WhiteHouse/st
+atus/857283233230327808	RT @EPAScottPruitt: Now I’m talking with Greg Clugston
+of Salem Radio Network about #EPABack2Basics and @POTUS’s 1st #100days.
+https://t.co…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976459872907747330,
+                       'id_str': '976459872907747330',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908529621'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976459872907747330 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976459872907747330 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976459872907747330	Tune in now to @KFABnews to listen to my interview
+with @ScottyVKFAB about the ongoing accomplishments happening at…
+https://t.co/FTRUMgHbOU
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976445570540867584,
+                       'id_str': '976445570540867584',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908537608'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976445570540867584 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976445570540867584 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976445570540867584	Spent the morning with friendly folks from
+@GaFarmBureau. We had a great discussion about ongoing work at the Agenc…
+https://t.co/uFtKfDSEmG
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976202241991479296,
+                       'id_str': '976202241991479296',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908548626'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976202241991479296 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976202241991479296 for account
+ EPAScottPruitt
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976190162098098181,
+                       'id_str': '976190162098098181',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908552414'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976190162098098181 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976190162098098181 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976190162098098181	RT @EPA: BY THE NUMBERS: proposed amendments to
+Petroleum Refinery Sector Risk &amp; Technology Review &amp; New Source
+Performance Standards:
+➡️ $…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976143695362842624,
+                       'id_str': '976143695362842624',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908561838'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976143695362842624 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976143695362842624 for account
+ EPAScottPruitt
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976143966465937418,
+                       'id_str': '976143966465937418',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908578984'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976143966465937418 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976143966465937418 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976143966465937418	Find out more ➡️ https://t.co/lVvJTghij2
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976125871328292865,
+                       'id_str': '976125871328292865',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908586474'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976125871328292865 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976125871328292865 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976125871328292865	Every bit of certainty matters. I just signed
+proposed amendments that will simplify compliance with national stand…
+https://t.co/O6hvdO15Ga
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976077035633291264,
+                       'id_str': '976077035633291264',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908594027'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976077035633291264 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976077035633291264 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976077035633291264	Happy #NationalAgDay!
+
+Enjoyed visiting with this
+group of farmers and ranchers from Texas last night.… https://t.co/AuwHuITvFs
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+976067372929908736,
+                       'id_str': '976067372929908736',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908607566'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 976067372929908736 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 976067372929908736 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/976067372929908736	RT @EPAregion3: Happy National Ag Day! EPA is
+committed to a strong partnership with the #ag community. Click here to see more
+ #EPA agricul…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+975859487826481152,
+                       'id_str': '975859487826481152',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908620532'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 975859487826481152 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 975859487826481152 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/975859487826481152	Wrapped up our regional roundtable discussing
+important environmental issues like air, lead, Superfunds &amp; infrastru…
+https://t.co/KDKoGUrS5N
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+975846680741412864,
+                       'id_str': '975846680741412864',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908627345'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 975846680741412864 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 975846680741412864 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/975846680741412864	We’re providing critical national leadership while
+ensuring our state, tribal and local partners have the opportuni…
+https://t.co/GKjsLoCpvC
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+975845157621915649,
+                       'id_str': '975845157621915649',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908634815'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 975845157621915649 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 975845157621915649 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/975845157621915649	.@EPA will convene a National Leadership Summit to
+take action on PFAS. We’ll bring together stakeholders from acro…
+https://t.co/B10wAbBNl7
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+975033651544109056,
+                       'id_str': '975033651544109056',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908638690'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 975033651544109056 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 975033651544109056 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/975033651544109056	RT @realDonaldTrump: Happy #StPatricksDay
+https://t.co/4vVsW2smhB
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857315855159496711,
+                       'id_str': '857315855159496711',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908644889'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857315855159496711 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857315855159496711 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857315855159496711	Tomorrow I'll be talking about 1st #100days of EPA
+actions on @foxnewsradio’s Kilmeade &amp; Friends. Tune in @ 9am ET:
+https://t.co/94OtjUgErM
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+974690567757156352,
+                       'id_str': '974690567757156352',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908650235'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 974690567757156352 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 974690567757156352 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/974690567757156352	Productive meetings this morning @EPAregion6 in
+Dallas. Grateful for this hardworking staff and the work they are d…
+https://t.co/mKVg40evbl
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857344443715899392,
+                       'id_str': '857344443715899392',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908651070'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857344443715899392 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857344443715899392 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857344443715899392	This afternoon I talked to @CBSPittsburgh TV about
+#EPABackToBasics and @POTUS hugely successful 1st #100days.
+https://t.co/35riwvGz4B
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857353741611266049,
+                       'id_str': '857353741611266049',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908655450'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857353741611266049 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857353741611266049 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857353741611266049	I was interviewed by Nick Minock from @wwmtnews about
+ #EPABackToBasics and President Trump’s first #100days. https://t.co/uIQbp28AYA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857671008773341185,
+                       'id_str': '857671008773341185',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908660295'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857671008773341185 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857671008773341185 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857671008773341185	Great to talk to Brian Kilmeade about protecting the
+environment and growing jobs. Thanks, @foxnewsradio! https://t.co/ThivkJGLQi
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+974663674974670848,
+                       'id_str': '974663674974670848',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908663208'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 974663674974670848 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 974663674974670848 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/974663674974670848	Honored to speak at last night's @OKYouthExpo - the
+world’s largest youth livestock expo. It was inspiring to visit…
+https://t.co/htMOcidKhv
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857958833821437953,
+                       'id_str': '857958833821437953',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908664422'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857958833821437953 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 857958833821437953 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/857958833821437953	Proud to share these kind words from @GovSandoval,
+look forward to building a cooperative relationship w/all states.
+https://t.co/I9vf2yKApY
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+857992404753887233,
+                       'id_str': '857992404753887233',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908664535'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 857992404753887233 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 857992404753887233 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/857992404753887233	RT
+ @EPAScottPruitt: Proud to share these kind words from @GovSandoval, look
+forward to building a cooperative relationship w/all states. ht…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859801617910165504,
+                       'id_str': '859801617910165504',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908669460'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859801617910165504 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 859801617910165504 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/859801617910165504	Regulatory reform's a key issue for me–good
+discussion w/@RepShimkus today on how this administration will be makin…
+https://t.co/qNZvPGZPq6
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+974023049325498368,
+                       'id_str': '974023049325498368',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908670323'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 974023049325498368 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 974023049325498368 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/974023049325498368	Spoke to 300+ farmers from across the country this
+morning &amp; assured them that @EPA is committed to providing them…
+https://t.co/rbwRYUsMjE
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859826627026583552,
+                       'id_str': '859826627026583552',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908674001'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859826627026583552 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 859826627026583552 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/859826627026583552	Solid conversation with @RepGregWalden on the issues
+affecting both his constituents and communities in OR &amp; across…
+https://t.co/XUlDQ5IX8r
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+973593870725537792,
+                       'id_str': '973593870725537792',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908677805'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 973593870725537792 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 973593870725537792 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/973593870725537792	Today’s NSR guidance advances @POTUS’s goal to
+streamline permitting requirements for manufacturing facilitates as…
+https://t.co/fxyz7NLsOu
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859840975115616256,
+                       'id_str': '859840975115616256',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908681849'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859840975115616256 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 859840975115616256 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/859840975115616256	Great to meet @RepRichHudson today to talk about the
+environment and jobs in his North Carolina district. https://t.co/TJcJ2fzKQl
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+973230293321748480,
+                       'id_str': '973230293321748480',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908684860'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 973230293321748480 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 973230293321748480 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/973230293321748480	Good conversation at this morning’s regional
+roundtable. Spoke about our accomplishments over year one and looked a…
+https://t.co/xHqtSajJnR
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859879336635224066,
+                       'id_str': '859879336635224066',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908690663'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859879336635224066 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 859879336635224066 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/859879336635224066	Thanks to @McConnellPress for meeting w/me to talk
+about the #EPABackToBasics agenda &amp; working with states to prote…
+https://t.co/zdDb11fp6C
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+972136778206498816,
+                       'id_str': '972136778206498816',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908691426'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 972136778206498816 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 972136778206498816 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/972136778206498816	We’ve awarded $8.7M to clean up 450+ school buses in
+32 states. This is an innovative way to equip schools &amp; improv…
+https://t.co/aipcIPTXLw
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971871668326092800,
+                       'id_str': '971871668326092800',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908694985'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971871668326092800 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971871668326092800 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971871668326092800	RT @WhiteHouse: Happy #InternationalWomensDay! Today
+we recognize, honor, and celebrate women around the world.
+https://t.co/gsONDiXYO5
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+859893890580709376,
+                       'id_str': '859893890580709376',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908695919'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 859893890580709376 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 859893890580709376 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/859893890580709376	This afternoon @EPAScottPruitt’s visited
+@SenJohnBarrasso &amp; talked about working with states to protect our air, wa…
+https://t.co/raSuFNwUIR
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+860226482043584514,
+                       'id_str': '860226482043584514',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908701544'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 860226482043584514 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 860226482043584514 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/860226482043584514	Congrats EA Engineering, Science &amp; Technology,
+Inc. for winning our award for outstanding accomplishments!
+https://t.co/bFa5jGwofy
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+860567300654727168,
+                       'id_str': '860567300654727168',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908704133'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 860567300654727168 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 860567300654727168 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/860567300654727168	RT @NRWAmatt: Excellent meeting with @EPAScottPruitt
+discussing the partnership with Rural Water &amp; EPA! Greatly encouraged by the
+ new agenc…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971850613817569280,
+                       'id_str': '971850613817569280',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908708136'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971850613817569280 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971850613817569280 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971850613817569280	Cooperative federalism in action. It was good to host
+ a group of our co-regulators @EPA for a discussion on #WOTUS.
+https://t.co/cikJiP8dZW
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+860585041335898113,
+                       'id_str': '860585041335898113',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908710025'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 860585041335898113 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 860585041335898113 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/860585041335898113	EPA &amp; Indiana officials are working to improve
+coordination, communication &amp; cleanup in East Chicago:
+https://t.co/wteEcgDhEn
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867827978683772928,
+                       'id_str': '867827978683772928',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908708757'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867827978683772928 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867827978683772928 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867827978683772928	Great meeting today with MO @RepJasonSmith about
+farmers’ past challenges with the previous Administration.
+https://t.co/NyKSmzJzOP
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867803854187966464,
+                       'id_str': '867803854187966464',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908713110'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867803854187966464 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867803854187966464 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867803854187966464	Today I met w/Trout Unlimited to discuss their
+mission: To conserve, protect &amp; restore coldwater fisheries and thei…
+https://t.co/Kld4fsIZ4X
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971477496511238145,
+                       'id_str': '971477496511238145',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908715602'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971477496511238145 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971477496511238145 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971477496511238145	Always appreciate hearing from our nation’s first
+environmentalists! Thanks for your continued partnership as we wo…
+https://t.co/OZaGrusvw3
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+861972483574046722,
+                       'id_str': '861972483574046722',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908716709'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 861972483574046722 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 861972483574046722 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/861972483574046722	Today's action will empower ND state regulators,
+advance CCS tech &amp; ensure drinking water sources are protected:
+https://t.co/KV0vzFbSNG
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867442383620886528,
+                       'id_str': '867442383620886528',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908719239'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867442383620886528 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867442383620886528 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867442383620886528	I’m always happy to learn how EPA can support our
+farmers – thanks to the members of the Kansas Farm Bureau who cam…
+https://t.co/pGyEebtCtN
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867486057067098112,
+                       'id_str': '867486057067098112',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908719359'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867486057067098112 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 867486057067098112 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/867486057067098112	RT
+ @EPAScottPruitt: I’m always happy to learn how EPA can support our farmers –
+thanks to the members of the Kansas Farm Bureau who came to…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971440301641478144,
+                       'id_str': '971440301641478144',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908722155'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971440301641478144 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971440301641478144 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971440301641478144	RT @NatResources: In 1 year, @EPAScottPruitt restored
+ the @EPA to it's core mission, slashed job-killing regulations and restored the
+ rule…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867141140226736133,
+                       'id_str': '867141140226736133',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908723936'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867141140226736133 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867141140226736133 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867141140226736133	I enjoyed speaking w/NSSGA representatives today on
+our continued efforts to build America’s infrastructure &amp; econo…
+https://t.co/wtnGynKCe1
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867102461655490560,
+                       'id_str': '867102461655490560',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908727741'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867102461655490560 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867102461655490560 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867102461655490560	.@RepFredUpton and I spent some quality time this
+morning talking about the importance of protecting the Great Lake…
+https://t.co/p4fs9YR5YE
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867093139768651777,
+                       'id_str': '867093139768651777',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908733559'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867093139768651777 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867093139768651777 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867093139768651777	I enjoyed a productive meeting today with U.S. Rep.
+Jim Costa @RepJimCosta on environmental issues facing Californi…
+https://t.co/7B4JixKJ5T
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+867074833984753664,
+                       'id_str': '867074833984753664',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908743285'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 867074833984753664 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 867074833984753664 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/867074833984753664	Thank you to the Members of the @westerncaucus for
+the excellent meeting today. Together we will protect our enviro…
+https://t.co/HJz8jzA4GC
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+866728420100669440,
+                       'id_str': '866728420100669440',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908748294'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 866728420100669440 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 866728420100669440 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/866728420100669440	Today I shared my vision for how EPA &amp; the
+electric power industry should work together to achieve energy independe…
+https://t.co/H1YsABQzjZ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+866986878876176385,
+                       'id_str': '866986878876176385',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908752129'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 866986878876176385 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 866986878876176385 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/866986878876176385	In Case You Missed It: Read Administrator Pruitt's
+memo prioritizing Superfund site cleanup across America: https://t.co/JVKqHeKRRV
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971161051667591168,
+                       'id_str': '971161051667591168',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908752351'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971161051667591168 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971161051667591168 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971161051667591168	Had a great dialogue with members of the National
+Association of Counties about new and existing ways we can partne…
+https://t.co/r78MDwZV1K
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+866121215777308672,
+                       'id_str': '866121215777308672',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908756236'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 866121215777308672 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 866121215777308672 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/866121215777308672	Proud to see our President standing strong on his
+first trip abroad as @POTUS: https://t.co/WSRdqMjUCE
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862338681255940096,
+                       'id_str': '862338681255940096',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908759193'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862338681255940096 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862338681255940096 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862338681255940096	Listen live to my interview on WDAY about how @EPA is
+ working with #NorthDakota. https://t.co/yo9F6sfiGm #EPABackToBasics
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+971082703910129664,
+                       'id_str': '971082703910129664',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908760181'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 971082703910129664 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 971082703910129664 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/971082703910129664	Big news: @EPA proposes safe system for recycling
+aerosol cans that saves over $3M per year. Today’s proposal incre…
+https://t.co/WNWTQbZelZ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865661331906613249,
+                       'id_str': '865661331906613249',
+
+                       'user_id': 827258161841135623,
+'user_id_str': '827258161841135623'},
+            'timestamp_ms':
+'1530908760741'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865661331906613249 on
+ account SecretaryZinke
+INFO: get_archived_tweet() called to get tweet ID 865661331906613249 for account
+ SecretaryZinke
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/SecretaryZink
+e/status/865661331906613249	RT @EPAScottPruitt: It’s an honor to serve @POTUS
+and the American people alongside my friend @VP Mike Pence. Good to see you
+today! https:…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryZinke is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865660071908220928,
+                       'id_str': '865660071908220928',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908760616'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865660071908220928 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865660071908220928 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865660071908220928	It’s an honor to serve @POTUS and the American people
+ alongside my friend @VP Mike Pence. Good to see you today!
+https://t.co/4169HShK5E
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+
+
+New tweet from WhiteHouse: Abolishing ICE would erase America’s borders and
+open the floodgates to more crime, drugs, and terrorism. https://t.co/FALED80kkM
+
+archiving URL http://twitter.com/WhiteHouse/status/1015331048597618689
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862353422951088130,
+                       'id_str': '862353422951088130',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908763779'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862353422951088130 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862353422951088130 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862353422951088130	I enjoyed learning about the environmental issues
+facing Florida from @FLGovScott today. https://t.co/uZ2DwVTrME
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+
+archiving URL https://twitter.com/WhiteHouse/status/1015331048597618689
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865657170267746304,
+                       'id_str': '865657170267746304',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908765223'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865657170267746304 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865657170267746304 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865657170267746304	Thank you to Council for National Policy for having
+me at their meeting. I discussed restoring states’ rights &amp; wor…
+https://t.co/W8YWfYcURk
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+970747588872949762,
+                       'id_str': '970747588872949762',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908766709'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 970747588872949762 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 970747588872949762 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/970747588872949762	In just 1️⃣ year, we’ve made tremendous progress
+implementing @POTUS’ agenda by refocusing @EPA to its core mission…
+https://t.co/zlqGz6af98
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862359832275189761,
+                       'id_str': '862359832275189761',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908768365'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862359832275189761 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862359832275189761 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862359832275189761	Listen at 2:30pm ET to my interview on WDAY about how
+ @EPA is working with #NorthDakota. https://t.co/yo9F6swTxU  #EPABackToBasics
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865588901712416768,
+                       'id_str': '865588901712416768',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908769075'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865588901712416768 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865588901712416768 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865588901712416768	.@RepPeteOlson thanks for the invitation to Houston
+and your support for the changes we’re making at EPA! https://t.co/58N9Cd18wQ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+969680126677016576,
+                       'id_str': '969680126677016576',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908770197'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 969680126677016576 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 969680126677016576 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/969680126677016576	RT @EPA: Today @POTUS nominated Peter Wright to lead
+@EPAland. Read the release --&gt; https://t.co/JMfg0lDkyU. 
+The nomination is
+receiving h…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865580185231470593,
+                       'id_str': '865580185231470593',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908773703'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865580185231470593 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865580185231470593 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865580185231470593	This morning I had a productive meeting
+w/@RepPeteOlson re: clean air and the National Ambient Air Quality Standard…
+https://t.co/kwj1CwX5Dw
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862427479792906240,
+                       'id_str': '862427479792906240',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908774139'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862427479792906240 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862427479792906240 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862427479792906240	FRONT PAGE of today’s @bistrib: EPA starts process
+that gives #NorthDakota Well Authority https://t.co/97UkiyCMj9
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+969348983083716608,
+                       'id_str': '969348983083716608',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908775650'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 969348983083716608 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 969348983083716608 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/969348983083716608	Today’s coal ash proposal embodies @EPA’s commitment
+to our state partners by providing them with the ability to in…
+https://t.co/PyMdct48AD
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865255270003466241,
+                       'id_str': '865255270003466241',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908780494'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865255270003466241 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865255270003466241 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865255270003466241	I met with International Paper CEO Mark Sutton to
+discuss his role on the White House Manufacturing Jobs Initiative…
+https://t.co/DRGS1mb828
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+969224810675961857,
+                       'id_str': '969224810675961857',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908781340'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 969224810675961857 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 969224810675961857 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/969224810675961857	Productive meeting yesterday with the @NationalBCC on
+ ways we can work together to overhaul our country's water…
+https://t.co/F4EQErIvDK
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862683910039384070,
+                       'id_str': '862683910039384070',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908781701'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862683910039384070 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862683910039384070 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862683910039384070	I’m determined to prioritize Superfund cleanups – a
+core part of our mission: https://t.co/Z2hmPycZdj
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+865219802910076929,
+                       'id_str': '865219802910076929',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908784311'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 865219802910076929 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 865219802910076929 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/865219802910076929	I met w/@UEPCertified today to talk about
+environmental issues impacting agriculture &amp; farmers, including our work…
+https://t.co/6YVO2CItYF
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862710864939544576,
+                       'id_str': '862710864939544576',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908786146'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862710864939544576 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862710864939544576 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862710864939544576	Washington Times: EPA chief Pruitt: Obama no
+‘environmental savior,’ past administration accomplished nothing:
+https://t.co/KY9NvrksPe
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862726616946016256,
+                       'id_str': '862726616946016256',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908786289'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862726616946016256 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 862726616946016256 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/862726616946016256	RT
+ @EPAScottPruitt: Washington Times: EPA chief Pruitt: Obama no ‘environmental
+savior,’ past administration accomplished nothing: https://…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864940897129181186,
+                       'id_str': '864940897129181186',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908789777'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864940897129181186 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864940897129181186 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864940897129181186	Meeting with some of New York City's finest and
+thanking them for their service this #PoliceWeek. https://t.co/J8gDSLZA8w
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+967243390315319296,
+                       'id_str': '967243390315319296',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908790483'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 967243390315319296 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 967243390315319296 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/967243390315319296	Under @POTUS’s leadership, EPA is about getting real
+results for the American people. #CPAC2018 https://t.co/CEvbljiR58
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862733800396263424,
+                       'id_str': '862733800396263424',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908792494'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862733800396263424 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862733800396263424 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862733800396263424	Scott Pruitt: What Was So Great About Obama’s
+Environmental Record? https://t.co/McTxX1gccG
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864907343741538304,
+                       'id_str': '864907343741538304',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908794362'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864907343741538304 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864907343741538304 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864907343741538304	Great summary of my discussion with @foxandfriends on
+ the new direction at EPA &amp; the Superfund program on @NTKNet.
+https://t.co/cJCLa6lwFX
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+964307546797461504,
+                       'id_str': '964307546797461504',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908797028'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 964307546797461504 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 964307546797461504 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/964307546797461504	Congratulations to Holly Greaves on being confirmed
+today as @EPA’s chief financial officer. Holly has been essenti…
+https://t.co/zsIqPO5hFQ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862745467679121408,
+                       'id_str': '862745467679121408',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908798150'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862745467679121408 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862745467679121408 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862745467679121408	Scott Pruitt Explains Why He Sued EPA So Many Times:
+‘They Deserved It’: https://t.co/fu5b0nU6Jg
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864839973559840768,
+                       'id_str': '864839973559840768',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908802383'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864839973559840768 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864839973559840768 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864839973559840768	Read my Q&amp;A interview w/ Derrill Holly on EPA
+originalism and our #EPABack2Basics agenda: https://t.co/aErrSgbP6z
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+963792444717518848,
+                       'id_str': '963792444717518848',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908803169'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 963792444717518848 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 963792444717518848 for account
+ EPAScottPruitt
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862763590620786690,
+                       'id_str': '862763590620786690',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908805242'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862763590620786690 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862763590620786690 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862763590620786690	EPA chief: Obama was no "environmental savior":
+https://t.co/QFGvBlwIS8
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864832881226428416,
+                       'id_str': '864832881226428416',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908806814'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864832881226428416 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864832881226428416 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864832881226428416	Environmental Workforce Development &amp; Job
+Training Program has been putting people to work for nearly two decades.
+https://t.co/vdsxBkBlqL
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862775060737732608,
+                       'id_str': '862775060737732608',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908809691'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862775060737732608 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862775060737732608 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862775060737732608	EPA slams brakes on Obama's new pesticide rules:
+https://t.co/4KOIOsT96O
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864595094636244993,
+                       'id_str': '864595094636244993',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908810086'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864595094636244993 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864595094636244993 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864595094636244993	Tomorrow I’m looking forward to talking to @VarneyCo
+about @EPA’s new direction. Watch live at 9:15am ET.
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+960712811528601600,
+                       'id_str': '960712811528601600',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908810172'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 960712811528601600 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 960712811528601600 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/960712811528601600	Thank you for your partnership. Nevada is uniquely
+equipped to oversee cleanup of Anaconda Copper Mine. @EPA will r…
+https://t.co/Dk1PpvVffM
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+862777745100636161,
+                       'id_str': '862777745100636161',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908814260'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 862777745100636161 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 862777745100636161 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/862777745100636161	#ICYMI: I joined North Dakota’s Rob Port to talk
+about cooperative federalism. Here’s the audio: https://t.co/kb4SdGwJz6
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+949023146291671040,
+                       'id_str': '949023146291671040',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908814265'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 949023146291671040 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 949023146291671040 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/949023146291671040	RT @EPAregion6: Congratulations to our 2017
+#WasteWise Award winner @UTHealth! https://t.co/rHf2yXdrMu
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+863836856500314114,
+                       'id_str': '863836856500314114',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908818464'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 863836856500314114 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 863836856500314114 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/863836856500314114	Last week was a good week. Looking forward another
+productive one ahead. #EPABackToBasics https://t.co/siIsFZGnC9
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864594035557769217,
+                       'id_str': '864594035557769217',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908819777'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864594035557769217 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864594035557769217 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864594035557769217	In the morning I’m going to be talking to
+@foxandfriends about the changes we’re making at @EPA at 6:40am ET. Tune in!
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864476184582770689,
+                       'id_str': '864476184582770689',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908823484'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864476184582770689 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864476184582770689 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864476184582770689	Listen to @RepByrne talk about the positive impact
+our grant to @mobilebaynep will have on the community. https://t.co/QLjrCd7O7c
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+947891830112309248,
+                       'id_str': '947891830112309248',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908825356'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 947891830112309248 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 947891830112309248 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/947891830112309248	RT @WhiteHouse: Happy New Year!
+https://t.co/SLubTCHeZJ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864517327894835201,
+                       'id_str': '864517327894835201',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908824777'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864517327894835201 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864517327894835201 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864517327894835201	Thanks @RoyBlunt: “I’m glad to see EPA recognize the
+great work that @STLCC is doing to recruit and train students for good-paying
+jobs.”
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864484632817012737,
+                       'id_str': '864484632817012737',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908827701'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864484632817012737 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864484632817012737 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864484632817012737	Today I met w/@WesternGrowers to discuss agricultural
+ issues facing our farmers and ranchers &amp; how we can work toge…
+https://t.co/EszCPaq3ag
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864516741266894848,
+                       'id_str': '864516741266894848',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908829156'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864516741266894848 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864516741266894848 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864516741266894848	"We appreciate the EPA’s support for the Merrimack
+Valley Workforce Investment Board.” @MassGovernor https://t.co/pe2RKWahFC
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+864502240891076608,
+                       'id_str': '864502240891076608',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908833539'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 864502240891076608 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 864502240891076608 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/864502240891076608	I had a good conversation w/@RepBillFlores about
+working together on to protect our environment, achieve energy ind…
+https://t.co/bBuYt6FVkj
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+890325509065678848,
+                       'id_str': '890325509065678848',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908843300'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 890325509065678848 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 890325509065678848 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/890325509065678848	Had a great time getting to know @EPA interns at our
+ice cream social. Thanks for the work you do to promote enviro…
+https://t.co/Y1M4wTjKeV
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870369891211202560,
+                       'id_str': '870369891211202560',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908852036'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870369891211202560 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 870369891211202560 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/870369891211202560	President Trump made a hard decision today, but one
+that puts America first. https://t.co/uUYZcpWRxp
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870373751203930113,
+                       'id_str': '870373751203930113',
+
+                       'user_id': 822215673812119553,
+'user_id_str': '822215673812119553'},
+            'timestamp_ms':
+'1530908852229'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870373751203930113 on
+ account WhiteHouse
+INFO: get_archived_tweet() called to get tweet ID 870373751203930113 for account
+ WhiteHouse
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/WhiteHouse/st
+atus/870373751203930113	RT @EPAScottPruitt: President Trump made a hard decision
+ today, but one that puts America first. https://t.co/uUYZcpWRxp
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870377966068391940,
+                       'id_str': '870377966068391940',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908852486'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870377966068391940 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 870377966068391940 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/870377966068391940	RT
+ @EPAScottPruitt: President Trump made a hard decision today, but one that puts
+America first. https://t.co/uUYZcpWRxp
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870383172302721024,
+                       'id_str': '870383172302721024',
+
+                       'user_id': 818927131883356161,
+'user_id_str': '818927131883356161'},
+            'timestamp_ms':
+'1530908852597'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870383172302721024 on
+ account PressSec
+INFO: get_archived_tweet() called to get tweet ID 870383172302721024 for account
+ PressSec
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/PressSec/status/870383172302721024
+RT @EPAScottPruitt: President Trump made a hard decision today, but one that
+puts America first. https://t.co/uUYZcpWRxp
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because PressSec is not in the list of
+ accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+869950232825663490,
+                       'id_str': '869950232825663490',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908859782'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 869950232825663490 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 869950232825663490 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/869950232825663490	.@EPA selected 172 communities across the #USA to
+receive funding for Brownfield site revitalization. Learn more:
+https://t.co/fcPQa7OoGz
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870384860673835008,
+                       'id_str': '870384860673835008',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908864338'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870384860673835008 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 870384860673835008 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/870384860673835008	@POTUS Mr. President, your decision today to exit the
+ #ParisAccord reflects your unflinching commitment to put the American people
+first.
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+870399009885741058,
+                       'id_str': '870399009885741058',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908864492'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 870399009885741058 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 870399009885741058 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/870399009885741058	RT
+ @EPAScottPruitt: @POTUS Mr. President, your decision today to exit the
+#ParisAccord reflects your unflinching commitment to put the Amer…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+868498845650608129,
+                       'id_str': '868498845650608129',
+
+                       'user_id': 832672006113931269,
+'user_id_str': '832672006113931269'},
+            'timestamp_ms':
+'1530908866931'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 868498845650608129 on
+ account EPAScottPruitt
+INFO: get_archived_tweet() called to get tweet ID 868498845650608129 for account
+ EPAScottPruitt
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EPAScottPruitt
+/status/868498845650608129	This #MemorialDayWeekend please join me in honoring
+those who made the ultimate sacrifice for our great nation.
+https://t.co/cvFZ3jy0g1
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EPAScottPruitt is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+868536523054088192,
+                       'id_str': '868536523054088192',
+
+                       'user_id': 818928162449068032,
+'user_id_str': '818928162449068032'},
+            'timestamp_ms':
+'1530908867100'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 868536523054088192 on
+ account Cabinet
+INFO: get_archived_tweet() called to get tweet ID 868536523054088192 for account
+ Cabinet
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Cabinet/status/868536523054088192	RT
+ @EPAScottPruitt: This #MemorialDayWeekend please join me in honoring those who
+made the ultimate sacrifice for our great nation. https:/…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Cabinet is not in the list of
+accounts we tweet about
+
+
+New tweet from POTUS: RT @WhiteHouse: Abolishing ICE would erase America’s
+borders and open the floodgates to more crime, drugs, and terrorism.
+https://t.co/FALE…
+
+archiving URL http://twitter.com/POTUS/status/1015332842790903808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1015332842790903808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: Abolishing ICE would mean:
+❌eliminating the
+ agency that deports aliens that pose a terrorist threat to the United States
+❌m…
+
+archiving URL http://twitter.com/VP/status/1015335128615346178
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1015335128615346178
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: The U.S. economy added a healthy 213,000
+jobs in June, the latest in a string of positive headlines showing that
+confidence…
+
+archiving URL http://twitter.com/VP/status/1015335233145720832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1015335233145720832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: WASHINGTON EXAMINER: Jobless Claims Rise to
+231,000, But Are Still Running at Historic Lows
+
+Read more:…
+https://t.co/VRZw4nKhGM
+
+archiving URL http://twitter.com/WhiteHouse/status/1015337345514704896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1015337345514704896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: WASHINGTON EXAMINER: Jobless Claims Rise
+ to 231,000, But Are Still Running at Historic Lows
+
+Read more:
+https://t.co/cgxxyz…
+
+archiving URL http://twitter.com/POTUS/status/1015337444894441473
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1015337444894441473
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great to be with the American Heroes at @ICEgov today. The
+American people support you because they know how import…
+https://t.co/IfRhOnI7pJ
+
+archiving URL http://twitter.com/VP/status/1015341807608193024
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1015341807608193024
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @VP: Great to be with the American Heroes at @ICEgov
+today. The American people support you because they know how important your
+mission…
+
+archiving URL http://twitter.com/POTUS/status/1015341979822182401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1015341979822182401
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: If you want to learn more about the EnVision
+Centers-
+https://t.co/jZP90Jfbee
+
+archiving URL http://twitter.com/RealBenCarson/status/1015347540751986688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/1015347540751986688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @fema: We're coordinating closely with the
+governments of PR &amp; the U.S. Virgin Islands to keep an eye on #Beryl &amp;
+prepare for any potent…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1015351766177722370
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1015351766177722370
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @LGHNNSA: Traumatic brain injury affects
+hundreds of thousands of our Nation’s service members.  @Livermore_Lab's project
+ with @ENERGY,…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1015360807557791744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1015360807557791744
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Outstanding choice by @POTUS @realDonaldTrump :
+Trump taps Daniel Walsh to replace top @WhiteHouse aide
+Via…
+https://t.co/49wOr5kMhM
+
+archiving URL http://twitter.com/seanspicer/status/1015365213518954496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1015365213518954496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great to meet Calen and Christian Collins – two brave young
+ men – and their wonderful family at the @WhiteHouse tod…
+https://t.co/VTyzLNWFiB
+
+archiving URL http://twitter.com/VP/status/1015377449503412225
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1015377449503412225
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @costareports: (thread) spotted w/ POTUS at NJ
+golf club this morning: former NJ congressman Mike Ferguson, per two people
+briefed. Ferg…
+
+archiving URL http://twitter.com/seanspicer/status/1015383371952910337
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1015383371952910337
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: The Russian government continues to stifle press
+ freedom and media independence.  We condemn the selective targetin…
+https://t.co/jZmZ3FhyQh
+
+archiving URL http://twitter.com/statedeptspox/status/1015385979493015553
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/statedeptspox/status/1015385979493015553
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @tseides: Comimg up on Monday...the @Scaramucci
+you don’t yet know. https://t.co/JdbmxnVsI0
+
+archiving URL http://twitter.com/Scaramucci/status/1015409272933568514
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1015409272933568514
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scavino45: “Jobs report could signal a ‘stampede’ back into the
+ workforce”
+https://t.co/EDn4gB2RAm
+
+archiving URL http://twitter.com/Scavino45/status/1015412626430595072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1015412626430595072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “Six months in, TAX CUTS are already providing
+historic gains for minorities, women, and small businesses”
+https://t.co/a54BFT3UcM
+
+archiving URL http://twitter.com/Scavino45/status/1015412854504214534
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1015412854504214534
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “Hispanic-Latino Unemployment Rate Hits Lowest Level
+ on Record in June” https://t.co/27VkUgSVso
+
+archiving URL http://twitter.com/Scavino45/status/1015413123317157888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1015413123317157888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: https://t.co/wnDBAcemGF
+
+archiving URL http://twitter.com/Scaramucci/status/1015414910203912192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1015414910203912192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DanScavino: “When they lose, Democrats just want to change the
+rules” https://t.co/L9sYIwYLd2
+
+archiving URL http://twitter.com/DanScavino/status/1015414941292130304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/1015414941292130304
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “ICE says it seized $43M worth of counterfeit items
+in Laredo, Texas”
+https://t.co/d6X8uKkHWd
+
+archiving URL http://twitter.com/Scavino45/status/1015415317382746113
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1015415317382746113
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @DiplomacyCenter: Proud to have hosted Mrs.
+Pompeo and friends at the U.S. Diplomacy Center today to discuss the first
+museum and educat…
+
+archiving URL http://twitter.com/statedeptspox/status/1015415700754706432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015415700754706432
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from nikkihaley: Fun girls night seeing @MeanGirlsBway on Broadway!
+💗 https://t.co/7vu8VcIJT3
+
+archiving URL http://twitter.com/nikkihaley/status/1015435274409709568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1015435274409709568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Team heads into Day 2 of bilateral talks with
+#NorthKorea in Pyongyang. https://t.co/feygaxKLqb
+
+archiving URL http://twitter.com/statedeptspox/status/1015444002785693697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015444002785693697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Negotiations continue in Pyongyang Saturday as
+the second day of U.S.-North Korean bilateral talks resumes.
+https://t.co/KlxEnGYDaZ
+
+archiving URL http://twitter.com/statedeptspox/status/1015447010361606144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015447010361606144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Got to be a fly on the wall watching @SecPompeo
+lead the U.S. delegation on the second day of talks in Pyongyang.
+https://t.co/YJiE4CRwXW
+
+archiving URL http://twitter.com/statedeptspox/status/1015449378650312704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015449378650312704
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from statedeptspox: .@secpompeo finishes his final meeting of the
+day in Pyongyang. https://t.co/iXi5rWNBHw
+
+archiving URL http://twitter.com/statedeptspox/status/1015526101269938176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: After two days of meetings in #DPRK we’re off to
+ the airport.  #tokyo is next where we’ll debrief our allies.…
+https://t.co/bTWw6Wfq6v
+
+archiving URL http://twitter.com/statedeptspox/status/1015526101760684032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015526101760684032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015526101269938176
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from statedeptspox: Just before leaving Pyongyang, ⁦@SecPompeo⁩
+gives US reporters a brief readout from his meetings. “These are compli…
+https://t.co/ZrskfdmkIc
+
+archiving URL http://twitter.com/statedeptspox/status/1015544032317992961
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015544032317992961
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from statedeptspox: Great to be in #tokyo 🍤🍣🍱 Thanks
+⁦@usembassytokyo⁩  #Saturdaynight after #NorthKorea ⁦@StateDept⁩
+https://t.co/NQ3vgT2Cpz
+
+archiving URL http://twitter.com/statedeptspox/status/1015562095436283904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1015562095436283904
+    ... archiving using prefix http://web.archive.org/save/
