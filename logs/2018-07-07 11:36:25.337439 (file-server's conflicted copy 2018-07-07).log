@@ -1,0 +1,92 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Saturday, 07 July 2018 at 11:36
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1014952430503714816 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1015644892922564608 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=seanspicer&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6642bcc>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1012762946051690496 for account
+@MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1015275809207177217 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1015234657397493761 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=EnergyDepSec&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb66adf8c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1015314429397827587 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1015013470906060801 for account @Comey
+ERROR: unable to get tweets for account @Comey
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1012761348885893123 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=AshLeeStrong&count=200
+(Caused by ConnectTimeoutError(<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6642f6c>, 'Connection to api.twitter.com timed out.
+(connect timeout=60)'))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1014698216011558913 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1014553611681128449 for account
+@BetsyDeVosED
