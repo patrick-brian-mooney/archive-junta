@@ -1,0 +1,235 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.56-1+deb8u1 (2018-05-08)', machine='i686')
+This log was begun Thursday, 19 July 2018 at 17:50
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1020083114750734343 for account
+@WhiteHouse
+getting all tweets before ID #1012763229674786815
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 624665 (char 624664)
+about to get all tweets newer than ID #1016712148112760832 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 607348 (char 607347)
+about to get all tweets newer than ID #1019936460382834689 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1019707386079084548 for account
+@SecretaryRoss
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1020057235970543617 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 598624 (char 598623)
+about to get all tweets newer than ID #1014504948468510720 for account @Reince
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1019968760042672128 for account
+@seanspicer
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1020075929589231616 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request: ("Connection broken:
+ConnectionResetError(104, 'Connection reset by peer')",
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1020074850289881094 for account
+@Scaramucci
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1020045456171204609 for account @FLOTUS
+about to get all tweets newer than ID #1020011565448171520 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 604413 (char 604412)
+about to get all tweets newer than ID #1020050788993859584 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1020037845635850240 for account
+@SecondLady
+about to get all tweets newer than ID #1020026955993935872 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to send request: ("Connection broken:
+ConnectionResetError(104, 'Connection reset by peer')",
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1019398962019819520 for account @Comey
+about to get all tweets newer than ID #1019990251337601026 for account
+@EnergyDepSec
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1019044900912926720 for account
+@GovernorPerry
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1020020955954012162 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1020058290141761536 for account
+@SecNielsen
+about to get all tweets newer than ID #1020048296042213376 for account
+@IvankaTrump
+getting all tweets before ID #998909006134546431
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: RT @SecretaryAcosta: Today, during @POTUS
+@IvankaTrump announcement, companies, trade associations, and labor pledged to
+provide opportunit…
+about to get all tweets newer than ID #1020052193330724864 for account @SecAzar
+
+archiving URL http://twitter.com/IvankaTrump/status/1020093118748807168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1020093118748807168
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1020008975922810883 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1020012271861452800 for account
+@KellyannePolls
+about to get all tweets newer than ID #1020033303351619584 for account @PressSec
+about to get all tweets newer than ID #1020048527962013697 for account
+@StephGrisham45
+about to get all tweets newer than ID #1020083222095499264 for account @POTUS
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1016846923607748609 for account
+@DanScavino
+about to get all tweets newer than ID #1019602911096123392 for account
+@Scavino45
+about to get all tweets newer than ID #1020058345502363652 for account
+@mike_pence
+about to get all tweets newer than ID #1020081175241555971 for account
+@AshLeeStrong
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1020046965386764288 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1016492510749786114 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1019675107621556226 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1020079619871997952 for account @VP
+about to get all tweets newer than ID #1020085525762453504 for account
+@JessicaDitto45
+getting all tweets before ID #1002606051429179391
+    ...399 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @ABCNational: ABC signed on to @POTUS
+"Pledge to America's Workers" today, committing to educating and developing at
+least 500,000 const…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1020093400471810049
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1015616894559244288 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/JessicaDitto45/status/1020093400471810049
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxBusiness: .@RepTenney on @POTUS'
+executive order to create the National Council for the American Worker: "Now
+that we've created all…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1020093789162164226
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1020025191827673088 for account
+@nikkihaley
+
+archiving URL https://twitter.com/JessicaDitto45/status/1020093789162164226
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @FoxBusiness: .@LockheedMartin CEO Marillyn
+Hewson on the costs of training skilled workers: "One of the areas that have
+enabled us to i…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1020093930900197384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1020093930900197384
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1019351837391106048 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1020057317948223488 for account @Cabinet
+about to get all tweets newer than ID #1020010941931499520 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1020075021576941569 for account
+@DepSecHargan
+about to get all tweets newer than ID #1019756697106206720 for account
+@SecretarySonny
+... OK, we're set up, and about to watch 822215673812119553, 733751245,
+827258161841135623, 836305915452272641, 105267762, 819992522109894658, 20733972,
+ 599530439, 826065858548133888, 20776147, 15985455, 1967216306, 24578794,
+728361177986797568, 832672006113931269, 809836066316451840, 818876014390603776,
+830128820447539208, 819980276570976256, 822127086194348032, 828613457020870657,
+2334193741, 894923298374651904, 829782369670410240, 18906561, 65522706,
+29547260, 798195585824104449, 935148134505828353, 52544275, 956283913835614208,
+25073877, 471672239, 818927131883356161, 823638938590085124, 822215679726100480,
+ 831482588246196225, 620571475, 823367015830323201, 22203756, 296060169,
+866746592853979137, 18916432, 888031054141022209, 803703725730779136,
+1923451808, 118756393, 818910970567344128, 836724024688410625, 1180379185,
+37666984, 828997388920619008, 818928162449068032, 799764016885329921, 108471631,
+ 212262370, 6577802, 920035992073064450, 842072478834909184
+
+
+New tweet from seanspicer: At 9pm ET I’ll join @seanhannity on @FoxNews to
+talk about my forthcoming book, The Briefing, which is available fo…
+https://t.co/gbGIe7FKFl
+
+archiving URL http://twitter.com/seanspicer/status/1020102184980140038
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1020102184980140038
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @FoxNews: .@Scaramucci: "The economic dashboard
+is fabulous for America right now." #TheStory https://t.co/rHRV9PihcD
+
+archiving URL http://twitter.com/Scaramucci/status/1020102662967218181
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1020102662967218181
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump promised to make government work
+for ordinary Americans, and support for workforce training is key…
+https://t.co/ksHFEaj84E
+
+archiving URL http://twitter.com/WhiteHouse/status/1020105508936716294
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1020105508936716294
+    ... archiving using prefix http://web.archive.org/save/
