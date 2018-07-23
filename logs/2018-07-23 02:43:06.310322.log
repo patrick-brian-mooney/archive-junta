@@ -1,0 +1,254 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Monday, 23 July 2018 at 02:43
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1015616894559244288 for account
+@RealBenCarson
+about to get all tweets newer than ID #1020343820834263040 for account
+@SecretaryCarson
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1021182713355784193 for account
+@DepSecHargan
+about to get all tweets newer than ID #1020377870710001668 for account
+@SecNielsen
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1021181896989003776 for account
+@Scaramucci
+about to get all tweets newer than ID #1016492510749786114 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1021143614393671685 for account
+@IvankaTrump
+about to get all tweets newer than ID #1021151394731044864 for account
+@statedeptspox
+about to get all tweets newer than ID #1021054905979686917 for account
+@KellyannePolls
+about to get all tweets newer than ID #1021140093480779777 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1019351837391106048 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1020048527962013697 for account
+@StephGrisham45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1021045613356388352 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1021049446807883776 for account @SecAzar
+about to get all tweets newer than ID #1020369454415392768 for account
+@SecondLady
+about to get all tweets newer than ID #1019990251337601026 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1019707386079084548 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1021235236242411520 for account
+@Scavino45
+about to get all tweets newer than ID #1021021803815350273 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1021137222131748866 for account @SBALinda
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1021235449816338432 for account @POTUS
+about to get all tweets newer than ID #1020278954563899393 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1021216282241323008 for account
+@nikkihaley
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1021153435096428547 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1020011565448171520 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1020130061821915137 for account @PressSec
+about to get all tweets newer than ID #1021036157319204865 for account @VP
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1021234525626609666 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1020045456171204609 for account @FLOTUS
+about to get all tweets newer than ID #1020745157078110208 for account
+@AshLeeStrong
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1021132108381683712 for account @Comey
+about to get all tweets newer than ID #1021017196150091776 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1020827657855004672 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1014504948468510720 for account @Reince
+about to get all tweets newer than ID #1016712148112760832 for account @PRyan
+about to get all tweets newer than ID #1019756697106206720 for account
+@SecretarySonny
+about to get all tweets newer than ID #1020057317948223488 for account @Cabinet
+about to get all tweets newer than ID #1021235509010583553 for account
+@WhiteHouse
+about to get all tweets newer than ID #1019044900912926720 for account
+@GovernorPerry
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1021168130205286402 for account
+@seanspicer
+about to get all tweets newer than ID #1016846923607748609 for account
+@DanScavino
+about to get all tweets newer than ID #1020809255358803969 for account
+@mike_pence
+... OK, we're set up, and about to watch 108471631, 212262370,
+728361177986797568, 1180379185, 828613457020870657, 809836066316451840,
+920035992073064450, 935148134505828353, 832672006113931269, 15985455, 24578794,
+888031054141022209, 52544275, 1967216306, 471672239, 827258161841135623,
+828997388920619008, 823638938590085124, 826065858548133888, 18916432,
+956283913835614208, 822127086194348032, 894923298374651904, 836305915452272641,
+823367015830323201, 798195585824104449, 819992522109894658, 6577802,
+822215679726100480, 118756393, 599530439, 866746592853979137, 105267762,
+37666984, 29547260, 799764016885329921, 831482588246196225, 830128820447539208,
+818927131883356161, 818910970567344128, 65522706, 25073877, 818876014390603776,
+296060169, 803703725730779136, 2334193741, 819980276570976256,
+829782369670410240, 836724024688410625, 20733972, 733751245, 842072478834909184,
+ 818928162449068032, 822215673812119553, 18906561, 1923451808, 20776147,
+620571475, 22203756
+
+
+New tweet from realDonaldTrump: Tom Fitton on @foxandfriends at 6:15 A.M. NOW!
+ Judicial Watch.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1021337592904732672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1021337592904732672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: So we now find out that it was indeed the
+unverified and Fake Dirty Dossier, that was paid for by Crooked Hillary C…
+https://t.co/27dWDeEvBK
+
+archiving URL http://twitter.com/realDonaldTrump/status/1021341698734030848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1021341698734030848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Tune in: 24 hours before the official release of
+The Briefing I’m joining @FoxNews @foxandfriends @ainsleyearhardt…
+https://t.co/csfXwzJsLw
+
+archiving URL http://twitter.com/seanspicer/status/1021344830197305344
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1021344830197305344
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “It was classified to cover up misconduct by
+the FBI and the Justice Department in misleading the Court by using th…
+https://t.co/BzCDQSgbjD
+
+archiving URL http://twitter.com/realDonaldTrump/status/1021347230022807552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1021347230022807552
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Today is the @WhiteHouse’s #MadeInAmerica Day.
+ U.S. manufacturing is in a resurgence with 374,000 new manufacturing…
+https://t.co/BPIjJUGHFg
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1021349393956593664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1021349393956593664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....and the DOJ, FBI and Obama Gang need to be
+ held to account. Source #1 was the major source. Avoided talking abo…
+https://t.co/3oCymGEBOa
+
+archiving URL http://twitter.com/realDonaldTrump/status/1021349516878974977
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1021349516878974977
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: .....”Carter Page wasn’t a spy, wasn’t an
+agent of the Russians - he would have cooperated with the FBI. It was a f…
+https://t.co/7Yo9u8T93f
+
+archiving URL http://twitter.com/realDonaldTrump/status/1021351630648815616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1021351630648815616
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Couldn’t get enough of #TheBriefing this morning on
+ @foxandfriends ! Thanks for having me @aearhardt @stevedoocy an…
+https://t.co/qUJLg8p5am
+
+archiving URL http://twitter.com/seanspicer/status/1021354562870005760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1021354562870005760
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @seanspicer: Couldn’t get enough of #TheBriefing
+ this morning on @foxandfriends ! Thanks for having me @aearhardt @stevedoocy
+and @toddp…
+
+archiving URL http://twitter.com/seanspicer/status/1021357517593604097
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @seanspicer: Couldn’t get enough of #TheBriefing
+ this morning on @foxandfriends ! Thanks for having me @aearhardt @stevedoocy
+and @toddp…
+
+archiving URL http://twitter.com/seanspicer/status/1021357517593604097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1021357517593604097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1021357517593604097
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrumpHQ: This slimming dress is a workweek must-have:
+https://t.co/y5TthVgWjl https://t.co/rFE1wac165
+
+archiving URL http://twitter.com/IvankaTrumpHQ/status/1021363056201338880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrumpHQ/status/1021363056201338880
+    ... archiving using prefix http://web.archive.org/save/
