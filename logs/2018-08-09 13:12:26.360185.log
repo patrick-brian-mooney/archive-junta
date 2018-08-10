@@ -1,0 +1,273 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Thursday, 09 August 2018 at 13:12
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1026613666874097664 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1027262766481133574 for account @FLOTUS
+about to get all tweets newer than ID #1027576921725562880 for account
+@SecNielsen
+getting all tweets before ID #977241138435379199
+    ...374 tweets downloaded so far
+
+
+New tweet from SecNielsen: Thank you to @CBP officials and @SenJohnHoeven for
+allowing me to visit North Dakota and to learn more about how…
+https://t.co/yo31VLMXMJ
+about to get all tweets newer than ID #1027625810776211457 for account @SecAzar
+
+archiving URL http://twitter.com/SecNielsen/status/1027632370973736961
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1027632370973736961
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1027602277899673600 for account @VP
+about to get all tweets newer than ID #1027234212007567361 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1027034417146093568 for account @PRyan
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1024829935238750208 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1025423091822997505 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1027586705040257024 for account @POTUS
+about to get all tweets newer than ID #1027610708844929024 for account
+@DepSecHargan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1024362632340557824 for account @Reince
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1024348660753149952 for account
+@KellyannePolls
+about to get all tweets newer than ID #1027622689417166848 for account
+@statedeptspox
+getting all tweets before ID #1015544032317992960
+    ...400 tweets downloaded so far
+
+
+New tweet from statedeptspox: .@SecPompeo spoke with Mexican Foreign Secretary
+ @LVidegaray and discussed the importance of reducing irregular mig…
+https://t.co/gI5nZGvpSc
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+
+archiving URL http://twitter.com/statedeptspox/status/1027630048398991360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1027630048398991360
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1026491173878288384 for account @Comey
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1026563833039659009 for account
+@StephGrisham45
+about to get all tweets newer than ID #1027609013649924098 for account @SBALinda
+getting all tweets before ID #1003617430785220613
+    ...400 tweets downloaded so far
+
+
+New tweet from SBALinda: #SmallBusiness Hammer &amp; Stain’s owner credits the
+ booming #economy for their ability to open this DIY art studio.…
+https://t.co/t8vtuu72tM
+about to get all tweets newer than ID #1027615665816043521 for account
+@SecretaryAcosta
+
+archiving URL http://twitter.com/SBALinda/status/1027626645744746496
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1027626645744746496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Tune in now @1210WPHT as I talk with @Richzeoli about
+ all things Pennsylvania #SmallBusiness and how we can further…
+https://t.co/1HYKTcTJGJ
+
+archiving URL http://twitter.com/SBALinda/status/1027632643372982273
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1027632643372982273
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: The level of #optimism as surveyed by @NFIB and
+others say its the highest they’ve seen in decades! The… https://t.co/7vkxlIcos4
+
+archiving URL http://twitter.com/SBALinda/status/1027635413882753025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1027635413882753025
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1025715874391568385 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1027606877323108352 for account
+@Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1027255620918013952 for account
+@SecretaryRoss
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1026875315426140160 for account @PressSec
+about to get all tweets newer than ID #1024712872360693760 for account
+@GovernorPerry
+about to get all tweets newer than ID #1027583887109775365 for account
+@JessicaDitto45
+getting all tweets before ID #1010632885076832255
+    ...398 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @GovMattBevin: Looking forward to joining
+@POTUS today for an important dialogue on prison reform. Thoughtful reform will
+reduce crime,…
+about to get all tweets newer than ID #1026841571717734400 for account
+@SecretarySonny
+
+archiving URL http://twitter.com/JessicaDitto45/status/1027634031540822016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1027634031540822016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @GovernorDeal: Looking forward to meeting
+with @POTUS and other governors today to discuss criminal justice reform results
+ and successes…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1027634085794070530
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1027634085794070530
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1027623288263061504 for account
+@SecretaryPerry
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1027335632111251458 for account
+@nikkihaley
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1027222910770003968 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1027616819987795968 for account
+@IvankaTrump
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+about to get all tweets newer than ID #1027032901299396610 for account
+@RealBenCarson
+about to get all tweets newer than ID #1027268792542539776 for account
+@DanScavino
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1027609120696872960 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1027390413567655941 for account
+@seanspicer
+about to get all tweets newer than ID #1027340732477128704 for account
+@mike_pence
+about to get all tweets newer than ID #1024306290342993920 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1027600571530969088 for account
+@realDonaldTrump
+getting all tweets before ID #1021884006869204991
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: @LindseyGrahamSC  “Why didn’t the FBI tell
+President Trump that they had concerns about Carter Page? Is there a dou…
+https://t.co/f8hIHzmDiS
+about to get all tweets newer than ID #1026499587652108288 for account @Cabinet
+
+archiving URL http://twitter.com/realDonaldTrump/status/1027641518243414016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1027641518243414016
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1027607864494497792 for account
+@Scaramucci
+getting all tweets before ID #1022182795655798783
+    ...400 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @FoxNewsInsider: .@Scaramucci: Trump Rallying
+for GOP Candidates Like Putting Tom Brady in 4th Quarter of Super Bowl, via
+@AmericaNewsro…
+about to get all tweets newer than ID #1027616412750295041 for account
+@SpeakerRyan
+
+archiving URL http://twitter.com/Scaramucci/status/1027627992401539072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1027627992401539072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @SkyBridge: SkyBridge's Troy Gayeski joins
+@BloombergTV to discuss emerging markets, Federal Reserve policy and more
+@FerroTV @LJKawa ht…
+
+archiving URL http://twitter.com/Scaramucci/status/1027628446816645120
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1027628446816645120
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1027627320713113608 for account
+@WhiteHouse
+getting all tweets before ID #1021927269126873087
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: President @realDonaldTrump supports reasonable,
+compassionate prison reform that keeps our streets safe by helping…
+https://t.co/N9WSojvWYt
+about to get all tweets newer than ID #1027611094838403075 for account
+@SecondLady
+
+archiving URL http://twitter.com/WhiteHouse/status/1027638401380614145
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1027638401380614145
+    ... archiving using prefix http://web.archive.org/save/
+... OK, we're set up, and about to watch 118756393, 818876014390603776,
+935148134505828353, 956283913835614208, 818910970567344128, 828613457020870657,
+733751245, 212262370, 15985455, 826065858548133888, 296060169,
+888031054141022209, 65522706, 822215679726100480, 920035992073064450,
+1923451808, 803703725730779136, 20733972, 809836066316451840, 471672239,
+1967216306, 832672006113931269, 2334193741, 29547260, 823638938590085124,
+819992522109894658, 819980276570976256, 831482588246196225, 828997388920619008,
+823367015830323201, 836305915452272641, 6577802, 866746592853979137,
+818927131883356161, 18906561, 836724024688410625, 842072478834909184, 105267762,
+ 830128820447539208, 599530439, 37666984, 829782369670410240,
+894923298374651904, 52544275, 798195585824104449, 1180379185, 620571475,
+728361177986797568, 108471631, 827258161841135623, 20776147, 22203756,
+799764016885329921, 25073877, 818928162449068032, 24578794, 18916432,
+822215673812119553, 822127086194348032
