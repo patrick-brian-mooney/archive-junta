@@ -1,0 +1,287 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Saturday, 11 August 2018 at 09:42
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1024829935238750208 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1027944176456028161 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 842885 (char 842884)
+about to get all tweets newer than ID #1025715874391568385 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1028249798619607043 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1026499587652108288 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 1111638 (char 1111637)
+about to get all tweets newer than ID #1028044366097666048 for account
+@SecondLady
+about to get all tweets newer than ID #1028267650898710528 for account
+@Scaramucci
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1028275158342098944 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1028278612661809164 for account
+@WhiteHouse
+getting all tweets before ID #1022487997974020095
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 617459 (char 617458)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1027234212007567361 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1028276281652195328 for account @PressSec
+about to get all tweets newer than ID #1024348660753149952 for account
+@KellyannePolls
+about to get all tweets newer than ID #1028264654676602880 for account
+@nikkihaley
+about to get all tweets newer than ID #1028005613144612864 for account @SBALinda
+about to get all tweets newer than ID #1028271591292133381 for account
+@Scavino45
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1028045698753810432 for account @VP
+about to get all tweets newer than ID #1027984089163419648 for account
+@IvankaTrump
+about to get all tweets newer than ID #1027723971448512513 for account
+@SecretarySonny
+about to get all tweets newer than ID #1027639455044304896 for account @FLOTUS
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1027726466711252992 for account
+@DanScavino
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1028035208447021056 for account
+@SecNielsen
+about to get all tweets newer than ID #1028017629548765184 for account
+@mike_pence
+about to get all tweets newer than ID #1028268545426300929 for account @SecAzar
+about to get all tweets newer than ID #1027639789359652864 for account
+@StephGrisham45
+about to get all tweets newer than ID #1028278711219617794 for account @POTUS
+getting all tweets before ID #1019599017817395200
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: The riots in Charlottesville a year
+ ago resulted in senseless death and division. We must come together as a
+nation. I…
+
+archiving URL http://twitter.com/POTUS/status/1028311219705442304
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1028088610866831362 for account
+@seanspicer
+
+archiving URL https://twitter.com/POTUS/status/1028311219705442304
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1027032901299396610 for account
+@RealBenCarson
+about to get all tweets newer than ID #1027034417146093568 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 603506 (char 603505)
+about to get all tweets newer than ID #1025423091822997505 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1028046937784762368 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1028079035220406272 for account
+@statedeptspox
+about to get all tweets newer than ID #1028038724976816129 for account
+@DepSecHargan
+about to get all tweets newer than ID #1026491173878288384 for account @Comey
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1027947934762065921 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1028055006166110213 for account
+@JessicaDitto45
+getting all tweets before ID #1011801748959309824
+    ...398 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: I am proud to have fought
+for and secured the LOWEST African American and Hispanic unemployment rates in
+history. Now…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1028314940178919424
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+
+archiving URL https://twitter.com/JessicaDitto45/status/1028314940178919424
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1026613666874097664 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1028071383195164679 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1027688230336905217 for account
+@GovernorPerry
+about to get all tweets newer than ID #1027937005785755650 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1024306290342993920 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1027981164315914240 for account
+@SpeakerRyan
+... OK, we're set up, and about to watch 296060169, 20733972,
+828997388920619008, 819980276570976256, 29547260, 829782369670410240, 599530439,
+ 818928162449068032, 822127086194348032, 24578794, 728361177986797568, 25073877,
+ 822215673812119553, 803703725730779136, 108471631, 15985455,
+828613457020870657, 818927131883356161, 471672239, 37666984, 819992522109894658,
+ 823367015830323201, 6577802, 818910970567344128, 52544275, 842072478834909184,
+818876014390603776, 1923451808, 798195585824104449, 620571475,
+831482588246196225, 935148134505828353, 22203756, 956283913835614208,
+823638938590085124, 822215679726100480, 20776147, 1180379185, 733751245,
+888031054141022209, 65522706, 105267762, 830128820447539208, 1967216306,
+920035992073064450, 2334193741, 212262370, 894923298374651904,
+836724024688410625, 866746592853979137, 118756393, 809836066316451840,
+827258161841135623, 18906561, 836305915452272641, 799764016885329921,
+832672006113931269, 826065858548133888, 18916432
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: "It seems right and fitting for one of Justice
+Kennedy’s own law clerks to follow in his footsteps." Read the lette…
+https://t.co/bfLwfpo85T
+
+archiving URL http://twitter.com/WhiteHouse/status/1028324164938153985
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1028324164938153985
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: https://t.co/lRdXj7DtKg
+
+archiving URL http://twitter.com/Scaramucci/status/1028324565905227776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1028324565905227776
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: My boyfriend ⁦@Scaramucci⁩
+https://t.co/O3rPyGMl5o
+
+archiving URL http://twitter.com/Scaramucci/status/1028330845810188288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1028330845810188288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: #titoseries
+https://t.co/xvxTCEjhuj
+
+archiving URL http://twitter.com/Scaramucci/status/1028331030300766209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1028331030300766209
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: Capri Sunset August 2018 the company is better than
+ the scenery. ⁦@DeidreScaramuc2⁩ https://t.co/q6nkGl4jht
+
+archiving URL http://twitter.com/Scaramucci/status/1028340599500533760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1028340599500533760
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Judge Brett Kavanaugh's peers know him best—and can
+ attest to his qualifications, integrity, and commitment to the…
+https://t.co/Hm9LEKrTUw
+
+archiving URL http://twitter.com/WhiteHouse/status/1028346813760323584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1028346813760323584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The big story that the Fake News Media refuses
+ to report is lowlife Christopher Steele’s many meetings with Deputy…
+https://t.co/Ww4P9iVZYd
+
+archiving URL http://twitter.com/realDonaldTrump/status/1028347518822825984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1028347518822825984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....Do you believe Nelly worked for Fusion and
+ her husband STILL WORKS FOR THE DEPARTMENT OF “JUSTICE.” I have neve…
+https://t.co/008GZHdbrl
+
+archiving URL http://twitter.com/realDonaldTrump/status/1028354010129027077
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1028354010129027077
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Hundreds of Bikers for Trump just joined me at
+ Bedminster. Quite a scene - great people who truly love our Country!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1028355187939987465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1028355187939987465
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...

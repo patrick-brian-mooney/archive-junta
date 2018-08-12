@@ -202,3 +202,84 @@ WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
 WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
 port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scavino45: RT @PierceSheriff: Follow this thread for official
+info. This is not a terrorist incident. Confirmed info .. this is a single
+suicide male.…
+
+archiving URL http://twitter.com/Scavino45/status/1028147639760629760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1028147639760629760
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Thank you @usairforce!!
+
+archiving URL http://twitter.com/Scavino45/status/1028149174557134848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1028149174557134848
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1028147639760629760,
+                       'id_str': '1028147639760629760',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1533965357234'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1028147639760629760
+on account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 1028147639760629760 for
+account Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/1028147639760629760
+	RT @PierceSheriff: Follow this thread for official info. This is not a
+terrorist incident. Confirmed info .. this is a single suicide male.…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1028149174557134848,
+                       'id_str': '1028149174557134848',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1533965415467'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1028149174557134848
+on account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 1028149174557134848 for
+account Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/1028149174557134848
+	Thank you @usairforce!!
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+
+
+New tweet from SecretaryAcosta: ICYMI: A record high 156 million Americans are
+ working in @POTUS’s economy. https://t.co/uUYGoG4IkC
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1028249798619607043
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1028249798619607043
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
