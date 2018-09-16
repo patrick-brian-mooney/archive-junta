@@ -1,0 +1,248 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Tuesday, 11 September 2018 at 06:00
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1039121874561708032 for account
+@Scaramucci
+about to get all tweets newer than ID #1037827187305590784 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1038910408982257665 for account
+@GovernorPerry
+about to get all tweets newer than ID #1039288878199451660 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1038211197605175296 for account
+@RealBenCarson
+about to get all tweets newer than ID #1039366612149829634 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1037781793020276738 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1039469874609893376 for account
+@Scavino45
+about to get all tweets newer than ID #1039475340119355392 for account @PressSec
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1036692418710491136 for account @Comey
+about to get all tweets newer than ID #1038088962190061569 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1039464526075383813 for account
+@DanScavino
+about to get all tweets newer than ID #1039291062458740737 for account
+@KellyannePolls
+about to get all tweets newer than ID #1039478975599439872 for account
+@SecNielsen
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1039252421367611392 for account @PRyan
+about to get all tweets newer than ID #1039483479363399680 for account
+@realDonaldTrump
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1038824909798080513 for account
+@IvankaTrump
+about to get all tweets newer than ID #1039481527384592385 for account @POTUS
+getting all tweets before ID #1029435338584940543
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @FLOTUS: #NeverForget 9.11.01 https://t.co/BWeDfxj21W
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+
+archiving URL http://twitter.com/POTUS/status/1039482084820234240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1039482084820234240
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1039260864866672643 for account
+@DepSecHargan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1039239657224065024 for account @FLOTUS
+getting all tweets before ID #923647046355247103
+    ...368 tweets downloaded so far
+
+
+New tweet from FLOTUS: #NeverForget 9.11.01 https://t.co/BWeDfxj21W
+
+archiving URL http://twitter.com/FLOTUS/status/1039481993120174081
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1039481432299716608 for account
+@WhiteHouse
+
+archiving URL https://twitter.com/FLOTUS/status/1039481993120174081
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1038232795322167301 for account
+@mike_pence
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1038116687873302529 for account @Cabinet
+about to get all tweets newer than ID #1037379883943555077 for account @Reince
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1039475665228054528 for account
+@StephGrisham45
+getting all tweets before ID #958086164908568582
+    ...400 tweets downloaded so far
+
+
+New tweet from StephGrisham45: RT @FLOTUS: #NeverForget 9.11.01
+https://t.co/BWeDfxj21W
+
+archiving URL http://twitter.com/StephGrisham45/status/1039482442808057856
+about to get all tweets newer than ID #1039194168604741633 for account
+@seanspicer
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1039482442808057856
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1022489994093580287
+    ...400 tweets downloaded so far
+
+
+New tweet from seanspicer: RT @PressSec: 17 yrs ago, we received a terrible
+reminder of the evil in our world. In the midst of horrific tragedy America
+stood strong.…
+
+archiving URL http://twitter.com/seanspicer/status/1039482058857426945
+about to get all tweets newer than ID #1039272911683477505 for account @SecAzar
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1039287018948358144 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1039359376853819392 for account @SBALinda
+
+archiving URL https://twitter.com/seanspicer/status/1039482058857426945
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1039239284669202433 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1039476257916952576 for account @VP
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1039217320244248576 for account
+@SecretaryRoss
+getting all tweets before ID #836986961504137216
+    ...86 tweets downloaded so far
+
+
+New tweet from SecretaryRoss: 17 years ago, more than 3,000 lives were lost
+during the horrific &amp; tragic events of #September11th. While we will…
+https://t.co/Jh09QYW7hb
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+
+archiving URL http://twitter.com/SecretaryRoss/status/1039484737155420165
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1039484737155420165
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1039299820408721409 for account
+@nikkihaley
+about to get all tweets newer than ID #1039323218472042497 for account
+@SecondLady
+about to get all tweets newer than ID #1039327089562984448 for account
+@statedeptspox
+about to get all tweets newer than ID #1039466623810392064 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1039161400088768512 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1038176864483921928 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1039338435419492352 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1039450708083388416 for account
+@SecretarySonny
+about to get all tweets newer than ID #1038182965724020736 for account
+@EnergyDepSec
+... OK, we're set up, and about to watch 24578794, 118756393,
+803703725730779136, 18906561, 830128820447539208, 1180379185,
+836724024688410625, 799764016885329921, 823367015830323201, 818927131883356161,
+832672006113931269, 2334193741, 888031054141022209, 620571475, 471672239,
+935148134505828353, 6577802, 809836066316451840, 728361177986797568, 733751245,
+25073877, 826065858548133888, 29547260, 52544275, 822215679726100480, 599530439,
+ 212262370, 920035992073064450, 15985455, 818876014390603776,
+822215673812119553, 798195585824104449, 22203756, 866746592853979137,
+818928162449068032, 20733972, 1923451808, 823638938590085124, 20776147,
+956283913835614208, 18916432, 819992522109894658, 819980276570976256,
+818910970567344128, 829782369670410240, 105267762, 836305915452272641,
+831482588246196225, 108471631, 65522706, 37666984, 822127086194348032,
+1967216306, 827258161841135623, 828613457020870657, 828997388920619008,
+296060169, 842072478834909184, 894923298374651904
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Reince: Incredible bravery.
+
+archiving URL http://twitter.com/Reince/status/1039489604511039489
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1039489604511039489
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: Departing Washington, D.C. to attend a Flight
+93 September 11th Memorial Service in Shanksville, Pennsylvania with…
+https://t.co/vfpGv2zkrJ
+
+archiving URL http://twitter.com/realDonaldTrump/status/1039489954223542274
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1039489954223542274
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from StephGrisham45: .@FLOTUS &amp; @POTUS are wheels up for
+#Shanksville, PA to pay tribute to those lost on 9/11 #NeverForget
+
+archiving URL http://twitter.com/StephGrisham45/status/1039490186101440512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1039490186101440512
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
