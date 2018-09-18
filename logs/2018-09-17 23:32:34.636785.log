@@ -1,0 +1,137 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Monday, 17 September 2018 at 23:32
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1041001710511173636 for account @FLOTUS
+about to get all tweets newer than ID #1040708859428519936 for account @SBALinda
+about to get all tweets newer than ID #1041888969502412800 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1041844667665604609 for account
+@Scavino45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1041844843461394432 for account @POTUS
+about to get all tweets newer than ID #1041821601011040256 for account
+@statedeptspox
+about to get all tweets newer than ID #1041806353751322624 for account @SecAzar
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1041823884193030144 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1041827174397952001 for account
+@SpeakerRyan
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1041832989787865094 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1041018344873316353 for account @PressSec
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1041709200332804096 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1039522508561625089 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1041850038069211136 for account
+@WhiteHouse
+about to get all tweets newer than ID #1041831233163026432 for account
+@mike_pence
+about to get all tweets newer than ID #1041192514437500928 for account
+@DanScavino
+about to get all tweets newer than ID #1041852406152286208 for account
+@IvankaTrump
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1041723872066854919 for account
+@EnergyDepSec
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1041845429401530368 for account @Cabinet
+about to get all tweets newer than ID #1040678283023736832 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1041849280003289088 for account @VP
+about to get all tweets newer than ID #1041525387430289408 for account @Reince
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1039586546301784064 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1038211197605175296 for account
+@RealBenCarson
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1041827405445390336 for account
+@DepSecHargan
+about to get all tweets newer than ID #1041872463670464512 for account
+@seanspicer
+about to get all tweets newer than ID #1041841320518664198 for account
+@SecNielsen
+about to get all tweets newer than ID #1039603577264775170 for account @PRyan
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1041782670596956160 for account
+@SecretarySonny
+about to get all tweets newer than ID #1041830423029067776 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1041718421707210752 for account
+@KellyannePolls
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1041819254230839296 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1041825235383840779 for account
+@SecondLady
+about to get all tweets newer than ID #1041832458650611712 for account
+@Scaramucci
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1041822127551275010 for account @Comey
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1039495977747410945 for account
+@GovernorPerry
+about to get all tweets newer than ID #1041794482746875905 for account
+@nikkihaley
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1040327457503633408 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1041895488419717120 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1041844539743498240 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1039917649742970881 for account
+@StephGrisham45
+... OK, we're set up, and about to watch 599530439, 818876014390603776,
+819992522109894658, 296060169, 823367015830323201, 803703725730779136,
+822215679726100480, 1967216306, 956283913835614208, 65522706,
+830128820447539208, 18916432, 829782369670410240, 831482588246196225,
+827258161841135623, 818927131883356161, 29547260, 828997388920619008,
+799764016885329921, 822215673812119553, 22203756, 620571475, 52544275,
+826065858548133888, 894923298374651904, 105267762, 818928162449068032,
+828613457020870657, 818910970567344128, 20733972, 1923451808,
+888031054141022209, 1180379185, 798195585824104449, 108471631,
+920035992073064450, 20776147, 935148134505828353, 733751245, 6577802,
+842072478834909184, 819980276570976256, 471672239, 15985455, 118756393,
+822127086194348032, 24578794, 212262370, 832672006113931269, 2334193741,
+866746592853979137, 809836066316451840, 18906561, 37666984, 728361177986797568,
+836305915452272641, 836724024688410625, 25073877, 823638938590085124
