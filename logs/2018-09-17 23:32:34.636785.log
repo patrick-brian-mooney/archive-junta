@@ -135,3 +135,65 @@ about to get all tweets newer than ID #1039917649742970881 for account
 822127086194348032, 24578794, 212262370, 832672006113931269, 2334193741,
 866746592853979137, 809836066316451840, 18906561, 37666984, 728361177986797568,
 836305915452272641, 836724024688410625, 25073877, 823638938590085124
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+644994633156595713,
+                       'id_str': '644994633156595713',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1537266111583'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 644994633156595713 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 644994633156595713 for account
+ AshLeeStrong
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretaryPerry: RT @MargSchinas: Bilateral meeting on the
+sidelines of #3SeasInitiative between ⁦@JunckerEU⁩ ⁦@SecretaryPerry⁩. Continued
+commitment to del…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1041998440958513153
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1041998440958513153
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: I am on @SquawkCNBC discussing the
+administration’s
+most recent actions to level the playing field for American
+business!
+
+archiving URL http://twitter.com/SecretaryRoss/status/1042001772368343040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1042001772368343040
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: 448,000 new construction jobs have been
+created since @POTUS’s election. https://t.co/l5Wjw2EfWl
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1042005505814798337
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1042005505814798337
+    ... archiving using prefix http://web.archive.org/save/
