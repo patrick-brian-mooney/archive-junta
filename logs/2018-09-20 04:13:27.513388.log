@@ -1,0 +1,216 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Thursday, 20 September 2018 at 04:13
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1042061099946926080 for account
+@IvankaTrump
+about to get all tweets newer than ID #1042527756280586240 for account @Cabinet
+about to get all tweets newer than ID #1042188348637499392 for account
+@SecondLady
+about to get all tweets newer than ID #1042590197949579264 for account @VP
+about to get all tweets newer than ID #1041709200332804096 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1042626165784174592 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1041192514437500928 for account
+@DanScavino
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1042601471387283462 for account
+@Scaramucci
+about to get all tweets newer than ID #1041831233163026432 for account
+@mike_pence
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1039495977747410945 for account
+@GovernorPerry
+about to get all tweets newer than ID #1042576803343335425 for account @POTUS
+about to get all tweets newer than ID #1042031575641276417 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1039522508561625089 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1042497982904639491 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1042568908438491136 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1042479662931296257 for account
+@KellyannePolls
+about to get all tweets newer than ID #1042716710875344896 for account
+@seanspicer
+about to get all tweets newer than ID #1038211197605175296 for account
+@RealBenCarson
+about to get all tweets newer than ID #1042553388481822720 for account
+@SecNielsen
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1041525387430289408 for account @Reince
+about to get all tweets newer than ID #1042367956347498496 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1042709120221175808 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1042530893347397632 for account
+@SecretarySonny
+about to get all tweets newer than ID #1042457540578172928 for account @PressSec
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1042579239730601984 for account
+@WhiteHouse
+about to get all tweets newer than ID #1042521534261350401 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1042535713512857601 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1039603577264775170 for account @PRyan
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1042437072068509696 for account
+@nikkihaley
+about to get all tweets newer than ID #1042146815448109057 for account @FLOTUS
+about to get all tweets newer than ID #1042443879440637952 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1042490652544696321 for account @Comey
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1042501382689959936 for account @SBALinda
+about to get all tweets newer than ID #1042453259443752960 for account
+@StephGrisham45
+about to get all tweets newer than ID #1042576750084087809 for account
+@Scavino45
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1042489542761242625 for account @SecAzar
+about to get all tweets newer than ID #1042495961589796867 for account
+@DepSecHargan
+about to get all tweets newer than ID #1042583076210180097 for account
+@statedeptspox
+about to get all tweets newer than ID #1042526246456963072 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1042576698007539714 for account
+@realDonaldTrump
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1042569262106402817 for account
+@SecretaryCarson
+... OK, we're set up, and about to watch 52544275, 818928162449068032,
+822127086194348032, 818910970567344128, 828997388920619008, 296060169,
+620571475, 798195585824104449, 24578794, 22203756, 212262370, 29547260,
+18906561, 822215679726100480, 836305915452272641, 799764016885329921,
+894923298374651904, 18916432, 471672239, 20776147, 1180379185,
+935148134505828353, 826065858548133888, 809836066316451840, 20733972,
+819980276570976256, 803703725730779136, 836724024688410625, 842072478834909184,
+818927131883356161, 831482588246196225, 822215673812119553, 118756393,
+827258161841135623, 733751245, 832672006113931269, 65522706, 108471631,
+37666984, 818876014390603776, 888031054141022209, 105267762, 2334193741,
+6577802, 599530439, 819992522109894658, 823638938590085124, 823367015830323201,
+866746592853979137, 1923451808, 829782369670410240, 956283913835614208,
+920035992073064450, 1967216306, 830128820447539208, 25073877, 15985455,
+728361177986797568, 828613457020870657
+
+
+New tweet from IvankaTrump: RT @SenTedCruz: Looking forward to visiting
+@NASA_Johnson tomorrow in #Houston with @IvankaTrump &amp; @JimBridenstine to
+discuss the great wor…
+
+archiving URL http://twitter.com/IvankaTrump/status/1042722340130500609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1042722340130500609
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretaryAcosta: Today in Texas, I will discuss how @POTUS is
+working to create #MoreApprenticeships to help Americans access good,…
+https://t.co/nfuEqlkHJP
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1042730295466844161
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1042730295466844161
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Financial and jobs numbers are fantastic.
+There are plenty of new, high paying jobs available in our great and very…
+https://t.co/wB8SOnD4Qu
+
+archiving URL http://twitter.com/realDonaldTrump/status/1042731410858168320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1042731410858168320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We protect the countries of the Middle East,
+they would not be safe for very long without us, and yet they continue…
+https://t.co/NbKeUOiQGz
+
+archiving URL http://twitter.com/realDonaldTrump/status/1042733544466989057
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1042733544466989057
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “We can’t secure the Border because of the
+Democrats historic level of Obstruction. The Presidents fed up with this…
+https://t.co/jMLAWQff90
+
+archiving URL http://twitter.com/realDonaldTrump/status/1042738383720726528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1042738383720726528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....The thing that’s lacking is we can’t
+properly secure the Border because of the Democrats historic level of Obst…
+https://t.co/7FckEVWHbo
+
+archiving URL http://twitter.com/realDonaldTrump/status/1042739629139664896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1042739629139664896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I want to know, where is the money for Border
+Security and the WALL in this ridiculous Spending Bill, and where wil…
+https://t.co/KHpM0VtP7I
+
+archiving URL http://twitter.com/realDonaldTrump/status/1042740913968164864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1042740913968164864
+    ... archiving using prefix http://web.archive.org/save/
