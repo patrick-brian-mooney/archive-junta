@@ -196,7 +196,7 @@ def get_archived_tweet(username, id):
 def handle_deletion(data):
     """Take any necessary action when Twitter reports a tweet has been deleted. Currently,
     we do two things here: one, add the tweet (and as much information about it as
-    possible) to a .csv file collecting delted tweets; and two, possibly tweet about
+    possible) to a .csv file collecting deleted tweets; and two, possibly tweet about
     it on my personal Twitter account.
     """
     log_it('INFO: handling a deletion for data:\n\n%s' % pprint.pformat(data))
@@ -222,6 +222,8 @@ def handle_deletion(data):
         if tweet_about_deletions:
             if username in notify_on_delete_accounts:
                 log_it(" ... and we're going to tweet about it", 1)
+                if archived_url is None:
+                    archived_url = """https://web.archive.org/web/*/http://twitter.com/%s/status/%s""" % (username, tweet_id)
                 the_tweet = "Looks like **%s** just deleted a tweet. There might be an archived copy at %s, though."
                 the_tweet = the_tweet % (username, archived_url)
                 sm.post_tweet(the_tweet=the_tweet, client_credentials=Trump_client_for_personal_account)
