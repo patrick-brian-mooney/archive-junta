@@ -1,0 +1,57 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Saturday, 22 September 2018 at 09:43
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1042876954569932801 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=SecNielsen&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb676680c>: Failed to establish a new connection: [Errno 12]
+Cannot allocate memory',))
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=IvankaTrumpHQ&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb66b01ec>: Failed to establish a new connection: [Errno
+ 11] Resource temporarily unavailable',))
+about to get all tweets newer than ID #1043208992435183616 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Cabinet&count=200 (Caused by
+NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnectio
+n object at 0xb66ab34c>: Failed to establish a new connection: [Errno 11]
+Resource temporarily unavailable',))
+about to get all tweets newer than ID #1043241716688531457 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=WhiteHouse&count=200 (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb66ba4cc>: Failed to establish a new connection: [Errno 11]
+Resource temporarily unavailable',))
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?screen_name=Linda_McMahon&count=200
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb66b2dcc>: Failed to establish a new connection: [Errno
+ 11] Resource temporarily unavailable',))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
