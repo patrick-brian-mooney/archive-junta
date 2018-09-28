@@ -1,0 +1,396 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Thursday, 27 September 2018 at 17:37
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1045308047999078401 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 851954 (char 851953)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1045353540288479234 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1045363330809024515 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1045389444977750017 for account @SecAzar
+about to get all tweets newer than ID #1045364329699266565 for account
+@stevenmnuchin1
+getting all tweets before ID #956248796635295743
+    ...400 tweets downloaded so far
+
+
+New tweet from stevenmnuchin1: Glad to speak at the @AmSwissFound and continue
+ the important work to #BuildBridges between the United States and S…
+https://t.co/gtkbZQP3hW
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1045457334187757569
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1045457334187757569
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1045444544068812800 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1043536971006656512 for account
+@mike_pence
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1045137493094543361 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1045439571830493185 for account
+@nikkihaley
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1045456511131164672 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1045437140883181568 for account
+@KellyannePolls
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1045384589752107008 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1044613749980651520 for account @PRyan
+about to get all tweets newer than ID #1045437127964729344 for account @POTUS
+getting all tweets before ID #1038437710489239552
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Judge Kavanaugh showed America
+exactly why I nominated him. His testimony was powerful, honest, and riveting.
+Democrat…
+
+archiving URL http://twitter.com/POTUS/status/1045445062015033345
+about to get all tweets newer than ID #1044205921759444992 for account
+@GovernorPerry
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1045445062015033345
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045413384278224897 for account
+@DepSecHargan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1041709200332804096 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1045119635924881412 for account
+@IvankaTrump
+about to get all tweets newer than ID #1045416112769445888 for account
+@statedeptspox
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1045035381484376064 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1045448674321584129 for account
+@WhiteHouse
+about to get all tweets newer than ID #1045418950899699713 for account
+@StephGrisham45
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1041192514437500928 for account
+@DanScavino
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1045416744519708672 for account @PressSec
+getting all tweets before ID #995868553306927104
+    ...398 tweets downloaded so far
+about to get all tweets newer than ID #1045435388557500416 for account
+@seanspicer
+
+
+New tweet from PressSec: RT @realDonaldTrump: Judge Kavanaugh showed America
+exactly why I nominated him. His testimony was powerful, honest, and riveting.
+Democrat…
+
+archiving URL http://twitter.com/PressSec/status/1045445477494390784
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1024138676945793023
+
+archiving URL https://twitter.com/PressSec/status/1045445477494390784
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from seanspicer: Thank you.   The real good people are at the
+@IndyFund who do amazing work helping our wounded service members
+https://t.co/QExK6DQqAs
+
+archiving URL http://twitter.com/seanspicer/status/1045460068467134465
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+
+archiving URL https://twitter.com/seanspicer/status/1045460068467134465
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045087177561042945 for account @VP
+getting all tweets before ID #1039276393975177215
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: RT @realDonaldTrump: https://t.co/9o5gZlJiTd
+
+archiving URL http://twitter.com/VP/status/1045305717102661632
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/VP/status/1045305717102661632
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Today, Senate Republicans conducted a hearing that was fair
+ &amp; respectful to Judge Kavanaugh &amp; Dr. Ford. The same ca…
+https://t.co/7prHQk0jX3
+
+archiving URL http://twitter.com/VP/status/1045458915985633280
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045404161439924224 for account
+@EnergyDepSec
+
+archiving URL https://twitter.com/VP/status/1045458915985633280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: Judge Kavanaugh showed America exactly
+ why I nominated him. His testimony was powerful, honest, and riveting.
+Democrat…
+
+archiving URL http://twitter.com/VP/status/1045459440768634888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1045459440768634888
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045457051449724929 for account @SBALinda
+getting all tweets before ID #1021819910937300991
+    ...400 tweets downloaded so far
+
+
+New tweet from SBALinda: @Jim_Rebuff @WhiteHouse So glad to hear it was
+helpful!
+about to get all tweets newer than ID #1045268812323590144 for account @Reince
+
+archiving URL http://twitter.com/SBALinda/status/1045459051751124992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1045459051751124992
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045060120256884736 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1045408360336707584 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1045086751843405835 for account
+@SecondLady
+about to get all tweets newer than ID #1045384074758680581 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1045355386050613251 for account @Cabinet
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1045413574838038528 for account
+@Scaramucci
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1045423632200192000 for account
+@Scavino45
+getting all tweets before ID #1018902159125909503
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Judge Kavanaugh showed America
+exactly why I nominated him. His testimony was powerful, honest, and riveting.
+Democrat…
+
+archiving URL http://twitter.com/Scavino45/status/1045444985376722944
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1043911704789299201 for account @Comey
+
+archiving URL https://twitter.com/Scavino45/status/1045444985376722944
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1045348962536951809 for account @FLOTUS
+about to get all tweets newer than ID #1043221205904449536 for account
+@RealBenCarson
+about to get all tweets newer than ID #1045423978721030146 for account
+@SecretarySonny
+about to get all tweets newer than ID #1045430449181536256 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #-1 for account @jaredkushner
+... OK, we're set up, and about to watch 18916432, 826065858548133888,
+828613457020870657, 830128820447539208, 956283913835614208, 799764016885329921,
+798195585824104449, 25073877, 22203756, 212262370, 599530439, 118756393,
+37666984, 829782369670410240, 296060169, 471672239, 108471631,
+827258161841135623, 733751245, 822215679726100480, 18906561, 920035992073064450,
+ 1923451808, 828997388920619008, 52544275, 1967216306, 15985455,
+935148134505828353, 822215673812119553, 823638938590085124, 831482588246196225,
+620571475, 809836066316451840, 818927131883356161, 20776147, 866746592853979137,
+ 818910970567344128, 65522706, 894923298374651904, 819992522109894658, 20733972,
+ 888031054141022209, 819980276570976256, 822127086194348032, 836305915452272641,
+ 818928162449068032, 803703725730779136, 24578794, 105267762, 6577802,
+728361177986797568, 823367015830323201, 2334193741, 818876014390603776,
+1180379185, 842072478834909184, 836724024688410625, 832672006113931269, 29547260
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: The evidence is clear: President @realDonaldTrump’s
+ policies will continue to drive true American prosperity. 
+
+Mor…
+https://t.co/vyRp237rJd
+
+archiving URL http://twitter.com/WhiteHouse/status/1045468382265511937
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1045468382265511937
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Americans' outlook on the economy hit an 18-year
+high as soaring consumer confidence added several more percentage…
+https://t.co/x4kjPj8Il0
+
+archiving URL http://twitter.com/WhiteHouse/status/1045473664630751232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1045473664630751232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Americans' outlook on the economy hit an
+ 18-year high as soaring consumer confidence added several more percentage
+points i…
+
+archiving URL http://twitter.com/POTUS/status/1045473786760507392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1045473786760507392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Be more concerned with your character than your
+reputation, because your character is what you really are, while yo…
+https://t.co/65TyzobVof
+
+archiving URL http://twitter.com/Scaramucci/status/1045482322588565504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045482322588565504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: Small lies matter, even about yearbooks. From the
+standard jury instruction: “If a witness is shown knowingly to ha…
+https://t.co/0Q0aHPcft1
+
+archiving URL http://twitter.com/Comey/status/1045486374273658880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1045486374273658880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @moochandthemrs: The Mooch and the Mrs. talked
+about the challenges of raising their children in this day and age when
+everyone’s lives…
+
+archiving URL http://twitter.com/Scaramucci/status/1045514402731085824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045514402731085824
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@DeidreScaramuc2 @Radiodotcom
+https://t.co/oQTTQYaj1G
+
+archiving URL http://twitter.com/Scaramucci/status/1045515219374678016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045515219374678016
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@Sarah_Smarsh “the media rarely gets it right. In
+fact it often gets it wrong with insult.” Fantastic interview. W…
+https://t.co/guzOlOSyyE
+
+archiving URL http://twitter.com/Scaramucci/status/1045522535138426885
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045522535138426885
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: .@Sarah_Smarsh already starts reading on
+@AmazonKindle  https://t.co/WysUKm94U5
+
+archiving URL http://twitter.com/Scaramucci/status/1045524523016232960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045524523016232960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @sidrosenberg: Happy happy birthday to my heart,
+ soul mate, wife and best friend❤️
+I celebrate with you today because whatever’s
+ good in…
+
+archiving URL http://twitter.com/Scaramucci/status/1045537812295163904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1045537812295163904
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from nikkihaley: RT @AFP: Megaphone diplomacy: US Ambassador to UN
+Nikki Haley addresses some 100 Venezuelan protesters in New York who are calling
+ for US i…
+
+archiving URL http://twitter.com/nikkihaley/status/1045627892712054785
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1045627892712054785
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from seanspicer: None taken.  Actually 3’4” though
+
+archiving URL http://twitter.com/seanspicer/status/1045637706280251392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1045637706280251392
+    ... archiving using prefix http://web.archive.org/save/
