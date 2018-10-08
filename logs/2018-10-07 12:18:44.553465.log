@@ -229,3 +229,23 @@ archiving URL http://twitter.com/WhiteHouse/status/1049016131732877312
 
 archiving URL https://twitter.com/WhiteHouse/status/1049016131732877312
     ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+624261923253714944,
+                       'id_str': '624261923253714944',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1538941486486'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 624261923253714944 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 624261923253714944 for account
+ realDonaldTrump
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...

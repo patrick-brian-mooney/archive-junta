@@ -1,0 +1,306 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-6-686-pae', version='#1 SMP Debian 3.16.57-2 (2018-07-14)', machine='i686')
+This log was begun Sunday, 07 October 2018 at 13:53
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1047955889846714369 for account @Reince
+about to get all tweets newer than ID #1048302015275814912 for account
+@mike_pence
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1048951085979893760 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1048196417855148032 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1048973302943944705 for account
+@KellyannePolls
+about to get all tweets newer than ID #1048717556478070785 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1048677311032246272 for account
+@nikkihaley
+about to get all tweets newer than ID #1047899115017912321 for account
+@SecretarySonny
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1047544008153735168 for account @Comey
+about to get all tweets newer than ID #1049000066885857280 for account
+@Scavino45
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1047855558987014146 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1044205921759444992 for account
+@GovernorPerry
+about to get all tweets newer than ID #1048982745278566400 for account @FLOTUS
+about to get all tweets newer than ID #1048209728722096128 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1048270786757320707 for account
+@SecretaryCarson
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1048987768632893441 for account
+@StephGrisham45
+getting all tweets before ID #966343724589637631
+    ...400 tweets downloaded so far
+
+
+New tweet from StephGrisham45: #FLOTUSInAfrica2018 https://t.co/sz4AxNHWNN
+about to get all tweets newer than ID #1049016131732877312 for account
+@WhiteHouse
+
+archiving URL http://twitter.com/StephGrisham45/status/1049004048534450177
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1049004048534450177
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1047975932882051072 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1048890796005625856 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1048291544044896257 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1048948142513770501 for account @PressSec
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1048674690988998662 for account @Cabinet
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1048310066955345920 for account
+@SpeakerRyan
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1048996888886661120 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1048681488789786624 for account
+@RealBenCarson
+about to get all tweets newer than ID #1049012042013790216 for account @PRyan
+about to get all tweets newer than ID #1048958628206706690 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1048960510455103488 for account
+@IvankaTrump
+about to get all tweets newer than ID #1048674493424648192 for account
+@JessicaDitto45
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1048694504000249856 for account
+@seanspicer
+about to get all tweets newer than ID #1048676378873352192 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614335 (char 614334)
+about to get all tweets newer than ID #1048622420221997056 for account @SecAzar
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1048670871492157440 for account @VP
+about to get all tweets newer than ID #1048339794743496704 for account
+@SecNielsen
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1049003013711511553 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606191 (char 606190)
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1049013824504954880 for account
+@statedeptspox
+about to get all tweets newer than ID #1048982891978510336 for account @POTUS
+about to get all tweets newer than ID #1049000243168206848 for account
+@realDonaldTrump
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1048673911590846466 for account
+@DepSecHargan
+about to get all tweets newer than ID #1048677087433908226 for account @SBALinda
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1048996316590825472 for account
+@DanScavino
+... OK, we're set up, and about to watch 20733972, 22203756, 15985455,
+894923298374651904, 118756393, 471672239, 296060169, 37666984,
+842072478834909184, 599530439, 2334193741, 823367015830323201,
+866746592853979137, 799764016885329921, 18906561, 818876014390603776,
+836305915452272641, 828613457020870657, 1923451808, 823638938590085124,
+822215673812119553, 108471631, 828997388920619008, 819980276570976256,
+888031054141022209, 818927131883356161, 212262370, 818928162449068032, 65522706,
+ 18916432, 826065858548133888, 827258161841135623, 1180379185, 733751245,
+830128820447539208, 52544275, 836724024688410625, 728361177986797568,
+832672006113931269, 20776147, 822127086194348032, 956283913835614208,
+803703725730779136, 809836066316451840, 818910970567344128, 935148134505828353,
+6577802, 24578794, 798195585824104449, 29547260, 1967216306, 822215679726100480,
+ 25073877, 829782369670410240, 920035992073064450, 819992522109894658,
+831482588246196225, 105267762, 620571475
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+619579608304865281,
+                       'id_str': '619579608304865281',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1538943845464'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 619579608304865281 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 619579608304865281 for account
+ realDonaldTrump
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: On Saturday Morning, @FLOTUS landed in Cairo,
+Egypt, where she met with President Abdel Fattah Al Sisi and First La…
+https://t.co/utJ0TXiMQA
+
+archiving URL http://twitter.com/WhiteHouse/status/1049055774184562694
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1049055774184562694
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: It was an honor to run today in support of our
+great soldiers and their families! #ArmyStrong 🇺🇸
+
+archiving URL http://twitter.com/IvankaTrump/status/1049057373921468420
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1049057373921468420
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: “I want to thank President Abdel Fattah Al Sisi and
+ First Lady Entissar Amer for hosting me in Egypt. It was a nice…
+https://t.co/wT7MAIHWa3
+
+archiving URL http://twitter.com/WhiteHouse/status/1049072644560175104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1049072644560175104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: RT @WhiteHouse: “I want to thank President
+Abdel Fattah Al Sisi and First Lady Entissar Amer for hosting me in Egypt. It
+was a nice opportu…
+
+archiving URL http://twitter.com/StephGrisham45/status/1049078457781702657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1049078457781702657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @realDonaldTrump: .@SecPompeo had a good
+meeting with Chairman Kim today in Pyongyang. Progress made on Singapore Summit
+Agreements! I l…
+
+archiving URL http://twitter.com/statedeptspox/status/1049079317601210368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1049079317601210368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @ArthurSchwartz: “A spokesperson for CNN did not
+ immediately return a request for comment.”
+
+If a Fox News reporter tweeted this
+ garbage…
+
+archiving URL http://twitter.com/seanspicer/status/1049083396620734464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1049083396620734464
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from StephGrisham45: RT @dougmillsnyt: Melania Trump in Africa:
+Scenes From a Solo Trip - @FLOTUS - Link : https://t.co/x5VKs5BZRz
+@MarisaRSchwartz  @StephGris…
+
+archiving URL http://twitter.com/StephGrisham45/status/1049091096570212352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1049091096570212352
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from WhiteHouse: "President Trump’s maxim that 'economic security is
+ national security' comes with an important corollary: A strong…
+https://t.co/VZFGJubivU
+
+archiving URL http://twitter.com/WhiteHouse/status/1049095278240964609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1049095278240964609
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Reince: RT @Brewers: Party #3 has started! #OurCrewOurOctober
+https://t.co/ERexFxqOMu
+
+archiving URL http://twitter.com/Reince/status/1049142463103995904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1049142463103995904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Headed to China to meet with
+State Councilor Wang and Director Yang to strengthen our constructive, results-
+oriented relatio…
+
+archiving URL http://twitter.com/statedeptspox/status/1049143442293628928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1049143442293628928
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
