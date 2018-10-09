@@ -1,0 +1,336 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 08 October 2018 at 17:31
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1048681488789786624 for account
+@RealBenCarson
+about to get all tweets newer than ID #1047975932882051072 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1049404130769424384 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614332 (char 614331)
+about to get all tweets newer than ID #1049332429457149952 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614330 (char 614329)
+about to get all tweets newer than ID #1048674690988998662 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 622579 (char 622578)
+about to get all tweets newer than ID #1048270786757320707 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606172 (char 606171)
+about to get all tweets newer than ID #1048996316590825472 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614318 (char 614317)
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614325 (char 614324)
+about to get all tweets newer than ID #1049083396620734464 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 614337 (char 614336)
+about to get all tweets newer than ID #1049298374757765120 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1049393125565898752 for account
+@nikkihaley
+about to get all tweets newer than ID #1047899115017912321 for account
+@SecretarySonny
+about to get all tweets newer than ID #1048677087433908226 for account @SBALinda
+about to get all tweets newer than ID #1048209728722096128 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1047544008153735168 for account @Comey
+about to get all tweets newer than ID #1049434935956725760 for account
+@WhiteHouse
+getting all tweets before ID #1042448482471161855
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: “There is no one in America more qualified for this
+ position, and no one more deserving,” President Trump said when…
+https://t.co/3i6QozJzSu
+
+archiving URL http://twitter.com/WhiteHouse/status/1049444580129722373
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049436024751960065 for account
+@SpeakerRyan
+
+archiving URL https://twitter.com/WhiteHouse/status/1049444580129722373
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614312 (char 614311)
+about to get all tweets newer than ID #1049343931400540160 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608164 (char 608163)
+about to get all tweets newer than ID #1049328571892813824 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 609505 (char 609504)
+about to get all tweets newer than ID #1044205921759444992 for account
+@GovernorPerry
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614276 (char 614275)
+about to get all tweets newer than ID #1048196417855148032 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1048674493424648192 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1049373190827507715 for account
+@Scavino45
+getting all tweets before ID #1022267878224084991
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @realDonaldTrump: https://t.co/k2bOxapRtR
+
+archiving URL http://twitter.com/Scavino45/status/1049445298349719553
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049385141557030912 for account
+@realDonaldTrump
+
+archiving URL https://twitter.com/Scavino45/status/1049445298349719553
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1041630722413527039
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: https://t.co/k2bOxapRtR
+
+archiving URL http://twitter.com/realDonaldTrump/status/1049445228694962176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1048676378873352192 for account
+@SecondLady
+
+archiving URL https://twitter.com/realDonaldTrump/status/1049445228694962176
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049371096074444801 for account @PRyan
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1049253072445329408 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1049415088141164546 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1049376936286461952 for account @SecAzar
+about to get all tweets newer than ID #1049334801298350081 for account @Reince
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1049342810267308032 for account
+@KellyannePolls
+about to get all tweets newer than ID #1048673911590846466 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 615853 (char 615852)
+about to get all tweets newer than ID #1049429705756221440 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 610446 (char 610445)
+about to get all tweets newer than ID #1047855558987014146 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1048291544044896257 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614309 (char 614308)
+about to get all tweets newer than ID #1049345771265384464 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 616713 (char 616712)
+about to get all tweets newer than ID #1049385104638992391 for account @POTUS
+getting all tweets before ID #1041711622845353984
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @WhiteHouse: President Trump Participates in the
+Swearing-In Ceremony of the Honorable Brett M. Kavanaugh https://t.co/O78f8RcRUs
+
+archiving URL http://twitter.com/POTUS/status/1049435032690065409
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+archiving URL https://twitter.com/POTUS/status/1049435032690065409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: “There is no one in America more
+qualified for this position, and no one more deserving,” President Trump said
+when he anno…
+
+archiving URL http://twitter.com/POTUS/status/1049445110797221888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1049445110797221888
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049343687526928384 for account @FLOTUS
+
+
+New tweet from POTUS: RT @realDonaldTrump: https://t.co/k2bOxapRtR
+
+archiving URL http://twitter.com/POTUS/status/1049445361570459654
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049410670528266241 for account @VP
+
+archiving URL https://twitter.com/POTUS/status/1049445361570459654
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1040587166982840320
+
+
+New tweet from POTUS: RT @WhiteHouse: Our 114th Supreme Court Justice, Brett
+M. Kavanaugh. https://t.co/Hzg5SjzaxN
+
+archiving URL http://twitter.com/POTUS/status/1049451316005748736
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: Deeply troubled to hear reports about Saudi Arabian
+journalist Jamal Khashoggi. If true, this is a tragic day. Viol…
+https://t.co/Hyk1U2JVnP
+
+archiving URL http://twitter.com/VP/status/1049435218900410369
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+
+archiving URL https://twitter.com/POTUS/status/1049451316005748736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1049435218900410369
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1049328048951185409 for account @PressSec
+
+
+New tweet from VP: Congratulations JUSTICE Brett Kavanaugh! He will be an
+outstanding Justice on the Supreme Court who will be a princ…
+https://t.co/eJgZER2Rlz
+
+archiving URL http://twitter.com/VP/status/1049447718828068864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1049447718828068864
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 612082 (char 612081)
+about to get all tweets newer than ID #1049427384628367361 for account
+@Scaramucci
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1049334003575209984 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614325 (char 614324)
+... OK, we're set up, and about to watch 1180379185, 828997388920619008,
+809836066316451840, 1967216306, 935148134505828353, 818928162449068032,
+828613457020870657, 620571475, 65522706, 20776147, 830128820447539208, 37666984,
+ 842072478834909184, 819992522109894658, 836305915452272641, 2334193741,
+822215673812119553, 18916432, 823638938590085124, 894923298374651904, 18906561,
+831482588246196225, 866746592853979137, 118756393, 108471631, 1923451808,
+836724024688410625, 823367015830323201, 25073877, 822127086194348032, 733751245,
+ 798195585824104449, 15985455, 819980276570976256, 826065858548133888,
+296060169, 956283913835614208, 20733972, 803703725730779136, 29547260,
+832672006113931269, 471672239, 920035992073064450, 22203756, 799764016885329921,
+ 888031054141022209, 829782369670410240, 827258161841135623, 822215679726100480,
+ 728361177986797568, 212262370, 818876014390603776, 818910970567344128,
+599530439, 818927131883356161, 24578794, 6577802, 105267762, 52544275
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from VP: GRATEFUL to meet so many brave members of law enforcement
+in Texas &amp; Missouri today – thankful for their service an…
+https://t.co/eJX0Flu13C
+
+archiving URL http://twitter.com/VP/status/1049454815418478592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1049454815418478592
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 2 more
+ expected)', IncompleteRead(0 bytes read, 2 more expected)); sleeping and trying
+ again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 976
+more expected)', IncompleteRead(0 bytes read, 976 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4048
+more expected)', IncompleteRead(0 bytes read, 4048 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3542
+more expected)', IncompleteRead(0 bytes read, 3542 more expected)); sleeping and
+ trying again ...

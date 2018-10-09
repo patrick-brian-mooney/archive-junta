@@ -1,0 +1,351 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 08 October 2018 at 20:49
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1049328048951185409 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606201 (char 606200)
+about to get all tweets newer than ID #1049328571892813824 for account
+@EnergyDepSec
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1049451316005748736 for account @POTUS
+getting all tweets before ID #1041755249575383041
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1049298374757765120 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1049445298349719553 for account
+@Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 606202 (char 606201)
+about to get all tweets newer than ID #1049429705756221440 for account
+@mike_pence
+about to get all tweets newer than ID #1049415088141164546 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1049393125565898752 for account
+@nikkihaley
+about to get all tweets newer than ID #1049445228694962176 for account
+@realDonaldTrump
+getting all tweets before ID #1041631817697251327
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614310 (char 614309)
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1048674690988998662 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 847190 (char 847189)
+about to get all tweets newer than ID #1049477056751431680 for account
+@Scaramucci
+getting all tweets before ID #1043598397163364351
+    ...399 tweets downloaded so far
+
+
+New tweet from Scaramucci: RT @realDonaldTrump: Christopher Columbus’s spirit
+of determination &amp; adventure has provided inspiration to generations of
+Americans. On #C…
+about to get all tweets newer than ID #-1 for account @jaredkushner
+
+archiving URL http://twitter.com/Scaramucci/status/1049484003953307649
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+
+archiving URL https://twitter.com/Scaramucci/status/1049484003953307649
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1047899115017912321 for account
+@SecretarySonny
+about to get all tweets newer than ID #1044205921759444992 for account
+@GovernorPerry
+about to get all tweets newer than ID #1048270786757320707 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1049334003575209984 for account
+@IvankaTrump
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1048291544044896257 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1049253072445329408 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1048676378873352192 for account
+@SecondLady
+about to get all tweets newer than ID #1049343931400540160 for account
+@StephGrisham45
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1049452381895831553 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606193 (char 606192)
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1048677087433908226 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 614337 (char 614336)
+about to get all tweets newer than ID #1049334801298350081 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 851942 (char 851941)
+about to get all tweets newer than ID #1049455123083272192 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 606066 (char 606065)
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614358 (char 614357)
+about to get all tweets newer than ID #1048196417855148032 for account
+@AmbJohnBolton
+ERROR: unable to get tweets for account @AmbJohnBolton
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 608367 (char 608366)
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1048674493424648192 for account
+@JessicaDitto45
+getting all tweets before ID #1030075587300352001
+    ...399 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Tonight, America witnessed a
+"moment which reminds us that freedom is a tradition passed down from generation
+ to generation…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1049470055367540736
+about to get all tweets newer than ID #1049491200548528129 for account
+@statedeptspox
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1049470055367540736
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1035552801609396224
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 614265 (char 614264)
+about to get all tweets newer than ID #1049436024751960065 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #1049332429457149952 for account
+@SecNielsen
+about to get all tweets newer than ID #1047975932882051072 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1049342810267308032 for account
+@KellyannePolls
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1047544008153735168 for account @Comey
+about to get all tweets newer than ID #1049376936286461952 for account @SecAzar
+about to get all tweets newer than ID #1049459742261829632 for account @VP
+about to get all tweets newer than ID #1049343687526928384 for account @FLOTUS
+about to get all tweets newer than ID #1049443088685510656 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1049459494659547136 for account
+@WhiteHouse
+about to get all tweets newer than ID #1048996316590825472 for account
+@DanScavino
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1048673911590846466 for account
+@DepSecHargan
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1048209728722096128 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1048681488789786624 for account
+@RealBenCarson
+about to get all tweets newer than ID #1047855558987014146 for account
+@stevenmnuchin1
+... OK, we're set up, and about to watch 818927131883356161, 894923298374651904,
+ 599530439, 831482588246196225, 832672006113931269, 822215679726100480,
+830128820447539208, 823367015830323201, 22203756, 296060169, 37666984, 25073877,
+ 798195585824104449, 818928162449068032, 24578794, 29547260, 826065858548133888,
+ 842072478834909184, 18906561, 828613457020870657, 52544275, 1923451808,
+888031054141022209, 15985455, 819980276570976256, 822127086194348032,
+823638938590085124, 65522706, 105267762, 733751245, 809836066316451840,
+819992522109894658, 20733972, 20776147, 866746592853979137, 118756393,
+108471631, 836724024688410625, 1967216306, 18916432, 935148134505828353,
+828997388920619008, 803703725730779136, 471672239, 212262370, 2334193741,
+956283913835614208, 818910970567344128, 818876014390603776, 827258161841135623,
+822215673812119553, 620571475, 829782369670410240, 920035992073064450, 6577802,
+728361177986797568, 836305915452272641, 1180379185, 799764016885329921
+
+
+New tweet from Scaramucci: RT @brithume: I don’t know Kaitlan Collins, but I
+know how I behaved in college when I said all kinds of stuff I wouldn’t say now.
+ I don’t…
+
+archiving URL http://twitter.com/Scaramucci/status/1049512496997027845
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049512496997027845
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: Send us your questions for
+tomorrow’s @moochandthemrs podcast! We love hearing what everyone has to say.
+See you tomor…
+
+archiving URL http://twitter.com/Scaramucci/status/1049528417329324035
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049528417329324035
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from seanspicer: RT @foxandfriends: Coming up…!
+@robertjeffress
+@TomiLahren
+@Judgenap
+@Bre_payton
+@CharlesHurt
+@JedediahBila
+@seanspicer
+@AsraNomani
+@TomBe…
+
+archiving URL http://twitter.com/seanspicer/status/1049606547112951808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1049606547112951808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: World class hire by FOX. Congratulations to Hope!
+Superstar talent and team player.
+
+archiving URL http://twitter.com/Scaramucci/status/1049610055866306560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049610055866306560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @Scavino45: Congratulations to our 114th Supreme
+Court Justice, Brett M. Kavanaugh! #SCOTUS🏛🇺🇸
+
+🔟📸https://t.co/c3YdNNcU7c
+https://t.co/A…
+
+archiving URL http://twitter.com/POTUS/status/1049612180134522881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1049612180134522881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: Congratulations to our 114th Supreme
+ Court Justice, Brett M. Kavanaugh! #SCOTUS🏛🇺🇸
+
+🔟📸https://t.co/c3YdNNcU7c
+https://t.co/A…
+
+archiving URL http://twitter.com/WhiteHouse/status/1049612232458465280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1049612232458465280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: He isn’t. @JudgeJeanine is too. I wrote that book
+in 2016 Hopping over the Rabbit Hole @amazon
+
+archiving URL http://twitter.com/Scaramucci/status/1049612460049752064
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049612460049752064
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: 105,000 new mining and logging jobs have been
+created since @POTUS’s election. https://t.co/O96a2UC48D
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1049615695426871296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1049615695426871296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Good morning! I’m in South Carolina today to meet
+with residents and small businesses that were affected by Hurrica…
+https://t.co/Tj49q2ki6j
+
+archiving URL http://twitter.com/SBALinda/status/1049616800902774785
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1049616800902774785
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: “If you have a bat in your hand, you have a chance
+to change the story line.” —Reggie Jackson
+
+archiving URL http://twitter.com/Scaramucci/status/1049617803400101888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049617803400101888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: I’m happy to be joining @LIVE953 in a few minutes to
+talk about how the @SBAgov is providing #HurricaneFlorence rec…
+https://t.co/vjkBLRihT8
+
+archiving URL http://twitter.com/SBALinda/status/1049625867360587776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1049625867360587776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @NWSTallahassee: Michael is a strong
+Category 1 this AM, and is expected to continue strengthening through the day,
+becoming a Major hur…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1049628903084630016
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1049628903084630016
+    ... archiving using prefix http://web.archive.org/save/
