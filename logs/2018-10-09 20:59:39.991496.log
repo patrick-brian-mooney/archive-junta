@@ -1,0 +1,1674 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Tuesday, 09 October 2018 at 20:59
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1049839245844783104 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1049753771968999425 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1049710970191441920 for account
+@StephGrisham45
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1049782722636472320 for account
+@Scaramucci
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1048996316590825472 for account
+@DanScavino
+about to get all tweets newer than ID #1047544008153735168 for account @Comey
+about to get all tweets newer than ID #1049805462424702977 for account
+@WhiteHouse
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1048291544044896257 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1049754490931486726 for account
+@SecondLady
+about to get all tweets newer than ID #1049748686295699456 for account
+@SecNielsen
+about to get all tweets newer than ID #1049785326124900359 for account @Cabinet
+about to get all tweets newer than ID #1049818033370353665 for account
+@mike_pence
+about to get all tweets newer than ID #1049334801298350081 for account @Reince
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1049810875715084293 for account
+@IvankaTrump
+about to get all tweets newer than ID #1049821697866653696 for account @SecAzar
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1049452381895831553 for account @PRyan
+about to get all tweets newer than ID #1049808481317003264 for account
+@SecretaryPerry
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1049728941890658310 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1049849358672220161 for account @POTUS
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1047975932882051072 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1049780649345908737 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1049834778445447168 for account
+@seanspicer
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1049837468105740289 for account @SBALinda
+about to get all tweets newer than ID #1003795765028884485 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1049849039418679296 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1049843602019573761 for account @VP
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1048681488789786624 for account
+@RealBenCarson
+about to get all tweets newer than ID #1049707462822121472 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1049795837415559169 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1044205921759444992 for account
+@GovernorPerry
+about to get all tweets newer than ID #1049818073673490434 for account
+@SecretarySonny
+about to get all tweets newer than ID #1049849132486025216 for account
+@Scavino45
+about to get all tweets newer than ID #1049767893192372225 for account
+@statedeptspox
+about to get all tweets newer than ID #1049782602733940738 for account
+@DepSecHargan
+about to get all tweets newer than ID #1049415088141164546 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1049342810267308032 for account
+@KellyannePolls
+about to get all tweets newer than ID #1049848251762008065 for account
+@nikkihaley
+about to get all tweets newer than ID #1049761911321980933 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1049709567943294976 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1049735992272408577 for account
+@SpeakerRyan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1049840705449775105 for account @PressSec
+about to get all tweets newer than ID #1049800114733285382 for account
+@SecretaryRoss
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+... OK, we're set up, and about to watch 836724024688410625, 819980276570976256,
+ 823638938590085124, 105267762, 24578794, 212262370, 620571475, 2334193741,
+822215673812119553, 832672006113931269, 888031054141022209, 6577802,
+822127086194348032, 935148134505828353, 818928162449068032, 22203756, 20733972,
+866746592853979137, 826065858548133888, 809836066316451840, 52544275,
+956283913835614208, 831482588246196225, 733751245, 830128820447539208, 15985455,
+ 894923298374651904, 822215679726100480, 599530439, 828997388920619008,
+827258161841135623, 798195585824104449, 20776147, 29547260, 819992522109894658,
+65522706, 25073877, 818910970567344128, 803703725730779136, 1180379185,
+818876014390603776, 829782369670410240, 118756393, 108471631, 18906561,
+842072478834909184, 823367015830323201, 1967216306, 920035992073064450,
+296060169, 471672239, 37666984, 799764016885329921, 828613457020870657,
+18916432, 1923451808, 818927131883356161, 836305915452272641, 728361177986797568
+
+
+New tweet from seanspicer: .@RedSox headed to #ALCS #ALCSBOUND - thanks
+@Yankees for making it exciting
+
+archiving URL http://twitter.com/seanspicer/status/1049866330546102274
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1049866330546102274
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @JohnReedStark: Leaving your job? Almost 30
+years ago, my long-time pal, super lawyer/CEO , gave me some simple advice on
+how to behave…
+
+archiving URL http://twitter.com/Scaramucci/status/1049939476896722944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049939476896722944
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretarySonny: As #HurricaneMichael approaches, remember @USDA
+ stands ready to assist with programs for farmers, ranchers, familie…
+https://t.co/hO4StUhkv9
+
+archiving URL http://twitter.com/SecretarySonny/status/1049974110036680704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1049974110036680704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @AmericaFirstPAC: Spokesman @seanspicer:
+"@AmericaFirstPAC has been out there with over $20 million in ads... What
+@realDonaldTrump and…
+
+archiving URL http://twitter.com/seanspicer/status/1049974687260913664
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1049974687260913664
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @FEMA_Brock: Do NOT ignore evacuation orders from local
+officials. You’re time to leave is NOW! Do NOT wait. #hurricanemichael2018
+#mich…
+
+archiving URL http://twitter.com/VP/status/1049977359741403136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1049977359741403136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Important to note in September’s #JobsReport:
+87,000 more jobs were created in July and August than previously repo…
+https://t.co/w65tpWWYib
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1049978123847131136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1049978123847131136
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from Scaramucci: RT @NeilACarousso: I am proud beyond words and
+blessed to work for @WCBS880 and @Entercom and be part of our professional news
+team for exa…
+
+archiving URL http://twitter.com/Scaramucci/status/1049986303562002432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1049986303562002432
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from PressSec: RT @FEMA_Brock: Do NOT ignore evacuation orders from
+local officials. You’re time to leave is NOW! Do NOT wait. #hurricanemichael2018
+ #mich…
+
+archiving URL http://twitter.com/PressSec/status/1049991856086487042
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1049991856086487042
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecAzar: RT @HHSGov: #BeThe1To to make a difference. Stepping
+forward &amp; reaching out can help save lives. If you or someone you know needs
+ to talk,…
+
+archiving URL http://twitter.com/SecAzar/status/1049998523758915585
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1049998523758915585
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @FEMA_Brock: Do NOT ignore evacuation orders from
+local officials. You’re time to leave is NOW! Do NOT wait. #hurricanemichael2018
+ #mich…
+
+archiving URL http://twitter.com/SecAzar/status/1049998554608091136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1049998554608091136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @SGottliebFDA: #FDA has activated its Emergency
+Operations Center to support federal and state efforts in GA, FL, and AL.
+Additionally,…
+
+archiving URL http://twitter.com/SecAzar/status/1049998747978092544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1049998747978092544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @FLGovScott: Just spoke with @POTUS to give him an
+update on Hurricane Michael. He offered any federal resources necessary as we
+prepare…
+
+archiving URL http://twitter.com/VP/status/1050000255033462784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050000255033462784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @AmbAlyaAlThani: It’s difficult to say farewell
+to such a remarkable woman leader. Was privileged to have worked with you Amb
+@nikkihale…
+
+archiving URL http://twitter.com/nikkihaley/status/1050001075737104384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1050001075737104384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @AShingiro: Amb. @nikkihaley, Permanent
+Representative of the United States of America to the #UnitedNations  has been
+&amp; continues to be…
+
+archiving URL http://twitter.com/nikkihaley/status/1050002153459339264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1050002153459339264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @kkorneliou: Diplomacy is an art. Matched with
+dignity and vision, that makes a true leader! Thank you @nikkihaley for the
+excellent coo…
+
+archiving URL http://twitter.com/nikkihaley/status/1050002189148712960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1050002189148712960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @dansenor: It was a real privilege to have this
+conversation with @nikkihaley on the US-Israel relationship + her illuminating
+first imp…
+
+archiving URL http://twitter.com/nikkihaley/status/1050002525062090757
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1050002525062090757
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Walker Stapleton is running as the highly
+respected Republican Candidate for Governor of the Great State of Colorad…
+https://t.co/Q0sTaKwDlH
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050004777034309633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050004777034309633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @fema: As Hurricane #Michael nears land,
+take shelter &amp; stay safe.
+
+📱Follow weather updates on your phone or radio.
+🔹 In a tornado WARN…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005011562926080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005011562926080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @NHC_Atlantic: NHC Director Ken Graham will
+ provide a Facebook Live broadcast regarding Category 4 Hurricane #Michael at
+8:45 a.m. EDT (…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005069234692096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005069234692096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @NHC_Atlantic: A Storm Surge Warning
+remains in effect for much of the Florida Panhandle and Big Bend region, where
+life-threatening sto…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005131968827396
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005131968827396
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @NHC_Atlantic: Hurricane force winds are
+expected to extend well inland over portions of the Florida Panhandle and
+portions of southeast…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005197102157825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005197102157825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @NHC_Atlantic: Hurricane #Michael.  In
+addition to the life-threatening storm surge and wind impacts, heavy rainfall is
+ expected across…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005273279127553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005273279127553
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @FLSERT: Hurricane shelter locations are
+accessible from: https://t.co/Hop887IoiC #HurricaneMichael
+https://t.co/Ljk8boFaSw
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005309467611136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005309467611136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @FAANews: Due to #HurricaneMichael, flights
+ in your area could be delayed and possibly cancelled. Please continue to check
+the status of…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005552443609088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005552443609088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @NHC_Surge: A destructive and life-
+threatening storm surge event will occur along portions of the Florida
+Panhandle, Big Bend, and Natur…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050005763152904193
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050005763152904193
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @EnergyDepSec: Today, I was pleased to swear
+ in Charles Verdon as the Deputy Administrator for Defense Programs at
+@NNSANews. We are exc…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050007455281934336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050007455281934336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Please listen to local authorities as Hurricane
+#Michael approaches, &amp; follow @FEMA for updates &amp; tips to help keep…
+https://t.co/8wN3b4Pm1t
+
+archiving URL http://twitter.com/FLOTUS/status/1050008217181450240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1050008217181450240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Despite so many positive events and victories,
+ Media Reseach Center reports that 92% of stories on Donald Trump are…
+https://t.co/YHfGjfMThn
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050008315286171648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050008315286171648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @FLOTUS: Please listen to local authorities as
+Hurricane #Michael approaches, &amp; follow @FEMA for updates &amp; tips to help
+ keep you safe. W…
+
+archiving URL http://twitter.com/POTUS/status/1050008387654692864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1050008387654692864
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Despite so many positive events and
+ victories, Media Reseach Center reports that 92% of stories on Donald Trump are
+ ne…
+
+archiving URL http://twitter.com/POTUS/status/1050008511747362816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1050008511747362816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Thanks @WWAY Good Morning Carolina for having me on
+the show to talk about how the @SBAgov is providing disaster as…
+https://t.co/9fp2hAZvK6
+
+archiving URL http://twitter.com/SBALinda/status/1050009296531058688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050009296531058688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @NIMHgov: October 7-13 is Mental Illness
+Awareness Week. Mental illnesses are common in the United States. Nearly 1 in 5
+U.S. adults liv…
+
+archiving URL http://twitter.com/DepSecHargan/status/1050010636703461378
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1050010636703461378
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: @SBAgov currently has staff at 18 Disaster Recovery
+Centers and is operating 9 Business Recovery Centers in… https://t.co/gZ1JDn7cOn
+
+archiving URL http://twitter.com/SBALinda/status/1050011693550587904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050011693550587904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @FLOTUS: Please listen to local authorities as
+Hurricane #Michael approaches, &amp; follow @FEMA for updates &amp; tips to help
+ keep you safe. W…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050012321316315136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050012321316315136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @fema: As Hurricane #Michael nears land, take
+shelter &amp; stay safe.
+
+📱Follow weather updates on your phone or radio.
+
+🔹 In
+a tornado WARN…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050013329178198017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050013329178198017
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: .@POTUS declared October National Domestic
+Violence Awareness Month. Domestic violence and abuse is particularly pr…
+https://t.co/QHe2AK4tTj
+
+archiving URL http://twitter.com/SecretaryZinke/status/1050013580370825217
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1050013580370825217
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @NWSTallahassee: #Michael is steadily moving
+towards the coast, landfall is expected later this morning to early this
+afternoon.  Condit…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050014586282364929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050014586282364929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: RT @FLGovScott: Just spoke with @POTUS to give
+him an update on Hurricane Michael. He offered any federal resources necessary
+as we prepare…
+
+archiving URL http://twitter.com/SecretaryRoss/status/1050022068731961346
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1050022068731961346
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: RT @fema: As Hurricane #Michael nears land,
+take shelter &amp; stay safe.
+
+📱Follow weather updates on your phone or radio.
+🔹 In a tornado WARN…
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1050024212952440832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1050024212952440832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: It was an honor to join @VP in welcoming
+@NadiaMuradBasee, 2018 Nobel Peace Prize Winner + Goodwill Amb for the Dig…
+https://t.co/jHrBwmCBbv
+
+archiving URL http://twitter.com/IvankaTrump/status/1050024273799196673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1050024273799196673
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Our thoughts and prayers are with everyone on the
+Gulf Coast as Hurricane Michael approaches. We will be monitoring…
+https://t.co/h2qJXICwm8
+
+archiving URL http://twitter.com/SpeakerRyan/status/1050024925778599936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1050024925778599936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAAWheeler: RT @EPA: EPA Hits 13-Year High in Deleting
+Superfund Sites, deleting all or part of 22 sites from Superfund’s National
+Priorities List (NPL…
+
+archiving URL http://twitter.com/EPAAWheeler/status/1050025386669735936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAAWheeler/status/1050025386669735936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today ⁦@SecPompeo⁩ tells CEOs at ⁦@USChamber⁩
+US-Mexico CEO Dialogue that our relationship with #Mexico is built on…
+https://t.co/OiYWJx6339
+
+archiving URL http://twitter.com/statedeptspox/status/1050027370168627201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1050027370168627201
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Thank you @nikkihaley for your service - and
+the WAY you have served - with dignity and distinction.
+
+archiving URL http://twitter.com/KellyannePolls/status/1050028298917564416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1050028298917564416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: “You’re not alone.” — My message as I meet with
+survivors of #HurricaneFlorence in NC &amp; SC. Watch and learn more ab…
+https://t.co/kni1WOy4ME
+
+archiving URL http://twitter.com/SBALinda/status/1050030301534150657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050030301534150657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @USUN: Thank you for the overwhelming support
+and kindness we have received since the announcement yesterday. We…
+https://t.co/fo5sc0RJ3H
+
+archiving URL http://twitter.com/nikkihaley/status/1050030514059583489
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1050030514059583489
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: Her insults (“deplorable, irredeemable”) have
+become incitements (“you cannot be civil with [Republicans]”). 
+
+Time…
+https://t.co/HBVXCT7aGR
+
+archiving URL http://twitter.com/KellyannePolls/status/1050031755837808640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1050031755837808640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: I am so excited to share these stories of
+trials and triumphs of the people @HUDgov serves.  #HumansofHUD #6Days
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050032226170224640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050032226170224640
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1050030301534150657,
+                       'id_str': '1050030301534150657',
+
+                       'user_id': 819992522109894658,
+'user_id_str': '819992522109894658'},
+            'timestamp_ms':
+'1539182261822'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1050030301534150657
+on account SBALinda
+INFO: get_archived_tweet() called to get tweet ID 1050030301534150657 for
+account SBALinda
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/SBALinda/status/1050030301534150657
+“You’re not alone.” — My message as I meet with survivors of #HurricaneFlorence
+in NC &amp; SC. Watch and learn more ab… https://t.co/kni1WOy4ME
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SBALinda is not in the list of
+ accounts we tweet about
+
+
+New tweet from KellyannePolls: RT @NatResources: As #HurricaneMichael rapidly
+approaches the Florida coast, listen to local officials, comply with evacuation
+orders, and…
+
+archiving URL http://twitter.com/KellyannePolls/status/1050032907329425415
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1050032907329425415
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @fema: ⚠️ If you're told to evacuate for
+Hurricane #Michael, leave NOW. ⚠️
+
+Today is the last day to travel before storm
+conditions star…
+
+archiving URL http://twitter.com/SecondLady/status/1050032946030235648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1050032946030235648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @NHC_Atlantic: Hurricane force winds are
+expected to extend well inland over portions of the Florida Panhandle and
+portions of southeast…
+
+archiving URL http://twitter.com/SecondLady/status/1050033603491614720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1050033603491614720
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @thehill: Gov. Rick Scott: "Hurricane
+Michael is a deadly category 4 storm. This is the worst storm the Florida
+Panhandle has seen in mo…
+
+archiving URL http://twitter.com/KellyannePolls/status/1050033784194781185
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1050033784194781185
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: The @NNSAnews’ Office of Secure Transportation
+are a dedicated and courageous team who serve to ensure the safe and…
+https://t.co/ZCx0jCvFNV
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050035546498748416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Tragically, an OST agent was killed and four
+more we seriously injured in a vehicle accident while returning home f…
+https://t.co/W1MQCjo7ri
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050035553369055233
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050035546498748416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050035553369055233
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1050035553369055233,
+                       'id_str': '1050035553369055233',
+
+                       'user_id': 830128820447539208,
+'user_id_str': '830128820447539208'},
+            'timestamp_ms':
+'1539183068804'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1050035553369055233
+on account SecretaryPerry
+INFO: get_archived_tweet() called to get tweet ID 1050035553369055233 for
+account SecretaryPerry
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretaryPerry
+/status/1050035553369055233	Tragically, an OST agent was killed and four more we
+ seriously injured in a vehicle accident while returning home f…
+https://t.co/W1MQCjo7ri
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryPerry is not in the
+list of accounts we tweet about
+
+
+New tweet from SecretaryPerry: Tragically, an OST agent was killed and four
+more were seriously injured in a vehicle accident while returning home…
+https://t.co/WyMNyKoByk
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050036362462814209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050036362462814209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Had a great early visit with @MariaBartiromo on
+ @FoxBusiness from the White House lawn this morning. Talking about…
+https://t.co/Y0AItj3IPC
+
+archiving URL http://twitter.com/SecretarySonny/status/1050039280826032128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1050039280826032128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: Don’t miss #GROWTHComms2018 this weekend!
+#SpeakUp2018 https://t.co/bxne7xOjM4
+
+archiving URL http://twitter.com/RealBenCarson/status/1050040617865306112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/1050040617865306112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: We condemn the death of Venezuelan opposition member
+Fernando Alban at the hands of the Maduro regime in the strong…
+https://t.co/d6tfck3UIb
+
+archiving URL http://twitter.com/VP/status/1050041274378661888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050041274378661888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Visiting the Disaster Recovery Center in Wilmington,
+NC. @SBAgov staff helps #HurricaneFlorence survivors access lo…
+https://t.co/Ujjrihqhc6
+
+archiving URL http://twitter.com/SBALinda/status/1050043384151384064
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050043384151384064
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: I’m seeing firsthand this week the devastation
+hurricanes can carry! Please heed the warnings and evacuate if advis…
+https://t.co/gm89GsHS76
+
+archiving URL http://twitter.com/SBALinda/status/1050044906608218112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050044906608218112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @FEMA_Brock: State emergency agencies @AlabamaEMA
+@GeorgiaEMA @FLSERT @SCEMD @NCEmergency are all working with local officials
+ahead of…
+
+archiving URL http://twitter.com/SBALinda/status/1050045681157791744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050045681157791744
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: New wholesale trade data indicate that the
+@realDonaldTrump economy continues to soar. Unemployment has hit record…
+https://t.co/3xKJNf9NTn
+
+archiving URL http://twitter.com/SecretaryRoss/status/1050046867516600321
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1050046867516600321
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: I’m spending the morning here in the
+@HUDMidwest region with the staff at our Indianapolis Field Office. Thanks for…
+https://t.co/6nKXxMBgFv
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050047447995699200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050047447995699200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: For too long, violent criminals have been able to
+skirt the law due to the DNA backlog. The Justice Served Act give…
+https://t.co/oOEgh33x0Y
+
+archiving URL http://twitter.com/SpeakerRyan/status/1050047517369483271
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @fema: As Hurricane #Michael nears land, take
+shelter &amp; stay safe.
+
+📱Follow weather updates on your phone or radio.
+
+🔹 In
+a tornado WARN…
+
+archiving URL http://twitter.com/Scavino45/status/1050047519848353799
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1050047519848353799
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1050047517369483271
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: We will continue to monitor #HurricaneMichael
+and keep the President up to date on those who will be impacted on the Gulf
+Coast.
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1050048325515440133
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1050048325515440133
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Exciting Fall Ahead! Blue Collar President OCT 23
+https://t.co/x2JXxvShID
+
+archiving URL http://twitter.com/Scaramucci/status/1050048682983415808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1050048682983415808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: WHEELS UP to Wisconsin. Looking forward to seeing
+my good friend and the Badger State’s GREAT Governor @ScottWalker…
+https://t.co/5H4F7560qg
+
+archiving URL http://twitter.com/mike_pence/status/1050048756429844480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1050048756429844480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Readygov: Expect extended power outages from
+#Michael. Get ready:
+
+❄️Turn your fridge to the coldest setting.
+⚡️Charge mobile
+ phones &amp;…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050049569898291200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050049569898291200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @fema: Hurricane #Michael is fast approaching. It
+will bring high winds and flooding to  several states. Make sure you're getting
+update…
+
+archiving URL http://twitter.com/SecAzar/status/1050050000519081984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1050050000519081984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: RT @MedicareGov: If you’re in the path of
+#HurricaneMichael, learn about evacuation routes in your area &amp; how to get
+your care and prescrip…
+
+archiving URL http://twitter.com/SecAzar/status/1050050065895747584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @FLSERT: #HurricaneMichael will produce life-
+threatening storm surge. A car will NOT be enough to protect you.
+#TurnAroundDontDrown http…
+
+archiving URL http://twitter.com/Cabinet/status/1050050073793585154
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1050050065895747584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050050073793585154
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Watch live as @KarenEvansCESER is sworn in as
+@ENERGY’s first Assistant Secretary for Cybersecurity, Energy Securit…
+https://t.co/mmUmt58mZE
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050050696115052545
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050050696115052545
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Hey Denver! I’m coming your way for @Politicon
+Live! Come for my town hall, stay for the debate between…
+https://t.co/pBxZP2XIfe
+
+archiving URL http://twitter.com/Scaramucci/status/1050050912864100353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1050050912864100353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: For those in the path of #HurricaneMichael, please
+listen to your state &amp; local officials for lifesaving instructio…
+https://t.co/CWcWZJPf5M
+
+archiving URL http://twitter.com/SecNielsen/status/1050051110801735681
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1050051110801735681
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Watch Live: Swearing-in ceremony of
+@KarenEvansCESER as @ENERGY’s first Assistant Secretary for Cybersecurity, Ener…
+ https://t.co/EsOyuRuvwk
+
+archiving URL http://twitter.com/EnergyDepSec/status/1050051169031266305
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1050051169031266305
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @FLSERT: #HurricaneMichael will produce life-
+threatening storm surge. A car will NOT be enough to protect you.
+#TurnAroundDontDrown http…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050051330772004864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050051330772004864
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: I will always remember my visit to @NDVets last
+year. I met these wonderful veterans who shared stories of their st…
+https://t.co/XSJkhluVRf
+
+archiving URL http://twitter.com/SecondLady/status/1050052212582506497
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1050052212582506497
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @Readygov: Expect extended power outages from
+#Michael. Get ready:
+
+❄️Turn your fridge to the coldest setting.
+⚡️Charge mobile
+ phones &amp;…
+
+archiving URL http://twitter.com/Cabinet/status/1050052841203789824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050052841203789824
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: #HurricaneMichael is extremely dangerous. Please
+ listen to the warnings of your local emergency officials and take…
+https://t.co/YSylavF7At
+
+archiving URL http://twitter.com/SecretaryRoss/status/1050054042712494080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1050054042712494080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @SecAzar: We've declared a public health emergency
+in Florida ahead of Hurricane #Michael. These actions help ensure that those who
+ rely…
+
+archiving URL http://twitter.com/Cabinet/status/1050054351560089602
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050054351560089602
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: RT @USDOL: .@USDOL stands ready to assist
+Florida in wake of Hurricane #Michael: https://t.co/6UqhgUJcVb #FL
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1050054436436041731
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1050054436436041731
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @SenBillCassidy: At a time when Republicans
+are being shot, stabbed, doxxed, beaten, mailed powder, run out of restaurants,
+and sent dea…
+
+archiving URL http://twitter.com/KellyannePolls/status/1050054816184115203
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1050054816184115203
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050054830843199490
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050054830843199490
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/POTUS/status/1050055272964722688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1050055272964722688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Each year, when they put seeds in the ground,
+farmers take risks with their livelihoods. When a storm like…
+https://t.co/azSBaj1S9V
+
+archiving URL http://twitter.com/SecretarySonny/status/1050055660111613952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1050055660111613952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: RT @realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/SecretaryRoss/status/1050055843536953347
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1050055843536953347
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @SecNielsen: For those in the path of
+#HurricaneMichael, please listen to your state &amp; local officials for
+lifesaving instructions as th…
+
+archiving URL http://twitter.com/Cabinet/status/1050055862079893516
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050055862079893516
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President @realDonaldTrump has declared a state of
+emergency in Florida, providing additional federal assistance an…
+https://t.co/EjEFvw9pxa
+
+archiving URL http://twitter.com/WhiteHouse/status/1050056366658899974
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050056366658899974
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President @realDonaldTrump has declared a state of
+emergency in Florida, providing additional federal assistance an…
+https://t.co/EjEFvw9pxa
+
+archiving URL http://twitter.com/WhiteHouse/status/1050056366658899974
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050056366658899974
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: RT @LGSuzanneCrouch: I have the distinct
+pleasure of introducing @SecretaryCarson today at the @INCivilRights
+#RegionV2018 Fair Housing Law…
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050056857111461888
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050056857111461888
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @USNationalGuard: "The time for evacuating along
+the coast has come and gone... If you chose to stay in an evacuation zone, you
+must SEE…
+
+archiving URL http://twitter.com/Cabinet/status/1050057622299258881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050057622299258881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: Looking forward to a great day in Wisconsin with my
+ friend @ScottWalker! Remembering his Dad and the Walker family…
+https://t.co/UIMsBOtzLA
+
+archiving URL http://twitter.com/mike_pence/status/1050058048943861760
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1050058048943861760
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Hurricane Michael is a serious storm with
+dangerous wind and storm surge. If you have not evacuated, PLEASE STAY IN…
+https://t.co/L0WIK4ElHC
+
+archiving URL http://twitter.com/SecretaryZinke/status/1050058279991332864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1050058279991332864
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1050058048943861760,
+                       'id_str': '1050058048943861760',
+
+                       'user_id': 22203756,
+'user_id_str': '22203756'},
+            'timestamp_ms': '1539188408993'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1050058048943861760
+on account mike_pence
+INFO: get_archived_tweet() called to get tweet ID 1050058048943861760 for
+account mike_pence
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/mike_pence/sta
+tus/1050058048943861760	Looking forward to a great day in Wisconsin with my
+friend @ScottWalker! Remembering his Dad and the Walker family…
+https://t.co/UIMsBOtzLA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because mike_pence is not in the list
+of accounts we tweet about
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/WhiteHouse/status/1050058878002565120
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050058878002565120
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: Looking forward to a great day in Wisconsin with my
+ friend @ScottWalker! Remembering his Dad and the Walker family…
+https://t.co/15Gx1oibDF
+
+archiving URL http://twitter.com/mike_pence/status/1050058886227681284
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1050058886227681284
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Take this storm seriously. Listen to local and state
+officials. The federal government stands ready to provide all…
+https://t.co/0i0utLMlZK
+
+archiving URL http://twitter.com/VP/status/1050059087738748929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050059087738748929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @FEMA_Brock: State emergency agencies @AlabamaEMA
+@GeorgiaEMA @FLSERT @SCEMD @NCEmergency are all working with local officials
+ahead of…
+
+archiving URL http://twitter.com/VP/status/1050059223579668481
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050059223579668481
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @SecretarySonny: As #HurricaneMichael approaches,
+remember @USDA stands ready to assist with programs for farmers, ranchers,
+families &amp;…
+
+archiving URL http://twitter.com/Cabinet/status/1050059887231856641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050059887231856641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: I’m pleased to join @INCivilRights for their
+Fair Housing Law &amp; Policy conference. We’re commemorating 50 years sin…
+https://t.co/KojOEInL7t
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050060568667803648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050060568667803648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: Hi Kate. As I told you earlier, Mrs. Trump
+supports men &amp; women equally &amp; believes victims of any kind of abuse,
+vi… https://t.co/Ge5o7J4wXG
+
+archiving URL http://twitter.com/StephGrisham45/status/1050060743280918529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1050060743280918529
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: At @HUDgov, we have a strong relationship w/
+our fair housing partners. We rely on each other’s expertise &amp; experie…
+https://t.co/JKXT9iR6P0
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050060806430298113
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050060806430298113
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: There are two potential sides: victims should
+feel safe enough to come forward, but people who are falsely accused…
+https://t.co/zEjEUEjEXW
+
+archiving URL http://twitter.com/StephGrisham45/status/1050060860746543104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1050060860746543104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @SecretaryZinke: Hurricane Michael is a serious
+storm with dangerous wind and storm surge. If you have not evacuated, PLEASE
+STAY INSIDE…
+
+archiving URL http://twitter.com/Cabinet/status/1050061145338470400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050061145338470400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/VP/status/1050061429754220544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050061429754220544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: The current AFFH rule relies on computer
+analytics to discover discrimination, but we want to review the archaic lo…
+https://t.co/HZLgEKBaae
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050062137589190656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050062137589190656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @KarenEvansCESER: It is an honor to be sworn
+ in as @Energy’s first Assistant Secretary for Cybersecurity, Energy Security,
+and Emergency…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1050063371997917184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1050063371997917184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @FEMA_Brock: State emergency agencies @AlabamaEMA
+@GeorgiaEMA @FLSERT @SCEMD @NCEmergency are all working with local officials
+ahead of…
+
+archiving URL http://twitter.com/Cabinet/status/1050064165103173633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050064165103173633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @EricTrump: All my friends in Missouri,
+today is your LAST CHANCE to register to vote this November! It is very easy to
+do - simply go t…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050064211919933442
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050064211919933442
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Hurricane #Michael is fast approaching &amp; a
+monster of epic proportions. 
+If you're in the storm's path, please foll…
+https://t.co/nZzhXa18lc
+
+archiving URL http://twitter.com/IvankaTrump/status/1050064508952166401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1050064508952166401
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @fema: If you need a safe place to go before
+Hurricane #Michael arrives, you can text SHELTER and your zip code (i.e. SHELTER
+ 12345) to…
+
+archiving URL http://twitter.com/IvankaTrump/status/1050064902927335424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1050064902927335424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @SBALinda: I’m seeing firsthand this week the
+devastation hurricanes can carry! Please heed the warnings and evacuate if
+advised. #Huric…
+
+archiving URL http://twitter.com/Cabinet/status/1050066428701921282
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1050066428701921282
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @FLGuard: #HurricaneMichael is here, but so
+ are we. Stay safe, Florida. #FloridaFirst #FLNGAlwaysThere
+https://t.co/e2rVNXFERp
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050066499342401536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050066499342401536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: We are with you Florida!
+https://t.co/qzrVLeFbyF
+https://t.co/HVVhSmBg7S https://t.co/rcB6OCwLeH
+
+archiving URL http://twitter.com/Scavino45/status/1050066584868462592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @FLGuard: #HurricaneMichael is here, but so are
+we. Stay safe, Florida. #FloridaFirst #FLNGAlwaysThere https://t.co/e2rVNXFERp
+
+archiving URL http://twitter.com/Scavino45/status/1050066597174538241
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1050066584868462592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1050066597174538241
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @FLGuard: #HurricaneMichael is here, but so are we. Stay
+ safe, Florida. #FloridaFirst #FLNGAlwaysThere https://t.co/e2rVNXFERp
+
+archiving URL http://twitter.com/VP/status/1050069260222046208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1050069260222046208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: At @HUDgov , we’re exploring new ways to
+expand landlord acceptance of our housing voucher program. We formed an ag…
+https://t.co/Z3GS1I5OAk
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050069466606915587
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050069466606915587
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Overall, it’s about time we take a long,
+serious look at all the regulations that have held back America’s affordab…
+https://t.co/e9rsRxwtlb
+
+archiving URL http://twitter.com/SecretaryCarson/status/1050069770622636033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1050069770622636033
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: RT @fema: Keep a close eye on your local weather
+forecasts in the next few days. If you must go outside during a storm, remember:
+ Turn Arou…
+
+archiving URL http://twitter.com/SecNielsen/status/1050070111476830209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1050070111476830209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Touring a cabinet manufacturer that had such severe
+rain damage it was out of business for a week. It was approved…
+https://t.co/FnZ3wx2bfh
+
+archiving URL http://twitter.com/SBALinda/status/1050071765739888640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050071765739888640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @NHC_Atlantic: Here is the 12 PM CDT position
+update for #Michael: Eyewall of Michael coming ashore along the coast of the
+Florida Panha…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050072218754052097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050072218754052097
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @fema: Keep a close eye on your local weather
+forecasts in the next few days. If you must go outside during a storm, remember:
+ Turn Arou…
+
+archiving URL http://twitter.com/WhiteHouse/status/1050073726862192641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050073726862192641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @USATODAY: .@usatodayopinion: Democrats
+want to outlaw private health care plans, taking away freedom to choose plans
+while letting anyo…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1050078505705373697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1050078505705373697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: TOUCHDOWN in “Titletown” - Green Bay, Wisconsin.
+Great to be here with Governor @ScottWalker, Rep @MikeforWI, and S…
+https://t.co/AqFdOPprD9
+
+archiving URL http://twitter.com/mike_pence/status/1050078989333815296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1050078989333815296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: Today at the Homeland Security and Governmental
+Affairs Committee, I testified on the top threats facing @DHSgov an…
+https://t.co/vFy75ENkvS
+
+archiving URL http://twitter.com/SecNielsen/status/1050080169396985857
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1050080169396985857
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Watch live: President @realDonaldTrump is signing
+S. 2553 and S. 2554 – two important steps in the President's plan…
+https://t.co/SVVvXDQCEa
+
+archiving URL http://twitter.com/WhiteHouse/status/1050081042428809216
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1050081042428809216
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @FLGuard: #HurricaneMichael is here, but so are
+we. Stay safe, Florida. #FloridaFirst #FLNGAlwaysThere https://t.co/e2rVNXFERp
+
+archiving URL http://twitter.com/SecondLady/status/1050081568805523456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1050081568805523456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Important info from @fema:
+
+archiving URL http://twitter.com/SBALinda/status/1050082284303511552
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1050082284303511552
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from SecretaryAcosta: RT @USDOL: .@USDOL announces actions to assist
+ Americans impacted by Hurricane #Michael: https://t.co/pqKMkYhTNE
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1050084812445376512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1050084812445376512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @BLMca: 🔥 #FirePreventionWeek
+Hunting and
+Recreational Target Shooting Tip: Know the Location...
+- Obtain a current map
+&amp; directions to…
+
+archiving URL http://twitter.com/SecretaryZinke/status/1050087498108559361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1050087498108559361
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Great to meet all of you and thank you for
+stopping by today at @HHSGov !
+
+archiving URL http://twitter.com/DepSecHargan/status/1050090281385828358
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1050090281385828358
+    ... archiving using prefix http://web.archive.org/save/
