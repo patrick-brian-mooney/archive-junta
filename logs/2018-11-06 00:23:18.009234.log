@@ -1,0 +1,166 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Tuesday, 06 November 2018 at 00:23
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined"); trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #832282841471918080 for account @BetsyDeVos
+about to get all tweets newer than ID #1059415028229521409 for account @SecretaryAcosta
+about to get all tweets newer than ID #903694300306923521 for account @SecElaineChao
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1059605759087046657 for account @mike_pence
+about to get all tweets newer than ID #1059478876412350464 for account @PressSec
+about to get all tweets newer than ID #1059637966560288768 for account @seanspicer
+about to get all tweets newer than ID #1059568028516601856 for account @SecretaryPerry
+about to get all tweets newer than ID #1054906997592805377 for account @BetsyDeVosED
+about to get all tweets newer than ID #994396943421001728 for account @TomBossert45
+about to get all tweets newer than ID #836780744810844161 for account @StephenMillerAL
+about to get all tweets newer than ID #1058782250161131525 for account @SpeakerRyan
+about to get all tweets newer than ID #830074939298414592 for account @RepTomPrice
+about to get all tweets newer than ID #1059615392291844099 for account @POTUS
+about to get all tweets newer than ID #1059291259859275777 for account @Linda_McMahon
+about to get all tweets newer than ID #1014519079284199424 for account @EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not exist.'}]
+about to get all tweets newer than ID #1059571326812409856 for account @SecAzar
+about to get all tweets newer than ID #1059537699323940864 for account @AmbJohnBolton
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1059451271395098626 for account @FLOTUS
+about to get all tweets newer than ID #816846808789958656 for account @SenDanCoats
+about to get all tweets newer than ID #1059695972907921408 for account @realDonaldTrump
+about to get all tweets newer than ID #816290296048873472 for account @WilburRoss
+about to get all tweets newer than ID #1059453755240853504 for account @RealBenCarson
+about to get all tweets newer than ID #856041462164836355 for account @FirstLadyIN
+about to get all tweets newer than ID #1059449962868682752 for account @Comey
+about to get all tweets newer than ID #1059627515952709632 for account @SBALinda
+about to get all tweets newer than ID #1058754044343345152 for account @SecondLady
+about to get all tweets newer than ID #1059492829276323841 for account @SecretarySonny
+about to get all tweets newer than ID #1059501710438207488 for account @SecretaryRoss
+about to get all tweets newer than ID #1058433885493739520 for account @MickMulvaneyOMB
+about to get all tweets newer than ID #1058193104468099073 for account @StephGrisham45
+about to get all tweets newer than ID #824610180881117184 for account @GovPenceIN
+about to get all tweets newer than ID #1058080397379207168 for account @SecretaryCarson
+about to get all tweets newer than ID #1059676438427824128 for account @JessicaDitto45
+about to get all tweets newer than ID #1059579932362326023 for account @PRyan
+about to get all tweets newer than ID #1059643006800838656 for account @GovernorPerry
+about to get all tweets newer than ID #1059661144678391809 for account @IvankaTrump
+about to get all tweets newer than ID #1059509263893192706 for account @VP
+about to get all tweets newer than ID #1059659973498675201 for account @KellyannePolls
+about to get all tweets newer than ID #1059655633941786624 for account @AshLeeStrong
+about to get all tweets newer than ID #913881045652688901 for account @SecPriceMD
+about to get all tweets newer than ID #1059682755083145216 for account @DanScavino
+about to get all tweets newer than ID #954801265732661248 for account @MELANIATRUMP
+about to get all tweets newer than ID #1058847773049712640 for account @Scavino45
+about to get all tweets newer than ID #1059465447614152704 for account @EnergyDepSec
+about to get all tweets newer than ID #1057790897969086464 for account @stevenmnuchin1
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1058116051140075521 for account @DepSecHargan
+about to get all tweets newer than ID #1059568151665487872 for account @nikkihaley
+about to get all tweets newer than ID #1059615194681430016 for account @statedeptspox
+about to get all tweets newer than ID #1058441676052725760 for account @Reince
+about to get all tweets newer than ID #1059612528693702656 for account @SecNielsen
+about to get all tweets newer than ID #978650205192044545 for account @SecShulkin
+about to get all tweets newer than ID #1021844939473387520 for account @IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1059488017000382465 for account @Cabinet
+about to get all tweets newer than ID #1059625194787127297 for account @WhiteHouse
+about to get all tweets newer than ID #1059677577873383424 for account @Scaramucci
+about to get all tweets newer than ID #1059542413532950529 for account @SecretaryZinke
+... OK, we're set up, and about to watch 599530439, 819980276570976256, 826065858548133888, 803703725730779136, 22203756,
+818927131883356161, 20776147, 830128820447539208, 828997388920619008, 866746592853979137, 728361177986797568, 18916432, 6577802,
+822215679726100480, 65522706, 832672006113931269, 956283913835614208, 118756393, 29547260, 818876014390603776, 212262370, 25073877,
+809836066316451840, 1180379185, 1923451808, 2334193741, 819992522109894658, 822127086194348032, 842072478834909184,
+836305915452272641, 888031054141022209, 823638938590085124, 15985455, 828613457020870657, 836724024688410625, 733751245, 18906561,
+52544275, 818910970567344128, 471672239, 296060169, 829782369670410240, 620571475, 108471631, 823367015830323201,
+894923298374651904, 799764016885329921, 105267762, 920035992073064450, 37666984, 1967216306, 20733972, 935148134505828353,
+831482588246196225, 798195585824104449, 818928162449068032, 822215673812119553, 24578794, 827258161841135623
+
+
+New tweet from IvankaTrump: RT @DanScavino: Beautiful moment. Rendition of ‘Amazing Grace’ breaks out at tonight’s #MAGARally in
+Missouri when there was a medical emer…
+
+archiving URL http://twitter.com/IvankaTrump/status/1059709474942971904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1059709474942971904
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.; sleeping and trying again ...
+
+
+New tweet from mike_pence: Election Day is here! The choice is clear: Results vs Resistance. @RealDonaldTrump and I need you to
+vote for our g… https://t.co/qCvsCmAoR9
+
+archiving URL http://twitter.com/mike_pence/status/1059763218917265408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1059763218917265408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Vote Red 🇺🇸 MAGA 🇺🇸 https://t.co/i95OiBimxA https://t.co/ncvDcAP8LZ
+
+archiving URL http://twitter.com/FLOTUS/status/1059775130551902209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1059775130551902209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Under @POTUS, over the past year, we have had the largest increase in average hourly earnings
+since 2009. https://t.co/xJFXIKGsIB
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1059777714796879872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1059777714796879872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Let’s do this!  Go #vote #Midterms2018    #electionday #2018Midterms #2018Elections #election #vote
+#Republican… https://t.co/BuYtR38VPz
+
+archiving URL http://twitter.com/seanspicer/status/1059779690708246528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1059779690708246528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Pulling out my #WI mug today for @ScottWalker’s leadership:
+
+-3% unemployment
+-Wages up 5% over last
+year
+-$500M st… https://t.co/2MqfcPXXpU
+
+archiving URL http://twitter.com/AshLeeStrong/status/1059781513359904768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1059781513359904768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @jonnajarian: Never know who you’ll run into @cnbc @nasdaq @Scaramucci photobombing by Shpresa, Gail
+ &amp; Mary! @ Times Square, New York Ci…
+
+archiving URL http://twitter.com/Scaramucci/status/1059790103017648128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1059790103017648128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: https://t.co/L5cG6JYr2a
+
+archiving URL http://twitter.com/Comey/status/1059791423174782983
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1059791423174782983
+    ... archiving using prefix http://web.archive.org/save/
