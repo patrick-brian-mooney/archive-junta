@@ -1,0 +1,959 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Saturday, 10 November 2018 at 08:55
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1058441676052725760 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 619650 (char 619649)
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 603179 (char 603178)
+about to get all tweets newer than ID #1060374680991883265 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619500 (char 619499)
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 619595 (char 619594)
+about to get all tweets newer than ID #1060931565642043398 for account
+@SecretaryZinke
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619635 (char 619634)
+about to get all tweets newer than ID #1061259607086112769 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619378 (char 619377)
+about to get all tweets newer than ID #1061271004180373504 for account
+@nikkihaley
+about to get all tweets newer than ID #1060993430791315456 for account @Cabinet
+about to get all tweets newer than ID #1059643006800838656 for account
+@GovernorPerry
+about to get all tweets newer than ID #1061278887399829504 for account
+@statedeptspox
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1060015554336120834 for account @Comey
+about to get all tweets newer than ID #1060628431942098944 for account @FLOTUS
+about to get all tweets newer than ID #1061102602740551680 for account
+@AshLeeStrong
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1061006167785304065 for account
+@StephGrisham45
+about to get all tweets newer than ID #1061227130791563264 for account
+@SecretaryAcosta
+getting all tweets before ID #1035860002710454271
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryAcosta: As America recognizes #VeteransDay, @USDOL is
+putting a spotlight on job creators that #HireVets. Chris Dunn, CEO o…
+https://t.co/jAnJOWYnIH
+about to get all tweets newer than ID #1060624393921916928 for account
+@SecNielsen
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1061272265977815040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1061272265977815040
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1059869786895802369 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1060985277240479745 for account
+@SecretaryCarson
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1060018807379505153 for account @PRyan
+about to get all tweets newer than ID #1060626284374564866 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1061284015880179713 for account
+@Scaramucci
+about to get all tweets newer than ID #1061208198420545536 for account
+@Scavino45
+about to get all tweets newer than ID #1061279842375815171 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1058116051140075521 for account
+@DepSecHargan
+about to get all tweets newer than ID #1061023979031461888 for account
+@RealBenCarson
+about to get all tweets newer than ID #1060727687554232320 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1061053324219174913 for account
+@SecretaryPerry
+getting all tweets before ID #1030263768155074559
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+
+
+New tweet from SecretaryPerry: Happy 243rd Birthday to the @USMC from @ENERGY.
+ Thank you for your “always faithful” commitment to serve on land, a…
+https://t.co/Bc0bbxmbid
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061259305280827395
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1060943125835767808 for account @VP
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061259305280827395
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Rizwan Shah served in the @USArmy &amp; was
+awarded a Bronze Star Medal for leading a 120-soldier task force of the…
+https://t.co/DAHtyBL9yx
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061272266795696134
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1050381789133451269
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061272266795696134
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: As the proud father of a United States Marine, I'm honored
+to celebrate the @USMC on 243 years of defending our fre…
+https://t.co/AIU7zm3igt
+
+archiving URL http://twitter.com/VP/status/1061259942227832837
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/VP/status/1061259942227832837
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1060916171787120640 for account
+@KellyannePolls
+
+
+New tweet from VP: RT @realDonaldTrump: Happy 243rd Birthday to our GREAT U.S.
+ Marine Corps🇺🇸 https://t.co/1cPtoMfmxP
+
+archiving URL http://twitter.com/VP/status/1061260061882925056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1061260061882925056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: Happy 243rd birthday to our great @USMC—and
+ a huge thank you to all who serve. Semper Fi! https://t.co/liHoNXFfIb
+
+archiving URL http://twitter.com/VP/status/1061290190734573568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1061290190734573568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: Our two nations are forever joined together
+ by the spirit of revolution and the fight for freedom. 🇺🇸 🇫🇷
+https://t.co/Vay3P…
+
+archiving URL http://twitter.com/VP/status/1061290199911677952
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1061278655597420550 for account
+@SecretarySonny
+
+archiving URL https://twitter.com/VP/status/1061290199911677952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: President Trump and the First Lady visited
+France for the 2017 Bastille Day Celebration, which included American veterans
+o…
+
+archiving URL http://twitter.com/VP/status/1061290210208727040
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1060922898230247426 for account
+@IvankaTrump
+
+archiving URL https://twitter.com/VP/status/1061290210208727040
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1060661224516542464 for account
+@EnergyDepSec
+getting all tweets before ID #972182436175114244
+    ...400 tweets downloaded so far
+
+
+New tweet from EnergyDepSec: Happy #MarineCorpsBirthday to the @USMC! @ENERGY
+salutes the men and women who stand ready to serve and protect our…
+https://t.co/1f5a18RmmT
+
+archiving URL http://twitter.com/EnergyDepSec/status/1061257170086445056
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1061188411816636417 for account @POTUS
+
+archiving URL https://twitter.com/EnergyDepSec/status/1061257170086445056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Rizwan Shah served in 13 countries and was
+awarded a Bronze Star Medal during his time in the @USArmy. Rizwan is no…
+https://t.co/elnFT00n3D
+
+archiving URL http://twitter.com/EnergyDepSec/status/1061269713362264064
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1050198624355934212
+
+archiving URL https://twitter.com/EnergyDepSec/status/1061269713362264064
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Happy 243rd Birthday to our GREAT
+U.S. Marine Corps🇺🇸 https://t.co/1cPtoMfmxP
+
+archiving URL http://twitter.com/POTUS/status/1061260587764760577
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1061275792641089536 for account
+@WhiteHouse
+
+archiving URL https://twitter.com/POTUS/status/1061260587764760577
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1058433885493739520 for account
+@MickMulvaneyOMB
+
+
+New tweet from POTUS: RT @WhiteHouse: Happy 243rd birthday to our great
+@USMC—and a huge thank you to all who serve. Semper Fi! https://t.co/liHoNXFfIb
+
+archiving URL http://twitter.com/POTUS/status/1061275966604017664
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1060299592342876160 for account
+@mike_pence
+
+archiving URL https://twitter.com/POTUS/status/1061275966604017664
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1029116488672788479
+    ...400 tweets downloaded so far
+
+
+New tweet from mike_pence: For 243 years, @USMC has been defending our
+freedom. From the Halls of Montezuma to Iwo Jima, from the Chosin Reser…
+https://t.co/xA4kSrkC7x
+
+archiving URL http://twitter.com/mike_pence/status/1061289517401939968
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1060943863865581569 for account @SBALinda
+
+archiving URL https://twitter.com/mike_pence/status/1061289517401939968
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1060583808016281602 for account
+@SecondLady
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1061202801924161536 for account
+@JessicaDitto45
+getting all tweets before ID #1039952992907259904
+    ...400 tweets downloaded so far
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Happy 243rd Birthday to
+our GREAT U.S. Marine Corps🇺🇸 https://t.co/1cPtoMfmxP
+
+archiving URL http://twitter.com/JessicaDitto45/status/1061259931482025987
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1060945347537747968 for account
+@SecretaryRoss
+
+archiving URL https://twitter.com/JessicaDitto45/status/1061259931482025987
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1061003623403020288 for account @SecAzar
+about to get all tweets newer than ID #1061089904745213952 for account
+@seanspicer
+... OK, we're set up, and about to watch 798195585824104449, 20733972,
+620571475, 818927131883356161, 866746592853979137, 827258161841135623,
+105267762, 108471631, 25073877, 37666984, 818928162449068032, 18906561,
+1967216306, 809836066316451840, 2334193741, 818876014390603776, 296060169,
+599530439, 728361177986797568, 823638938590085124, 819980276570976256,
+935148134505828353, 803703725730779136, 18916432, 828613457020870657,
+831482588246196225, 829782369670410240, 826065858548133888, 733751245,
+799764016885329921, 212262370, 24578794, 823367015830323201, 118756393,
+920035992073064450, 1180379185, 828997388920619008, 830128820447539208,
+832672006113931269, 818910970567344128, 15985455, 471672239, 842072478834909184,
+ 52544275, 29547260, 65522706, 894923298374651904, 822215679726100480,
+822215673812119553, 888031054141022209, 22203756, 819992522109894658, 6577802,
+822127086194348032, 1923451808, 836724024688410625, 836305915452272641,
+956283913835614208, 20776147
+
+
+New tweet from SecNielsen: The #California fires are fast moving and deadly,
+please listen to your state and local officials. @POTUS’ approval…
+https://t.co/iHN1HcLY3l
+
+archiving URL http://twitter.com/SecNielsen/status/1061296187779809281
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1061296187779809281
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @wcbs880: .@Patty_Steele + @WayneCabot talk w/
+Anthony @Scaramucci &amp; his wife @DeidreScaramuc2 about Anthony's 10 days in
+the Trump West…
+
+archiving URL http://twitter.com/Scaramucci/status/1061299744176304128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1061299744176304128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Thank you to Polish President @AndrzejDuda and
+Secretary of State @PremierRP Piotr Naimski for your commitment to e…
+https://t.co/WPyW2gu3Je
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061312448538517504
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061312448538517504
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Had a productive meeting with
+Foreign Minister @JY_LeDrian today discussing a range of bilateral, regional,
+and global issue…
+
+archiving URL http://twitter.com/statedeptspox/status/1061318138078380037
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1061318138078380037
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Passed a lot of flags at half staff on today’s
+run but the Washington monument ones were most poignant.…
+https://t.co/5dD0n3wVPt
+
+archiving URL http://twitter.com/AshLeeStrong/status/1061326095352545280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1061326095352545280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @ArthurSchwartz: Lawyers for democrats Gillum
+and Nelson objected to the rejection of votes cast by non-US citizens.
+https://t.co/dnTybI…
+
+archiving URL http://twitter.com/seanspicer/status/1061326821952761856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1061326821952761856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @Jerry_Remy: Friday was a very good day for me.
+Had my first scan since going through treatments. Highly successful. Cancer free
+ for now…
+
+archiving URL http://twitter.com/seanspicer/status/1061327148814872576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1061327148814872576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: President Trump has hijacked part of @TheDemocrats
+base by offering solutions for blue-collar workers https://t.co/gQ9dpUEegj
+
+archiving URL http://twitter.com/Scaramucci/status/1061328574320381954
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1061328574320381954
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Kicking off my visit to Ukraine with a visit to
+ the Trypilska Thermal Power Plant. #energy https://t.co/0MjRG3VZMS
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061334093269532672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061334093269532672
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1061334093269532672,
+                       'id_str': '1061334093269532672',
+
+                       'user_id': 830128820447539208,
+'user_id_str': '830128820447539208'},
+            'timestamp_ms':
+'1541876778854'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1061334093269532672
+on account SecretaryPerry
+INFO: get_archived_tweet() called to get tweet ID 1061334093269532672 for
+account SecretaryPerry
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretaryPerry
+/status/1061334093269532672	Kicking off my visit to Ukraine with a visit to the
+Trypilska Thermal Power Plant. #energy https://t.co/0MjRG3VZMS
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryPerry is not in the
+list of accounts we tweet about
+
+
+New tweet from realDonaldTrump: Had very productive meetings and calls for our
+ Country today. Meeting tonight with World Leaders!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1061334384337399808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1061334384337399808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Had very productive meetings and
+calls for our Country today. Meeting tonight with World Leaders!
+
+archiving URL http://twitter.com/POTUS/status/1061334582543441920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1061334582543441920
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Kicking off my visit to Ukraine with a stop at
+the Trypilska Thermal Power Plant. https://t.co/tSjyc5B6Qy
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061334618375364608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061334618375364608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Trying to STEAL two big elections in Florida!
+We are watching closely!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1061335051294728194
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1061335051294728194
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Happy 243rd birthday @USMC! Thank you to all
+Marines who have served our country. #SemperFi https://t.co/0LiQeI9j7D
+
+archiving URL http://twitter.com/SpeakerRyan/status/1061335579227492353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1061335579227492353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Kicking off my visit to Ukraine with a stop at
+the Trypilska Thermal Power Plant. https://t.co/5vz8uYgpJ8
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061336434437701632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061336434437701632
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1061334618375364608,
+                       'id_str': '1061334618375364608',
+
+                       'user_id': 830128820447539208,
+'user_id_str': '830128820447539208'},
+            'timestamp_ms':
+'1541877385058'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1061334618375364608
+on account SecretaryPerry
+INFO: get_archived_tweet() called to get tweet ID 1061334618375364608 for
+account SecretaryPerry
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/SecretaryPerry
+/status/1061334618375364608	Kicking off my visit to Ukraine with a stop at the
+Trypilska Thermal Power Plant. https://t.co/tSjyc5B6Qy
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryPerry is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+757766342988750848,
+                       'id_str': '757766342988750848',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1541877533699'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 757766342988750848 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 757766342988750848 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/757766342988750848
+	RT @woodruffbets: CA Bernie supporters have done some creative "Stronger
+Together" sign-repurposing https://t.co/tVSu60YYDN
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+
+
+New tweet from AshLeeStrong: RT @SpeakerRyan: Happy 243rd birthday @USMC!
+Thank you to all Marines who have served our country. #SemperFi
+https://t.co/0LiQeI9j7D
+
+archiving URL http://twitter.com/AshLeeStrong/status/1061337436826034176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1061337436826034176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @USMC: Marines kicking ass ✔️
+Marines’ Hymn ✔️
+
+243 years of Motivation ✔️
+
+#MarineCorpsBirthday https://t.co/eCED04ubh2
+
+archiving URL http://twitter.com/AshLeeStrong/status/1061337906592342018
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1061337906592342018
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: Kyiv’s Trypilska Thermal Power Plant is powered
+ in part by abundant, affordable coal from Pennsylvania. DOE support…
+https://t.co/Raxfn0aECJ
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061340912108879873
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061340912108879873
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @fintechfrank: Anthony Scaramucci is looking to
+raise as much as $3 billion for a new fund that invests in low-income
+neighborhoods
+http…
+
+archiving URL http://twitter.com/Scaramucci/status/1061342561674104834
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1061342561674104834
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: The shipment of Pennsylvania coal from
+@XcoalEneegyRes to Ukraine is just one example of America’s readiness and co…
+https://t.co/vgOrWoiz9z
+
+archiving URL http://twitter.com/SecretaryPerry/status/1061355762222555138
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1061355762222555138
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today, @SecPompeo met with @JY_LeDrian in Paris
+and discussed strengthening #NATO, countering #Iran's malign behavi…
+https://t.co/0FFmvWvIrM
+
+archiving URL http://twitter.com/statedeptspox/status/1061357437398204416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1061357437398204416
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+499193270589984768,
+                       'id_str': '499193270589984768',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1541883892336'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 499193270589984768 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 499193270589984768 for account
+ seanspicer
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+
+
+New tweet from realDonaldTrump: More than 4,000 are fighting the Camp and
+Woolsey Fires in California that have burned over 170,000 acres. Our hear…
+https://t.co/bHG71OSXsq
+
+archiving URL http://twitter.com/realDonaldTrump/status/1061382890100002817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1061382890100002817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: More than 4,000 are fighting the
+Camp and Woolsey Fires in California that have burned over 170,000 acres. Our
+hearts…
+
+archiving URL http://twitter.com/POTUS/status/1061383156585193472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1061383156585193472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: These California fires are expanding very,
+very quickly (in some cases 80-100 acres a minute). If people don’t evac…
+https://t.co/5WUnd01wou
+
+archiving URL http://twitter.com/realDonaldTrump/status/1061383163811893248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1061383163811893248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: These California fires are
+expanding very, very quickly (in some cases 80-100 acres a minute). If people
+don’t evacuat…
+
+archiving URL http://twitter.com/POTUS/status/1061383359472062464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1061383359472062464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: More than 4,000 are fighting
+the Camp and Woolsey Fires in California that have burned over 170,000 acres.
+Our hearts…
+
+archiving URL http://twitter.com/Scavino45/status/1061383950545965056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1061383950545965056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: These California fires are
+expanding very, very quickly (in some cases 80-100 acres a minute). If people
+don’t evacuat…
+
+archiving URL http://twitter.com/Scavino45/status/1061383957038686209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1061383957038686209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: These California fires are
+expanding very, very quickly (in some cases 80-100 acres a minute). If people
+don’t evacuat…
+
+archiving URL http://twitter.com/PressSec/status/1061384043227504641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1061384043227504641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: More than 4,000 are fighting the
+ Camp and Woolsey Fires in California that have burned over 170,000 acres. Our
+hearts…
+
+archiving URL http://twitter.com/PressSec/status/1061384072021397505
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1061384072021397505
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @VanJones68: TONIGHT on @CNN at 7pm ET/ 4pm PT
+— tune into the #VanJonesShow for my exclusive interview with #JaredKushner,
+discussing t…
+
+archiving URL http://twitter.com/IvankaTrump/status/1061387411333267458
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1061387411333267458
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @parscale: This is a must watch for those that
+care about #criminaljustice reform. Jared is the driving force to solve this
+problem for…
+
+archiving URL http://twitter.com/IvankaTrump/status/1061387786715054080
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1061387786715054080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Happy 243rd birthday to our incredible United
+States Marine Corps! 
+Thank you! Semper Fidelis
+
+archiving URL http://twitter.com/IvankaTrump/status/1061391094196457472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1061391094196457472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump and the First Lady arrived in
+France last night. Follow their trip in photos:… https://t.co/0LNc3zMKOm
+
+archiving URL http://twitter.com/WhiteHouse/status/1061391303844474883
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1061391303844474883
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President Trump and the First Lady arrived in
+France last night. Follow their trip in photos:… https://t.co/0LNc3zMKOm
+
+archiving URL http://twitter.com/WhiteHouse/status/1061391303844474883
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1061391303844474883
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: President Trump and the First Lady
+arrived in France last night. Follow their trip in photos:
+https://t.co/R9Iv2sqI9A https…
+
+archiving URL http://twitter.com/POTUS/status/1061391417623433217
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1061391417623433217
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USMC: Marines kicking ass ✔️
+Marines’ Hymn ✔️
+243 years of Motivation ✔️
+
+#MarineCorpsBirthday https://t.co/eCED04ubh2
+
+archiving URL http://twitter.com/Scavino45/status/1061393274978615297
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1061393274978615297
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Whenever our nation needs you, you are
+there—first, last, and always. To all Marines and to your families: thank yo…
+https://t.co/180uNYFyWE
+
+archiving URL http://twitter.com/SpeakerRyan/status/1061395592604200960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1061395592604200960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: This Admin is committed to making historic (and
+long overdue) progress on criminal justice and prison reform. 
+Prou…
+https://t.co/9UWjkkQiC2
+
+archiving URL http://twitter.com/IvankaTrump/status/1061396010193350656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1061396010193350656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Rizwan Shah served in 13 countries and was
+awarded a Bronze Star Medal during his time in the @USArmy. Rizwan is no…
+https://t.co/UDZ8W3Wekm
+
+archiving URL http://twitter.com/EnergyDepSec/status/1061398094921785350
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1061398094921785350
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1061398094921785350,
+                       'id_str': '1061398094921785350',
+
+                       'user_id': 894923298374651904,
+'user_id_str': '894923298374651904'},
+            'timestamp_ms':
+'1541892012530'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1061398094921785350
+on account EnergyDepSec
+INFO: get_archived_tweet() called to get tweet ID 1061398094921785350 for
+account EnergyDepSec
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/EnergyDepSec/s
+tatus/1061398094921785350	Rizwan Shah served in 13 countries and was awarded a
+Bronze Star Medal during his time in the @USArmy. Rizwan is no…
+https://t.co/UDZ8W3Wekm
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because EnergyDepSec is not in the
+list of accounts we tweet about
+
+
+New tweet from VP: RT @realDonaldTrump: More than 4,000 are fighting the Camp
+and Woolsey Fires in California that have burned over 170,000 acres. Our hearts…
+
+archiving URL http://twitter.com/VP/status/1061398716979011584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: These California fires are expanding
+very, very quickly (in some cases 80-100 acres a minute). If people don’t
+evacuat…
+
+archiving URL http://twitter.com/VP/status/1061398723455004683
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1061398716979011584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1061398723455004683
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @USMC: Live Now: Join us for the Commandant’s
+Birthday Ball as we celebrate 243 years of tradition, excellence and fightin…
+https://t.co…
+
+archiving URL http://twitter.com/Scavino45/status/1061399994257825792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1061399994257825792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @USMC: Live Now: Join us for the Commandant’s
+Birthday Ball as we celebrate 243 years of tradition, excellence and fightin…
+https://t.co…
+
+archiving URL http://twitter.com/POTUS/status/1061400972814155776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1061400972814155776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Special thanks to all the #firefighters
+#volunteers #FirstResponders that are battling #WoolseyFire
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1061403002643210243
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1061403002643210243
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @USMC: Live Now: Join us for the Commandant’s
+Birthday Ball as we celebrate 243 years of tradition, excellence and fightin…
+https://t.co…
+
+archiving URL http://twitter.com/WhiteHouse/status/1061405099719835649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1061405099719835649
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: I hope the trolling galvanizes your podcast base
+David! Quite a good podcast I might add. I have listened to more t…
+https://t.co/Uh1PVc5LAG
+
+archiving URL http://twitter.com/Scaramucci/status/1061420563636383745
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1061420563636383745
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Learn about the opportunity,  the more you know the
+ more excited you will be. . .  https://t.co/Jx6Q19gqGv
+
+archiving URL http://twitter.com/Scaramucci/status/1061423071456833536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1061423071456833536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @WhiteHouse: Happy 243rd birthday to our great
+@USMC—and a huge thank you to all who serve. Semper Fi! https://t.co/liHoNXFfIb
+
+archiving URL http://twitter.com/SecondLady/status/1061438404414619648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1061438404414619648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: As the proud father of a United States
+Marine, I'm honored to celebrate the @USMC on 243 years of defending our freedom
+ and this Na…
+
+archiving URL http://twitter.com/SecondLady/status/1061438457309003776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1061438457309003776
+    ... archiving using prefix http://web.archive.org/save/
