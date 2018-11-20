@@ -1,0 +1,246 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 19 November 2018 at 14:24
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1058433885493739520 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1064596708875747328 for account
+@realDonaldTrump
+getting all tweets before ID #1058715144442781695
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: RT @WhiteHouse: President Trump and the First
+Lady Participate in the White House Christmas Tree Delivery
+https://t.co/O6Nr8k1mnu
+about to get all tweets newer than ID #1064565228283797504 for account
+@SecretaryRoss
+
+archiving URL http://twitter.com/realDonaldTrump/status/1064623382359085060
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1064623382359085060
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1064146013118697472 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1064474331617652736 for account @VP
+about to get all tweets newer than ID #1063578338139258881 for account @Comey
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1064550934360072193 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1058441676052725760 for account @Reince
+about to get all tweets newer than ID #1063963639080763392 for account
+@DepSecHargan
+getting all tweets before ID #1037802347685183488
+    ...400 tweets downloaded so far
+
+
+New tweet from DepSecHargan: RT @HHSGov: Sending a special thank you to all
+public health professionals! We appreciate your efforts to enhance the health
+and well-being…
+about to get all tweets newer than ID #1064533145020760064 for account
+@StephGrisham45
+
+archiving URL http://twitter.com/DepSecHargan/status/1064626580687859713
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1064626580687859713
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1061289517401939968 for account
+@mike_pence
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1064569741472346112 for account
+@KellyannePolls
+about to get all tweets newer than ID #1063992637655588864 for account
+@JessicaDitto45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1064488739689377793 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1064602086707535873 for account @POTUS
+getting all tweets before ID #1055496913229889535
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @WhiteHouse: The White House Christmas tree, which
+serves as a centerpiece for Christmas decorations, must stand 18-19 feet tall
+and rea…
+about to get all tweets newer than ID #1064620439736078336 for account @SecAzar
+
+archiving URL http://twitter.com/POTUS/status/1064610803570130947
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/POTUS/status/1064610803570130947
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1064580889642971136 for account
+@SecNielsen
+
+
+New tweet from POTUS: RT @WhiteHouse: Meet your candidates: "Peas" and
+"Carrots" will be here at the White House TOMORROW—and one will receive the
+title of Natio…
+
+archiving URL http://twitter.com/POTUS/status/1064619283714621442
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1064619283714621442
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Last week, President @realDonaldTrump
+put his full support behind the First Step Act, praising members of “both
+parties for…
+
+archiving URL http://twitter.com/POTUS/status/1064623426118275072
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+
+archiving URL https://twitter.com/POTUS/status/1064623426118275072
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1063506120621346818 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1059643006800838656 for account
+@GovernorPerry
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1062540730181263360 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1064345235025620993 for account
+@SecondLady
+about to get all tweets newer than ID #1064623348834082816 for account
+@WhiteHouse
+getting all tweets before ID #1055513824248455171
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: "Through our efforts to break the cycle of crime
+and reduce recidivism, we can assist more people to contribute to…
+https://t.co/pM3TSbEL5V
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+archiving URL http://twitter.com/WhiteHouse/status/1064632660306333696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1064632660306333696
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1063558331451809799 for account @Cabinet
+about to get all tweets newer than ID #1064015459865911296 for account
+@Scavino45
+getting all tweets before ID #1039957326478958592
+    ...400 tweets downloaded so far
+
+
+New tweet from Scavino45: RT @WhiteHouse: President Trump and the First Lady
+Participate in the White House Christmas Tree Delivery https://t.co/O6Nr8k1mnu
+
+archiving URL http://twitter.com/Scavino45/status/1064623037222453249
+about to get all tweets newer than ID #1064516655659843584 for account @SBALinda
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1064623037222453249
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1064614100116914176 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1064023092832493569 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1064226295087853568 for account
+@RealBenCarson
+about to get all tweets newer than ID #1064616052024360960 for account
+@statedeptspox
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1064166715146276865 for account
+@SecretarySonny
+about to get all tweets newer than ID #1064587558426984448 for account
+@SecretaryPerry
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1064552851354075136 for account
+@nikkihaley
+about to get all tweets newer than ID #1064604797435822081 for account
+@Scaramucci
+about to get all tweets newer than ID #1064202806666686464 for account @PRyan
+about to get all tweets newer than ID #1063990919790116864 for account @PressSec
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1064598528142372864 for account
+@AshLeeStrong
+getting all tweets before ID #1045783899882889215
+    ...400 tweets downloaded so far
+
+
+New tweet from AshLeeStrong: WSJ ed: Don’t faint from surprise, but many
+Democrats and Republicans agree on fixing some of the harder edges of t…
+https://t.co/B2CMuM1vlf
+about to get all tweets newer than ID #1064515689271177216 for account
+@IvankaTrump
+
+archiving URL http://twitter.com/AshLeeStrong/status/1064634334965944320
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1047462081249927167
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: Four out of five women behind bars are mothers.
+When you incarcerate a woman you incarcerate her entire family.…
+https://t.co/jkneXfzVBz
+about to get all tweets newer than ID #1063798914636111872 for account
+@EnergyDepSec
+
+archiving URL http://twitter.com/IvankaTrump/status/1064619079561109508
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1064619079561109508
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1064597930030567424 for account
+@seanspicer
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1063549304642654210 for account @FLOTUS
+... OK, we're set up, and about to watch 888031054141022209, 25073877,
+836305915452272641, 118756393, 818910970567344128, 2334193741, 599530439,
+827258161841135623, 20733972, 920035992073064450, 823638938590085124,
+809836066316451840, 803703725730779136, 105267762, 22203756, 866746592853979137,
+ 212262370, 471672239, 836724024688410625, 829782369670410240,
+819980276570976256, 822215679726100480, 956283913835614208, 935148134505828353,
+108471631, 18916432, 18906561, 6577802, 828997388920619008, 822127086194348032,
+822215673812119553, 728361177986797568, 29547260, 818928162449068032,
+823367015830323201, 819992522109894658, 828613457020870657, 799764016885329921,
+1180379185, 1967216306, 832672006113931269, 1923451808, 842072478834909184,
+830128820447539208, 826065858548133888, 37666984, 24578794, 733751245,
+818927131883356161, 798195585824104449, 831482588246196225, 296060169, 52544275,
+ 894923298374651904, 15985455, 20776147, 620571475, 65522706, 818876014390603776
