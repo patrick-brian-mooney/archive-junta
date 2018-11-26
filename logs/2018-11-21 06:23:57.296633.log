@@ -1,0 +1,227 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Wednesday, 21 November 2018 at 06:23
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1065078393157414912 for account
+@seanspicer
+about to get all tweets newer than ID #1064972240473792512 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1063558331451809799 for account @Cabinet
+about to get all tweets newer than ID #1063990919790116864 for account @PressSec
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1065082734547226624 for account
+@SecNielsen
+about to get all tweets newer than ID #1064977741127327744 for account
+@SecondLady
+about to get all tweets newer than ID #1064920879044460545 for account @SecAzar
+about to get all tweets newer than ID #1064166715146276865 for account
+@SecretarySonny
+about to get all tweets newer than ID #1065213547418927106 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1064202806666686464 for account @PRyan
+about to get all tweets newer than ID #1064911210427097089 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1064146013118697472 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #1065082957294116866 for account
+@Scavino45
+about to get all tweets newer than ID #1064979902506696705 for account @VP
+about to get all tweets newer than ID #1065045640122642432 for account
+@WhiteHouse
+about to get all tweets newer than ID #1062540730181263360 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #1064897510349709312 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 847747 (char 847746)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1065106607435067392 for account @FLOTUS
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1065102519188275201 for account
+@realDonaldTrump
+getting all tweets before ID #1058827516427808767
+    ...400 tweets downloaded so far
+
+
+New tweet from realDonaldTrump: Oil prices getting lower. Great! Like a big
+Tax Cut for America and the World. Enjoy! $54, was just $82. Thank you…
+https://t.co/gbyx8NXe1f
+
+archiving URL http://twitter.com/realDonaldTrump/status/1065225779825598465
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=ElaineChao (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb63fd1ac>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #1065117157929844737 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=AshLeeStrong
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb63fd54c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #1059643006800838656 for account
+@GovernorPerry
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1065047965348347905 for account @POTUS
+
+archiving URL https://twitter.com/realDonaldTrump/status/1065225779825598465
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: MAKE AMERICA GREAT AGAIN!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1065225940836458496
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1055600442141491199
+
+archiving URL https://twitter.com/realDonaldTrump/status/1065225940836458496
+    ... archiving using prefix http://web.archive.org/save/
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: Oil prices getting lower. Great!
+Like a big Tax Cut for America and the World. Enjoy! $54, was just $82. Thank
+you to…
+about to get all tweets newer than ID #1058441676052725760 for account @Reince
+
+archiving URL http://twitter.com/POTUS/status/1065234278638911488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1065234278638911488
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1064959259731988480 for account
+@SecretaryCarson
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1064984009468456963 for account
+@SecretaryPerry
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1064023092832493569 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1064947242845577216 for account @SBALinda
+about to get all tweets newer than ID #1064875911395360768 for account
+@KellyannePolls
+about to get all tweets newer than ID #1064948952016007169 for account
+@nikkihaley
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1065018777723699200 for account
+@IvankaTrump
+about to get all tweets newer than ID #1064659373660782592 for account
+@StephGrisham45
+about to get all tweets newer than ID #1058433885493739520 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1065215105217019905 for account
+@Scaramucci
+about to get all tweets newer than ID #1063798914636111872 for account
+@EnergyDepSec
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1061289517401939968 for account
+@mike_pence
+about to get all tweets newer than ID #1065095369271492608 for account
+@statedeptspox
+about to get all tweets newer than ID #1063506120621346818 for account
+@SpeakerRyan
+getting all tweets before ID #1037726955796217856
+    ...400 tweets downloaded so far
+
+
+New tweet from SpeakerRyan: I have a long list of things to be thankful for
+this year, including the fact that deer hunting season has started…
+https://t.co/tXtFsICUWa
+
+archiving URL http://twitter.com/SpeakerRyan/status/1065231851441115137
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1065231851441115137
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1064950150580355072 for account
+@SecretaryZinke
+getting all tweets before ID #1044289738675560447
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: People who claim forest management means
+clearcutting or largescale logging are either lying or just don’t know wha…
+https://t.co/UG2xxVXPl9
+
+archiving URL http://twitter.com/SecretaryZinke/status/1065232348755701760
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1063578338139258881 for account @Comey
+
+archiving URL https://twitter.com/SecretaryZinke/status/1065232348755701760
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1065216264392577024 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 611394 (char 611393)
+... OK, we're set up, and about to watch 20776147, 836724024688410625,
+818928162449068032, 818927131883356161, 809836066316451840, 212262370,
+935148134505828353, 822127086194348032, 956283913835614208, 842072478834909184,
+819980276570976256, 733751245, 836305915452272641, 118756393, 620571475,
+823367015830323201, 818910970567344128, 822215673812119553, 828997388920619008,
+920035992073064450, 829782369670410240, 29547260, 818876014390603776, 108471631,
+ 15985455, 832672006113931269, 25073877, 105267762, 296060169, 18906561,
+822215679726100480, 20733972, 599530439, 65522706, 828613457020870657,
+831482588246196225, 830128820447539208, 6577802, 799764016885329921,
+798195585824104449, 1923451808, 819992522109894658, 471672239, 37666984,
+803703725730779136, 52544275, 823638938590085124, 888031054141022209, 24578794,
+894923298374651904, 826065858548133888, 22203756, 1967216306, 18916432,
+728361177986797568, 827258161841135623, 866746592853979137, 2334193741,
+1180379185
