@@ -1,0 +1,1481 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Saturday, 01 December 2018 at 00:01
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1068689237313314816 for account @SBALinda
+about to get all tweets newer than ID #1068739440691109888 for account
+@KellyannePolls
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1068598660789927937 for account
+@seanspicer
+about to get all tweets newer than ID #1067445106423341057 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1066325563269206016 for account @PRyan
+about to get all tweets newer than ID #1068741698531004416 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1068761495968903168 for account @FLOTUS
+about to get all tweets newer than ID #1068675881336545286 for account
+@RealBenCarson
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1068581318114430976 for account
+@DepSecHargan
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #1068733698600824832 for account
+@GovernorPerry
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1068670186969079809 for account
+@statedeptspox
+about to get all tweets newer than ID #1068744408764436480 for account @VP
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1068246241342042112 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1068315845384904710 for account
+@StephGrisham45
+about to get all tweets newer than ID #1067625010045562881 for account
+@mike_pence
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1068744110398496768 for account @POTUS
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1068744039372152833 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1068734954643820544 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1068752025998057472 for account
+@Scavino45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1068680249905426432 for account
+@Scaramucci
+about to get all tweets newer than ID #1068746593933959168 for account
+@WhiteHouse
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1068563276651536384 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1068475024477175814 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1068267245766356993 for account @Comey
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1068746623520509952 for account @Cabinet
+about to get all tweets newer than ID #1068551229012410369 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1068692152211988480 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1068621990674800640 for account @SecAzar
+about to get all tweets newer than ID #1068568547138387968 for account
+@SecretarySonny
+about to get all tweets newer than ID #1058441676052725760 for account @Reince
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1068744765049618433 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1068597205311852544 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1068744099132522498 for account @PressSec
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1068619885956251649 for account
+@IvankaTrump
+about to get all tweets newer than ID #1068647528164409344 for account
+@SecondLady
+about to get all tweets newer than ID #1068752088379912192 for account
+@SecNielsen
+about to get all tweets newer than ID #1058433885493739520 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1068517455671304192 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1068185907470184451 for account
+@nikkihaley
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1068097703895285761 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+... OK, we're set up, and about to watch 105267762, 819992522109894658,
+471672239, 826065858548133888, 20776147, 828997388920619008, 733751245,
+830128820447539208, 818876014390603776, 1180379185, 108471631,
+920035992073064450, 798195585824104449, 620571475, 18906561, 866746592853979137,
+ 29547260, 1923451808, 1967216306, 818910970567344128, 15985455,
+828613457020870657, 823638938590085124, 22203756, 829782369670410240,
+822215679726100480, 809836066316451840, 25073877, 827258161841135623,
+823367015830323201, 212262370, 24578794, 822215673812119553, 6577802, 18916432,
+819980276570976256, 2334193741, 831482588246196225, 818928162449068032,
+836305915452272641, 296060169, 956283913835614208, 842072478834909184, 20733972,
+ 728361177986797568, 836724024688410625, 894923298374651904, 818927131883356161,
+ 803703725730779136, 52544275, 822127086194348032, 935148134505828353,
+888031054141022209, 599530439, 799764016885329921, 37666984, 65522706,
+118756393, 832672006113931269
+
+
+New tweet from StephGrisham45: RT @FLOTUS: My heart goes out to the entire
+Bush family. https://t.co/raZ4SZQo1c
+
+archiving URL http://twitter.com/StephGrisham45/status/1068763175821033472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1068763175821033472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: As a teacher, coach, and athletic director, Uncle
+ Kevin would have loved this. Thank you!
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068763757168525312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068763757168525312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: President George H.W. Bush was an American war
+hero, businessman, diplomat, Vice President and our 41st President.…
+https://t.co/1VpY8zDPBc
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1068818640852656129
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1068818640852656129
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Mary and I send condolences to the Bush family
+upon the passing of George H.W. Bush, who lived an extraordinary Ame…
+https://t.co/NPbz4gxbIn
+
+archiving URL http://twitter.com/SecretarySonny/status/1068821868155682817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1068821868155682817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: President George H.W. Bush led a long,
+successful and beautiful life.  Whenever I was with him I saw his absolute j…
+https://t.co/NV8tJkugEj
+
+archiving URL http://twitter.com/realDonaldTrump/status/1068826073775964160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1068826073775964160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @uspto: #USPTO Director Andrei Iancu is in
+#NorthDakota for #StateOfTech18 with @SenJohnHoeven , Gov. @DougBurgum , and
+@SBALinda to tal…
+
+archiving URL http://twitter.com/SBALinda/status/1068834342976319488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068834342976319488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @SecretarySonny: Kudos to @POTUS for signing
+#USMCA with our friends from Mexico &amp; Canada. Many said couldn't be done.
+Barriers lowered…
+
+archiving URL http://twitter.com/SBALinda/status/1068834433447399424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068834433447399424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @realDonaldTrump: President George H.W. Bush led a
+ long, successful and beautiful life.  Whenever I was with him I saw his
+absolute joy…
+
+archiving URL http://twitter.com/SBALinda/status/1068834948256272386
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068834948256272386
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @stevenmnuchin1: President George H.W. Bush was an
+ American war hero, businessman, diplomat, Vice President and our 41st
+President.  We…
+
+archiving URL http://twitter.com/SBALinda/status/1068835214393307141
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068835214393307141
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @SecretarySonny: Mary and I send condolences to
+the Bush family upon the passing of George H.W. Bush, who lived an extraordinary
+ America…
+
+archiving URL http://twitter.com/SBALinda/status/1068835246014152704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068835246014152704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: My heartfelt condolences to the Bush family.
+President George H.W. Bush lived a life of service to our nation and d…
+https://t.co/AEnoSlYlcv
+
+archiving URL http://twitter.com/SBALinda/status/1068836477801508864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1068836477801508864
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: I’m saddened by the passing of President George
+HW Bush. His leadership guided the US through some of the most tumu…
+https://t.co/DOItS2BAHe
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1068840371558313989
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1068840371558313989
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: President @GeorgeHWBush served our nation with
+honor and distinction in so many ways.  Now he joins his amazing bri…
+https://t.co/a0LZelUzRE
+
+archiving URL http://twitter.com/seanspicer/status/1068844218167291906
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1068844218167291906
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Very sad to hear of the passing of President
+George H. W. Bush, one of the most distinguished Americans to have eve…
+https://t.co/LSECIkaQ5L
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1068857422687674368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1068857422687674368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today in Argentina, we send our prayers to the
+family of President George H.W. Bush, one of the most consequential…
+https://t.co/VPUQ99sqWE
+
+archiving URL http://twitter.com/statedeptspox/status/1068858261070319617
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1068858261070319617
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: https://t.co/msyHM8AkId
+
+archiving URL http://twitter.com/VP/status/1068860176747372544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068860176747372544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: https://t.co/msyHM8AkId
+
+archiving URL http://twitter.com/SecondLady/status/1068861709190930435
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068861709190930435
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: We join @POTUS and the nation in mourning the loss of
+former President George H. W. Bush, remembering with gratitud…
+https://t.co/fT69B5BCrP
+
+archiving URL http://twitter.com/SecAzar/status/1068862920413585408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1068862920413585408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Here’s a fond memory from when I was Governor
+of Georgia. Kelli, our photographer, got in front of the lens for onc…
+https://t.co/W1ySqeqskX
+
+archiving URL http://twitter.com/SecretarySonny/status/1068864683321552896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1068864683321552896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Rest In Peace to President George H.W. Bush. I
+was honored to meet him as a young staffer in DC, and then to serve…
+https://t.co/bmxM0Wyrix
+
+archiving URL http://twitter.com/EnergyDepSec/status/1068871303535517696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1068871303535517696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Together again...❤️🇺🇸
+#RestInPeace #41
+#LifetimeOfService #USPride https://t.co/pGLmfMIsjT
+
+archiving URL http://twitter.com/nikkihaley/status/1068873554287095808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1068873554287095808
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Karen and I were saddened to learn of the passing of
+President George H.W. Bush and we send our deepest sympathies…
+https://t.co/okUEKWnMzU
+
+archiving URL http://twitter.com/VP/status/1068874782052106242
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068874782052106242
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Beginning w/ his service in WWII, George HW Bush always
+answered the call to serve. His years in Congress, as a dip…
+https://t.co/EnwlNeAy3J
+
+archiving URL http://twitter.com/VP/status/1068875228833611777
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068875228833611777
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: We send our prayers &amp; deepest condolences to the entire
+ Bush family. We join them &amp; the American people in mourning…
+https://t.co/ARubkNlNR7
+
+archiving URL http://twitter.com/VP/status/1068875479317401602
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068875479317401602
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: The President and First Lady will attend the
+funeral for President George H.W. Bush at the National Cathedral in Washington.
+
+archiving URL http://twitter.com/WhiteHouse/status/1068876607102828544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1068876607102828544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Our offices @SkyBridge will be closed December as
+the nation honors @GeorgeHWBush. He was a dedicated public servan…
+https://t.co/lduFwHz99G
+
+archiving URL http://twitter.com/Scaramucci/status/1068877433489772544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1068877433489772544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: RT @MarshallRamsey: Godspeed President Bush. This is
+the bookend to the Barbara Bush cartoon from April. My thoughts are with the
+Bush fami…
+
+archiving URL http://twitter.com/Reince/status/1068880758478159875
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1068880758478159875
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: RT @realDonaldTrump: President George H.W. Bush led a
+long, successful and beautiful life.  Whenever I was with him I saw his absolute
+ joy…
+
+archiving URL http://twitter.com/Reince/status/1068880849020563456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1068880849020563456
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1068877433489772544,
+                       'id_str': '1068877433489772544',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1543676194066'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1068877433489772544
+on account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 1068877433489772544 for
+account Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/Scaramucci/sta
+tus/1068877433489772544	Our offices @SkyBridge will be closed December as the
+nation honors @GeorgeHWBush. He was a dedicated public servan…
+https://t.co/lduFwHz99G
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: Our offices @SkyBridge will be closed on December
+5th as the nation honors the life and legacy of @GeorgeHWBush. He…
+https://t.co/e81ly7jQPf
+
+archiving URL http://twitter.com/Scaramucci/status/1068882259065884672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1068882259065884672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: As I join a grieving nation in honoring the legacy
+ of our 41st President, George Herbert Walker Bush, we remember w…
+https://t.co/VI1Y7SWrUT
+
+archiving URL http://twitter.com/IvankaTrump/status/1068885314926772225
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1068885314926772225
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @Scavino45: The American flag at the
+@WhiteHouse has been lowered to half-staff in honor of President George H.W.
+Bush. #RIP41🇺🇸
+
+archiving URL http://twitter.com/JessicaDitto45/status/1068887602500128768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1068887602500128768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I was very much looking forward to having a
+press conference just prior to leaving Argentina because we have had su…
+https://t.co/ckH1IDoCGS
+
+archiving URL http://twitter.com/realDonaldTrump/status/1068887935838228480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....However, out of respect for the Bush
+Family and former President George H.W. Bush we will wait until after the…
+https://t.co/Z7aRSdNxgY
+
+archiving URL http://twitter.com/realDonaldTrump/status/1068887938761662465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1068887935838228480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1068887938761662465
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: President George H.W. Bush
+ led a long, successful and beautiful life.  Whenever I was with him I saw his
+absolute joy…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1068887955723423744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1068887955723423744
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: The President and First Lady
+will attend the funeral for President George H.W. Bush at the National Cathedral
+ in Washington.
+
+archiving URL http://twitter.com/JessicaDitto45/status/1068887976636239874
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1068887976636239874
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: I was very much looking forward to
+having a press conference just prior to leaving Argentina because we have had
+such…
+
+archiving URL http://twitter.com/POTUS/status/1068888333428891648
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: ....However, out of respect for the
+ Bush Family and former President George H.W. Bush we will wait until after the
+fun…
+
+archiving URL http://twitter.com/POTUS/status/1068888339292569600
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1068888333428891648
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1068888339292569600
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: We are with the people of Alaska as they begin
+recovering from the earthquake yesterday. @WHNSC will continue to mo…
+https://t.co/rPh3e3H9H5
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1068888527469981697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1068888527469981697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: https://t.co/ydj50VpFu3
+
+archiving URL http://twitter.com/WhiteHouse/status/1068888960544456704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1068888960544456704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: https://t.co/ydj50VpFu3
+
+archiving URL http://twitter.com/POTUS/status/1068889114278330368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1068889114278330368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Today is an exciting time for #AeroSpace
+industries in America. The economy is strong. Tax cuts and deregulation ar…
+https://t.co/xtQZesPPpU
+
+archiving URL http://twitter.com/SecretaryRoss/status/1068889961691148288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1068889961691148288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: On behalf of the 250k men &amp; women of @DHSgov I
+offer my condolences to the entire Bush family. @GeorgeHWBush will a…
+https://t.co/gQnH651pw9
+
+archiving URL http://twitter.com/SecNielsen/status/1068891935077744642
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1068891935077744642
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: President George H.W. Bush led a
+ long, successful and beautiful life.  Whenever I was with him I saw his
+absolute joy…
+
+archiving URL http://twitter.com/PressSec/status/1068898101178466305
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1068898101178466305
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Today I will be accompanying @VP Pence,
+@SecondLady and members of the Presidential Delegation for the inauguration…
+https://t.co/fCpXRGMJIo
+
+archiving URL http://twitter.com/IvankaTrump/status/1068898410214973440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1068898410214973440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: En México con @VP Pence, @SecondLady y miembros de
+ la delegación presidencial para la inauguración del Presidente…
+https://t.co/3L51li7kSs
+
+archiving URL http://twitter.com/IvankaTrump/status/1068899060743094273
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1068899060743094273
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: George H.W. Bush was a man for all seasons: a war
+hero, statesman, and affectionate family man. In our sadness toda…
+https://t.co/c3mRqGhKmA
+
+archiving URL http://twitter.com/SpeakerRyan/status/1068899216448266240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1068899216448266240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: The Iranian regime has just test-
+fired a medium range ballistic missile that’s capable of carrying multiple
+warheads.  This…
+
+archiving URL http://twitter.com/statedeptspox/status/1068904553637134342
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1068904553637134342
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: A highlight of the #G20 was meeting these
+darling young ladies, part of @USEmbArgentina ‘s Brownie &amp; Girl Scout tro…
+https://t.co/0MUIYWmJN0
+
+archiving URL http://twitter.com/statedeptspox/status/1068908010456653825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1068908010456653825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: President Trump on the passing of President George
+H.W. Bush from the #G20Summit in Argentina.
+#RIP41🇺🇸 #Bush41
+https://t.co/2ILnd82mfP
+
+archiving URL http://twitter.com/Scavino45/status/1068911878766776320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1068911878766776320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: President Trump on the passing of
+President George H.W. Bush from the #G20Summit in Argentina.
+#RIP41🇺🇸 #Bush41
+https://t.co…
+
+archiving URL http://twitter.com/WhiteHouse/status/1068912028138524677
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1068912028138524677
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Presidential Proclamation Announcing the Death of
+George H.W. Bush: https://t.co/bH7z1qVDeh https://t.co/9Uzac5f2je
+
+archiving URL http://twitter.com/Scavino45/status/1068916492299890688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1068916492299890688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: Karen and I were saddened to learn of the
+passing of President George H.W. Bush and we send our deepest sympathies to the
+entire Bu…
+
+archiving URL http://twitter.com/SecondLady/status/1068918980012900353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068918980012900353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: Beginning w/ his service in WWII, George HW
+ Bush always answered the call to serve. His years in Congress, as a diplomat,
+CIA Dir &amp;…
+
+archiving URL http://twitter.com/SecondLady/status/1068918998828494848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068918998828494848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: We send our prayers &amp; deepest
+condolences to the entire Bush family. We join them &amp; the American people in
+ mourning the passing of…
+
+archiving URL http://twitter.com/SecondLady/status/1068919024279592960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068919024279592960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Condolences to the entire Bush family on the
+passing of former President @GeorgeHWBush. He was an American patriot…
+https://t.co/EiJODEOxyu
+
+archiving URL http://twitter.com/SecretaryCarson/status/1068923305732829184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1068923305732829184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: It is an honor to attend the #inauguration of
+Mexican President @lopezobrador_  with @realDonaldTrump’s Presidentia…
+https://t.co/LS63yIWxj7
+
+archiving URL http://twitter.com/SecretaryPerry/status/1068928731203411968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1068928731203411968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: The note President @GeorgeHWBush left for President
+ @BillClinton in the Oval Office. A magnanimous example for all…
+https://t.co/nFMpSJGj15
+
+archiving URL http://twitter.com/Scaramucci/status/1068929177297084416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1068929177297084416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Ryan: “President Bush best demonstrated the
+qualities he once described as ‘those little touches of grace and affec…
+https://t.co/BoatPph795
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068932935766679553
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068932935766679553
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @kevcirilli Was debating skipping. Thanks for the
+ accountability.
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068935356811264002
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068935356811264002
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Gorgeous spot! Fabulous country! #Argentina
+#G20Argentina
+
+archiving URL http://twitter.com/statedeptspox/status/1068937148081025024
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1068937148081025024
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Today on #WorldAIDSDay, we mark the progress we’ve
+made combating the HIV/AIDS pandemic. We remember all those whos…
+https://t.co/B634Wj2RmX
+
+archiving URL http://twitter.com/SecAzar/status/1068940292760440832
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1068940292760440832
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: Remembering the wisdom of a great American leader:
+“America is never wholly herself unless she is engaged in high m…
+https://t.co/iSg54APH9X
+
+archiving URL http://twitter.com/Comey/status/1068940868235788288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1068940868235788288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: The late President George H.W. Bush will lie in
+state in the U.S. Capitol Rotunda beginning with an arrival ceremon…
+https://t.co/bscOdzICVW
+
+archiving URL http://twitter.com/SpeakerRyan/status/1068944089738039298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1068944089738039298
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Speaker Ryan announces President Bush will lie in
+ state in the U.S. Capitol: https://t.co/wBsbPFbf9F
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068945963866304512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068945963866304512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: On #WorldAIDSDay, we come together to
+recognize the progress in the fight against HIV/AIDS and remember those we’ve…
+https://t.co/7SK9iyVeBI
+
+archiving URL http://twitter.com/SecretaryCarson/status/1068948121026211841
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1068948121026211841
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: RT @SecretService: The Secret Service sends our
+heartfelt condolences on the passing of Former President George H.W. Bush.
+Timberwolf, you…
+
+archiving URL http://twitter.com/SecNielsen/status/1068950845071523842
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1068950845071523842
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Under the guidance of @realDonaldTrump, American
+ businesses have reached unparalleled heights. These grant awards w…
+https://t.co/33HXRoRNXk
+
+archiving URL http://twitter.com/SecretaryRoss/status/1068957921998852096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1068957921998852096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: Iran just test-fired an INF range ballistic
+missile capable of reaching Israel and Europe. This provocative behavio…
+https://t.co/oJTjqkcTnG
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1068960419480514560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1068960419480514560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: Yesterday the Kremlin requested clarification on
+ the cancelled meeting between the two leaders. I expressed to Amba…
+https://t.co/JWcgx8nw6X
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1068962836133613568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1068962836133613568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @USNavy: Fair winds and following seas, Sir. We
+have the watch. https://t.co/hI2aGJjdKK
+
+archiving URL http://twitter.com/seanspicer/status/1068974909211246592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1068974909211246592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great to be in Mexico representing the United States with
+the official US delegation including @SecondLady,… https://t.co/B8sFzjO0Y4
+
+archiving URL http://twitter.com/VP/status/1068980480698126336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068980480698126336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Honored to congratulate newly inaugurated President
+@lopezobrador_ and First Lady @beatrizGMuller on behalf of…
+https://t.co/ZyOpyXXXmB
+
+archiving URL http://twitter.com/VP/status/1068980965433851904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1068980965433851904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryPerry: RT @VP: Great to be in Mexico representing the
+United States with the official US delegation including @SecondLady,
+@IvankaTrump, @SecNiels…
+
+archiving URL http://twitter.com/SecretaryPerry/status/1068981834598498304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1068981834598498304
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Yesterday was an historic day and a huge win for
+ our nation! Thank you @realDonaldTrump for keeping your promise to…
+https://t.co/WGvbZUaRb9
+
+archiving URL http://twitter.com/SecretaryRoss/status/1068988107448623105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1068988107448623105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @elwasson @auctnr1 Thanks, Erik.
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068990001579466754
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068990001579466754
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: We started our Saturday laughing about our times at
+ Clemson with these sweet friends. Ending it cheering on the Tig…
+https://t.co/utIhtPkIH8
+
+archiving URL http://twitter.com/nikkihaley/status/1068990237072859137
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1068990237072859137
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: Great to be in Mexico representing the
+United States with the official US delegation including @SecondLady,
+@IvankaTrump, @SecNiels…
+
+archiving URL http://twitter.com/SecondLady/status/1068991053469024262
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068991053469024262
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: Honored to congratulate newly inaugurated
+President @lopezobrador_ and First Lady @beatrizGMuller on behalf of @POTUS and
+the Ameri…
+
+archiving URL http://twitter.com/SecondLady/status/1068991326362972160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1068991326362972160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @DefenseBaron @kevcirilli Did the thing
+https://t.co/UqSJ3mJvYI
+
+archiving URL http://twitter.com/AshLeeStrong/status/1068991452997447681
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1068991452997447681
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: Thank you @GeorgeHWBush for your enormous sacrifice on
+behalf of our nation. In 2011 he was one of the first calls…
+https://t.co/gCdynEIyui
+
+archiving URL http://twitter.com/Reince/status/1068994220684390400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1068994220684390400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Congratulations President @lopezobrador_ and First
+ Lady Ms. Gutiérrez Müller. It was an honor to join you today to…
+https://t.co/Z6c7T40m15
+
+archiving URL http://twitter.com/IvankaTrump/status/1069031321941495809
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1069031321941495809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Felicitaciones Presidente @lopezobrador_ y Primera
+ Dama Gutiérrez Müller. Fue un honor celebrar su inauguración y r…
+https://t.co/0twlYft76N
+
+archiving URL http://twitter.com/IvankaTrump/status/1069031568809869313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1069031568809869313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: We have a terrific @statedept team in
+#BuenosAires! Thanks for all your great work.
+
+archiving URL http://twitter.com/statedeptspox/status/1069036586543783936
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1069036586543783936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Today on #WorldAIDSDay 2018 we remember the 35
+million lives that have been lost to AIDS since the pandemic began a…
+https://t.co/djGMQoItjj
+
+archiving URL http://twitter.com/statedeptspox/status/1069049590769430529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1069049590769430529
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: ❤️🇺🇸
+
+archiving URL http://twitter.com/nikkihaley/status/1069053422089859072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1069053422089859072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Reince: RT @FaceTheNation: Is @GeorgeHWBush too nice a guy to
+be president? @FaceTheNation asked him in 1979 https://t.co/q0HqXdAaGE
+
+archiving URL http://twitter.com/Reince/status/1069065980066885632
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Reince/status/1069065980066885632
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Statement from the Press Secretary Regarding the
+President’s Working Dinner with China in Buenos Aires, Argentina:…
+https://t.co/3hHZa4u8q6
+
+archiving URL http://twitter.com/Scavino45/status/1069069893549490176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1069069893549490176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: Statement from the Press Secretary
+Regarding the President’s Working Dinner with China in Buenos Aires, Argentina:
+https://t…
+
+archiving URL http://twitter.com/WhiteHouse/status/1069077675623530497
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1069077675623530497
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: @POTUSPress @ClemsonFB Go Tigers! 🏈🎉
+
+archiving URL http://twitter.com/nikkihaley/status/1069092197868466176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1069092197868466176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: RT @ClemsonFB: Your 2️⃣0️⃣1️⃣8️⃣ ACC champions
+#ChampionshipPhase #ALLIN 🐅 https://t.co/Q7PlubX4Hm
+
+archiving URL http://twitter.com/nikkihaley/status/1069092541360992256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1069092541360992256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Terrific #G20Argentina Thanks to our @statedept
+colleagues for pulling it off!
+
+archiving URL http://twitter.com/statedeptspox/status/1069188068509396992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1069188068509396992
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Thank you @POTUS and @SecPompeo for your important
+work on behalf of the American people!
+
+archiving URL http://twitter.com/SBALinda/status/1069192989870891008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1069192989870891008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: RT @SecretaryRoss: Yesterday was an historic day and
+a huge win for our nation! Thank you @realDonaldTrump for keeping your promise
+to the…
+
+archiving URL http://twitter.com/SBALinda/status/1069193241097060352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1069193241097060352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: After 5,391 miles (9 hours) from Buenos Aires,
+Argentina...Air Force One is wheels down (5amE) at @Andrews_JBA🇺🇸
+https://t.co/0MgIrpdDHa
+
+archiving URL http://twitter.com/Scavino45/status/1069195541060481025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1069195541060481025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @Pontifex: Advent is the time to welcome the
+Lord who comes to meet us, the time to look ahead, and to prepare ourselves for
+Christ’s re…
+
+archiving URL http://twitter.com/seanspicer/status/1069213966595952641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1069213966595952641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @RealKyleMorris: Secretary Mattis during his
+discussion with @BretBaier: “I’m not paid to be optimistic or pessimistic. I
+maintain a mil…
+
+archiving URL http://twitter.com/seanspicer/status/1069214148477751298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1069214148477751298
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Wishing a Happy Hanukkah to all those who
+begin celebrating tonight. https://t.co/Ai2FQktOJf
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1069214769188610054
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1069214769188610054
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: New data last week from @BEA_News show that
+incomes continue to rise and Americans are spending more. This is more…
+https://t.co/AsT1R0AjSY
+
+archiving URL http://twitter.com/SecretaryRoss/status/1069244799847297025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: A great opportunity to come together with many spouses
+for the #G20Argentina. Thank you First Lady @JulianaAwada_ f…
+https://t.co/SbDuTBo5Bh
+
+archiving URL http://twitter.com/FLOTUS/status/1069244802183688193
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1069244802183688193
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1069244799847297025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @FLOTUS: A great opportunity to come together with
+many spouses for the #G20Argentina. Thank you First Lady @JulianaAwada_ for
+hosting u…
+
+archiving URL http://twitter.com/POTUS/status/1069245082686111746
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1069245082686111746
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SecAzar: Today on #WorldAIDSDay, we mark the
+progress we’ve made combating the HIV/AIDS pandemic. We remember all those whose
+ lives hav…
+
+archiving URL http://twitter.com/DepSecHargan/status/1069253366306480130
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1069253366306480130
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: Grateful for a fair hearing from judge. Hard to protect
+my rights without being in contempt, which I don’t believe…
+https://t.co/PZ1rptoqXO
+
+archiving URL http://twitter.com/Comey/status/1069254085591863296
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1069254085591863296
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PRyan: One of my favorite pastimes with my bro! 🏒 🍻
+https://t.co/jCLcKudLVV
+
+archiving URL http://twitter.com/PRyan/status/1069254970472628226
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PRyan/status/1069254970472628226
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @Scavino45: Statement from the Press
+Secretary Regarding the President’s Working Dinner with China in Buenos Aires,
+Argentina: https://t…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1069256511468314626
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1069256511468314626
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Read about the Administration’s work across US
+Government to combat human trafficking at home and abroad. My OpEd h…
+https://t.co/MCqJyehy8Y
+
+archiving URL http://twitter.com/IvankaTrump/status/1069257010804387840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1069257010804387840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Incomes are growing beyond inflation.
+@RealDonaldTrump’s economic policies are giving Americans the raise they have…
+https://t.co/rnZvweMkZK
+
+archiving URL http://twitter.com/SecretaryRoss/status/1069259901879312389
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1069259901879312389
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: RT @FLOTUS: A great opportunity to come
+together with many spouses for the #G20Argentina. Thank you First Lady
+@JulianaAwada_ for hosting u…
+
+archiving URL http://twitter.com/StephGrisham45/status/1069263312922337281
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1069263312922337281
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Treasury has strongly targeted the Iranian
+regime’s proactive ballistic missile program, and intends to aggressivel…
+https://t.co/zdDghFlBtd
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1069264020396494849
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1069264020396494849
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: I was honored to represent @realdonaldtrump in
+some of the leaders meetings at #g20leaderssummit while he was in bi…
+https://t.co/lN63ma3CSV
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1069272977064120320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1069272977064120320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: “If you don't have time to do it right, when will
+you have time to do it over?”
+- John Wooden
+
+archiving URL http://twitter.com/Scaramucci/status/1069274346164752385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1069274346164752385
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Last week's 1.7% increase in durable goods
+inventories show how @realDonaldTrump policies are continuing to rebuild…
+https://t.co/h21XjXwNpj
+
+archiving URL http://twitter.com/SecretaryRoss/status/1069275000761286656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1069275000761286656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: Deputy Secretary Sullivan was honored to welcome
+ guests to the Department of State and host the 41st Annual Kennedy…
+https://t.co/zN5whDsoRB
+
+archiving URL http://twitter.com/statedeptspox/status/1069275856864976896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1069275856864976896
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Playoff time! Go Tigers!
+
+archiving URL http://twitter.com/nikkihaley/status/1069284200921083908
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1069284200921083908
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Which one are you? https://t.co/UyiXD7UoYG
+
+archiving URL http://twitter.com/Scaramucci/status/1069284665394110464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1069284665394110464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Important that the #G20Argentina countries
+recognized and committed to our top pro-growth, people first policies, i…
+https://t.co/h5CrDmZdVy
+
+archiving URL http://twitter.com/IvankaTrump/status/1069288208373096449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1069288208373096449
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: #HappyHanukkah to all those celebrating the Festival
+of Lights!
+
+archiving URL http://twitter.com/SBALinda/status/1069288331274530816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SBALinda/status/1069288331274530816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Last week's increases in merchant wholesale
+trade and retail trade inventories show that the @realDonaldTrump econo…
+https://t.co/78vOtj0Xgi
+
+archiving URL http://twitter.com/SecretaryRoss/status/1069290099005808641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1069290099005808641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: “Very importantly, President Xi, in a wonderful
+humanitarian gesture, has agreed to designate Fentanyl as a Control…
+https://t.co/PkpQnxVdY8
+
+archiving URL http://twitter.com/Scavino45/status/1069290159483572224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1069290159483572224
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1069290159483572224,
+                       'id_str': '1069290159483572224',
+
+                       'user_id': 823367015830323201,
+'user_id_str': '823367015830323201'},
+            'timestamp_ms':
+'1543773658805'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1069290159483572224
+on account Scavino45
+INFO: get_archived_tweet() called to get tweet ID 1069290159483572224 for
+account Scavino45
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scavino45/status/1069290159483572224
+	“Very importantly, President Xi, in a wonderful humanitarian gesture, has
+agreed to designate Fentanyl as a Control… https://t.co/PkpQnxVdY8
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scavino45 is not in the list
+of accounts we tweet about
+
+
+New tweet from Scavino45: “Very importantly, President Xi, in a wonderful
+humanitarian gesture, has agreed to designate Fentanyl as a Control…
+https://t.co/5a1TNRZYsc
+
+archiving URL http://twitter.com/Scavino45/status/1069290534831882240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1069290534831882240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: “Very importantly, President Xi, in
+a wonderful humanitarian gesture, has agreed to designate Fentanyl as a
+Controlled Subst…
+
+archiving URL http://twitter.com/WhiteHouse/status/1069290660472258560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1069290660472258560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from StephGrisham45: RT @Scavino45: “Very importantly, President Xi,
+ in a wonderful humanitarian gesture, has agreed to designate Fentanyl as a
+Controlled Subst…
+
+archiving URL http://twitter.com/StephGrisham45/status/1069294299853012994
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/StephGrisham45/status/1069294299853012994
+    ... archiving using prefix http://web.archive.org/save/
