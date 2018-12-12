@@ -1,0 +1,2258 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Tuesday, 11 December 2018 at 08:40
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1072509908531204097 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611207 (char 611206)
+about to get all tweets newer than ID #1070732183088832513 for account
+@GovernorPerry
+about to get all tweets newer than ID #1072184978467774464 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611270 (char 611269)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read
+timeout=60)
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1071072948432322561 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619573 (char 619572)
+about to get all tweets newer than ID #1072155512228274176 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1068746623520509952 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 1171006 (char 1171005)
+about to get all tweets newer than ID #1072229618730627072 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619597 (char 619596)
+about to get all tweets newer than ID #1072506213382930435 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619454 (char 619453)
+about to get all tweets newer than ID #1058433885493739520 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1072508517389647872 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619563 (char 619562)
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619599 (char 619598)
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1070485074230030336 for account @Reince
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1072281656621436933 for account
+@SecretaryZinke
+getting all tweets before ID #1049683949549694977
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryZinke: Our @Interior Christmas tree and holiday
+hallway decorating competition continues.  Beautiful handmade ornaments on…
+https://t.co/cAH0WjSBCI
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072518413354962953
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1071609292531384320 for account
+@statedeptspox
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072518413354962953
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1072343734585581568 for account
+@SecretarySonny
+about to get all tweets newer than ID #1071189540130426880 for account @FLOTUS
+about to get all tweets newer than ID #1070085091806859264 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1072483770819846144 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1067625010045562881 for account
+@mike_pence
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1072046644886040576 for account
+@SecNielsen
+about to get all tweets newer than ID #1071902004400787457 for account
+@SecondLady
+about to get all tweets newer than ID #1072289369472622593 for account
+@WhiteHouse
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #1069991157478903809 for account
+@StephGrisham45
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1071110969328394241 for account @PressSec
+about to get all tweets newer than ID #1072155300642414593 for account
+@DepSecHargan
+about to get all tweets newer than ID #1071962500239949824 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1071883340788236289 for account
+@nikkihaley
+about to get all tweets newer than ID #1072460996428611585 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1072213961708355586 for account @SecAzar
+getting all tweets before ID #1055400220325044229
+    ...400 tweets downloaded so far
+
+
+New tweet from SecAzar: We’re pursuing every opportunity to address our
+country’s opioid epidemic and support patients struggling with opio…
+https://t.co/rU9EyslYrB
+
+archiving URL http://twitter.com/SecAzar/status/1072514852122451968
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+archiving URL https://twitter.com/SecAzar/status/1072514852122451968
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1069254970472628226 for account @PRyan
+about to get all tweets newer than ID #1072290261240299526 for account @VP
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1072373326377562112 for account
+@seanspicer
+about to get all tweets newer than ID #1071199053747228672 for account @Comey
+about to get all tweets newer than ID #1071848271872696321 for account
+@IvankaTrump
+getting all tweets before ID #1053393300655357951
+    ...400 tweets downloaded so far
+
+
+New tweet from IvankaTrump: It’s official... the #FIRSTStepAct is headed to
+the floor for a vote.
+
+This historic legislation will reform our pr…
+https://t.co/k51zIZMaNV
+
+archiving URL http://twitter.com/IvankaTrump/status/1072521035927433216
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1070316513037598721 for account @SBALinda
+about to get all tweets newer than ID #1071147915530391552 for account
+@stevenmnuchin1
+
+archiving URL https://twitter.com/IvankaTrump/status/1072521035927433216
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1071800147682738177 for account
+@Scavino45
+about to get all tweets newer than ID #1070878028509646848 for account
+@KellyannePolls
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1072347236405833728 for account
+@RealBenCarson
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1070336482219622402 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1070391470761353216 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+... OK, we're set up, and about to watch 1923451808, 296060169, 18906561,
+830128820447539208, 826065858548133888, 803703725730779136, 828613457020870657,
+836305915452272641, 818928162449068032, 822215679726100480, 18916432,
+888031054141022209, 24578794, 599530439, 6577802, 108471631, 29547260, 20733972,
+ 831482588246196225, 827258161841135623, 1967216306, 842072478834909184,
+818876014390603776, 894923298374651904, 25073877, 22203756, 65522706,
+935148134505828353, 822127086194348032, 822215673812119553, 620571475,
+823638938590085124, 798195585824104449, 818927131883356161, 920035992073064450,
+836724024688410625, 37666984, 819980276570976256, 212262370, 956283913835614208,
+ 15985455, 733751245, 818910970567344128, 728361177986797568, 105267762,
+20776147, 2334193741, 52544275, 819992522109894658, 799764016885329921,
+829782369670410240, 823367015830323201, 471672239, 866746592853979137,
+1180379185, 832672006113931269, 828997388920619008, 118756393,
+809836066316451840
+
+
+New tweet from SecretaryZinke: Wow! We have some standouts for the employee
+holiday decorating competition. The IT office and the Office of Insula…
+https://t.co/7BqKzSzDHB
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072523993255763968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072523993255763968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @IvankaTrump: It’s official... the
+#FIRSTStepAct is headed to the floor for a vote.
+
+This historic legislation will
+ reform our prison sy…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072525293133422593
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072525293133422593
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @ACLgov: We're at an @ESealsDCMDVA child
+development center with @DepSecHargan and @ACFHHS learn about the impact of
+inclusive early chi…
+
+archiving URL http://twitter.com/DepSecHargan/status/1072525638341410817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072525638341410817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Border security is national security.
+https://t.co/NSWCUvg99e
+
+archiving URL http://twitter.com/WhiteHouse/status/1072526755754323974
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072526755754323974
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Border security is national security.
+https://t.co/NSWCUvg99e
+
+archiving URL http://twitter.com/POTUS/status/1072526981722464262
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072526981722464262
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Currently Visiting @ESealsDCMDVA’s Weinberg CDC,
+where kids w/disabilities learn/get therapy alongside kids w/o dis…
+https://t.co/eRgXIUGzVI
+
+archiving URL http://twitter.com/DepSecHargan/status/1072527032582578177
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Parents and staff at this inclusive early-
+childhood program tell me (and research shows) kids w/ and w/o disabiliti…
+https://t.co/LSazk9TTRX
+
+archiving URL http://twitter.com/DepSecHargan/status/1072527037615800320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: For children w/disabilities, early diagnosis and
+interventions are key to life-long success in the community. UCEDD…
+https://t.co/zhCz7iWijI
+
+archiving URL http://twitter.com/DepSecHargan/status/1072527040048521218
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072527037615800320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072527040048521218
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Border security is national
+security. https://t.co/NSWCUvg99e
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072527121506013184
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072527121506013184
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: RT @RepGosar: Check it out ➡️ @RobBishopUT’s
+great op-ed on @SecretaryZinke’s strong leadership at the @Interior.
+https://t.co/dhCO5kGuLk v…
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072527484011327488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072527484011327488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: Enjoyed a lovely visit with my staff to the
+@USBotanicGarden yesterday evening. We saw the amazing exhibit, “Season…
+https://t.co/EgBNoYI6pP
+
+archiving URL http://twitter.com/SecondLady/status/1072530025784754176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1072530025784754176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Glad to join America's Essential Hospitals today to
+discuss how their work intersects with our efforts to lower the…
+https://t.co/B0nMs9Dmmt
+
+archiving URL http://twitter.com/SecAzar/status/1072534804409794560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072534804409794560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @SecondLady: Enjoyed a lovely visit with my staff to the
+ @USBotanicGarden yesterday evening. We saw the amazing exhibit, “Seasons
+Greeni…
+
+archiving URL http://twitter.com/VP/status/1072535322716717057
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Today, @HUDgov and @DeptVetAffairs announced
+additional HUD-VASH vouchers to help homeless veterans find permanent…
+https://t.co/TUWSeDBmCV
+
+archiving URL http://twitter.com/SecretaryCarson/status/1072535656591699968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1072535656591699968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Congratulations to Justin Muzinich on his
+confirmation as Deputy Secretary of the @USTreasury. Great to have him in his
+new role.
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1072537569508974592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1072537569508974592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Agreed. We must come up with a framework for
+monitoring impact without creating the type of undue red tape that has…
+https://t.co/Wo5BSHpqYN
+
+archiving URL http://twitter.com/Scaramucci/status/1072539395419443200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072539395419443200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Great work by @EPAAWheeler to correct #WOTUS
+regs. This will help a lot of communities and return power to the most…
+https://t.co/WXymwQXTLJ
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072539817945260032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072539817945260032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SecAzar: We’re pursuing every opportunity to
+address our country’s opioid epidemic and support patients struggling with
+opioid use diso…
+
+archiving URL http://twitter.com/DepSecHargan/status/1072541335155019776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072541335155019776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SeemaCMS: This is the LAST WEEK to shop and
+enroll in a 2019 Marketplace plan. The deadline is Dec 15. Don’t miss your
+chance: https://…
+
+archiving URL http://twitter.com/DepSecHargan/status/1072541347553386498
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/DepSecHargan/status/1072541347553386498
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Call it the American Dream stat: There were 1
+million more available jobs than unemployed workers in the latest off…
+https://t.co/vyQoNBKxtQ
+
+archiving URL http://twitter.com/WhiteHouse/status/1072542788720488448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072542788720488448
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Deputy Chief of Staff Kate MacGregor is in
+#NewMexico today to deliver a half-billion dollars to the state for thei…
+https://t.co/EDHPH0ll5g
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072544634516226048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072544634516226048
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Reforming our criminal justice system is about
+redemption—giving many Americans another chance to achieve a more fu…
+https://t.co/BmcHZLAxbn
+
+archiving URL http://twitter.com/SpeakerRyan/status/1072549519966044172
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1072549519966044172
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: The team in the budget office came up with a
+colorful and creative way to incorporate wildlife into their Christmas…
+https://t.co/fU672tpeyC
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072550664499269635
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072550664499269635
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Call it the American Dream
+stat: There were 1 million more available jobs than unemployed workers in the
+latest official co…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072552658706358272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072552658706358272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @markknoller: "The president thinks
+Democrats have a choice to make," says @KellyannePolls of @POTUS meeting with
+Pelosi/Schumer. "Do th…
+
+archiving URL http://twitter.com/KellyannePolls/status/1072553051511316480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1072553051511316480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Josh @ReformedBroker is actually fairly centrist,
+although not a fan of POTUS. Look forward to my next appearance o…
+https://t.co/qDpXCesGKr
+
+archiving URL http://twitter.com/Scaramucci/status/1072553771283177472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072553771283177472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: As a member of the @FirstNetGov Board, you are
+entrusted with making sure the brave men and women responsible for…
+https://t.co/Guw4iNfiyg
+
+archiving URL http://twitter.com/SecretaryRoss/status/1072554910804336642
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1072554910804336642
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: Manufacturing job openings set a new all-time
+high in the @POTUS economy. #MadeInAmerica 🇺🇸 https://t.co/FSAMSEGAEa
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1072555401730777088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1072555401730777088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @kayleighmcenany: Major, groundbreaking &amp;
+bipartisan criminal justice reform is on its way to a vote in the Senate!
+President @realDona…
+
+archiving URL http://twitter.com/IvankaTrump/status/1072557635256401927
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1072557635256401927
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @senatemajldr: At the request of the president
+and following improvements to the legislation that have been secured by several
+members,…
+
+archiving URL http://twitter.com/IvankaTrump/status/1072558256252510210
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1072558256252510210
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Spoke to PM @AdilAbdAlMahdi of Iraq today &amp;
+congratulated him on forming a new gov’t. The US &amp; Iraq are STRONG part…
+https://t.co/xa47QXT7Ko
+
+archiving URL http://twitter.com/VP/status/1072558720549302272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1072558720549302272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Happening now ⇩ ⇩ ⇩
+
+archiving URL http://twitter.com/DepSecHargan/status/1072559051991592961
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @SkyBridge: SkyBridge and EJF Capital Launch
+Opportunity Zone REIT
+
+Join us today at 2:30 pm ET for a conference call with
+more details…
+
+archiving URL http://twitter.com/Scaramucci/status/1072563223667318786
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072563223667318786
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Reminder - we’re hosting a conference call at
+2:30pm ET today to provide more information on the new SOZ REIT. You…
+https://t.co/280q2ZSKTG
+
+archiving URL http://twitter.com/Scaramucci/status/1072563744130113536
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072563744130113536
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: James Comey just totally exposed his partisan
+stance by urging his fellow Democrats to take back the White House in…
+https://t.co/M7mJYxDjgu
+
+archiving URL http://twitter.com/realDonaldTrump/status/1072564293302976512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1072564293302976512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @VanJones68: Martin Luther King Jr.'s Daughter
+Writes Letter Supporting Trump-Endorsed Bill https://t.co/Bz37hjVwaz … Thank
+you, Dr. Kin…
+
+archiving URL http://twitter.com/IvankaTrump/status/1072564313037172737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1072564313037172737
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “I don’t care what you think of the
+President...it cannot bleed over to the FBI...Comey is confirming there is bias…
+ https://t.co/Km9UuC12Ci
+
+archiving URL http://twitter.com/realDonaldTrump/status/1072565454655406081
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1072565454655406081
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Democrats have made it clear that they would rather
+ keep the U.S. border open to illegal immigrants than keep the g…
+https://t.co/8n0nT1dOX4
+
+archiving URL http://twitter.com/WhiteHouse/status/1072572227235790848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072572227235790848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Building walls at sections of the border in San
+Diego, El Paso, Tucson, and Yuma caused illegal traffic to drop by…
+https://t.co/SsbbjQutv3
+
+archiving URL http://twitter.com/WhiteHouse/status/1072572984899092482
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072572984899092482
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Democrats have made it clear that they
+would rather keep the U.S. border open to illegal immigrants than keep the
+governmen…
+
+archiving URL http://twitter.com/POTUS/status/1072573086350893058
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Building walls at sections of the border
+ in San Diego, El Paso, Tucson, and Yuma caused illegal traffic to drop by 90%
+or m…
+
+archiving URL http://twitter.com/POTUS/status/1072573092034170880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072573086350893058
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072573092034170880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: Thank you for your service to our country and
+for your commitment to guiding the work of @FirstNetGov. Realizing th…
+https://t.co/mVXVDP2pCY
+
+archiving URL http://twitter.com/SecretaryRoss/status/1072574115779874817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryRoss/status/1072574115779874817
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1054571724962967552,
+                       'id_str': '1054571724962967552',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544557853411'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1054571724962967552
+on account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 1054571724962967552 for
+account Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/Scaramucci/sta
+tus/1054571724962967552	RT @seanhannity: My good friend @Scaramucci releases his
+ book tomorrow- check it now! https://t.co/OWk9p4laCD
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1033535275048288256,
+                       'id_str': '1033535275048288256',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558071414'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1033535275048288256
+on account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 1033535275048288256 for
+account Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/Scaramucci/sta
+tus/1033535275048288256	RT @seanhannity: RIP Senator McCain. My thoughts and
+prayers to Cindy, Meghan, and his family. While we did have political
+differences, I k…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1023714320293740544,
+                       'id_str': '1023714320293740544',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558139467'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1023714320293740544
+on account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 1023714320293740544 for
+account Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/Scaramucci/sta
+tus/1023714320293740544	RT @seanhannity: https://t.co/VusSoqGmWQ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1025584735559602181,
+                       'id_str': '1025584735559602181',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1544558162233'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1025584735559602181
+on account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 1025584735559602181 for
+account realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/1025584735559602181	RT @seanhannity: https://t.co/RAVcGZwsiS
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from DepSecHargan: I just joined @DrMcCance_Katz at @samhsagov to
+thank and speak to all of the participants of the Interdepartmental…
+https://t.co/gs4DYMmBHu
+
+archiving URL http://twitter.com/DepSecHargan/status/1072581151179583488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: .@HHSGov chairs the #ISMICC and utilizes its
+members as key ambassadors to advance treatment of Serious Mental Illness.
+
+archiving URL http://twitter.com/DepSecHargan/status/1072581156263079936
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: To learn more about how #ISMICC is addressing
+serious mental illness through a holistic approach visit @samhsagov’s…
+https://t.co/IaY34DvGpq
+
+archiving URL http://twitter.com/DepSecHargan/status/1072581160767811586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072581160767811586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072581151179583488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1072581156263079936
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1010166715458768898,
+                       'id_str': '1010166715458768898',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558258354'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1010166715458768898
+on account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 1010166715458768898 for
+account Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/Scaramucci/sta
+tus/1010166715458768898	RT @seanhannity: RIP our friend Charles Krauthammer. His
+ entire life was a profile in courage. An amazing man, a brilliant mind, and a
+incr…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1015251922499104771,
+                       'id_str': '1015251922499104771',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558319068'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1015251922499104771
+on account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 1015251922499104771 for
+account seanspicer
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/seanspicer/sta
+tus/1015251922499104771	RT @seanhannity: Pre-order this book written by my good
+friend @seanspicer now! Available in stores July 24th,  “The Briefing: Politics,
+ Th…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+986780968945094656,
+                       'id_str': '986780968945094656',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558458966'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 986780968945094656 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 986780968945094656 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/986780968945094656
+	RT @seanhannity: As a Talk Show Host, sometimes I report the news straight with
+ no opinion, do news making interviews break news, do invest…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+991143615274672128,
+                       'id_str': '991143615274672128',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558484133'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 991143615274672128 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 991143615274672128 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/991143615274672128
+	RT @seanhannity: @SaraCarterDC is here to react to a breaking new report on Rod
+ Rosenstein. Then @edhenry, @JoeConchaTV, &amp; @SeanSpicer weig…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+987508793260027905,
+                       'id_str': '987508793260027905',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558541956'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 987508793260027905 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 987508793260027905 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/987508793260027905
+	RT @seanhannity: Up next we’ll show you the media's new sick and twisted
+obsession about President Trump. @seanspicer on that and more.
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+986735198464299008,
+                       'id_str': '986735198464299008',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558566212'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 986735198464299008 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 986735198464299008 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/986735198464299008
+	RT @seanhannity: I have to laugh. People in destroy Trump media just make shit
+up. Thx for all the BS free press. https://t.co/q2gotSpvEy
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+988451232682512385,
+                       'id_str': '988451232682512385',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558572171'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 988451232682512385 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 988451232682512385 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/988451232682512385
+	RT @seanhannity: Time for some truth:
+https://t.co/2kfcIyOIR4
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+975801336942882818,
+                       'id_str': '975801336942882818',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558580661'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 975801336942882818 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 975801336942882818 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/975801336942882818
+	RT @seanhannity: Nice try https://t.co/3MhYYPd2Sc
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+986434609108934656,
+                       'id_str': '986434609108934656',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558621192'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 986434609108934656 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 986434609108934656 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/986434609108934656
+	RT @seanhannity: I just want to say thank you to all my irredeemable deplorable
+ friends on twitter and elsewhere. The support you show me i…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+977365328970899457,
+                       'id_str': '977365328970899457',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558691521'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 977365328970899457 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 977365328970899457 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/977365328970899457
+	RT @seanhannity: Coming up on #Hannity I’m joined by @seanspicer, @JoeConchaTV,
+ @newsgirlalison, @mschlapp and much more
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+964698143429414912,
+                       'id_str': '964698143429414912',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558770983'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 964698143429414912 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 964698143429414912 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/964698143429414912
+	RT @seanhannity: The liberal media has done a great disservice to you by not
+digging for the truth about real Russia collusion…@seanspicer…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+969035188708761600,
+                       'id_str': '969035188708761600',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558774116'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 969035188708761600 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 969035188708761600 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/969035188708761600
+	RT @seanhannity: A major staffing change at the White House was announced
+today… @edhenry, @Scaramucci and @GeraldoRivera have the latest n…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+974824939386785797,
+                       'id_str': '974824939386785797',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558788522'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 974824939386785797 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 974824939386785797 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/974824939386785797
+	RT @seanhannity: Up next...@SebGorka and @SeanSpicer on how the media is
+completely smearing President Trump's pick to the lead CIA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+969013874094723072,
+                       'id_str': '969013874094723072',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558789599'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 969013874094723072 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 969013874094723072 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/969013874094723072
+	RT @seanhannity: Tonight on #Hannity at 9pm I’ll be joined by @SaraCarterDC,
+David Schoen, @GreggJarrett, @edhenry, @Scaramucci, @GeraldoRi…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+962155326945611777,
+                       'id_str': '962155326945611777',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558801715'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 962155326945611777 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 962155326945611777 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/962155326945611777
+	RT @seanhannity: The media's hatred of President Trump is once again on full
+display... @seanspicer and @JoeConchaTV weigh in next #Hannity
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+961600067059757057,
+                       'id_str': '961600067059757057',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544558887915'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 961600067059757057 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 961600067059757057 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/961600067059757057
+	RT @seanhannity: The mainstream media is silent about the new senate report on
+FISA abuse…  @Scaramucci and @SharylAttkisson give their tak…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+958174345347633152,
+                       'id_str': '958174345347633152',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544558943563'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 958174345347633152 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 958174345347633152 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/958174345347633152
+	RT @seanhannity: Tonight on #Hannity I’m live in Washington with @JudgeJeanine,
+ @SaraCarterDC, @SebGorka, @KellyannePolls, @edhenry, @brith…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+957406470831734784,
+                       'id_str': '957406470831734784',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559102571'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 957406470831734784 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 957406470831734784 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/957406470831734784
+	RT @seanhannity: I’m baaaccckk... a lot to say- Thanks for the support all you
+deplorable, irredeemables. Can’t get rid of me that easy. To…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+950531653163765760,
+                       'id_str': '950531653163765760',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544559108896'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 950531653163765760 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 950531653163765760 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/950531653163765760
+	RT @seanhannity: Tonight on #Hannity I'm joined by @michellemalkin,
+@seanspicer, @dbongino, @kayleighmcenany, John Solomon, @SaraCarterDC,…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+
+
+New tweet from AshLeeStrong: Meanwhile, elsewhere.
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072584884466737157
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+933824503330803712,
+                       'id_str': '933824503330803712',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559138895'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 933824503330803712 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 933824503330803712 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/933824503330803712
+	RT @seanhannity: Happy Thanksgiving. Thx Masterbuilt! https://t.co/OgBbnALdzA
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072584884466737157
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+930231443132907520,
+                       'id_str': '930231443132907520',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559225135'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 930231443132907520 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 930231443132907520 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/930231443132907520
+	RT @seanhannity: So @Keurig do you even care this is the person you blindly
+listened to? https://t.co/ULl5KqmhmN ? https://t.co/EnA9XHaRoZ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+940401919062929408,
+                       'id_str': '940401919062929408',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544559225263'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 940401919062929408 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 940401919062929408 for account
+ seanspicer
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+945803070491037698,
+                       'id_str': '945803070491037698',
+
+                       'user_id': 52544275,
+'user_id_str': '52544275'},
+            'timestamp_ms': '1544559229198'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 945803070491037698 on
+ account IvankaTrump
+INFO: get_archived_tweet() called to get tweet ID 945803070491037698 for account
+ IvankaTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/IvankaTrump/st
+atus/945803070491037698	RT @seanhannity: As we enjoy time with our families this
+ Christmas and New Years, we need to pause and thank and pray for all those who
+ser…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because IvankaTrump is not in the list
+ of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+936043524189048833,
+                       'id_str': '936043524189048833',
+
+                       'user_id': 20776147,
+'user_id_str': '20776147'},
+            'timestamp_ms': '1544559312445'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 936043524189048833 on
+ account seanspicer
+INFO: get_archived_tweet() called to get tweet ID 936043524189048833 for account
+ seanspicer
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/seanspicer/status/936043524189048833
+	RT @seanhannity: Tonight on #Hannity I’m joined by @seanspicer, @PamBondi,
+@MarisaGuthrie, Rebecca Rose Woodland, @dbongino, @parksesq, @Me…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because seanspicer is not in the list
+of accounts we tweet about
+
+
+New tweet from SecAzar: It's a privilege to join #RyanWhite2018 to discuss the
+ progress that everyone involved in the Ryan White program ha…
+https://t.co/jvf8aLpHwk
+
+archiving URL http://twitter.com/SecAzar/status/1072585679111114753
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072585679111114753
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+930179743454060545,
+                       'id_str': '930179743454060545',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559363504'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 930179743454060545 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 930179743454060545 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/930179743454060545
+	RT @seanhannity: .@georgesoros @davidbrockdc - The Big Lie of Media Matters:
+https://t.co/KdcIdE0M4R https://t.co/UY9Ukq5m5s
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+909967339545915392,
+                       'id_str': '909967339545915392',
+
+                       'user_id': 118756393,
+'user_id_str': '118756393'},
+            'timestamp_ms': '1544559370086'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 909967339545915392 on
+ account AmbJohnBolton
+INFO: get_archived_tweet() called to get tweet ID 909967339545915392 for account
+ AmbJohnBolton
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/AmbJohnBolton/
+status/909967339545915392	RT @seanhannity: More with @AmbJohnBolton after the
+break… What can we expect from President Trump’s speech tomorrow at the UN?
+#Hannity
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AmbJohnBolton is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+906827742632665094,
+                       'id_str': '906827742632665094',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1544559388714'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 906827742632665094 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 906827742632665094 for account
+ realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/906827742632665094	RT @seanhannity: @ericbolling To my dear friend,
+please know we all love you, will be here for you and your family.
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+930231115067154432,
+                       'id_str': '930231115067154432',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559414042'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 930231115067154432 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 930231115067154432 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/930231115067154432
+	RT @seanhannity: Hold on to your coffee machines @keurig has recognized it got
+caught up &amp; misled by a bigot. Still giving away coffee mach…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+923546629935894530,
+                       'id_str': '923546629935894530',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1544559490849'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 923546629935894530 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 923546629935894530 for account
+ realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/923546629935894530	RT @seanhannity: BOOM!!  Tick Tock
+https://t.co/8E2Lvj3TTa
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+912857084470939648,
+                       'id_str': '912857084470939648',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559494567'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 912857084470939648 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 912857084470939648 for account
+ Scaramucci
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/912857084470939648
+	RT @seanhannity: Tonight on #Hannity I am joined live at 9pm by @billoreilly
+and @michellemalkin who will react to the NFL controversy and…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+909965195895873537,
+                       'id_str': '909965195895873537',
+
+                       'user_id': 118756393,
+'user_id_str': '118756393'},
+            'timestamp_ms': '1544559503409'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 909965195895873537 on
+ account AmbJohnBolton
+INFO: get_archived_tweet() called to get tweet ID 909965195895873537 for account
+ AmbJohnBolton
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/AmbJohnBolton/
+status/909965195895873537	RT @seanhannity: Up next @AmbJohnBolton reacts to
+President Trump’s first day at the United Nations #Hannity
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AmbJohnBolton is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+922950957918507014,
+                       'id_str': '922950957918507014',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544559531541'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 922950957918507014 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 922950957918507014 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: found a tweet!
+http://web.archive.org/*/http://twitter.com/Scaramucci/status/922950957918507014
+	RT @seanhannity: Fox and Friends’ .@kilmeade joins me on radio now to talk
+NFL’s “kneeling” controversy and new book
+https://t.co/nALWfcQIXJ
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+915372694060830721,
+                       'id_str': '915372694060830721',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1544559551399'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 915372694060830721 on
+ account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 915372694060830721 for account
+ realDonaldTrump
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/915372694060830721	RT @seanhannity: Tonight the truth about how
+despicable the media and the left are in America today. We will name names. 9
+est Hannity Fox…
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+905599417809559552,
+                       'id_str': '905599417809559552',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1544559602723'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 905599417809559552 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 905599417809559552 for account
+ KellyannePolls
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/KellyannePolls
+/status/905599417809559552	RT @seanhannity: Tonight on #Hannity I'm joined by
+@KellyannePolls, @DanaRohrabacher, @SaraCarterDC, @GeraldoRivera, @AriFleischer,
+ @TomiLa…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+903049885087399936,
+                       'id_str': '903049885087399936',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1544559626448'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 903049885087399936 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 903049885087399936 for account
+ KellyannePolls
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/KellyannePolls
+/status/903049885087399936	RT @seanhannity: Tonight on #Hannity I’m joined by
+@KellyannePolls, @SenTedCruz, @DanaRohrabacher, @SebGorka, @TomiLahren,
+@GeraldoRivera a…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+
+
+New tweet from VP: RT @WhiteHouse: Building walls at sections of the border in
+ San Diego, El Paso, Tucson, and Yuma caused illegal traffic to drop by 90% or
+m…
+
+archiving URL http://twitter.com/VP/status/1072591549849092097
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: Democrats have made it clear that they
+would rather keep the U.S. border open to illegal immigrants than keep the
+governmen…
+
+archiving URL http://twitter.com/VP/status/1072591557033889792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1072591549849092097
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1072591557033889792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: This is totally false. We don’t have the papers
+as they’re in the Senate. Rules will meet once we have the papers b…
+https://t.co/DnQKHUllpy
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072592380505796610
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072592380505796610
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @nielslesniewski Yup, lawmaking 101
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072592533765660672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072592533765660672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @kelmej: I stand corrected! Rules delayed for
+no reason other than papers, per @AshLeeStrong. https://t.co/WPk0Qddvrm
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072593728685117440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072593728685117440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: The American people will never forget the service and
+sacrifice of these courageous Marines. Our condolences are wi…
+https://t.co/DegjKRbWIX
+
+archiving URL http://twitter.com/VP/status/1072594227962494978
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1072594227962494978
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @kelmej Thanks for deleting and fixing quickly. I
+ wish there wasn't an urge for folks to immediately jump to "DRAMA" though.
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072594774203527168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072594774203527168
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @VP: The American people will never forget the
+service and sacrifice of these courageous Marines. Our condolences are with
+their familie…
+
+archiving URL http://twitter.com/SecondLady/status/1072595561881235462
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1072595561881235462
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @kelmej Seems easier to research and get correct
+on the front end. Or, at least better for your followers and reade…
+https://t.co/BoTgtIELe3
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072595604726009856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072595604726009856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great to meet faith leaders &amp; religious freedom
+advocates @WhiteHouse before @POTUS signed the Iraq &amp; Syria Genocid…
+https://t.co/yTPudfMC9q
+
+archiving URL http://twitter.com/VP/status/1072597721503158275
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1072597721503158275
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: We believe housing scarcity will continue to drive
+prices higher even if there is an economic slowdown - and are po…
+https://t.co/BwADnhU7wJ
+
+archiving URL http://twitter.com/Scaramucci/status/1072598059178254338
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072598059178254338
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: As I told #RyanWhite2018, we're committed to removing
+barriers to treatment, battling stigma &amp; improving the care o…
+https://t.co/N1pFpZeqI8
+
+archiving URL http://twitter.com/SecAzar/status/1072603540030398464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072603540030398464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Stigma can be a debilitating barrier, preventing
+someone living with HIV from receiving the healthcare, services, a…
+https://t.co/KeHd1XIaoE
+
+archiving URL http://twitter.com/SecAzar/status/1072604341939437569
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072604341939437569
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Stigma can be an even greater challenge when it
+intersects with the historic marginalization of particular populati…
+https://t.co/mH3zf0UI3R
+
+archiving URL http://twitter.com/SecAzar/status/1072604811751772166
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072604811751772166
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Today, I announced that @NIAIDNews will soon make new
+funding available for research collaborations across the sout…
+https://t.co/2oKRSxJ2pK
+
+archiving URL http://twitter.com/SecAzar/status/1072605334420774912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072605334420774912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: Appreciated the time with tribal leaders today.
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072605578713841665
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072605578713841665
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: With the tools available today, we should feel that
+each new HIV infection is a public health failure. We have the…
+https://t.co/1kSySjuUHn
+
+archiving URL http://twitter.com/SecAzar/status/1072606318433845250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072606318433845250
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryZinke: The Interior employee holiday decorating
+competition is in full swing. Great Hanukkah decorations in the IT office…
+https://t.co/ZnvfMLruYh
+
+archiving URL http://twitter.com/SecretaryZinke/status/1072606797465300992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryZinke/status/1072606797465300992
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Touring volcano damage in Hawaii this morning
+w/@hdoapio Chairperson Scott Enright, who brought several ag producer…
+https://t.co/GoIBxpogod
+
+archiving URL http://twitter.com/SecretarySonny/status/1072608876917350401
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1072608876917350401
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: #WOTUS rule has prevented farmers from being
+productive on their own land. Great news from @EPA &amp; @USACEHQ, acting…
+https://t.co/CDQy6E9r2H
+
+archiving URL http://twitter.com/SecretarySonny/status/1072611571594129409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1072611571594129409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Sat down for a discussion with ag producers
+from Hawaii. There are so many diversified commodities grown on the isl…
+https://t.co/rnXKDHB5bN
+
+archiving URL http://twitter.com/SecretarySonny/status/1072612948621832194
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1072612948621832194
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Thanks to Leader McConnell for agreeing to
+bring a Senate vote on Criminal Justice this week! These historic change…
+https://t.co/pXXdsXxGWq
+
+archiving URL http://twitter.com/realDonaldTrump/status/1072614269773119489
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1072614269773119489
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Thanks to Leader McConnell for
+agreeing to bring a Senate vote on Criminal Justice this week! These historic
+changes w…
+
+archiving URL http://twitter.com/POTUS/status/1072614470034313216
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072614470034313216
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Pleased to see the Senate pass #FarmBill by an
+87-13 vote. Need the House to now follow suit. Strengthens the farm…
+https://t.co/iuETk9YeWM
+
+archiving URL http://twitter.com/SecretarySonny/status/1072615069140348929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1072615069140348929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: Thanks to Leader McConnell
+ for agreeing to bring a Senate vote on Criminal Justice this week! These
+historic changes w…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072617305559965697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072617305559965697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Wait, I thought bipartisanship was ☠️?
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072617590202220555
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072617590202220555
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @zhunterDC: Did you know that more than 90% of
+ House-passed @HouseCommerce bills were bipartisan? https://t.co/VCy4Irzwu4
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072618050535477248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072618050535477248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Met a real hot shot in the House Marine Liaison
+Office tonight. Chesty, the official @USMC mascot. https://t.co/OJSu5sfJkg
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072619229847973889
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072619229847973889
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: At #RyanWhite2018, I announced co-chairs selected for
+the President's Advisory Council on HIV/AIDS: Carl Schmid, de…
+https://t.co/p3dn1MADCl
+
+archiving URL http://twitter.com/SecAzar/status/1072619798142558208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072619798142558208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from RealBenCarson: RT @carsonscholars: Attention, Educators: the
+deadline for scholar recommendations is one month from today, Friday, January
+11, 2019. Submi…
+
+archiving URL http://twitter.com/RealBenCarson/status/1072621423578046465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/RealBenCarson/status/1072621423578046465
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Thank you to our @CBP officers, @ICEgov agents, and
+ military for working tirelessly to protect our border and keep…
+https://t.co/ZyTxxBuq4V
+
+archiving URL http://twitter.com/WhiteHouse/status/1072624416129998854
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072624416129998854
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: @SenJohnThune Lynn! Miss working with
+@bijouhills!
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072624729918464006
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072624729918464006
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+740533702254563329,
+                       'id_str': '740533702254563329',
+
+                       'user_id': 24578794,
+'user_id_str': '24578794'},
+            'timestamp_ms': '1544568675379'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 740533702254563329 on
+ account Scaramucci
+INFO: get_archived_tweet() called to get tweet ID 740533702254563329 for account
+ Scaramucci
+ERROR: unable to read line "['=======']" because: need more than 1 value to
+unpack.
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because Scaramucci is not in the list
+of accounts we tweet about
+
+
+New tweet from Scaramucci: Keep harassing my wife and you will have a huge
+problem on your hands. One that the Canadian Mounties won’t be able…
+https://t.co/SXMMKwYQWa
+
+archiving URL http://twitter.com/Scaramucci/status/1072626926622261248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1072626926622261248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Enjoyed spending time with children &amp; the @USMC at
+their annual @ToysForTots_USA drive.  Thank you to everyone who…
+https://t.co/LnTPegt7mD
+
+archiving URL http://twitter.com/FLOTUS/status/1072628946510991360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1072628946510991360
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @FLOTUS: Enjoyed spending time with children &amp;
+the @USMC at their annual @ToysForTots_USA drive.  Thank you to everyone who
+came out to…
+
+archiving URL http://twitter.com/POTUS/status/1072631501001539586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072631501001539586
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: It's not complicated: Illegal traffic has dropped
+drastically in places where the border wall has been built. Let's…
+https://t.co/l7VWTEmEOI
+
+archiving URL http://twitter.com/WhiteHouse/status/1072631705599700992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072631705599700992
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Thank you to our @CBP officers, @ICEgov
+agents, and military for working tirelessly to protect our border and keep
+American…
+
+archiving URL http://twitter.com/POTUS/status/1072632446640906240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072632446640906240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: It's not complicated: Illegal traffic
+has dropped drastically in places where the border wall has been built. Let's
+finish…
+
+archiving URL http://twitter.com/POTUS/status/1072632454522003456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072632454522003456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from stevenmnuchin1: Today I met with Irish Finance Minister
+@Paschald to discuss continued strong economic relations, international tax…
+https://t.co/ib1e9GPyzl
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1072633175942316032
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1072633175942316032
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAAWheeler: Our redefinition of the Waters of the US proposal
+would replace the Obama 2015 definition w/ one that respects the…
+https://t.co/bhmdHuEai4
+
+archiving URL http://twitter.com/EPAAWheeler/status/1072634466814828546
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAAWheeler/status/1072634466814828546
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: Always great to hang out with my friend and fellow
+South Carolinian, @craigmelvin. So proud of his success! #SCPride
+https://t.co/5lcCImAY7T
+
+archiving URL http://twitter.com/nikkihaley/status/1072641606489137158
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1072641606489137158
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: The Senate has now confirmed 30 Circuit Court
+nominees by President @realDonaldTrump – a record for any President a…
+https://t.co/Gfi657r4EX
+
+archiving URL http://twitter.com/PressSec/status/1072659287170785281
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1072659287170785281
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: “The wall will get built,” President
+@realDonaldTrump said today. “A lot of the wall is built. It’s been very effec…
+https://t.co/2jSKrw8DOY
+
+archiving URL http://twitter.com/WhiteHouse/status/1072666347245629440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072666347245629440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: The White House Pastry Chef and staff create
+stunning desserts all year long. But at Christmas, visitors can catch…
+https://t.co/gAMv5VOZe7
+
+archiving URL http://twitter.com/WhiteHouse/status/1072673649335914497
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1072673649335914497
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @PressSec: The Senate has now confirmed 30
+Circuit Court nominees by President @realDonaldTrump – a record for any
+President at this poi…
+
+archiving URL http://twitter.com/KellyannePolls/status/1072674605184311298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1072674605184311298
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: The Senate has now confirmed 30
+Circuit Court nominees by President @realDonaldTrump – a record for any
+President at this poi…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072675463796064257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072675463796064257
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: We are close to a historic bipartisan achievement to
+reform our broken criminal justice system. President… https://t.co/XsrhxKi3ID
+
+archiving URL http://twitter.com/PressSec/status/1072676715644764160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1072676715644764160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: RT @FLOTUS: Enjoyed spending time with children
+&amp; the @USMC at their annual @ToysForTots_USA drive.  Thank you to everyone
+who came out to…
+
+archiving URL http://twitter.com/SecondLady/status/1072686640995467264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1072686640995467264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @PressSec: We are close to a historic
+bipartisan achievement to reform our broken criminal justice system. President
+@realDonaldTrump’s…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1072689733506134017
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1072689733506134017
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Listening to a podcast on the greater sage-
+grouse. Hi, I’m AshLee.
+
+archiving URL http://twitter.com/AshLeeStrong/status/1072692247387430912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1072692247387430912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: @blanchardCanada @UN @VRugwabiza @SachaLlorenti
+@ArgentinaUN @PeruEnLaONU @ZambiaUN @KenyaMissionUN @UNECOSOC Thank…
+https://t.co/mEhpdQL70g
+
+archiving URL http://twitter.com/nikkihaley/status/1072714082141257728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1072714082141257728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: The unemployment rate for African-Americans
+matched a record low set earlier this year under @POTUS. https://t.co/iTi14Juacf
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1072823673365630976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1072823673365630976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Another very bad terror attack in France. We
+are going to strengthen our borders even more. Chuck and Nancy must gi…
+https://t.co/r46LwzwNBr
+
+archiving URL http://twitter.com/realDonaldTrump/status/1072832023927185408
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1072832023927185408
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The Democrats and President Obama gave Iran
+150 Billion Dollars and got nothing, but they can’t give 5 Billion Doll…
+https://t.co/w4ghsGs4XN
+
+archiving URL http://twitter.com/realDonaldTrump/status/1072836035514634240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1072836035514634240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Another very bad terror attack in
+France. We are going to strengthen our borders even more. Chuck and Nancy must
+give…
+
+archiving URL http://twitter.com/POTUS/status/1072836814375931904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: The Democrats and President Obama
+gave Iran 150 Billion Dollars and got nothing, but they can’t give 5 Billion
+Dollars…
+
+archiving URL http://twitter.com/POTUS/status/1072836824941387776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072836814375931904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1072836824941387776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from nikkihaley: @bethbernsteinsc @craigmelvin @TODAYshow Thanks so
+much Beth! ❤️
+
+archiving URL http://twitter.com/nikkihaley/status/1072839586009763840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/nikkihaley/status/1072839586009763840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Working hard to get this important legislation
+#WEEEAct advancing women’s economic empowerment passed in THIS Congr…
+https://t.co/OVFcAP1Gcb
+
+archiving URL http://twitter.com/IvankaTrump/status/1072839637490638848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1072839637490638848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from FLOTUS: Looking forward to spending some time with our brave
+men and women in uniform today!  I’ll be visiting two military…
+https://t.co/1qF4err7xv
+
+archiving URL http://twitter.com/FLOTUS/status/1072839668650205185
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/FLOTUS/status/1072839668650205185
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: About to join @mikeallen to discuss the work the Trump
+ administration has done this year to transform America's hea…
+https://t.co/C5W2e15JFz
+
+archiving URL http://twitter.com/SecAzar/status/1072840303957155840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1072840303957155840
+    ... archiving using prefix http://web.archive.org/save/
