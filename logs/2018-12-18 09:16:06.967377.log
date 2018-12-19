@@ -1,0 +1,1231 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Tuesday, 18 December 2018 at 09:16
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1067625010045562881 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecElaineChao
+(Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTT
+PSConnection object at 0xb6602f8c>: Failed to establish a new connection: [Errno
+ -2] Name or service not known',))
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1075058272279896064 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619535 (char 619534)
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1074997945483829250 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1075018037613473793 for account @PressSec
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1073727516978884608 for account @Reince
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1073741311537278977 for account
+@KellyannePolls
+about to get all tweets newer than ID #1072621423578046465 for account
+@RealBenCarson
+about to get all tweets newer than ID #1074818026292293633 for account
+@WhiteHouse
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1074742794684637184 for account
+@StephGrisham45
+getting all tweets before ID #1025116465761071104
+    ...399 tweets downloaded so far
+
+
+New tweet from StephGrisham45: Merry Christmas from the @WhiteHouse 🎄🇺🇸
+https://t.co/ZiFpxbNWDa
+
+archiving URL http://twitter.com/StephGrisham45/status/1075048273931583490
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+
+archiving URL https://twitter.com/StephGrisham45/status/1075048273931583490
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1074014810830974977 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1075035124813754368 for account
+@seanspicer
+about to get all tweets newer than ID #1072633175942316032 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1075047306557317124 for account @POTUS
+about to get all tweets newer than ID #1073716890802053120 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1075019741511716869 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1075042579819974656 for account @VP
+about to get all tweets newer than ID #1070732183088832513 for account
+@GovernorPerry
+about to get all tweets newer than ID #1068746623520509952 for account @Cabinet
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1074328944881614850 for account
+@SecNielsen
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1069254970472628226 for account @PRyan
+about to get all tweets newer than ID #1070085091806859264 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1075043625585790977 for account
+@SecretarySonny
+about to get all tweets newer than ID #1075035036347482113 for account @SecAzar
+getting all tweets before ID #1056953807727456255
+    ...400 tweets downloaded so far
+
+
+New tweet from SecAzar: In the data sets we use, we've never seen the use of
+any substance by America’s young people rise as rapidly as e-c…
+https://t.co/083fBe6NyD
+
+archiving URL http://twitter.com/SecAzar/status/1075061018303311872
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1074790169390276609 for account
+@SecretaryPerry
+
+archiving URL https://twitter.com/SecAzar/status/1075061018303311872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Combustible cigarettes remain the leading cause of
+preventable death in the US. E-cigs may provide adults an off-ra…
+https://t.co/D9vAWNpWmc
+
+archiving URL http://twitter.com/SecAzar/status/1075061442351648768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1075047208704196613 for account @FLOTUS
+
+archiving URL https://twitter.com/SecAzar/status/1075061442351648768
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1074354274010832896 for account @Comey
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1075006140826689536 for account
+@statedeptspox
+getting all tweets before ID #1055626864482574337
+    ...400 tweets downloaded so far
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: In #Sarajevo, Deputy
+Secretary Sullivan urged #BiH presidency members to accelerate political,
+judicial and economic r…
+
+archiving URL http://twitter.com/statedeptspox/status/1075021691481415680
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1074776282611752962 for account
+@nikkihaley
+
+archiving URL https://twitter.com/statedeptspox/status/1075021691481415680
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1074412651457994752 for account
+@JessicaDitto45
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1074780431977979904 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1073742584193974277 for account @SBALinda
+about to get all tweets newer than ID #1073653078316994560 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1074143671266799617 for account
+@Scavino45
+about to get all tweets newer than ID #1075013713017606146 for account
+@Scaramucci
+about to get all tweets newer than ID #1074029738622996480 for account
+@DepSecHargan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1075021002441220096 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1075049808358969344 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1075022714849632256 for account
+@IvankaTrump
+about to get all tweets newer than ID #1075052269048160257 for account
+@SecondLady
+about to get all tweets newer than ID #-1 for account @jaredkushner
+... OK, we're set up, and about to watch 22203756, 826065858548133888,
+803703725730779136, 296060169, 831482588246196225, 819980276570976256,
+818927131883356161, 105267762, 20733972, 1923451808, 471672239, 1180379185,
+822215673812119553, 809836066316451840, 823638938590085124, 65522706,
+866746592853979137, 827258161841135623, 20776147, 799764016885329921,
+822215679726100480, 118756393, 18916432, 818910970567344128, 18906561,
+818928162449068032, 6577802, 935148134505828353, 599530439, 733751245,
+894923298374651904, 842072478834909184, 956283913835614208, 830128820447539208,
+818876014390603776, 2334193741, 728361177986797568, 1967216306,
+832672006113931269, 37666984, 888031054141022209, 836724024688410625,
+829782369670410240, 620571475, 108471631, 828613457020870657,
+798195585824104449, 819992522109894658, 828997388920619008, 823367015830323201,
+24578794, 920035992073064450, 15985455, 212262370, 25073877, 836305915452272641,
+ 52544275, 822127086194348032, 29547260
+
+
+New tweet from VP: Today, @POTUS Trump will direct the @DeptofDefense to
+establish a Combatant Command that will oversee all of our mi…
+https://t.co/O4djUsmvhw
+
+archiving URL http://twitter.com/VP/status/1075065384921849856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075065384921849856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryRoss: RT @SecretaryRoss: Housing permits grew 5.0% and
+ housing starts grew 3.2%, defying expectations and signaling continued growth
+for the @Rea…
+
+archiving URL http://twitter.com/SecretaryRoss/status/1075065872417468416
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1075065872417468416,
+                       'id_str': '1075065872417468416',
+
+                       'user_id': 836305915452272641,
+'user_id_str': '836305915452272641'},
+            'timestamp_ms':
+'1545150655634'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1075065872417468416
+on account SecretaryRoss
+INFO: get_archived_tweet() called to get tweet ID 1075065872417468416 for
+account SecretaryRoss
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because SecretaryRoss is not in the
+list of accounts we tweet about
+
+archiving URL https://twitter.com/SecretaryRoss/status/1075065872417468416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecondLady: We wish you a very Merry Christmas! The @VP and I
+took our official 2018 Christmas portrait on Saturday, December 8…
+https://t.co/mxR71H2s9X
+
+archiving URL http://twitter.com/SecondLady/status/1075066179453181952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1075066179453181952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @FLOTUS: Merry Christmas from President
+Donald J. Trump and First Lady Melania Trump. @POTUS &amp; @FLOTUS are seen
+Saturday, December 15, i…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075067308522000385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075067308522000385
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @FLOTUS: Merry Christmas from President Donald J.
+ Trump and First Lady Melania Trump. @POTUS &amp; @FLOTUS are seen Saturday,
+December 15, i…
+
+archiving URL http://twitter.com/Scavino45/status/1075067360099348480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1075067360099348480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Thrilled to have such a strong working
+relationship with @EPA and the @ArmyCorpsNAD — especially in regulatory refo…
+https://t.co/IRNEzxWYnm
+
+archiving URL http://twitter.com/SecretarySonny/status/1075069065121677313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1075069065121677313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretarySonny: Farmers &amp; ranchers are exceptional stewards
+ of the environment &amp; want clean water &amp; clear rules.They don’t mind
+adh… https://t.co/dY1WYAHXMl
+
+archiving URL http://twitter.com/SecretarySonny/status/1075071047853109250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretarySonny/status/1075071047853109250
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from VP: RT @SecondLady: We wish you a very Merry Christmas! The @VP
+ and I took our official 2018 Christmas portrait on Saturday, December 8, at
+the…
+
+archiving URL http://twitter.com/VP/status/1075074962069823488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075074962069823488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: Today, @POTUS Trump will direct the
+@DeptofDefense to establish a Combatant Command that will oversee all of our
+military activitie…
+
+archiving URL http://twitter.com/WhiteHouse/status/1075078492029636608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075078492029636608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @VP: Today, @POTUS Trump will direct the
+@DeptofDefense to establish a Combatant Command that will oversee all of our
+military activitie…
+
+archiving URL http://twitter.com/KellyannePolls/status/1075081784147226624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1075081784147226624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President @realDonaldTrump took a crucial step
+toward creation of the Space Force yesterday by directing the…
+https://t.co/9eDMmFb2fR
+
+archiving URL http://twitter.com/WhiteHouse/status/1075082019795808256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075082019795808256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: President @realDonaldTrump took a
+crucial step toward creation of the Space Force yesterday by directing the
+@DeptofDefense…
+
+archiving URL http://twitter.com/POTUS/status/1075082141665517568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075082141665517568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: President @realDonaldTrump took a crucial
+step toward creation of the Space Force yesterday by directing the
+@DeptofDefense…
+
+archiving URL http://twitter.com/VP/status/1075082273073127424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075082273073127424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: It was great to meet Sarah at our event to discuss the
+ concerning rise in youth e-cigarette use. As a high school s…
+https://t.co/fjuAqzCpDd
+
+archiving URL http://twitter.com/SecAzar/status/1075085020212158464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1075085020212158464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Dropping later today the next ⁦@moochandthemrs⁩
+podcast but in the meantime . . . https://t.co/DfyWGAHPnE
+
+archiving URL http://twitter.com/Scaramucci/status/1075090530458066945
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1075090530458066945
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: As part of our collective responsibility to help
+those struggling with addiction, the White House has erected the R…
+https://t.co/TkUbGiJEBM
+
+archiving URL http://twitter.com/WhiteHouse/status/1075092838264815618
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075092838264815618
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: As part of our collective responsibility
+ to help those struggling with addiction, the White House has erected the
+Recovery…
+
+archiving URL http://twitter.com/POTUS/status/1075093209179717638
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075093209179717638
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: Big announcement from the Nation's Doctor
+@Surgeon_General, read below to learn more ⬇⬇⬇.
+
+archiving URL http://twitter.com/DepSecHargan/status/1075096048824127488
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1075096048824127488
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Great to be with airmen of the @45thSpaceWing earlier
+today! These men &amp; women have made America the dominant power…
+https://t.co/8kbVqVqbpF
+
+archiving URL http://twitter.com/VP/status/1075099241729658881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075099241729658881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from mike_pence: Congratulations to @MarthaMcSally on being
+appointed to replace Sen. Jon Kyl in the US Senate! Martha served our Na…
+https://t.co/n2IVy8JSsU
+
+archiving URL http://twitter.com/mike_pence/status/1075100185301344257
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/mike_pence/status/1075100185301344257
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: The U.S. and #Mexico are
+announcing our intent to take a holistic &amp; coordinated approach to stem
+illegal migration. To…
+
+archiving URL http://twitter.com/statedeptspox/status/1075107086248353792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: The U.S. is committing to
+increase the project pipeline for @opicgov if commercially viable projects are
+identified in…
+
+archiving URL http://twitter.com/statedeptspox/status/1075107099439452160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075107086248353792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: In Jan. 2019, we are
+forming a joint task force and will hold a cabinet-level meeting to align our
+strategies. We will…
+
+archiving URL http://twitter.com/statedeptspox/status/1075107109824589828
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: See the U.S. Strategy for
+Central America and Southern Mexico (https://t.co/xJqYCQ4QIq) and the
+U.S.-Mexico Declaratio…
+
+archiving URL http://twitter.com/statedeptspox/status/1075107129093165056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075107109824589828
+
+archiving URL https://twitter.com/statedeptspox/status/1075107099439452160
+    ... archiving using prefix http://web.archive.org/save/
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075107129093165056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Incredible opportunity to see @SpaceX's Dragon 2 Capsule -
+an important part of the future of American human space… https://t.co/3fdnfBSYgl
+
+archiving URL http://twitter.com/VP/status/1075108943125458944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075108943125458944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Bon Voyage Vespucci! When this satellite reaches space,
+it’s going to make a difference for the security and prospe…
+https://t.co/FOnDv54T1u
+
+archiving URL http://twitter.com/VP/status/1075109530177077251
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075109530177077251
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SBALinda: Thanks to the @SBAgov team for joining today’s
+holiday party — the #uglysweaters capture the festive spirit of the…
+https://t.co/t5sR8ZPXbQ
+
+archiving URL http://twitter.com/SBALinda/status/1075113822292242432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Today, I visited @NYCHA’s Queensbridge Housing
+ Complex so I could see the current state of the troubled housing aut…
+https://t.co/wTqOlN0Nfa
+
+archiving URL http://twitter.com/SecretaryCarson/status/1075115164893089793
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1075115164893089793
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: Had a productive meeting w/ @BilldeBlasio,
+@RepGregoryMeeks, @NydiaVelazquez, &amp; @RepMaloney about how we can bring…
+https://t.co/gskkh3dVtq
+
+archiving URL http://twitter.com/SecretaryCarson/status/1075115382074150913
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1075115382074150913
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @NASA: From launching the first Americans into space to
+launching future deep space missions to the Moon and Mars, @NASAKennedy is
+Ameri…
+
+archiving URL http://twitter.com/VP/status/1075117572352327680
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075117572352327680
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecAzar: Today, I joined @POTUS and fellow cabinet members for
+a roundtable with family members of victims and state and loc…
+https://t.co/adDuzlzn19
+
+archiving URL http://twitter.com/SecAzar/status/1075125390774099969
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecAzar/status/1075125390774099969
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: .@RosLehtinen has been a tireless advocate for the
+ people of Nicaragua. Pleased to see her legislation putting pres…
+https://t.co/4tpTAmAJUO
+
+archiving URL http://twitter.com/SpeakerRyan/status/1075141039525163008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1075141039525163008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Following the tragic shooting in Parkland, Florida,
+ President Trump established the School Safety Commission to mak…
+https://t.co/iRrZT2nZN8
+
+archiving URL http://twitter.com/WhiteHouse/status/1075154247476498432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075154247476498432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Following the tragic shooting in
+Parkland, Florida, President Trump established the School Safety Commission to
+make recomm…
+
+archiving URL http://twitter.com/POTUS/status/1075154337758961665
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075154337758961665
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “President Donald J. Trump’s Commission on
+School Safety examined ways to make our schools safe for all students an…
+https://t.co/gUSCApdNFJ
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075159426968027136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075159426968027136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: “President Donald J. Trump’s
+Commission on School Safety examined ways to make our schools safe for all
+students and t…
+
+archiving URL http://twitter.com/POTUS/status/1075159728999858178
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075159728999858178
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: “President Donald J. Trump’s
+Commission on School Safety examined ways to make our schools safe for all
+students and t…
+
+archiving URL http://twitter.com/VP/status/1075171050139328512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075171050139328512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @VP: Incredible opportunity to see @SpaceX's
+Dragon 2 Capsule - an important part of the future of American human space
+exploration as w…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075176925642018817
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075176925642018817
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @WHOSTP: So fun hosting the @WizardsExe FIRST
+Tech Challenge Team @FTCTeams from Rockville, MD today with @WhiteHouse tech
+policy leader…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075176974191091713
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075176974191091713
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Congratulations to @MarthaMcSally on her
+appointment by Governor @DougDucey as the Great new Senator from Arizona -…
+https://t.co/VK2KXsvbDO
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075193782885326849
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075193782885326849
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: The Democrats, are saying loud and clear that
+they do not want to build a Concrete Wall - but we are not building a…
+https://t.co/PxFF7iNrH3
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075197395892404231
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....It will be beautiful and, at the same
+time, give our Country the security that our citizens deserve. It will go…
+https://t.co/nUJFJdHp5l
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075197397217828864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075197395892404231
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075197397217828864
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from AshLeeStrong: RT @aleelockman: I just finished my first
+semester as a PhD student. This isn’t a #humblebrag, I promise. It’s just as a
+farm girl growing…
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075198616292220928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075198616292220928
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1075198616292220928,
+                       'id_str': '1075198616292220928',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1545182310255'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1075198616292220928
+on account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 1075198616292220928 for
+account AshLeeStrong
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/AshLeeStrong/s
+tatus/1075198616292220928	RT @aleelockman: I just finished my first semester as
+a PhD student. This isn’t a #humblebrag, I promise. It’s just as a farm girl
+growing…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+
+
+New tweet from IvankaTrump: The Senate is on the verge of passing the biggest
+overhaul to the criminal justice system in decades...
+
+Votes bein…
+https://t.co/DJe3U2QQl5
+
+archiving URL http://twitter.com/IvankaTrump/status/1075202903990853633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075202903990853633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @KimStrassel: It is unclear if @Comey wants
+to be seen as partisan, incompetent or untruthful. Because it's one of the above
+ https://t.c…
+
+archiving URL http://twitter.com/KellyannePolls/status/1075204239872409602
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @charliekirk11: What happened to the
+Democrats?
+
+In 2013 they voted to:
+
+Expand border fencing
+
+End the diversity
+visa lottery
+
+Increase…
+
+archiving URL http://twitter.com/KellyannePolls/status/1075204429404663809
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1075204429404663809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: Today, @SecPompeo spoke on
+the phone with newly-elected head of the Orthodox Church of #Ukraine
+Metropolitan Epifaniy…
+
+archiving URL http://twitter.com/statedeptspox/status/1075207300737052672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075207300737052672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: The U.S. continues to
+monitor the situation at the Sharara oil field and supports the call for
+immediate and unconditi…
+
+archiving URL http://twitter.com/statedeptspox/status/1075207314519588864
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075207314519588864
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: We call on all parties to
+resolve issues through constructive dialogue and peaceful means in the spirit of
+ compromise,…
+
+archiving URL http://twitter.com/statedeptspox/status/1075207338125115394
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075207338125115394
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: Today, @SecPompeo met with
+Foreign Minister Pradeep Gyawali of #Nepal, the two leaders discussed Nepal’s
+central role…
+
+archiving URL http://twitter.com/statedeptspox/status/1075207361923571712
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075207361923571712
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Lots and lots and lots of ⬇️
+#CriminalJusticeReform 
+#FirstStepAct 
+⁦ https://t.co/SKoVfxpiR5
+
+archiving URL http://twitter.com/IvankaTrump/status/1075207778417946624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075207778417946624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: From border security and school safety to
+reinvigorating America’s space program, here’s an inside look at 6 big pr…
+https://t.co/V2Q8e0O41Y
+
+archiving URL http://twitter.com/WhiteHouse/status/1075208096857894912
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075208096857894912
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: .@ericbolling has channeled tragedy and loss
+into education and awareness for the benefit of others. 
+
+Enjoyed welc…
+https://t.co/EuhayNA0ha
+
+archiving URL http://twitter.com/KellyannePolls/status/1075208874045644800
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1075208874045644800
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @KTVU: WASHINGTON (AP) -- Senate overwhelmingly
+ passes criminal justice reform bill, delivering bipartisan win to President
+Trump. https…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075209251243601920
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075209251243601920
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: America is the greatest Country in the world
+and my job is to fight for ALL citizens, even those who have made mist…
+https://t.co/iTAXAqBuFN
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075210867678109697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....This will keep our communities safer, and
+provide hope and a second chance, to those who earn it. In addition t…
+https://t.co/on8HSMEUO9
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075210869007622144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075210869007622144
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075210867678109697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @realDonaldTrump: America is the greatest
+Country in the world and my job is to fight for ALL citizens, even those who
+have made mistake…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075212949260767232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075212949260767232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @realDonaldTrump: ....This will keep our
+communities safer, and provide hope and a second chance, to those who earn it.
+In addition to e…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075212960191131649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075212960191131649
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @CoryBooker: A BIPARTISAN CRIMINAL JUSTICE
+REFORM BILL JUST PASSED THE SENATE! 
+
+This was years in the making. Thousands
+will obtain gre…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075213776323076096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075213776323076096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: America is the greatest Country in
+the world and my job is to fight for ALL citizens, even those who have made
+mistake…
+
+archiving URL http://twitter.com/POTUS/status/1075213888680013824
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: ....This will keep our communities
+safer, and provide hope and a second chance, to those who earn it. In addition
+to e…
+
+archiving URL http://twitter.com/POTUS/status/1075213894065496065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075213888680013824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075213894065496065
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: Thank you Senator @ChuckGrassley
+
+archiving URL http://twitter.com/IvankaTrump/status/1075213920191819779
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075213920191819779
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: ❤️
+
+archiving URL http://twitter.com/IvankaTrump/status/1075214634985185285
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SpeakerRyan: Criminal justice reform is about giving more
+Americans a chance at redemption. The House looks forward to sending i…
+https://t.co/ST5blujnZY
+
+archiving URL http://twitter.com/SpeakerRyan/status/1075215466514276353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SpeakerRyan/status/1075215466514276353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @RepLaMalfa: Thank you, @SpeakerRyan, for your
+ leadership in crafting, passing, and enacting once in a generation #TaxReform
+that has se…
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075219971586834432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075219971586834432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: Congratulations to US Senate for passing @POTUS‘ Criminal
+Justice Reform with an overwhelming Bipartisan vote tonig…
+https://t.co/VxCbTfmJMF
+
+archiving URL http://twitter.com/VP/status/1075222382028173312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1075222382028173312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: RT @WaysandMeansGOP: Thanks to @SpeakerRyan's
+steadfast leadership, we were able to re-write American's outdated tax code for
+the first tim…
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075223096104230913
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075223096104230913
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @VP: Congratulations to US Senate for passing
+@POTUS‘ Criminal Justice Reform with an overwhelming Bipartisan vote tonight!
+The First St…
+
+archiving URL http://twitter.com/IvankaTrump/status/1075223703200391168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1075223703200391168
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: These Obama guys 🙄
+
+USA Today, 2013: “aides
+working for the Obama administration use its own sophisticated websites…
+https://t.co/MCiXtKOAP6
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075227341637517313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075227341637517313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: The House passed prison reform in May and will
+quickly act on this revised version. Paul Ryan has worked for CJR fo…
+https://t.co/GKloUPRnPP
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075229998750011392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075229998750011392
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: America is the greatest
+Country in the world and my job is to fight for ALL citizens, even those who
+have made mistake…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1075232024934432768
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1075232024934432768
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @realDonaldTrump: ....This will keep our
+communities safer, and provide hope and a second chance, to those who earn it.
+In addition to e…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1075232040264630272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1075232040264630272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: America is the greatest Country
+in the world and my job is to fight for ALL citizens, even those who have made
+mistake…
+
+archiving URL http://twitter.com/PressSec/status/1075232494293790720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1075232494293790720
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @FLOTUS: Merry Christmas from President Donald
+J. Trump and First Lady Melania Trump. @POTUS &amp; @FLOTUS are seen Saturday,
+December 15, i…
+
+archiving URL http://twitter.com/seanspicer/status/1075322411522899970
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1075322411522899970
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @BrianKarem: The Mooch talks about what’s wrong
+in politics, COS, and if and when he’d advise POTUS to pack it in. @Scaramucci
+@realDon…
+
+archiving URL http://twitter.com/Scaramucci/status/1075338871980912640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1075338871980912640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Another historic win for President @realDonaldTrump.
+It’s been a productive two years. Imagine how much more we can…
+https://t.co/Ix6QkILflT
+
+archiving URL http://twitter.com/PressSec/status/1075353131939184641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1075353131939184641
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: 32,000 new healthcare jobs were created last
+month in the @POTUS economy. https://t.co/tgL5L7sztX
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1075360364223758336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1075360364223758336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: NEW EPISODE of Everything’s Going To Be All Right
+with @katiepavlich is out now! #holidays #shutdown #immigration…
+https://t.co/k0qEK6JwXk
+
+archiving URL http://twitter.com/seanspicer/status/1075364291111518208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1075364291111518208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: In our Country, so much money has been poured
+down the drain, for so many years, but the Democrats fight us like ca…
+https://t.co/bzlDF9rbR9
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075367340139798529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075367340139798529
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1075367340139798529,
+                       'id_str': '1075367340139798529',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1545222622061'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1075367340139798529
+on account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 1075367340139798529 for
+account realDonaldTrump
+ERROR: unable to read line "['7"']" because: need more than 1 value to unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/1075367340139798529	In our Country, so much money has been poured down
+the drain, for so many years, but the Democrats fight us like ca…
+https://t.co/bzlDF9rbR9
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from realDonaldTrump: In our Country, so much money has been poured
+down the drain, for so many years, but when it comes to Border Securi…
+https://t.co/Wx1XXgyya0
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075368918204719105
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1075368918204719105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: Friday, I had a productive meeting at the White
+House with Alt. Foreign Minister Giorgos Katrougalos of Greece wher…
+https://t.co/BHlQNAkDeG
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1075383985289748480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: AP: “Under Ryan, Congress approved the biggest
+tax cuts in decades, boosted defense spending and rolled back regula…
+https://t.co/5ZY07y1i9F
+
+archiving URL http://twitter.com/AshLeeStrong/status/1075384356821176320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1075384356821176320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: RT @WhiteHouse: From border security and school
+safety to reinvigorating America’s space program, here’s an inside look at 6 big
+ priorities…
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1075385128363405312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1075385128363405312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: RT @realDonaldTrump: “President Donald J. Trump’s
+ Commission on School Safety examined ways to make our schools safe for all
+students and t…
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1075385343736758274
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1075385343736758274
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Mexico is paying (indirectly) for the Wall
+through the new USMCA, the replacement for NAFTA! Far more money coming…
+https://t.co/IfjE8c6rzb
+
+archiving URL http://twitter.com/realDonaldTrump/status/1075386058282545152
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Mexico is paying (indirectly) for
+the Wall through the new USMCA, the replacement for NAFTA! Far more money coming
+ to…
+
+archiving URL http://twitter.com/POTUS/status/1075386281205620737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1075386281205620737
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Mexico is paying (indirectly)
+for the Wall through the new USMCA, the replacement for NAFTA! Far more money
+coming to…
+
+archiving URL http://twitter.com/WhiteHouse/status/1075387940967202818
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1075387940967202818
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: Meeting with President
+Ivanov in #Macedonia, Deputy Secretary Sullivan reaffirmed the United States’
+continued support…
+
+archiving URL http://twitter.com/statedeptspox/status/1075390065126334466
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1075390065126334466
+    ... archiving using prefix http://web.archive.org/save/
