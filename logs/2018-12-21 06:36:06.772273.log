@@ -1,0 +1,173 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Friday, 21 December 2018 at 06:36
+
+
+
+INFO: read target account data; we're tracking 59 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1075900577127784449 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1075940162289459201 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611235 (char 611234)
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1076101671841869824 for account
+@DepSecHargan
+about to get all tweets newer than ID #1070732183088832513 for account
+@GovernorPerry
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1075871744219639811 for account @Cabinet
+about to get all tweets newer than ID #1075956984418066433 for account @POTUS
+about to get all tweets newer than ID #1075902699755978755 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1075999656348311552 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1076102009185550336 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1075817427382996992 for account
+@SecretaryCarson
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1075781823723122689 for account
+@RealBenCarson
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1075946003231109121 for account
+@SecondLady
+getting all tweets before ID #1039531620242530303
+    ...400 tweets downloaded so far
+
+
+New tweet from SecondLady: Honored to deliver gifts tonight to military
+families at @WRBethesda. Thank you for your service! We appreciate you…
+https://t.co/HZklGsoUur
+
+archiving URL http://twitter.com/SecondLady/status/1075949487636602880
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1075792964234956800 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1075922634523729920 for account
+@SecretarySonny
+
+archiving URL https://twitter.com/SecondLady/status/1075949487636602880
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1075897315733450752 for account
+@seanspicer
+about to get all tweets newer than ID #1075529045683642370 for account
+@Scavino45
+about to get all tweets newer than ID #1075873912108527617 for account
+@IvankaTrump
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1075861911483416576 for account @SecAzar
+about to get all tweets newer than ID #1076101269700395008 for account
+@Scaramucci
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1075100185301344257 for account
+@mike_pence
+about to get all tweets newer than ID #1075048273931583490 for account
+@StephGrisham45
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1075806764837134336 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1073727516978884608 for account @Reince
+about to get all tweets newer than ID #1069254970472628226 for account @PRyan
+about to get all tweets newer than ID #1076085176986468352 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1076078560224387074 for account @VP
+about to get all tweets newer than ID #1075495477435609101 for account
+@nikkihaley
+getting all tweets before ID #1049752227202646018
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611116 (char 611115)
+about to get all tweets newer than ID #1075829005440438277 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1075892922783014912 for account
+@SpeakerRyan
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1076100782884311040 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1075933126248095744 for account
+@WhiteHouse
+about to get all tweets newer than ID #1074354274010832896 for account @Comey
+about to get all tweets newer than ID #1075955438557061120 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611178 (char 611177)
+about to get all tweets newer than ID #1075385343736758274 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1075047208704196613 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1075967183535124481 for account
+@KellyannePolls
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1075401684938047494 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1075902110716301313 for account
+@AmbJohnBolton
+... OK, we're set up, and about to watch 1967216306, 935148134505828353,
+620571475, 798195585824104449, 920035992073064450, 18906561, 6577802,
+1923451808, 826065858548133888, 818928162449068032, 822215679726100480,
+830128820447539208, 888031054141022209, 296060169, 25073877, 828613457020870657,
+ 108471631, 1180379185, 866746592853979137, 65522706, 728361177986797568,
+212262370, 599530439, 105267762, 822127086194348032, 836305915452272641,
+842072478834909184, 20776147, 823367015830323201, 52544275, 832672006113931269,
+956283913835614208, 24578794, 803703725730779136, 22203756, 823638938590085124,
+15985455, 799764016885329921, 20733972, 733751245, 819980276570976256,
+818910970567344128, 37666984, 894923298374651904, 18916432, 29547260,
+836724024688410625, 822215673812119553, 2334193741, 818927131883356161,
+828997388920619008, 831482588246196225, 818876014390603776, 829782369670410240,
+819992522109894658, 471672239, 809836066316451840, 827258161841135623, 118756393
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read)',
+IncompleteRead(0 bytes read)); sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
