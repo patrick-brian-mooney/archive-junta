@@ -1,0 +1,228 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Saturday, 29 December 2018 at 00:55
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1078719426789326848 for account
+@SecWilkie
+about to get all tweets newer than ID #1078784773731041280 for account
+@statedeptspox
+about to get all tweets newer than ID #1076300652790337536 for account
+@SecPompeo
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1077589058770087936 for account
+@RealBenCarson
+about to get all tweets newer than ID #1075401684938047494 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1075871744219639811 for account @Cabinet
+about to get all tweets newer than ID #1076893757566566401 for account @Comey
+about to get all tweets newer than ID #1078707221062737920 for account
+@SecretaryPerry
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1078052462295101440 for account @POTUS
+getting all tweets before ID #1068234811620425727
+    ...400 tweets downloaded so far
+
+
+New tweet from POTUS: RT @realDonaldTrump: The Democrats OBSTRUCTION of the
+desperately needed Wall, where they almost all recently agreed it should be
+built, is…
+
+archiving URL http://twitter.com/POTUS/status/1078396496771514376
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1078664648726061056 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+
+archiving URL https://twitter.com/POTUS/status/1078396496771514376
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1078035370762227712 for account
+@WhiteHouse
+
+
+New tweet from POTUS: RT @realDonaldTrump: The reason the DACA for Wall deal
+didn’t get done was that a ridiculous court decision from the 9th Circuit
+allowed DA…
+
+archiving URL http://twitter.com/POTUS/status/1078396514844753920
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+
+archiving URL https://twitter.com/POTUS/status/1078396514844753920
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1078339021523292160 for account
+@KellyannePolls
+
+
+New tweet from POTUS: RT @realDonaldTrump: “Border Patrol Agents want the
+Wall.” Democrat’s say they don’t want the Wall (even though they know it is
+really need…
+
+archiving URL http://twitter.com/POTUS/status/1078396520813260800
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1078621822504050688 for account
+@SecretaryAcosta
+
+archiving URL https://twitter.com/POTUS/status/1078396520813260800
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1077608403386548224 for account @Reince
+
+
+New tweet from POTUS: RT @realDonaldTrump: There is right now a full scale
+manhunt going on in California for an illegal immigrant accused of shooting and
+killin…
+
+archiving URL http://twitter.com/POTUS/status/1078396571157446658
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1078885387328802816 for account
+@nikkihaley
+
+archiving URL https://twitter.com/POTUS/status/1078396571157446658
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1078372889416601600 for account
+@GovernorPerry
+
+
+New tweet from POTUS: RT @realDonaldTrump: I totally agree!
+https://t.co/KO8E3bfWfn
+
+archiving URL http://twitter.com/POTUS/status/1078396576249331722
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1059682755083145216 for account
+@DanScavino
+
+archiving URL https://twitter.com/POTUS/status/1078396576249331722
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1078706602373513217 for account @VP
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1078825623567691776 for account
+@SecretarySonny
+about to get all tweets newer than ID #1075509582812848128 for account
+@USTradeRep
+about to get all tweets newer than ID #1077219871962918912 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1076160473639333889 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1076185577513541632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1075100185301344257 for account
+@mike_pence
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1078506205528637440 for account
+@Scavino45
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1075829005440438277 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1078738038119895048 for account
+@StephGrisham45
+about to get all tweets newer than ID #1078773391426027525 for account
+@SecondLady
+about to get all tweets newer than ID #1078692288505761792 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1076958380361543681 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1078355874803056640 for account @PressSec
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1078650040795754496 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1077674552992378880 for account
+@DepSecDef
+about to get all tweets newer than ID #1078694089636409344 for account @FLOTUS
+about to get all tweets newer than ID #1078557639745957888 for account
+@AshLeeStrong
+about to get all tweets newer than ID #-1 for account @MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Not authorized.
+about to get all tweets newer than ID #1078680922646556672 for account
+@Scaramucci
+about to get all tweets newer than ID #1077281001867542528 for account @SecAzar
+about to get all tweets newer than ID #1075385343736758274 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1078650678665506817 for account
+@seanspicer
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1076223030249050112 for account
+@SecNielsen
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1078089977681137666 for account
+@IvankaTrump
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1078308085188431872 for account
+@DepSecHargan
+... OK, we're set up, and about to watch 1024390184090181633, 1967216306,
+988573326376427520, 819992522109894658, 1180379185, 827258161841135623,
+818928162449068032, 2334193741, 830128820447539208, 6577802, 822215679726100480,
+ 25073877, 798195585824104449, 822215673812119553, 108471631, 471672239,
+832672006113931269, 819980276570976256, 20733972, 37666984, 18906561, 620571475,
+ 65522706, 866746592853979137, 818910970567344128, 809836066316451840,
+842072478834909184, 862405301693296640, 18916432, 828613457020870657,
+836305915452272641, 22203756, 803703725730779136, 823367015830323201, 15985455,
+29547260, 894923298374651904, 823638938590085124, 822127086194348032, 118756393,
+ 799764016885329921, 831482588246196225, 599530439, 818927131883356161,
+986781648, 836724024688410625, 2480087918, 818876014390603776, 296060169,
+6672532, 24578794, 956283913835614208, 828997388920619008, 888031054141022209,
+733751245, 826065858548133888, 20776147, 212262370, 829782369670410240,
+935148134505828353, 1923451808, 728361177986797568, 52544275, 105267762,
+920035992073064450
+
+
+New tweet from Scaramucci: RT @AtlanticCouncil: 💡Opinion: "Complete
+disengagement will never be an option for the United States, but neither should
+we have a strategy…
+
+archiving URL http://twitter.com/Scaramucci/status/1078979919336624128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1078979919336624128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: 468,000 new manufacturing jobs have been
+created since @POTUS was elected. #MadeInAmerica 🇺🇸 https://t.co/4y2qw5JoSf
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1078984142791102465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1078984142791102465
+    ... archiving using prefix http://web.archive.org/save/
