@@ -1,0 +1,26 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='ubuliscious', release='4.15.0-43-generic', version='#46~16.04.1-Ubuntu SMP Fri Dec 7 13:31:08 UTC 2018', machine='x86_64')
+This log was begun Tuesday, 08 January 2019 at 20:40
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined"); trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1080170559101718528 for account @nikkihaley
+getting all tweets before ID #1080195496407388164
+ERROR: unable to get tweets for account @nikkihaley
+           the system said:
+about to get all tweets newer than ID #1073709695809056768 for account @MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said:
+about to get all tweets newer than ID #1082746071091163136 for account @SecAzar
+ERROR: unable to get tweets for account @SecAzar
+           the system said:
+about to get all tweets newer than ID #1021844939473387520 for account @IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1076160473639333889 for account @SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said:
