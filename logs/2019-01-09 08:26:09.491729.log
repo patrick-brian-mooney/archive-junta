@@ -1,6 +1,6 @@
 Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
 Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
-This log was begun Tuesday, 08 January 2019 at 20:21
+This log was begun Wednesday, 09 January 2019 at 08:26
 
 
 
@@ -9,117 +9,41 @@ WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
  trying requests.packages.urllib3.exceptions instead
 NOTE: successfully imported from requests
 Starting up...
-about to get all tweets newer than ID #816846808789958656 for account
-@SenDanCoats
-about to get all tweets newer than ID #1082489032901300224 for account
-@AmbJohnBolton
-getting all tweets before ID #971105400744443903
-    ...400 tweets downloaded so far
-
-
-New tweet from AmbJohnBolton: The Maduro regime has looted billions from the
-people of Venezuela to prop up his inner circle, the Venezuelan mili…
-https://t.co/NlDTxbqiJu
-
-archiving URL http://twitter.com/AmbJohnBolton/status/1082673782286966785
-    ... archiving using prefix http://web.archive.org/save/
-about to get all tweets newer than ID #1082709966287499265 for account
-@statedeptspox
-
-archiving URL https://twitter.com/AmbJohnBolton/status/1082673782286966785
-    ... archiving using prefix http://web.archive.org/save/
-about to get all tweets newer than ID #1082823327239098373 for account
-@RealBenCarson
-about to get all tweets newer than ID #824610180881117184 for account
-@GovPenceIN
-about to get all tweets newer than ID #890659905798983680 for account @Reince45
-ERROR: unable to get tweets for account @Reince45
-           the system said: Not authorized.
-about to get all tweets newer than ID #-1 for account @jaredkushner
-about to get all tweets newer than ID #1082823443962310656 for account
-@Scavino45
-about to get all tweets newer than ID #856041462164836355 for account
-@FirstLadyIN
-about to get all tweets newer than ID #1080906517807796225 for account
-@SecondLady
-about to get all tweets newer than ID #1080135462331789312 for account
-@StephGrisham45
-about to get all tweets newer than ID #1075385343736758274 for account
-@BetsyDeVosED
-about to get all tweets newer than ID #1075100185301344257 for account
-@mike_pence
-about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
-about to get all tweets newer than ID #832282841471918080 for account
-@BetsyDeVos
-about to get all tweets newer than ID #994396943421001728 for account
-@TomBossert45
-about to get all tweets newer than ID #1021844939473387520 for account
-@IvankaTrumpHQ
-ERROR: unable to get tweets for account @IvankaTrumpHQ
-           the system said: Not authorized.
-about to get all tweets newer than ID #1076160473639333889 for account
-@SecretaryCarson
-about to get all tweets newer than ID #1076185577513541632 for account
-@SecretaryRoss
-about to get all tweets newer than ID #978650205192044545 for account
-@SecShulkin
-about to get all tweets newer than ID #1082823499843100675 for account @POTUS
-about to get all tweets newer than ID #1082421088372621313 for account
-@DepSecHargan
-about to get all tweets newer than ID #1082833226987724800 for account @VP
-about to get all tweets newer than ID #1082772187336138752 for account
-@stevenmnuchin1
-about to get all tweets newer than ID #1077219871962918912 for account
-@SpeakerRyan
-about to get all tweets newer than ID #1082810099721166848 for account
-@GovernorPerry
-about to get all tweets newer than ID #1082089496601075712 for account @SecAzar
-getting all tweets before ID #1058361899107172353
-    ...400 tweets downloaded so far
-about to get all tweets newer than ID #1082826787556548608 for account
-@AshLeeStrong
-
-
-New tweet from SecAzar: Drug prices must start coming down.
-https://t.co/MToQA77cvn
-
-archiving URL http://twitter.com/SecAzar/status/1082746071091163136
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/SecAzar/status/1082746071091163136
-    ... archiving using prefix http://web.archive.org/save/
-about to get all tweets newer than ID #1082668501494575105 for account
-@SecretaryAcosta
-about to get all tweets newer than ID #1080134453517869056 for account @FLOTUS
-about to get all tweets newer than ID #1081921742149304320 for account
-@IvankaTrump
-about to get all tweets newer than ID #1082376297395994624 for account @Reince
-about to get all tweets newer than ID #954801265732661248 for account
-@MELANIATRUMP
-about to get all tweets newer than ID #1082491131219316736 for account
-@DanScavino
-about to get all tweets newer than ID #913881045652688901 for account
-@SecPriceMD
 about to get all tweets newer than ID #1082769057227702272 for account
 @SecNielsen
-about to get all tweets newer than ID #-1 for account @MattWhitaker46
-ERROR: unable to get tweets for account @MattWhitaker46
-           the system said: Not authorized.
-about to get all tweets newer than ID #1082719952052867072 for account
-@EnergyDepSec
-about to get all tweets newer than ID #1073709695809056768 for account
-@MickMulvaneyOMB
-about to get all tweets newer than ID #1014519079284199424 for account
-@EPAScottPruitt
-ERROR: unable to get tweets for account @EPAScottPruitt
-           the system said: [{'code': 34, 'message': 'Sorry, that page does not
-exist.'}]
-about to get all tweets newer than ID #1082395380640374784 for account
-@SecretaryPerry
+about to get all tweets newer than ID #1082772187336138752 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1082970497367924736 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1077219871962918912 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1082999253922971648 for account
+@SecPompeo
+about to get all tweets newer than ID #1083003957218328576 for account
+@WhiteHouse
+about to get all tweets newer than ID #1082826787556548608 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1082376297395994624 for account @Reince
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1083000033811795968 for account
+@statedeptspox
+about to get all tweets newer than ID #1076185577513541632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1081325982919938048 for account
+@USTradeRep
+about to get all tweets newer than ID #1083000493595656195 for account @PressSec
+about to get all tweets newer than ID #1080906517807796225 for account
+@SecondLady
+about to get all tweets newer than ID #1083022079212032002 for account @POTUS
 about to get all tweets newer than ID #1080170559101718528 for account
 @nikkihaley
 getting all tweets before ID #1080195496407388164
     ...64 tweets downloaded so far
+about to get all tweets newer than ID #1082859807655239680 for account
+@KellyannePolls
 
 
 New tweet from NikkiHaley: Due to State Dept rules that were changed by the
@@ -128,493 +52,116 @@ https://t.co/7W82xrjVGv
 
 archiving URL http://twitter.com/NikkiHaley/status/1080195496407388165
     ... archiving using prefix http://web.archive.org/save/
-about to get all tweets newer than ID #1080982901909536770 for account @Cabinet
-about to get all tweets newer than ID #1082823394234716160 for account
-@realDonaldTrump
 
 archiving URL https://twitter.com/NikkiHaley/status/1080195496407388165
     ... archiving using prefix http://web.archive.org/save/
-about to get all tweets newer than ID #1059291259859275777 for account
-@Linda_McMahon
-about to get all tweets newer than ID #529836079659384833 for account
-@jeffsessions
-about to get all tweets newer than ID #816290296048873472 for account
-@WilburRoss
-about to get all tweets newer than ID #1081930054932877312 for account
-@DepSecDef
+about to get all tweets newer than ID #1082395380640374784 for account
+@SecretaryPerry
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
 about to get all tweets newer than ID #836780744810844161 for account
 @StephenMillerAL
-about to get all tweets newer than ID #1082296381065383941 for account
-@SecWilkie
-about to get all tweets newer than ID #1082770984904474624 for account
-@Scaramucci
-about to get all tweets newer than ID #1082789948657414144 for account
-@SecretarySonny
-about to get all tweets newer than ID #1082824740480471043 for account @PressSec
-about to get all tweets newer than ID #1082819263730274304 for account
-@JessicaDitto45
-about to get all tweets newer than ID #1082724497885724672 for account
-@SecPompeo
-about to get all tweets newer than ID #1082839883478192129 for account
-@WhiteHouse
-about to get all tweets newer than ID #-1 for account @ElaineChao
-about to get all tweets newer than ID #1082829469260365824 for account
-@KellyannePolls
-about to get all tweets newer than ID #1080633057038815232 for account @Comey
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1080982901909536770 for account @Cabinet
 about to get all tweets newer than ID #830074939298414592 for account
 @RepTomPrice
-about to get all tweets newer than ID #1081325982919938048 for account
-@USTradeRep
-about to get all tweets newer than ID #1082831012227411969 for account
-@seanspicer
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1082877853258141696 for account
+@Scavino45
 about to get all tweets newer than ID #1080509257441837057 for account
 @SecretaryZinke
-about to get all tweets newer than ID #903694300306923521 for account
-@SecElaineChao
-about to get all tweets newer than ID #1077568647110017024 for account @PRyan
-... OK, we're set up, and about to watch 212262370, 118756393, 1967216306,
-1180379185, 15985455, 803703725730779136, 29547260, 823367015830323201,
-1923451808, 822127086194348032, 823638938590085124, 828997388920619008,
-22203756, 819992522109894658, 599530439, 866746592853979137, 798195585824104449,
- 828613457020870657, 836305915452272641, 831482588246196225, 822215679726100480,
- 920035992073064450, 818910970567344128, 799764016885329921, 18916432, 18906561,
- 956283913835614208, 296060169, 819980276570976256, 818876014390603776,
-52544275, 20733972, 108471631, 620571475, 829782369670410240,
-935148134505828353, 6672532, 894923298374651904, 888031054141022209,
-832672006113931269, 830128820447539208, 37666984, 818928162449068032, 25073877,
-65522706, 986781648, 809836066316451840, 2480087918, 728361177986797568,
-1024390184090181633, 24578794, 842072478834909184, 818927131883356161,
-836724024688410625, 988573326376427520, 822215673812119553, 105267762,
-471672239, 2334193741, 6577802, 862405301693296640, 20776147,
-827258161841135623, 826065858548133888, 733751245
-
-
-New tweet from WhiteHouse: To every member of Congress: Pass a bill that ends
-this crisis and finally, after all of these decades, secures our…
-https://t.co/pcMB0fNN9v
-
-archiving URL http://twitter.com/WhiteHouse/status/1082840489605431296
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/WhiteHouse/status/1082840489605431296
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from Scavino45: “Some have suggested a barrier is immoral. Then why
-do wealthy politicians build walls, fences, and gates around th…
-https://t.co/gGFfWQDVf0
-
-archiving URL http://twitter.com/Scavino45/status/1082847237598859264
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/Scavino45/status/1082847237598859264
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from Scavino45: “How much more American blood must we shed before
-Congress does its job? To those who refuse to compromise in the n…
-https://t.co/uUtS8zHFcx
-
-archiving URL http://twitter.com/Scavino45/status/1082853098077519873
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/Scavino45/status/1082853098077519873
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: Thank you for soooo many nice comments
-regarding my Oval Office speech. A very interesting experience!
-
-archiving URL http://twitter.com/realDonaldTrump/status/1082857997032919040
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1082857997032919040
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from KellyannePolls: RT @marcorubio: IMPORTANT CORRECTION: Tweet
-below contained material from other sources which I failed to properly attribute
-
-
-The first sen…
-
-archiving URL http://twitter.com/KellyannePolls/status/1082859807655239680
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/KellyannePolls/status/1082859807655239680
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from POTUS: RT @realDonaldTrump: Thank you for soooo many nice
-comments regarding my Oval Office speech. A very interesting experience!
-
-archiving URL http://twitter.com/POTUS/status/1082863790142705665
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/POTUS/status/1082863790142705665
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from WhiteHouse: RT @realDonaldTrump: Thank you for soooo many nice
-comments regarding my Oval Office speech. A very interesting experience!
-
-archiving URL http://twitter.com/WhiteHouse/status/1082863986113212417
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/WhiteHouse/status/1082863986113212417
-    ... archiving using prefix http://web.archive.org/save/
-WARNING: received error ("Connection broken: ConnectionResetError(104,
-'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by
-peer')); sleeping and trying again ...
-ERROR: 420
-ERROR: 420
-
-
-New tweet from Scavino45: After this evenings Presidential Address, we joined
-our great POTUS for a photo. We are all on the right side of hi…
-https://t.co/xMNfhULVGu
-
-archiving URL http://twitter.com/Scavino45/status/1082877853258141696
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/Scavino45/status/1082877853258141696
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from statedeptspox: RT @SecPompeo: Today, EU issued its first
-sanctions against the Iranian regime since the Iran deal, and the Netherlands
-disclosed that #Ira…
-
-archiving URL http://twitter.com/statedeptspox/status/1082932740813742080
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/statedeptspox/status/1082932740813742080
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from statedeptspox: RT @SecPompeo: #Iran and Hizballah have
-terrorized Europe since 1979. By taking action today, European nations sent Iran
- a clear message th…
-
-archiving URL http://twitter.com/statedeptspox/status/1082932777840971778
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/statedeptspox/status/1082932777840971778
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from SecretaryAcosta: American manufacturing is booming in the
-@POTUS economy: 284,000 manufacturing jobs were created in 2018 – more tha…
-https://t.co/2XWtkqV77U
-
-archiving URL http://twitter.com/SecretaryAcosta/status/1082970497367924736
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/SecretaryAcosta/status/1082970497367924736
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from seanspicer: RT @AriFleischer: Schumer is right. We don’t govern
- by tantrum.  Instead, we govern by filibuster.  That’s why the government is
-shut down.…
-
-archiving URL http://twitter.com/seanspicer/status/1082981172366458881
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/seanspicer/status/1082981172366458881
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from seanspicer: RT @AriFleischer: This guy is great.
-https://t.co/oOTZSKOVkT
-
-archiving URL http://twitter.com/seanspicer/status/1082981427531169792
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/seanspicer/status/1082981427531169792
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from seanspicer: .@marcthiessen on @POTUS @realDonaldTrump
-#NationalAddress : Trump won the night. Schumer and Pelosi lost.
-https://t.co/DRzwOGhetD
-
-archiving URL http://twitter.com/seanspicer/status/1082981849360748544
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/seanspicer/status/1082981849360748544
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from SecPompeo: Great to meet the new Iraqi government and
-congratulate @AdilAbdAlMahdi, @BarhamSalih, @AlHalbooosii and @maalhakim…
-https://t.co/o4EKlIYd7V
-
-archiving URL http://twitter.com/SecPompeo/status/1082999253922971648
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/SecPompeo/status/1082999253922971648
-    ... archiving using prefix http://web.archive.org/save/
-ERROR: 420
-
-
-New tweet from statedeptspox: RT @SecPompeo: Great to meet the new Iraqi
-government and congratulate @AdilAbdAlMahdi, @BarhamSalih, @AlHalbooosii and
-@maalhakim in perso…
-
-archiving URL http://twitter.com/statedeptspox/status/1083000033811795968
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/statedeptspox/status/1083000033811795968
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from PressSec: “To normal Americans watching in the heartland, and
-who are not steeped in Trump hatred, the president must have se…
-https://t.co/fnMkZZ36Rr
-
-archiving URL http://twitter.com/PressSec/status/1083000493595656195
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/PressSec/status/1083000493595656195
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: Our Country is doing so well in so many ways.
-Great jobs numbers, with a record setting December. We are rebuilding…
-https://t.co/LWGj8t2N8L
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083001986331672580
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083001986331672580
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from IvankaTrump: Congratulations and thank you Sgt. Tara-Lyn Baker!
-
-archiving URL http://twitter.com/IvankaTrump/status/1083003511565103104
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/IvankaTrump/status/1083003511565103104
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from DepSecHargan: ICYMI: ⬇️ ⬇️ ⬇️
-
-archiving URL http://twitter.com/DepSecHargan/status/1083003817040531456
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/DepSecHargan/status/1083003817040531456
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from WhiteHouse: RT @realDonaldTrump: Our Country is doing so well
-in so many ways. Great jobs numbers, with a record setting December. We are
-rebuilding ou…
-
-archiving URL http://twitter.com/WhiteHouse/status/1083003957218328576
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/WhiteHouse/status/1083003957218328576
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from POTUS: RT @realDonaldTrump: Our Country is doing so well in so
-many ways. Great jobs numbers, with a record setting December. We are rebuilding
- ou…
-
-archiving URL http://twitter.com/POTUS/status/1083003982610644992
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/POTUS/status/1083003982610644992
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: Billions of dollars are sent to the State of
-California for Forrest fires that, with proper Forrest Management, wou…
-https://t.co/GBBPju24t8
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083009519503003648
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083009519503003648
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from EnergyDepSec: “@ENERGY states intent to invest in centrifuge
-technology at Piketon” via @newswatchman https://t.co/DvXGq1CIVz
-
-archiving URL http://twitter.com/EnergyDepSec/status/1083015732743622656
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/EnergyDepSec/status/1083015732743622656
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @WhiteHouse: A barrier is absolutely critical to border
-security. #SecureOurBorder https://t.co/6aogOnUFS8
-
-archiving URL http://twitter.com/VP/status/1083017656998027264
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017656998027264
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @WhiteHouse: The only thing that is immoral is the
-politicians to do nothing and continue to allow more innocent people to be so
-horribl…
-
-archiving URL http://twitter.com/VP/status/1083017745904648196
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @WhiteHouse: The federal government remains shut down
-for one reason and one reason only—because Democrats will not fund border
-security…
-
-archiving URL http://twitter.com/VP/status/1083017759603281920
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017745904648196
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @WhiteHouse: To every member of Congress: Pass a bill
-that ends this crisis and finally, after all of these decades, secures our
-border.…
-
-archiving URL http://twitter.com/VP/status/1083017777366163456
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017759603281920
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017777366163456
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @GOPLeader: Now. Not later. We must #SecureTheBorder.
-https://t.co/Jek4qPzTJE
-
-archiving URL http://twitter.com/VP/status/1083017918647058433
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017918647058433
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @RepKevinBrady: Our southern border is NOT secure and
-the Houston area and communities I represent pay the price -- MS-13 gang
-violence,…
-
-archiving URL http://twitter.com/VP/status/1083017990059278337
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083017990059278337
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from VP: RT @SteveScalise: .@realDonaldTrump made it clear: we are
-in the midst of a humanitarian and national security crisis. These facts may
-not…
-
-archiving URL http://twitter.com/VP/status/1083018043557580805
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/VP/status/1083018043557580805
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from POTUS: RT @realDonaldTrump: Billions of dollars are sent to the
- State of California for Forrest fires that, with proper Forrest Management,
-would…
-
-archiving URL http://twitter.com/POTUS/status/1083018377860390913
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/POTUS/status/1083018377860390913
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from SecAzar: We’ve seen some good behavior from companies such as
-Merck, Gilead, and Amgen, who announced lower prices for their…
-https://t.co/zqJ4XzE2kO
-
-archiving URL http://twitter.com/SecAzar/status/1083019273352683520
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/SecAzar/status/1083019273352683520
-    ... archiving using prefix http://web.archive.org/save/
-INFO: handling a deletion for data:
-
-{'delete': {'status': {'id':
-1083009519503003648,
-                       'id_str': '1083009519503003648',
-
-                       'user_id': 25073877,
-'user_id_str': '25073877'},
-            'timestamp_ms': '1547047510803'}}
-INFO: successfully dumped raw data to JSON file
-INFO: We're handling a deletion notification for tweet ID# 1083009519503003648
-on account realDonaldTrump
-INFO: get_archived_tweet() called to get tweet ID 1083009519503003648 for
-account realDonaldTrump
-ERROR: unable to read line "['7"']" because: need more than 1 value to unpack.
-INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
-p/status/1083009519503003648	Billions of dollars are sent to the State of
-California for Forrest fires that, with proper Forrest Management, wou…
-https://t.co/GBBPju24t8
-... adding to list of deleted tweets
-... added
- ... and we're going to tweet about it
-INFO: handling a deletion for data:
-
-{'delete': {'status': {'id':
-1083018377860390913,
-                       'id_str': '1083018377860390913',
-
-                       'user_id': 822215679726100480,
-'user_id_str': '822215679726100480'},
-            'timestamp_ms':
-'1547047518460'}}
-INFO: successfully dumped raw data to JSON file
-INFO: We're handling a deletion notification for tweet ID# 1083018377860390913
-on account POTUS
-INFO: get_archived_tweet() called to get tweet ID 1083018377860390913 for
-account POTUS
-ERROR: unable to read line "['40375873032193"']" because: need more than 1 value
- to unpack.
-INFO: found a tweet!
-http://web.archive.org/*/http://twitter.com/POTUS/status/1083018377860390913	RT
-@realDonaldTrump: Billions of dollars are sent to the State of California for
-Forrest fires that, with proper Forrest Management, would…
-... adding to list of deleted tweets
-... added
- ... and we're going to tweet about it
-
-
-New tweet from realDonaldTrump: Billions of dollars are sent to the State of
-California for Forest fires that, with proper Forest Management, would…
-https://t.co/l5Jyjb8lEs
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083022011574747137
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083022011574747137
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from POTUS: RT @realDonaldTrump: Billions of dollars are sent to the
- State of California for Forest fires that, with proper Forest Management, would
- ne…
-
-archiving URL http://twitter.com/POTUS/status/1083022079212032002
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/POTUS/status/1083022079212032002
-    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1075100185301344257 for account
+@mike_pence
+about to get all tweets newer than ID #1083018043557580805 for account @VP
+about to get all tweets newer than ID #1082981849360748544 for account
+@seanspicer
+about to get all tweets newer than ID #1076160473639333889 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1080135462331789312 for account
+@StephGrisham45
+about to get all tweets newer than ID #-1 for account @MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Not authorized.
+about to get all tweets newer than ID #1083022011574747137 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1082810099721166848 for account
+@GovernorPerry
+about to get all tweets newer than ID #1081930054932877312 for account
+@DepSecDef
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1080134453517869056 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1082823327239098373 for account
+@RealBenCarson
+about to get all tweets newer than ID #1075385343736758274 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1082789948657414144 for account
+@SecretarySonny
+about to get all tweets newer than ID #1083003511565103104 for account
+@IvankaTrump
+about to get all tweets newer than ID #1082491131219316736 for account
+@DanScavino
+about to get all tweets newer than ID #1082819263730274304 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1082673782286966785 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1082296381065383941 for account
+@SecWilkie
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1083003817040531456 for account
+@DepSecHargan
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1082770984904474624 for account
+@Scaramucci
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1083019273352683520 for account @SecAzar
+about to get all tweets newer than ID #1083015732743622656 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1080633057038815232 for account @Comey
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+... OK, we're set up, and about to watch 935148134505828353, 799764016885329921,
+ 819980276570976256, 18916432, 988573326376427520, 822215673812119553,
+296060169, 20733972, 809836066316451840, 1967216306, 836305915452272641,
+826065858548133888, 862405301693296640, 818927131883356161, 822127086194348032,
+822215679726100480, 37666984, 471672239, 830128820447539208, 831482588246196225,
+ 728361177986797568, 733751245, 798195585824104449, 15985455,
+818928162449068032, 6577802, 819992522109894658, 823367015830323201,
+827258161841135623, 986781648, 888031054141022209, 22203756, 818910970567344128,
+ 20776147, 828613457020870657, 823638938590085124, 6672532, 25073877, 18906561,
+2480087918, 29547260, 818876014390603776, 829782369670410240,
+803703725730779136, 832672006113931269, 1180379185, 828997388920619008,
+842072478834909184, 52544275, 620571475, 836724024688410625, 118756393,
+599530439, 1024390184090181633, 108471631, 920035992073064450, 105267762,
+24578794, 65522706, 212262370, 956283913835614208, 894923298374651904,
+2334193741, 866746592853979137, 1923451808
 
 
 New tweet from USTradeRep: Statement on the United States Trade Delegation’s
@@ -722,6 +269,7 @@ https://t.co/KugrewGwDi
 
 archiving URL http://twitter.com/SecAzar/status/1083049841188577287
     ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
 
 archiving URL https://twitter.com/SecAzar/status/1083049841188577287
     ... archiving using prefix http://web.archive.org/save/
@@ -732,6 +280,9 @@ to share my thoughts and priorities at #NatCon2019. As I said i…
 https://t.co/m0qjIcBG7O
 
 archiving URL http://twitter.com/SecWilkie/status/1083067253459951616
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecWilkie/status/1083067253459951616
     ... archiving using prefix http://web.archive.org/save/
 
 
@@ -774,6 +325,9 @@ Today @POTUS will sign the last
 of 4 major bip…
 
 archiving URL http://twitter.com/JessicaDitto45/status/1083083195703275520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1083083195703275520
     ... archiving using prefix http://web.archive.org/save/
 
 
@@ -1014,9 +568,7 @@ New tweet from WhiteHouse: RT @realDonaldTrump: Just left a meeting with Chuck
 
 archiving URL http://twitter.com/WhiteHouse/status/1083100229006778368
     ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/WhiteHouse/status/1083100229006778368
-    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
 
 
 New tweet from POTUS: RT @realDonaldTrump: Just left a meeting with Chuck and
@@ -1027,6 +579,9 @@ archiving URL http://twitter.com/POTUS/status/1083100261185396737
     ... archiving using prefix http://web.archive.org/save/
 
 archiving URL https://twitter.com/POTUS/status/1083100261185396737
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1083100229006778368
     ... archiving using prefix http://web.archive.org/save/
 
 
@@ -1081,9 +636,6 @@ https://t.co/s4e5sRloyE
 archiving URL http://twitter.com/WhiteHouse/status/1083103737021894656
     ... archiving using prefix http://web.archive.org/save/
 
-archiving URL https://twitter.com/WhiteHouse/status/1083103737021894656
-    ... archiving using prefix http://web.archive.org/save/
-
 
 New tweet from WhiteHouse: .@SecNielsen: Everywhere we have put up a wall,
 illegal immigration has been reduced 90-95%.  We need security AT o…
@@ -1113,6 +665,7 @@ the room a…
 
 archiving URL http://twitter.com/WhiteHouse/status/1083117308501991424
     ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
 
 archiving URL https://twitter.com/WhiteHouse/status/1083117308501991424
     ... archiving using prefix http://web.archive.org/save/
@@ -1124,6 +677,7 @@ on the…
 
 archiving URL http://twitter.com/SecPompeo/status/1083118349238845446
     ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
 
 
 New tweet from SecPompeo: RT @StateDept: Today, @SecPompeo traveled to #Iraq,
@@ -1133,12 +687,21 @@ strateg…
 archiving URL http://twitter.com/SecPompeo/status/1083118374429839360
     ... archiving using prefix http://web.archive.org/save/
 
+archiving URL https://twitter.com/SecPompeo/status/1083118374429839360
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPompeo/status/1083118349238845446
+    ... archiving using prefix http://web.archive.org/save/
+
 
 New tweet from JessicaDitto45: RT @GOPLeader: The way that Democrats just
 behaved in our meeting at the @WhiteHouse is embarrassing. They need to get back
  into the room a…
 
 archiving URL http://twitter.com/JessicaDitto45/status/1083120922436034560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1083120922436034560
     ... archiving using prefix http://web.archive.org/save/
 
 
@@ -1150,9 +713,6 @@ archiving URL http://twitter.com/JessicaDitto45/status/1083120946519728128
     ... archiving using prefix http://web.archive.org/save/
 
 archiving URL https://twitter.com/JessicaDitto45/status/1083120946519728128
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/JessicaDitto45/status/1083120922436034560
     ... archiving using prefix http://web.archive.org/save/
 
 
@@ -1241,6 +801,7 @@ archiving URL http://twitter.com/PressSec/status/1083142333049307136
 
 archiving URL https://twitter.com/PressSec/status/1083142333049307136
     ... archiving using prefix http://web.archive.org/save/
+ERROR: 420
 
 
 New tweet from seanspicer: RT @guypbenson: When you think you can sneak into
@@ -1742,85 +1303,14 @@ approval rating…
 ... adding to list of deleted tweets
 ... added
  ... and we're going to tweet about it
+ERROR: 
+  Exception is:
+<class 'tweepy.error.TweepError'>
+  Value of data is:
+{'delete': {'status': {'id': 1083211756669976577,
+'id_str': '1083211756669976577',
+                       'user_id': 25073877,
 
-
-New tweet from realDonaldTrump: There is GREAT unity with the Republicans in
-the House and Senate, despite the Fake News Media working in overdrive…
-https://t.co/JL5UCh8ukM
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083356326833602561
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083356326833602561
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: “Great support for Border Security and the
-Wall.” @foxandfriends  Even greater than anyone would know! “Presidents…
-https://t.co/QCFWUjB1qH
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083358150214979585
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083358150214979585
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: Getting ready to leave for the Great State of
-Texas! #MAGA
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083358611315789826
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083358611315789826
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from realDonaldTrump: MAKE AMERICA GREAT AGAIN!
-
-archiving URL http://twitter.com/realDonaldTrump/status/1083358775925460992
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/realDonaldTrump/status/1083358775925460992
-    ... archiving using prefix http://web.archive.org/save/
-
-
-New tweet from IvankaTrump: Wishing my best friend and the ❤️ of my life a
-very birthday! 🥳 https://t.co/YGefnGlCO6
-
-archiving URL http://twitter.com/IvankaTrump/status/1083360976832024581
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/IvankaTrump/status/1083360976832024581
-    ... archiving using prefix http://web.archive.org/save/
-INFO: handling a deletion for data:
-
-{'delete': {'status': {'id':
-1083360976832024581,
-                       'id_str': '1083360976832024581',
-
-                       'user_id': 52544275,
-'user_id_str': '52544275'},
-            'timestamp_ms': '1547128428598'}}
-INFO: successfully dumped raw data to JSON file
-INFO: We're handling a deletion notification for tweet ID# 1083360976832024581
-on account IvankaTrump
-INFO: get_archived_tweet() called to get tweet ID 1083360976832024581 for
-account IvankaTrump
-INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/IvankaTrump/st
-atus/1083360976832024581	Wishing my best friend and the ❤️ of my life a very
-birthday! 🥳 https://t.co/YGefnGlCO6
-... adding to list of deleted tweets
-... added
-... but we're not going to tweet about it because IvankaTrump is not in the list
- of accounts we tweet about
-
-
-New tweet from IvankaTrump: Wishing my best friend and the ❤️ of my life a
-very happy birthday! 🥳 https://t.co/Lx7VjlhPKy
-
-archiving URL http://twitter.com/IvankaTrump/status/1083361405250822145
-    ... archiving using prefix http://web.archive.org/save/
-
-archiving URL https://twitter.com/IvankaTrump/status/1083361405250822145
-    ... archiving using prefix http://web.archive.org/save/
+                       'user_id_str': '25073877'},
+            'timestamp_ms':
+'1547126882891'}}
