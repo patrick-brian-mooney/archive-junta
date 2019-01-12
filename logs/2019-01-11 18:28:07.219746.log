@@ -1,0 +1,337 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Friday, 11 January 2019 at 18:28
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1082491131219316736 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=DanScavino (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb66db56c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #1083067253459951616 for account
+@SecWilkie
+ERROR: unable to get tweets for account @SecWilkie
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecWilkie (Caused
+by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnec
+tion object at 0xb6663f2c>: Failed to establish a new connection: [Errno -2]
+Name or service not known',))
+about to get all tweets newer than ID #1083094015187275782 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1082823327239098373 for account
+@RealBenCarson
+about to get all tweets newer than ID #1075385343736758274 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 619647 (char 619646)
+about to get all tweets newer than ID #1083859319484047360 for account
+@SecNielsen
+about to get all tweets newer than ID #1083361405250822145 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611345 (char 611344)
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1080906517807796225 for account
+@SecondLady
+about to get all tweets newer than ID #1083855084931465217 for account
+@SecPompeo
+about to get all tweets newer than ID #1083885392770879489 for account @VP
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1083510349976858624 for account
+@AshLeeStrong
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1083452075915268096 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1077219871962918912 for account
+@SpeakerRyan
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1076160473639333889 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1083876582647832576 for account @SecAzar
+about to get all tweets newer than ID #1083695278820085760 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #-1 for account @MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Not authorized.
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1083714854106615808 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1083897864906989568 for account
+@Scaramucci
+about to get all tweets newer than ID #1082810099721166848 for account
+@GovernorPerry
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1076185577513541632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1083785813924683777 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1080134453517869056 for account @FLOTUS
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1080633057038815232 for account @Comey
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1083872147313963009 for account
+@seanspicer
+about to get all tweets newer than ID #1075100185301344257 for account
+@mike_pence
+about to get all tweets newer than ID #1083813004465057792 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1083861640880287744 for account
+@WhiteHouse
+about to get all tweets newer than ID #1083859239184027648 for account
+@USTradeRep
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1083795523516198912 for account
+@KellyannePolls
+about to get all tweets newer than ID #1083868608919420930 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1083745407497367552 for account
+@SecretarySonny
+about to get all tweets newer than ID #1083868707141681152 for account @POTUS
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1083439764831944711 for account
+@DepSecHargan
+about to get all tweets newer than ID #1083876313172267008 for account @PressSec
+about to get all tweets newer than ID #1082376297395994624 for account @Reince
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1083859350102466566 for account
+@statedeptspox
+about to get all tweets newer than ID #1083381197777063937 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1080135462331789312 for account
+@StephGrisham45
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1080195496407388164
+    ...71 tweets downloaded so far
+about to get all tweets newer than ID #1083849135441219584 for account
+@Scavino45
+
+
+New tweet from NikkiHaley: Due to State Dept rules that were changed by the
+outgoing administration, I have had to clear my personal Twitter a…
+https://t.co/7W82xrjVGv
+
+archiving URL http://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1083835753908617216 for account
+@DepSecDef
+... OK, we're set up, and about to watch 620571475, 1024390184090181633,
+818928162449068032, 29547260, 1180379185, 828997388920619008,
+935148134505828353, 52544275, 829782369670410240, 822127086194348032,
+988573326376427520, 818910970567344128, 798195585824104449, 105267762,
+296060169, 108471631, 599530439, 65522706, 212262370, 803703725730779136,
+799764016885329921, 18916432, 986781648, 832672006113931269, 1923451808,
+828613457020870657, 956283913835614208, 819980276570976256, 6672532,
+827258161841135623, 809836066316451840, 836724024688410625, 24578794, 18906561,
+733751245, 836305915452272641, 894923298374651904, 818876014390603776,
+866746592853979137, 2334193741, 831482588246196225, 15985455, 20776147,
+22203756, 830128820447539208, 822215673812119553, 862405301693296640,
+826065858548133888, 6577802, 471672239, 25073877, 842072478834909184,
+822215679726100480, 728361177986797568, 819992522109894658, 920035992073064450,
+818927131883356161, 20733972, 888031054141022209, 1967216306, 118756393,
+823638938590085124, 37666984, 823367015830323201, 2480087918
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecNielsen: Despite monumental action by this admin, human
+trafficking persists &amp; must be eradicated. Thank you to all who wore…
+https://t.co/z3jcklMGPX
+
+archiving URL http://twitter.com/SecNielsen/status/1083916398630526976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1083916398630526976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @moochandthemrs: .@Scaramucci is on
+@WattersWorld on @FoxNews Saturday night at 8 PM ET. Enjoy! #TheMoochInTheHouse
+@JesseBWatters https…
+
+archiving URL http://twitter.com/Scaramucci/status/1083925080797634560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1083925080797634560
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: 1.2 million jobs in goods-producing industries
+ have been created since November 2016. @POTUS https://t.co/95mx4sALCq
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1084057586566078464
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1084057586566078464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Wow, just learned in the Failing New York
+Times that the corrupt former leaders of the FBI, almost all fired or for…
+https://t.co/w6DbjxRfnC
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084058813047681025
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084058813047681025
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Kicking off Saturday morning on @foxandfriends
+@foxandfriends
+
+archiving URL http://twitter.com/seanspicer/status/1084060182324396033
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1084060182324396033
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ...Funny thing about James Comey. Everybody
+wanted him fired, Republican and Democrat alike. After the rigged &amp; bot…
+https://t.co/r5tKMsOxMu
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084062079907229697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084062079907229697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....the FBI was in complete turmoil (see N.Y.
+Post) because of Comey’s poor leadership and the way he handled the C…
+https://t.co/FVmQRURRBe
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084065832941031424
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084065832941031424
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from KellyannePolls: RT @realDonaldTrump: ....the FBI was in
+complete turmoil (see N.Y. Post) because of Comey’s poor leadership and the way
+he handled the Clin…
+
+archiving URL http://twitter.com/KellyannePolls/status/1084066724666839040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1084066724666839040
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: .....who is being totally protected by his
+best friend, Bob Mueller, &amp; the 13 Angry Democrats - leaking machines wh…
+https://t.co/4h7ZsZx3Jn
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084070845826371586
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084070845826371586
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I have been FAR tougher on Russia than Obama,
+Bush or Clinton. Maybe tougher than any other President. At the same…
+https://t.co/P6PuseTkim
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084074865496334336
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084074865496334336
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3848
+more expected)', IncompleteRead(0 bytes read, 3848 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
