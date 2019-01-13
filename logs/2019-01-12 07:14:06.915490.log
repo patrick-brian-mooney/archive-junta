@@ -1,0 +1,981 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Saturday, 12 January 2019 at 07:14
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1083855084931465217 for account
+@SecPompeo
+about to get all tweets newer than ID #1084066724666839040 for account
+@KellyannePolls
+about to get all tweets newer than ID #1084060182324396033 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 619647 (char 619646)
+about to get all tweets newer than ID #1083861640880287744 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 619435 (char 619434)
+about to get all tweets newer than ID #1076160473639333889 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619498 (char 619497)
+about to get all tweets newer than ID #1082810099721166848 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1083714854106615808 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 847634 (char 847633)
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #-1 for account @MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Not authorized.
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1083859239184027648 for account
+@USTradeRep
+about to get all tweets newer than ID #1082376297395994624 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 847739 (char 847738)
+about to get all tweets newer than ID #1083452075915268096 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619543 (char 619542)
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1083785813924683777 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1077219871962918912 for account
+@SpeakerRyan
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1080906517807796225 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611169 (char 611168)
+about to get all tweets newer than ID #1075100185301344257 for account
+@mike_pence
+about to get all tweets newer than ID #1083859350102466566 for account
+@statedeptspox
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1082823327239098373 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1080134453517869056 for account @FLOTUS
+about to get all tweets newer than ID #1083094015187275782 for account @Cabinet
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611106 (char 611105)
+about to get all tweets newer than ID #1075385343736758274 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619605 (char 619604)
+about to get all tweets newer than ID #1084057586566078464 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1080135462331789312 for account
+@StephGrisham45
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1083510349976858624 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1083813004465057792 for account
+@SecretaryPerry
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1083885392770879489 for account @VP
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to parse JSON payload: Expecting ':'
+delimiter: line 1 column 619516 (char 619515)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1080633057038815232 for account @Comey
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1083361405250822145 for account
+@IvankaTrump
+about to get all tweets newer than ID #1083916398630526976 for account
+@SecNielsen
+about to get all tweets newer than ID #1083745407497367552 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619518 (char 619517)
+about to get all tweets newer than ID #1083849135441219584 for account
+@Scavino45
+about to get all tweets newer than ID #1083925080797634560 for account
+@Scaramucci
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1083835753908617216 for account
+@DepSecDef
+about to get all tweets newer than ID #1083868707141681152 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request: ('Connection aborted.',
+ConnectionResetError(104, 'Connection reset by peer'))
+about to get all tweets newer than ID #1083067253459951616 for account
+@SecWilkie
+about to get all tweets newer than ID #1084099445556502528 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1080195496407388164
+    ...75 tweets downloaded so far
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+
+New tweet from NikkiHaley: Due to State Dept rules that were changed by the
+outgoing administration, I have had to clear my personal Twitter a…
+https://t.co/7W82xrjVGv
+
+archiving URL http://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1083439764831944711 for account
+@DepSecHargan
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1083876582647832576 for account @SecAzar
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1076185577513541632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1083381197777063937 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1083876313172267008 for account @PressSec
+about to get all tweets newer than ID #1082491131219316736 for account
+@DanScavino
+... OK, we're set up, and about to watch 988573326376427520, 471672239,
+20776147, 822215673812119553, 828613457020870657, 18906561, 986781648,
+836724024688410625, 832672006113931269, 827258161841135623, 826065858548133888,
+599530439, 6672532, 819992522109894658, 862405301693296640, 20733972,
+799764016885329921, 1923451808, 894923298374651904, 888031054141022209,
+18916432, 15985455, 29547260, 822127086194348032, 22203756, 1967216306,
+809836066316451840, 1180379185, 818876014390603776, 818928162449068032,
+866746592853979137, 828997388920619008, 819980276570976256, 823638938590085124,
+212262370, 296060169, 830128820447539208, 105267762, 818910970567344128,
+65522706, 728361177986797568, 2334193741, 108471631, 52544275,
+935148134505828353, 842072478834909184, 823367015830323201, 24578794,
+831482588246196225, 2480087918, 822215679726100480, 1024390184090181633,
+25073877, 37666984, 829782369670410240, 920035992073064450, 798195585824104449,
+956283913835614208, 733751245, 836305915452272641, 803703725730779136,
+118756393, 6577802, 818927131883356161, 620571475
+
+
+New tweet from SecretaryPerry: RT @ENERGY: ❄❄ Here are 3️⃣ things to know
+about how Americans heat their homes. ❄❄ 
+
+#WinterIsHere #StayWarm
+https://t.co/3j3BiSHAtI
+
+archiving URL http://twitter.com/SecretaryPerry/status/1084101641165590530
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryPerry/status/1084101641165590530
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from Comey: “I ask you to judge me by the enemies I have made.” —
+FDR
+
+archiving URL http://twitter.com/Comey/status/1084104237649461250
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1084104237649461250
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: We call on all Venezuelans
+to uphold and respect the role of the National Assembly and for the security and
+ armed forc…
+
+archiving URL http://twitter.com/statedeptspox/status/1084104660783427584
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084104660783427584
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: RT @TSA_Pekoske: In addition to this, I have
+approved awards of $500 for each uniformed screening officer, in recognition of
+their hard wor…
+
+archiving URL http://twitter.com/SecNielsen/status/1084105592996876288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1084105592996876288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: Democrats should come back to
+Washington and work to end the Shutdown, while at the same time ending the
+horrible huma…
+
+archiving URL http://twitter.com/VP/status/1084115671296946177
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1084115671296946177
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I just watched a Fake reporter from the Amazon
+ Washington Post say the White House is “chaotic, there does not seem…
+https://t.co/2f1GMddbdV
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084117143988461571
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084117143988461571
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....I do have a plan on the Shutdown. But to
+understand that plan you would have to understand the fact that I won…
+https://t.co/hu2uHx1GvU
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084119654841364480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084119654841364480
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: We have a massive Humanitarian Crisis at our
+Southern Border. We will be out for a long time unless the Democrats c…
+https://t.co/SgnYIlngkR
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084121557193146368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Stop the politics.
+Secure our border. 
+Build the
+wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/WhiteHouse/status/1084121575853445120
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084121557193146368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084121575853445120
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecPompeo: Good to be back in Abu Dhabi. Thanks to @USAinUAE
+for the warm welcome! Less than two years from now, the UAE will…
+https://t.co/iaizdkBWB3
+
+archiving URL http://twitter.com/SecPompeo/status/1084124624609259522
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPompeo/status/1084124624609259522
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecPompeo: Talked with General Miller about our dedicated
+military and civilian teams in #Afghanistan and efforts to support t…
+https://t.co/KmzLAyxhGf
+
+archiving URL http://twitter.com/SecPompeo/status/1084125821537841153
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPompeo/status/1084125821537841153
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: Stop the politics.
+Secure our
+border. 
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/JessicaDitto45/status/1084127812225847298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1084127812225847298
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Good to be back in Abu Dhabi.
+Thanks to @USAinUAE for the warm welcome! Less than two years from now, the UAE
+will host @exp…
+
+archiving URL http://twitter.com/statedeptspox/status/1084130232527921154
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084130232527921154
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Talked with General Miller about
+our dedicated military and civilian teams in #Afghanistan and efforts to support
+ the reconc…
+
+archiving URL http://twitter.com/statedeptspox/status/1084130244938878980
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084130244938878980
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Democrats should come back to
+Washington and work to end the Shutdown, while at the same time ending the
+horrible huma…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084135923409997825
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084135923409997825
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @Anna_Giaritelli: NEW -- @Scaramucci says Trump
+should take the hit and end the shutdown before it hurts the economy
+https://t.co/HcnQb…
+
+archiving URL http://twitter.com/Scaramucci/status/1084145939382788098
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1084145939382788098
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: https://t.co/Er5pi9q5DU
+
+archiving URL http://twitter.com/Scavino45/status/1084146280903913473
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1084146280903913473
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecPompeo: Just had a productive meeting with @MohamedBinZayed
+and @ABZayed. We discussed #Yemen peace talks, #Syria and more.…
+https://t.co/2tRQXtKwdk
+
+archiving URL http://twitter.com/SecPompeo/status/1084152175561981955
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPompeo/status/1084152175561981955
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Just had a productive meeting
+with @MohamedBinZayed and @ABZayed. We discussed #Yemen peace talks, #Syria and
+more. Thanks t…
+
+archiving URL http://twitter.com/statedeptspox/status/1084152674583539718
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084152674583539718
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDept: U.S. welcomes decision by
+#Macedonia’s Parliament to adopt constitutional amendments needed to ratify the
+Prespa Agreement w…
+
+archiving URL http://twitter.com/statedeptspox/status/1084152702421082112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084152702421082112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: https://t.co/3IH1yW2eTg
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084153087785349125
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084153087785349125
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: https://t.co/3IH1yW2eTg
+
+archiving URL http://twitter.com/Scavino45/status/1084153265242157058
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1084153265242157058
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: https://t.co/3IH1yW2eTg
+
+archiving URL http://twitter.com/WhiteHouse/status/1084155086782300161
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084155086782300161
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: Just as everyone in @CBP fights every day
+to keep our Nation safe, @POTUS and this Administration will keep fighting to
+BUILD THE W…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084158066726195201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084158066726195201
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: We’re going to get @CBP the support that it
+ needs. We’re going to build that wall. We’re going to get the resources @CBP
+needs to s…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084161340888018944
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084161340888018944
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: I have been FAR tougher on Russia
+than Obama, Bush or Clinton. Maybe tougher than any other President. At the same
+ tim…
+
+archiving URL http://twitter.com/POTUS/status/1084164143790387200
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: I have been FAR tougher on
+Russia than Obama, Bush or Clinton. Maybe tougher than any other President. At
+the same tim…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164152820678656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164143790387200
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164152820678656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Lyin’ James Comey, Andrew McCabe,
+Peter S and his lover, agent Lisa Page, &amp; more, all disgraced and/or fired
+and caugh…
+
+archiving URL http://twitter.com/POTUS/status/1084164193438314501
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164193438314501
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Democrats should come back to
+Washington and work to end the Shutdown, while at the same time ending the
+horrible huma…
+
+archiving URL http://twitter.com/POTUS/status/1084164266998009856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164266998009856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: 23% of Federal inmates are illegal
+immigrants. Border arrests are up 240%. In the Great State of Texas, between
+2011 &amp;…
+
+archiving URL http://twitter.com/POTUS/status/1084164303379402754
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: 23% of Federal inmates are
+illegal immigrants. Border arrests are up 240%. In the Great State of Texas,
+between 2011 &amp;…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164314783772673
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164303379402754
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164314783772673
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Democrats could solve the Shutdown
+in 15 minutes! Call your Dem Senator or Congresswoman/man. Tell them to get it
+done…
+
+archiving URL http://twitter.com/POTUS/status/1084164364117135361
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164364117135361
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Democrats could solve the
+Shutdown in 15 minutes! Call your Dem Senator or Congresswoman/man. Tell them to
+ get it done…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164371125886976
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164371125886976
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: I just watched a Fake reporter from
+ the Amazon Washington Post say the White House is “chaotic, there does not seem
+ to…
+
+archiving URL http://twitter.com/POTUS/status/1084164580375449600
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: I just watched a Fake reporter
+ from the Amazon Washington Post say the White House is “chaotic, there does not
+ seem to…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164588755664897
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164580375449600
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164588755664897
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: ....I do have a plan on the
+Shutdown. But to understand that plan you would have to understand the fact that
+ I won the…
+
+archiving URL http://twitter.com/POTUS/status/1084164624457629696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164624457629696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: ....I do have a plan on the
+Shutdown. But to understand that plan you would have to understand the fact that
+ I won the…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164635991990272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164635991990272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: We have a massive Humanitarian
+Crisis at our Southern Border. We will be out for a long time unless the
+Democrats come…
+
+archiving URL http://twitter.com/POTUS/status/1084164741596176384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164741596176384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: We have a massive Humanitarian
+ Crisis at our Southern Border. We will be out for a long time unless the
+Democrats come…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084164751729590273
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084164751729590273
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: https://t.co/3IH1yW2eTg
+
+archiving URL http://twitter.com/POTUS/status/1084164785267228672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: 3 pointer at the buzzer.  Headed to #overtime in
+@GeorgetownHoyas vs @PCFriarsmbb #GoFriars https://t.co/ItAXrU4e0P
+
+archiving URL http://twitter.com/seanspicer/status/1084164795178381313
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084164785267228672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1084164795178381313
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Cabinet: RT @WhiteHouse: Stop the politics.
+Secure our border.
+ 
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/Cabinet/status/1084165861991243776
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1084165861991243776
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @WhiteHouse: Stop the politics.
+Secure our
+border. 
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/WhiteHouse/status/1084165895117778952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084165895117778952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @VP: In the last month, there were nearly 10,000
+ more members of families &amp; unaccompanied children attempting to cross the
+border than w…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084167380639645697
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084167380639645697
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @WhiteHouse: Stop the politics.
+Secure our border.
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/POTUS/status/1084171358781820928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @WhiteHouse: Stop the politics.
+Secure our border.
+ 
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/PressSec/status/1084171363257061376
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084171358781820928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1084171363257061376
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @WhiteHouse: President Trump is committed to
+stopping the crisis at our border, but the Democrats have already left
+Washington. https://…
+
+archiving URL http://twitter.com/PressSec/status/1084171439148883968
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1084171439148883968
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @WhiteHouse: Stop the politics.
+Secure our border.
+Build the wall. https://t.co/gflnWOefF6
+
+archiving URL http://twitter.com/VP/status/1084171782595268608
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1084171782595268608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: Today, @SecPompeo met with
+@MohamedBinZayed and @ABZayed and thanked them for #UAE’s strong partnership
+with the U.S.…
+
+archiving URL http://twitter.com/statedeptspox/status/1084199125619494922
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084199125619494922
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: A Texas @CBP agent briefs President Trump and
+Homeland Security Secretary Kirstjen Nielsen on the crisis at the bor…
+https://t.co/dN9iEMMPKO
+
+archiving URL http://twitter.com/WhiteHouse/status/1084201665316687877
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084201665316687877
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: On January 13, @SecPompeo
+appears on @FaceTheNation with @margbrennan to discuss the latest from his
+Middle East trip,…
+
+archiving URL http://twitter.com/statedeptspox/status/1084205146161192960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084205146161192960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: “We know what the cost is to families . . . to our
+families, to our communities, to the country. We are here to ser…
+https://t.co/6u5oVIeG2e
+
+archiving URL http://twitter.com/WhiteHouse/status/1084205432707694592
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084205432707694592
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: The perfect day to see “To Kill a Mockingbird” on
+Broadway. Amazing cast and vital message: “All rise.” https://t.co/KIsjKpoqml
+
+archiving URL http://twitter.com/Comey/status/1084230920138301442
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1084230920138301442
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: The people of Venezuela, via their National
+Assembly, have given Maduro’s illegitimate regime an opportunity to ste…
+https://t.co/ZVtQM6bOnc
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1084230953696931843
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1084230953696931843
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: RT @KUSINews: KUSI stands by our original story.
+https://t.co/ErIk5jGugS
+
+archiving URL http://twitter.com/seanspicer/status/1084232982863450113
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1084232982863450113
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @WattersWorld: Are we any closer to an agreement
+ on the shutdown? .@Scaramucci and @KatrinaPierson react tonight.
+https://t.co/MFjjnn6WbB
+
+archiving URL http://twitter.com/Scaramucci/status/1084233119274680320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1084233119274680320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: if 30 @GOP members of Congress were hanging at the
+beach during a partial shutdown with lobbyists the media would b…
+https://t.co/biiJ9UeEqs
+
+archiving URL http://twitter.com/seanspicer/status/1084233937520656385
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1084233937520656385
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I will be interviewed by Jeanine Pirro at 9:00
+ P.M. on @FoxNews. Watch @JesseBWatters before and @greggutfeld after…
+https://t.co/ZGdntcwrzN
+
+archiving URL http://twitter.com/realDonaldTrump/status/1084263052617412609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1084263052617412609
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: I will be interviewed by
+Jeanine Pirro at 9:00 P.M. on @FoxNews. Watch @JesseBWatters before and
+@greggutfeld after. A…
+
+archiving URL http://twitter.com/WhiteHouse/status/1084263358335987717
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1084263358335987717
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: I will be interviewed by Jeanine
+Pirro at 9:00 P.M. on @FoxNews. Watch @JesseBWatters before and @greggutfeld
+after. A…
+
+archiving URL http://twitter.com/POTUS/status/1084265223689830400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1084265223689830400
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @SALTConference: Look forward to having Aaron
+Burr, Sir, at the @SALTConference #SALT2019! https://t.co/T93TtTuhHk
+
+archiving URL http://twitter.com/Scaramucci/status/1084268420978364416
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1084268420978364416
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: I love LA ⁦@BNBuzz⁩ https://t.co/Lf7Nk9FN4C
+
+archiving URL http://twitter.com/Scaramucci/status/1084286241678315520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1084286241678315520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Arrived in Qatar for the Qatar-U.S. Strategic
+Dialogue 🇺🇸🇶🇦 led by @SecPompeo and Qatar Minister of Foreign Affairs…
+https://t.co/g5id5pdzjK
+
+archiving URL http://twitter.com/EnergyDepSec/status/1084389801476923392
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1084389801476923392
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+530030308016783360,
+                       'id_str': '530030308016783360',
+
+                       'user_id': 52544275,
+'user_id_str': '52544275'},
+            'timestamp_ms': '1547373692844'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 530030308016783360 on
+ account IvankaTrump
+INFO: get_archived_tweet() called to get tweet ID 530030308016783360 for account
+ IvankaTrump
+INFO: requested tweet not found in relevant archive
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because IvankaTrump is not in the list
+ of accounts we tweet about
+
+
+New tweet from SecPompeo: Great to meet with students at NYU Abu Dhabi, who’ve
+ all come here for a first-class American education — one of ou…
+https://t.co/asLFICOV3S
+
+archiving URL http://twitter.com/SecPompeo/status/1084403398743674881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecPompeo/status/1084403398743674881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @SecPompeo: Great to meet with students at
+NYU Abu Dhabi, who’ve all come here for a first-class American education — one
+of our most im…
+
+archiving URL http://twitter.com/statedeptspox/status/1084403705942888448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1084403705942888448
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: The @POTUS economy is delivering more jobs and
+ higher wages for American workers:
+✅ 5 million new jobs since Novemb…
+https://t.co/ufPXIZbhyn
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1084419791052566528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1084419791052566528
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Co-chairing the Energy Cooperation session of the
+ Qatar-U.S. Strategic Dialogue with Qatar Petroleum’s Sheikh Misha…
+https://t.co/RUXMpYF67H
+
+archiving URL http://twitter.com/EnergyDepSec/status/1084439524862840835
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1084439524862840835
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: The US values Qatar as a key energy partner and
+the multiple dimensions of our energy relationship, including poten…
+https://t.co/50jJy0YnmW
+
+archiving URL http://twitter.com/EnergyDepSec/status/1084439811635773441
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1084439811635773441
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EnergyDepSec: Enjoyed meeting with Baker Hughes GE Chairman
+&amp; CEO @simonelli_l while in Doha to discuss their reliable and extens…
+https://t.co/XaECuP8oLv
+
+archiving URL http://twitter.com/EnergyDepSec/status/1084449292063031298
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EnergyDepSec/status/1084449292063031298
+    ... archiving using prefix http://web.archive.org/save/
