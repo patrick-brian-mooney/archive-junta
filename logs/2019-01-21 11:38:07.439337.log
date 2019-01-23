@@ -1,0 +1,885 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 21 January 2019 at 11:38
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1087178267893919744 for account
+@SecNielsen
+about to get all tweets newer than ID #1087350429661450242 for account
+@seanspicer
+about to get all tweets newer than ID #1087367991447207939 for account @FLOTUS
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1087378920016699392 for account @PressSec
+about to get all tweets newer than ID #1087107108082991104 for account
+@SecretarySonny
+about to get all tweets newer than ID #1084286241678315520 for account
+@Scaramucci
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1087119700771958785 for account
+@SecondLady
+about to get all tweets newer than ID #1087407235188342784 for account
+@statedeptspox
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1087327067396587522 for account
+@SecPompeo
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1086696438283816962 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1086738058102358016 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1086095963406692352 for account
+@mike_pence
+about to get all tweets newer than ID #1086749453116149763 for account
+@SecWilkie
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1086770948475441152 for account @Reince
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1080195496407388164
+    ...109 tweets downloaded so far
+about to get all tweets newer than ID #1087051504182353921 for account
+@Scavino45
+
+
+New tweet from NikkiHaley: Due to State Dept rules that were changed by the
+outgoing administration, I have had to clear my personal Twitter a…
+https://t.co/7W82xrjVGv
+
+archiving URL http://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1087197180056735745 for account
+@DanScavino
+about to get all tweets newer than ID #1087411996046344193 for account
+@WhiteHouse
+about to get all tweets newer than ID #1087415791732039680 for account
+@KellyannePolls
+
+archiving URL https://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619606 (char 619605)
+about to get all tweets newer than ID #1075817897048576001 for account @SBALinda
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1087157167101300736 for account
+@StephGrisham45
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Not authorized.
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1087384380392255489 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1087364193655767042 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1087400584066547713 for account
+@GovernorPerry
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1076185577513541632 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1087349499062829058 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1087367058864640000 for account
+@IvankaTrump
+about to get all tweets newer than ID #1087061537095856129 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1086736474182205440 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to parse JSON payload: Expecting value: line
+1 column 619565 (char 619564)
+about to get all tweets newer than ID #1087366161568677890 for account
+@AshLeeStrong
+about to get all tweets newer than ID #-1 for account @MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Not authorized.
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1087384817304518656 for account @VP
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1087380001077555201 for account @Comey
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1087365451015950341 for account
+@EnergyDepSec
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+about to get all tweets newer than ID #1087406401301954560 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1087420234351476740 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1087405987479384066 for account
+@realDonaldTrump
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1083859239184027648 for account
+@USTradeRep
+about to get all tweets newer than ID #1087400500864184320 for account
+@RealBenCarson
+about to get all tweets newer than ID #1076160473639333889 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1087412054754058241 for account @POTUS
+about to get all tweets newer than ID #1087379842797105154 for account @SecAzar
+... OK, we're set up, and about to watch 935148134505828353, 20776147,
+818876014390603776, 826065858548133888, 818927131883356161, 842072478834909184,
+24578794, 212262370, 822127086194348032, 1967216306, 6577802,
+988573326376427520, 105267762, 18916432, 828997388920619008, 22203756,
+1024390184090181633, 1923451808, 20733972, 827258161841135623, 37666984,
+823367015830323201, 620571475, 822215673812119553, 471672239,
+819992522109894658, 888031054141022209, 823638938590085124, 803703725730779136,
+832672006113931269, 118756393, 15985455, 108471631, 830128820447539208,
+18906561, 733751245, 836305915452272641, 819980276570976256, 728361177986797568,
+ 52544275, 920035992073064450, 818928162449068032, 296060169, 6672532,
+831482588246196225, 818910970567344128, 866746592853979137, 2334193741,
+798195585824104449, 65522706, 894923298374651904, 29547260, 2480087918,
+836724024688410625, 799764016885329921, 25073877, 809836066316451840,
+829782369670410240, 599530439, 986781648, 862405301693296640, 1180379185,
+828613457020870657, 822215679726100480, 956283913835614208
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3248
+more expected)', IncompleteRead(0 bytes read, 3248 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4096
+more expected)', IncompleteRead(0 bytes read, 4096 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from IvankaTrump: Remembering Dr. King #MLKday
+https://t.co/en0K5RxrE1
+
+archiving URL http://twitter.com/IvankaTrump/status/1087425173366730752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1087425173366730752
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3156
+more expected)', IncompleteRead(0 bytes read, 3156 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1419
+more expected)', IncompleteRead(0 bytes read, 1419 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1108
+more expected)', IncompleteRead(0 bytes read, 1108 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from VP: Today, we honor the life and legacy of Dr. Martin Luther
+King Jr., a great American leader whose faith &amp; courage mo…
+https://t.co/sDxUUMODxq
+
+archiving URL http://twitter.com/VP/status/1087434356241690624
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+archiving URL https://twitter.com/VP/status/1087434356241690624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from statedeptspox: RT @StateDeputySPOX: .@SecPompeo spoke today
+with @MevlutCavusoglu. The Secretary reiterated U.S. commitment to addressing
+Turkish security…
+
+archiving URL http://twitter.com/statedeptspox/status/1087435155143311360
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 6286
+more expected)', IncompleteRead(0 bytes read, 6286 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from seanspicer: RT @GOPChairwoman: Reverend Dr. Martin Luther King
+Jr. has inspired generations to remain undeterred as they fight for their
+American Dream…
+
+archiving URL http://twitter.com/seanspicer/status/1087437348374224896
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1087437348374224896
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4262
+more expected)', IncompleteRead(0 bytes read, 4262 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4096
+more expected)', IncompleteRead(0 bytes read, 4096 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 1741
+more expected)', IncompleteRead(0 bytes read, 1741 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from SecondLady: RT @VP: Today, we honor the life and legacy of Dr.
+Martin Luther King Jr., a great American leader whose faith &amp; courage moved
+our Nation t…
+
+archiving URL http://twitter.com/SecondLady/status/1087442288249266176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecondLady/status/1087442288249266176
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 4096
+more expected)', IncompleteRead(0 bytes read, 4096 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3822
+more expected)', IncompleteRead(0 bytes read, 3822 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from VP: RT @realDonaldTrump: Today, it was my great honor to visit
+the Martin Luther King Jr. Memorial with @VP Mike Pence, in honor of #MLKDay
+htt…
+
+archiving URL http://twitter.com/VP/status/1087444395157319681
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3970
+more expected)', IncompleteRead(0 bytes read, 3970 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from seanspicer: Getting it done! Amb @RichardGrenell ,
+@realDonaldTrump ‘a top ambassador, ‘delivers again,’ blocking #Iran
+Via…
+https://t.co/tIX7fP31NL
+
+archiving URL http://twitter.com/seanspicer/status/1087452789003993093
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1087452789003993093
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryCarson: “Let us therefore continue our triumphal march
+ to the realization of the American dream.”  - Rev Dr #MartinLutherKingJr
+#MLKDay 🇺🇸
+
+archiving URL http://twitter.com/SecretaryCarson/status/1087454102085386241
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1087454102085386241
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: .@USCG national security cutter just deployed to
+the Western Pacific in support of @INDOPACOM. I thank the men and…
+https://t.co/iD5K1qen7G
+
+archiving URL http://twitter.com/SecNielsen/status/1087454869542367238
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1087454869542367238
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: #MLKDay #MLK2019 https://t.co/EwVrsegLnU
+
+archiving URL http://twitter.com/Scavino45/status/1087459475269869568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1087459475269869568
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from EPAAWheeler: RT @realDonaldTrump: Today we celebrate Dr. Martin
+ Luther King, Jr. for standing up for the self-evident truth Americans hold so
+dear, that…
+
+archiving URL http://twitter.com/EPAAWheeler/status/1087464299277225986
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/EPAAWheeler/status/1087464299277225986
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: China posts slowest economic numbers since
+1990 due to U.S. trade tensions and new policies. Makes so much sense fo…
+https://t.co/tFiPVwbzYX
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087469381586771973
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087469381586771973
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: If Nancy Pelosi thinks that Walls are
+“immoral,” why isn’t she requesting that we take down all of the existing Wal…
+https://t.co/jcosq8R41e
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087472133230551040
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087472133230551040
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: Today’s action by the Maduro-controlled Supreme
+Court was a predictable and hollow act. The United States resolutel…
+https://t.co/fW8JvzHZYM
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1087473037153312775
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1087473037153312775
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: China posts slowest economic
+numbers since 1990 due to U.S. trade tensions and new policies. Makes so much
+sense for C…
+
+archiving URL http://twitter.com/POTUS/status/1087486490622472192
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: If Nancy Pelosi thinks that Walls
+are “immoral,” why isn’t she requesting that we take down all of the existing
+Walls…
+
+archiving URL http://twitter.com/POTUS/status/1087486495995453440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087486490622472192
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087486495995453440
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error HTTPSConnectionPool(host='stream.twitter.com',
+port=443): Read timed out.; sleeping and trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3356
+more expected)', IncompleteRead(0 bytes read, 3356 more expected)); sleeping and
+ trying again ...
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+902680228245504000,
+                       'id_str': '902680228245504000',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1548113337332'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 902680228245504000 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 902680228245504000 for account
+ AshLeeStrong
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/AshLeeStrong/s
+tatus/902680228245504000	RT @PhilipWegmann: lol do you Google bro? This is
+ridiculously fake. https://t.co/2od0gQ1ICD
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3895
+more expected)', IncompleteRead(0 bytes read, 3895 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 856
+more expected)', IncompleteRead(0 bytes read, 856 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from realDonaldTrump: Four people in Nevada viciously robbed and
+killed by an illegal immigrant who should not have been in our Country.…
+https://t.co/gbX7u2Kkr5
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087494416347074561
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087494416347074561
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Four people in Nevada
+viciously robbed and killed by an illegal immigrant who should not have been in
+our Country. 26…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087495044645433345
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Four people in Nevada viciously
+robbed and killed by an illegal immigrant who should not have been in our
+Country. 26…
+
+archiving URL http://twitter.com/POTUS/status/1087495065453453312
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: If Nancy Pelosi thinks that
+Walls are “immoral,” why isn’t she requesting that we take down all of the
+existing Walls…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087495090099105792
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: China posts slowest economic
+numbers since 1990 due to U.S. trade tensions and new policies. Makes so much
+sense for C…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087495120805613568
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087495044645433345
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087495090099105792
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087495065453453312
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087495120805613568
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3880
+more expected)', IncompleteRead(0 bytes read, 3880 more expected)); sleeping and
+ trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 3840
+more expected)', IncompleteRead(0 bytes read, 3840 more expected)); sleeping and
+ trying again ...
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Democrats are kidding
+themselves (they don’t really believe it!) if they say you can stop Crime,
+Drugs, Human Traffick…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087498289971449856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087498289971449856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Democrats are kidding themselves
+(they don’t really believe it!) if they say you can stop Crime, Drugs, Human
+Traffick…
+
+archiving URL http://twitter.com/POTUS/status/1087498314239672320
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087498314239672320
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SecAzar: Today, we honor Dr. King’s example
+of service and reflect on what each of us can do in our own way to serve our
+families, our…
+
+archiving URL http://twitter.com/DepSecHargan/status/1087509906524176384
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1087509906524176384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @Surgeon_General: Dreamer. Leader. Visionary.
+With his courageous course of actions Dr. #MartinLutherKingJr devoted his life
+to correcti…
+
+archiving URL http://twitter.com/DepSecHargan/status/1087509940607111168
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1087509940607111168
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecHargan: RT @SecretaryCarson: “Let us therefore continue
+our triumphal march to the realization of the American dream.”  - Rev Dr
+#MartinLutherKingJ…
+
+archiving URL http://twitter.com/DepSecHargan/status/1087509961977012224
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecHargan/status/1087509961977012224
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: Since @POTUS took office, @DHSgov has protected the
+ homeland by increasing the vetting of those coming into the cou…
+https://t.co/B1YhfsEZbS
+
+archiving URL http://twitter.com/SecNielsen/status/1087519047988756480
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1087519047988756480
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecNielsen: ...responding to historic natural disasters,
+countering the threat from weaponized drones and organizing the Depart…
+https://t.co/9Y7YMIUJeB
+
+archiving URL http://twitter.com/SecNielsen/status/1087519161532719104
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecNielsen/status/1087519161532719104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from seanspicer: Looking forward to it
+
+archiving URL http://twitter.com/seanspicer/status/1087529359328591872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1087529359328591872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: When Washington works, America wins.
+
+archiving URL http://twitter.com/IvankaTrump/status/1087530669339824128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1087530669339824128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Looking like Nick Sandman &amp; Covington
+Catholic students were treated unfairly with early judgements proving out to…
+https://t.co/8LX7du9nht
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087541961295314945
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087541961295314945
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DanScavino: “@realDonaldTrump has survived a coordinated
+campaign to defy him – Two years later he's achieved much of his agend…
+https://t.co/KcXwpmhbDp
+
+archiving URL http://twitter.com/DanScavino/status/1087546190621749248
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DanScavino/status/1087546190621749248
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Looking like Nick Sandman &amp;
+Covington Catholic students were treated unfairly with early judgements proving
+out to be…
+
+archiving URL http://twitter.com/POTUS/status/1087546857612562432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087546857612562432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Looking like Nick Sandman
+&amp; Covington Catholic students were treated unfairly with early judgements
+proving out to be…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087553052159209472
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087553052159209472
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @KayaJones: I want to show other
+celebrities who voted for @realDonaldTrump it’s ok to come forward. Better yet
+let’s show the world how…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087571368361840640
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087571368361840640
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: Praying for my friend @BretBaier and his family.
+The roads were horrible here in Montana today. Praise be to God th…
+https://t.co/Xzpv0EKchQ
+
+archiving URL http://twitter.com/AshLeeStrong/status/1087600085372784641
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1087600085372784641
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ("Connection broken: ConnectionResetError(104,
+'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by
+peer')); sleeping and trying again ...
+ERROR: 420
+ERROR: 420
+ERROR: 420
+WARNING: received error ("Connection broken: ConnectionResetError(104,
+'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by
+peer')); sleeping and trying again ...
+ERROR: 420
+
+
+New tweet from SecretaryAcosta: 32,000 new manufacturing jobs were created
+last month in the @POTUS economy. #MadeInAmerica 🇺🇸 https://t.co/PL6nweGCUH
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1087681524198244353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1087681524198244353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @IvankaTrump: When Washington works, America wins.
+ https://t.co/Bu7622m6Ai
+
+archiving URL http://twitter.com/PressSec/status/1087682318536462337
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1087682318536462337
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Nick Sandmann and the students of Covington
+have become symbols of Fake News and how evil it can be. They have capt…
+https://t.co/Xqt6wsGDjb
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087689415814795264
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087689415814795264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “The Democrats are playing politics with
+Border Security.”  @foxandfriends
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087690284027334656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087690284027334656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Nick Sandmann and the students
+ of Covington have become symbols of Fake News and how evil it can be. They have
+ captiva…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087691003648266240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087691003648266240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Nick Sandmann and the students of
+Covington have become symbols of Fake News and how evil it can be. They have
+captiva…
+
+archiving URL http://twitter.com/POTUS/status/1087691015895597056
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087691015895597056
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: “The Democrats are playing
+politics with Border Security.”  @foxandfriends
+
+archiving URL http://twitter.com/WhiteHouse/status/1087691028931510272
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087691028931510272
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: “The Democrats are playing politics
+ with Border Security.”  @foxandfriends
+
+archiving URL http://twitter.com/POTUS/status/1087691045373128704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087691045373128704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Without a Wall our Country can never have
+Border or National Security. With a powerful Wall or Steel Barrier, Crime…
+https://t.co/Kp7JYQsVPi
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087693453394432001
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087693453394432001
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Without a Wall our Country can
+ never have Border or National Security. With a powerful Wall or Steel Barrier,
+Crime Ra…
+
+archiving URL http://twitter.com/WhiteHouse/status/1087699725892108288
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: Without a Wall our Country can
+never have Border or National Security. With a powerful Wall or Steel Barrier,
+Crime Ra…
+
+archiving URL http://twitter.com/POTUS/status/1087699741608239106
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1087699725892108288
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1087699741608239106
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: FBI top lawyer confirms “unusual steps.” They
+relied on the Clinton Campaign’s Fake &amp; Unverified “Dossier,” which i…
+https://t.co/dcBi6r8MG3
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087700192864944128
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087700192864944128
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Marist/NPR/PBS Poll shows President Trump’s
+approval rating among Latinos going to 50%, an increase in one year of…
+https://t.co/JZpSEZnOCq
+
+archiving URL http://twitter.com/realDonaldTrump/status/1087702686936510465
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1087702686936510465
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+705463895478181889,
+                       'id_str': '705463895478181889',
+
+                       'user_id': 296060169,
+'user_id_str': '296060169'},
+            'timestamp_ms': '1548164697080'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 705463895478181889 on
+ account AshLeeStrong
+INFO: get_archived_tweet() called to get tweet ID 705463895478181889 for account
+ AshLeeStrong
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/AshLeeStrong/s
+tatus/705463895478181889	RT @PhilipWegmann: Standing ovation when @SpeakerRyan
+shows up at @CPAC. https://t.co/7lew3O6dKR
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because AshLeeStrong is not in the
+list of accounts we tweet about
+
+
+New tweet from seanspicer: Talking #shutdown with @Varneyco on @FoxBusiness
+coming up
+
+archiving URL http://twitter.com/seanspicer/status/1087714334904598534
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/seanspicer/status/1087714334904598534
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
