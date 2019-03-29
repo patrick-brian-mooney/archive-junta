@@ -1,0 +1,195 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 18 March 2019 at 15:45
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1105544488443883529 for account
+@SecWilkie
+about to get all tweets newer than ID #1107002042181185536 for account
+@GovernorPerry
+about to get all tweets newer than ID #1107732157500481537 for account
+@SecNielsen
+about to get all tweets newer than ID #-1 for account @jaredkushner
+ERROR: unable to get tweets for account @jaredkushner
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107738472243228677 for account
+@SecretaryPerry
+getting all tweets before ID #1062845400510595072
+    ...400 tweets downloaded so far
+
+
+New tweet from SecretaryPerry: Today we to celebrate a partnership, not simply
+ between @ENERGY, Intel, and Cray, but between two distinct branches…
+https://t.co/dxLLB9tnae
+
+archiving URL http://twitter.com/SecretaryPerry/status/1107753545347055618
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1103993441854390272 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/SecretaryPerry/status/1107753545347055618
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1107371022586531840 for account
+@SecretaryRoss
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1107707195205001217 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #1104906034987048961 for account
+@MattWhitaker46
+about to get all tweets newer than ID #1107687361230573569 for account
+@SecretarySonny
+about to get all tweets newer than ID #1107743648492519425 for account
+@SecretaryAcosta
+getting all tweets before ID #1066330900252827647
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107673479103553538 for account
+@KellyannePolls
+getting all tweets before ID #1059080256391397378
+    ...395 tweets downloaded so far
+
+
+New tweet from KellyannePolls: There are more people than this in my house
+every night for dinner. https://t.co/tatwrUOmDH
+
+archiving URL http://twitter.com/KellyannePolls/status/1107753909400100864
+about to get all tweets newer than ID #1107167177281429504 for account
+@AshLeeStrong
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/KellyannePolls/status/1107753909400100864
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1107763861522915328 for account @Cabinet
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1107714757723860992 for account
+@EnergyDepSec
+about to get all tweets newer than ID #1107726967305056256 for account
+@IvankaTrump
+about to get all tweets newer than ID #1107064356364263426 for account @PressSec
+about to get all tweets newer than ID #1107757465691656192 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1107760985488551936 for account
+@WhiteHouse
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1107711895447003137 for account @SecAzar
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1106614992051290112 for account @SBALinda
+about to get all tweets newer than ID #1106996027414982656 for account
+@Scavino45
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1107737516705267713 for account
+@StephGrisham45
+about to get all tweets newer than ID #1107770215939608576 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107343827344465920 for account
+@SpeakerRyan
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1107738258883125248 for account @VP
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1106605052477800448 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1107753182552297472 for account
+@DepSecHargan
+about to get all tweets newer than ID #1107732939725512706 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1106715255827324930 for account
+@DanScavino
+about to get all tweets newer than ID #1107761920306790407 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1107285578725449730 for account
+@SecondLady
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1107721321079885824 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107252787849711617 for account
+@statedeptspox
+about to get all tweets newer than ID #1103053493877833728 for account @Reince
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+ERROR: unable to get tweets for account @DepSecDef
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107443500386316288 for account @Comey
+about to get all tweets newer than ID #1104129635846184963 for account
+@mike_pence
+about to get all tweets newer than ID #1107767812452483072 for account
+@SecPompeo
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1106573866141405184 for account
+@USTradeRep
+ERROR: unable to get tweets for account @USTradeRep
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107761090660876288 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 839996 (char 839995)
+about to get all tweets newer than ID #1107455992755822599 for account
+@AmbJohnBolton
+ERROR: unable to get tweets for account @AmbJohnBolton
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107333089326497794 for account
+@seanspicer

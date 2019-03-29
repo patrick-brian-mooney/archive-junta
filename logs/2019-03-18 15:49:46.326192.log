@@ -1,0 +1,318 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 18 March 2019 at 15:49
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1106715255827324930 for account
+@DanScavino
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1107738258883125248 for account @VP
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1107711895447003137 for account @SecAzar
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1107749762403586049 for account
+@BetsyDeVosED
+getting all tweets before ID #981639062451781631
+    ...400 tweets downloaded so far
+
+
+New tweet from BetsyDeVosED: RT @SenatorRounds: I appreciate @BetsyDevosED
+@realDonaldTrump’s efforts to reform @usedgov. I look forward to working w/ the
+administratio…
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1107761920306790407
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1106614992051290112 for account @SBALinda
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1107761920306790407
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1104906034987048961 for account
+@MattWhitaker46
+about to get all tweets newer than ID #1107707195205001217 for account @FLOTUS
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107167177281429504 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1107753182552297472 for account
+@DepSecHargan
+about to get all tweets newer than ID #1107760985488551936 for account
+@WhiteHouse
+about to get all tweets newer than ID #1107443500386316288 for account @Comey
+about to get all tweets newer than ID #1107721321079885824 for account
+@Scaramucci
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1107763861522915328 for account @Cabinet
+about to get all tweets newer than ID #1107726967305056256 for account
+@IvankaTrump
+about to get all tweets newer than ID #1107285578725449730 for account
+@SecondLady
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1107710997677125633 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1107252787849711617 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1107002042181185536 for account
+@GovernorPerry
+about to get all tweets newer than ID #1107763213960179712 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+ERROR: unable to get tweets for account @DepSecDef
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1107455992755822599 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1107766327249420289 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1086735359084498949
+    ...287 tweets downloaded so far
+getting all tweets before ID #1080195496407388164
+    ...287 tweets downloaded so far
+about to get all tweets newer than ID #1107343827344465920 for account
+@SpeakerRyan
+
+
+New tweet from NikkiHaley: Due to State Dept rules that were changed by the
+outgoing administration, I have had to clear my personal Twitter a…
+https://t.co/7W82xrjVGv
+
+archiving URL http://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107757465691656192 for account
+@realDonaldTrump
+
+archiving URL https://twitter.com/NikkiHaley/status/1080195496407388165
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @AmbNikkiHaley: As we enter 2019, I feel blessed
+ to have had the opportunity to rep the country I love so much. Thank you Mr.
+President…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080201299294076929
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080201299294076929
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: We celebrated 2018 with a bang. Wishing all of you
+a Happy New Year of love, health, and laughter. https://t.co/s7s1JZfLT4
+
+archiving URL http://twitter.com/NikkiHaley/status/1080206866368606208
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080206866368606208
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: Thanks @benshapiro! https://t.co/egCN083Zfm
+
+archiving URL http://twitter.com/NikkiHaley/status/1080213222244995073
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1103662776424132607
+
+archiving URL https://twitter.com/NikkiHaley/status/1080213222244995073
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @jaketapper: Haley spokeswoman confirms this is
+the new account — https://t.co/smGDmPbia3
+
+archiving URL http://twitter.com/NikkiHaley/status/1080214056521424897
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1104129635846184963 for account
+@mike_pence
+
+archiving URL https://twitter.com/NikkiHaley/status/1080214056521424897
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @KatMcKinley: New account for Nikki!! Follow!!
+@NikkiHaley 😁😁😁 https://t.co/xFbPblqy5T
+
+archiving URL http://twitter.com/NikkiHaley/status/1080214267486453762
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080214267486453762
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @charliekirk11: Stupid government rule made
+@NikkiHaley delete her Twitter account and lose all her followers she earned
+over 8+ years…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080215717478318080
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1106996027414982656 for account
+@Scavino45
+
+archiving URL https://twitter.com/NikkiHaley/status/1080215717478318080
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @KassyDillon: Hey everyone! @NikkiHaley has a
+new account. Go follow it. I can’t wait to see what she does next.
+
+archiving URL http://twitter.com/NikkiHaley/status/1080215815285366795
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080215815285366795
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @_BradleyStein_: If you follow ⁦@NikkiHaley,⁩ be
+ sure to refollow her now, as ⁦@StateDept⁩ has archived her old account. That is
+ all. ht…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080217117671256067
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080217117671256067
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+
+
+New tweet from NikkiHaley: RT @Scaramucci: "Everyone, please follow Ambassador
+ Haley's new account @NikkiHaley. I thank her for her tremendous service to our
+country!"
+
+archiving URL http://twitter.com/NikkiHaley/status/1080217574103810053
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080217574103810053
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @KyleKashuv: Everyone go follow our great, sadly
+ now, (former) UN Ambassador @NikkiHaley
+
+America thanks you for your
+exceptional fortit…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080219987372068865
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080219987372068865
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: [{'code': 34, 'message': 'Sorry, that page does not
+exist.'}]
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+
+
+New tweet from NikkiHaley: RT @guypbenson: Proud to re-follow @NikkiHaley, who
+ had to re-start her account after leaving her post as our strong ambassador to
+the UN.…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080221443407966214
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080221443407966214
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+
+
+New tweet from NikkiHaley: RT @IvankaTrump: Thank you @nikkihaley - we will be
+ rooting for you as you begin your next exciting chapter!
+https://t.co/vyzu7HIOeQ
+
+archiving URL http://twitter.com/NikkiHaley/status/1080222347783819265
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/NikkiHaley/status/1080222347783819265
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @AutumnDawnPrice: @NikkiHaley happy to re-
+follow. Thank you for your service as U.N. Ambassador. You have always been a
+role model to me…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080223187504414727
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1107064356364263426 for account @PressSec
+
+archiving URL https://twitter.com/NikkiHaley/status/1080223187504414727
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @RyanAFournier: The State Department requires
+all outgoing senior roles to archive their Twitter accounts / go follow
+@NikkiHaley on her…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080227538188816384
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1103993441854390272 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/NikkiHaley/status/1080227538188816384
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @jdgreenblatt45: Thank you @nikkihaley for your
+great service to our country, your leadership, friendship and courage. You will
+be misse…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080238169889619969
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1103053493877833728 for account @Reince
+
+archiving URL https://twitter.com/NikkiHaley/status/1080238169889619969
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from NikkiHaley: RT @seanspicer: Ambassador @NikkiHaley has started
+out 2019 with a new Twitter handle    Please follow and thank her for her
+service to our…
+
+archiving URL http://twitter.com/NikkiHaley/status/1080238461876166656
+    ... archiving using prefix http://web.archive.org/save/

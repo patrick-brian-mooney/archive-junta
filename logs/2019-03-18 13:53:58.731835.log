@@ -1,0 +1,300 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-7-686-pae', version='#1 SMP Debian 3.16.59-1 (2018-10-03)', machine='i686')
+This log was begun Monday, 18 March 2019 at 13:54
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107661539795001345 for account
+@IvankaTrump
+getting all tweets before ID #1087425173366730751
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 905149 (char 905148)
+about to get all tweets newer than ID #1107371022586531840 for account
+@SecretaryRoss
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1107064356364263426 for account @PressSec
+about to get all tweets newer than ID #1107673479103553538 for account
+@KellyannePolls
+about to get all tweets newer than ID #1107711895447003137 for account @SecAzar
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107443500386316288 for account @Comey
+ERROR: unable to get tweets for account @Comey
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1106646960197550080 for account
+@SecretaryCarson
+getting all tweets before ID #1064912770662113279
+    ...400 tweets downloaded so far
+about to get all tweets newer than ID #1107711013602906112 for account
+@WhiteHouse
+
+
+New tweet from SecretaryCarson: Wonderful working with @FLOTUS and the
+Administration which places such a high premium on helping young people.
+https://t.co/IJ4VrtQufw
+
+archiving URL http://twitter.com/SecretaryCarson/status/1107732939725512706
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryCarson/status/1107732939725512706
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1104906034987048961 for account
+@MattWhitaker46
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #1107710997677125633 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107723490914942976 for account
+@SecPompeo
+about to get all tweets newer than ID #1107285578725449730 for account
+@SecondLady
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+about to get all tweets newer than ID #1106614992051290112 for account @SBALinda
+about to get all tweets newer than ID #1107343827344465920 for account
+@SpeakerRyan
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+ERROR: unable to get tweets for account @jeffsessions
+           the system said: Failed to send request: ('Connection aborted.',
+BadStatusLine("''",))
+about to get all tweets newer than ID #1106605052477800448 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #1107597730044612608 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1107455992755822599 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1107333089326497794 for account
+@seanspicer
+about to get all tweets newer than ID #1103053493877833728 for account @Reince
+about to get all tweets newer than ID #1107693595723739137 for account
+@Scaramucci
+getting all tweets before ID #1096434387275542528
+    ...398 tweets downloaded so far
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+
+New tweet from Scaramucci: RT @SALTConference: 50 days to #SALT2019 - Join for
+ discussions aimed at connecting the world's investable wealth to it's most
+pressing cha…
+
+archiving URL http://twitter.com/Scaramucci/status/1107719131581825024
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1107719131581825024
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @SALTConference: Tech icon Steve Case believes
+he can help even out the playing field for entrepreneur in forgotten American
+cities. Lea…
+
+archiving URL http://twitter.com/Scaramucci/status/1107721321079885824
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1107721321079885824
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1107002042181185536 for account
+@GovernorPerry
+about to get all tweets newer than ID #1106715255827324930 for account
+@DanScavino
+about to get all tweets newer than ID #1104129635846184963 for account
+@mike_pence
+about to get all tweets newer than ID #1107738258883125248 for account @VP
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1105544488443883529 for account
+@SecWilkie
+about to get all tweets newer than ID #1106573866141405184 for account
+@USTradeRep
+about to get all tweets newer than ID #1107252787849711617 for account
+@statedeptspox
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #1107713955458441216 for account
+@BetsyDeVosED
+getting all tweets before ID #981591128662269951
+    ...400 tweets downloaded so far
+
+
+New tweet from BetsyDeVosED: Must-read from @dyrnwyn: “The 'best' ed in
+America is always purchased...occasionally w/ tuition, more often w/ a m…
+https://t.co/n0tfwqdacn
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1107745503176024065
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1107745503176024065
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: The Higher ed reform principles released
+w/@WhiteHouse today --simplifying loan repayment, Pell expansion, streamli…
+https://t.co/Wa1wtHFNLI
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1107747586390278150
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1107747586390278150
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from BetsyDeVosED: RT @WhiteHouse: High-quality training for high-
+demand fields. Pathways to finish school faster. Tools for career success
+without the crushi…
+
+archiving URL http://twitter.com/BetsyDeVosED/status/1107749762403586049
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/BetsyDeVosED/status/1107749762403586049
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1107714757723860992 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107167177281429504 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1107687361230573569 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1103993441854390272 for account
+@RealBenCarson
+about to get all tweets newer than ID #1107707195205001217 for account @FLOTUS
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1086063678745731071
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1106996027414982656 for account
+@Scavino45
+about to get all tweets newer than ID #1106958554492219393 for account @Cabinet
+getting all tweets before ID #1067823690346373119
+    ...400 tweets downloaded so far
+
+
+New tweet from Cabinet: RT @SecretaryCarson: Wonderful working with @FLOTUS
+and the Administration which places such a high premium on helping young people.
+ https:…
+about to get all tweets newer than ID #1107747850845331456 for account
+@realDonaldTrump
+
+archiving URL http://twitter.com/Cabinet/status/1107750035834523650
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Cabinet/status/1107750035834523650
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1107748043535904770 for account @POTUS
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+ERROR: unable to get tweets for account @DepSecDef
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1107685624235073537 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #1107737516705267713 for account
+@StephGrisham45
+about to get all tweets newer than ID #1059291259859275777 for account
+@Linda_McMahon
+about to get all tweets newer than ID #1107732157500481537 for account
+@SecNielsen
+about to get all tweets newer than ID #1107738472243228677 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+ERROR: unable to get tweets for account @WilburRoss
+           the system said: Failed to send request: EOF occurred in violation of
+ protocol (_ssl.c:600)
+... OK, we're set up, and about to watch 798195585824104449, 105267762,
+52544275, 836305915452272641, 599530439, 818927131883356161, 471672239,
+956283913835614208, 831482588246196225, 888031054141022209, 2334193741,
+828613457020870657, 822215673812119553, 6672532, 29547260, 836724024688410625,
+988573326376427520, 822127086194348032, 832672006113931269, 827258161841135623,
+819992522109894658, 18916432, 986781648, 799764016885329921, 819980276570976256,
+ 118756393, 20776147, 20733972, 24578794, 829782369670410240, 18906561,
+620571475, 22203756, 818910970567344128, 733751245, 1923451808, 15985455,
+108471631, 1024390184090181633, 862405301693296640, 1967216306, 6577802,
+828997388920619008, 866746592853979137, 728361177986797568, 894923298374651904,
+296060169, 842072478834909184, 1180379185, 818876014390603776, 37666984,
+823367015830323201, 818928162449068032, 25073877, 822215679726100480,
+803703725730779136, 212262370, 826065858548133888, 2480087918,
+920035992073064450, 823638938590085124, 65522706, 935148134505828353,
+830128820447539208, 809836066316451840
+ERROR: 420
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+ERROR: 420
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
+WARNING: received error ('Connection broken: IncompleteRead(0 bytes read, 512
+more expected)', IncompleteRead(0 bytes read, 512 more expected)); sleeping and
+trying again ...
