@@ -1,0 +1,991 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='3.16.0-8-686-pae', version='#1 SMP Debian 3.16.64-2 (2019-04-01)', machine='i686')
+This log was begun Wednesday, 01 May 2019 at 00:01
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1120009036341088259 for account
+@GovernorPerry
+about to get all tweets newer than ID #1122661605110468609 for account
+@stevenmnuchin1
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+about to get all tweets newer than ID #1123374162037420033 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to parse JSON payload: Expecting property
+name enclosed in double quotes: line 1 column 619431 (char 619430)
+about to get all tweets newer than ID #-1 for account @jaredkushner
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1123326479549587462 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #1123383926565810177 for account
+@SecretarySonny
+about to get all tweets newer than ID #1122915735959998465 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1123180553149325312 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1123418732968148992 for account
+@Scavino45
+about to get all tweets newer than ID #1122481452107616256 for account @Reince
+about to get all tweets newer than ID #1123377600318119936 for account @FLOTUS
+about to get all tweets newer than ID #1123351994696110080 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1123415213062197249 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1123332335741689856 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619507 (char 619506)
+about to get all tweets newer than ID #1116735612898414597 for account @SBALinda
+about to get all tweets newer than ID #1123418225797140480 for account
+@SecPompeo
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+about to get all tweets newer than ID #1108499258691538944 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Not authorized.
+about to get all tweets newer than ID #1123224498948452352 for account
+@USTradeRep
+about to get all tweets newer than ID #1115755187258515458 for account
+@SecNielsen
+about to get all tweets newer than ID #1123386332728954881 for account
+@EnergyDepSec
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #1123418411059556352 for account
+@statedeptspox
+about to get all tweets newer than ID #1123414050858315779 for account @POTUS
+about to get all tweets newer than ID #1123391271274536961 for account
+@AmbJohnBolton
+about to get all tweets newer than ID #1119926934102859776 for account
+@RealBenCarson
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+about to get all tweets newer than ID #1121757134050426882 for account
+@MattWhitaker46
+about to get all tweets newer than ID #1123378063595769858 for account
+@StephGrisham45
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 619431 (char 619430)
+about to get all tweets newer than ID #1123254913247481856 for account
+@AshLeeStrong
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1097604222558920703
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to parse JSON payload: Unterminated string
+starting at: line 1 column 611027 (char 611026)
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1123392827134812160 for account
+@DepSecHargan
+about to get all tweets newer than ID #1123359569072349186 for account @PressSec
+about to get all tweets newer than ID #1122315136096772096 for account
+@DanScavino
+about to get all tweets newer than ID #1122165090046943239 for account @Comey
+about to get all tweets newer than ID #1123395109742100480 for account @Cabinet
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+ERROR: unable to get tweets for account @DepSecDef
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1123366738463162368 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1121782701089001472 for account
+@mike_pence
+about to get all tweets newer than ID #1123396532970115072 for account
+@KellyannePolls
+about to get all tweets newer than ID #1113983369505853440 for account
+@Linda_McMahon
+about to get all tweets newer than ID #-1 for account @ElaineChao
+about to get all tweets newer than ID #1122866131088416768 for account
+@SecWilkie
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+about to get all tweets newer than ID #1123400682869018624 for account
+@WhiteHouse
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1123425761657065472 for account
+@seanspicer
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to parse JSON payload: Expecting ','
+delimiter: line 1 column 611099 (char 611098)
+about to get all tweets newer than ID #1123363056850014208 for account
+@Scaramucci
+about to get all tweets newer than ID #1123342655759503363 for account @VP
+about to get all tweets newer than ID #1123390791441891328 for account @SecAzar
+about to get all tweets newer than ID #1123407572588011520 for account
+@IvankaTrump
+... OK, we're set up, and about to watch 829782369670410240, 803703725730779136,
+ 18906561, 799764016885329921, 108471631, 822127086194348032, 29547260,
+831482588246196225, 828997388920619008, 842072478834909184, 828613457020870657,
+819980276570976256, 826065858548133888, 832672006113931269, 823367015830323201,
+20733972, 818876014390603776, 830128820447539208, 836724024688410625,
+836305915452272641, 819992522109894658, 988573326376427520, 599530439, 18916432,
+ 798195585824104449, 862405301693296640, 935148134505828353, 894923298374651904,
+ 986781648, 1967216306, 822215679726100480, 118756393, 1180379185, 15985455,
+6672532, 823638938590085124, 827258161841135623, 296060169, 37666984,
+728361177986797568, 888031054141022209, 920035992073064450, 818927131883356161,
+620571475, 2334193741, 818928162449068032, 2480087918, 25073877, 22203756,
+471672239, 65522706, 105267762, 1024390184090181633, 866746592853979137,
+822215673812119553, 809836066316451840, 6577802, 212262370, 733751245, 20776147,
+ 1923451808, 24578794, 818910970567344128, 956283913835614208, 52544275
+
+
+New tweet from stevenmnuchin1: .@USTradeRep Ambassador Lighthizer and I just
+concluded productive meetings with China’s Vice Premier Liu He. We wi…
+https://t.co/N72kKMDL2x
+
+archiving URL http://twitter.com/stevenmnuchin1/status/1123494606656692226
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/stevenmnuchin1/status/1123494606656692226
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I’ve done more for Firefighters than this dues
+ sucking union will ever do, and I get paid ZERO!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526475481800704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @dpparadis123: @dbongino My neighbor is a
+fireman and he loves trump
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526535363870721
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526475481800704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526535363870721
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @icemanTom: @dbongino I’m a firefighter and
+ I don’t endorse Joe Biden   My vote goes to President Donald Trump!!!!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526617157054464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @ro18007212: @dbongino I have fire fighter
+friends and they support Trump.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526640745820162
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526617157054464
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @OrzechEd: @dbongino Im a firefighter and
+im NOT voting for Joe.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526691803078656
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526640745820162
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @TheKevinNash61: @dbongino None.  We are
+all pissed about this.  I have withdrawn my support for firePAC
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526724430499840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @mitchraider60: @dbongino How any
+firefighter in NY can support any Dem is disgusting after DiBlasio went to the
+G2 last year to rip our…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526767770329088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526691803078656
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JimmyMac233: @dbongino Agreed Dan. NYC FD
+inions haven’t made a peep but the known rank and file are Trump guys.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526802859798528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526767770329088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @jcoreybates: @dbongino 👈🏼 This career
+firefighter will not be voting for any Democrat on the ticket. I will be voting
+for @POTUS again.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526867816988672
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526724430499840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @G4TTO21: @dbongino My father is a fireman
+and his entire firehouse loves Trump
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123526933952831493
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526802859798528
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526933952831493
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123526867816988672
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @TGrande7: @dbongino All firefighters I
+work with said 
+No way !!!!!! 
+Fake News
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527458802884608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @CwElliott2: @dbongino You are correct,
+100%, Dan.  A bunch of us have been talking, and this is just the DNC buying and
+ paying for the…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527513160994816
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527458802884608
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JA_Loans: @dbongino Does he know 90% of
+the Firemen’s retirement is dependent on the US Economy and invested in US
+Stock? Do not think…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527601300168704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527513160994816
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @wadar1969: @dbongino The union bureaucrats
+ endorse him but the due paying members don’t, and they wonder why unions are
+getting smaller…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527649882771456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @QuaglianoJohn: @dbongino Roger
+that....firefighters will vote Trump! The union may not be representing its
+membership appropriately in…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527691133693952
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527601300168704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @mscrosswi: @dbongino Nowhere have I heard
+the firefighters were supporting Joe Biden. The leadership of the firefighters
+union, on the…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527736025395201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527649882771456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527691133693952
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @woofeous: @dbongino "Over Charging Union
+Dues Alert". Dan, how about Union leadership opening up books to own members
+since they have s…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527812596609029
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527736025395201
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @joelle_palombo: @dbongino This fire family
+ does NOT support Joe Biden for President. #TRUMP2020🇺🇸
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527850928353280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527812596609029
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Korryb: @dbongino I certainly won't be
+voting for this guy!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123527928174739456
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527850928353280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Daniel4SCBoone: @dbongino I bet if someone
+ did a fireman’s poll, President Trump would win by a landslide.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528001285754881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123527928174739456
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JeffreyKStewart: @dbongino Just the union
+leadership supports Biden. Members support Trump. This applies to most unions.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528038208159744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528001285754881
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @bobahide: @dbongino Not I
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528092675444736
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @wargs8: @dbongino Fact!!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528099151454209
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528038208159744
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528092675444736
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528099151454209
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JeffNeely11: @dbongino No, we don't
+support Crazy Joe!! And our members in our Local are up in arms!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528858165235713
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528858165235713
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @cmd629: @dbongino Yea right, until they
+get in the voting booth!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528958140719105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Bones_zoom: @dbongino He has NO chance.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123528973290561546
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JoanWil57769727: @dbongino Well there
+could be a small group of Obama people, anyone in his right mind would not
+support Joe Biden
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529010657529856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @clintwelborn1: @dbongino Happy im not a
+member of IAFF anymore
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529034292506624
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528958140719105
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @HikeAmerica440: @dbongino None that I know
+ of in my home town either
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529057285693442
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123528973290561546
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529010657529856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529034292506624
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @LisaLimaaa: @dbongino Shouldn't the
+fireman have a say?
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529113669599232
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529057285693442
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Kimberl40855897: @dbongino The rank and
+file know who has their back and remember no one knows who you vote for !
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529182036746240
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @CurtisVincent5: @dbongino This firefighter
+ won’t be voting for creepy @JoeBiden
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529240748675072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529182036746240
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529113669599232
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @23Mcguire: @dbongino Not 🙋🏻‍♂️nor my
+brother
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529292237897728
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529292237897728
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @broncolee70: @dbongino @KurtSchlichter
+That’s why I am not in the IFFA. Don’t want my $$$ going to dems
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529362249256960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529240748675072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529362249256960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Steverefresh: @dbongino They will take
+union dues from trump voters and give to creepy though
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529503677067264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @mw_canterbury: @dbongino This is why more
+lawsuits are going to presented by union members because of misrepresentation by
+ the top eche…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529541958418432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529503677067264
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @BradyBbum1957: @dbongino When the union
+backs you but the people in the union don’t
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529579631656960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529541958418432
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529579631656960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Scooter172: @dbongino The fire fighters
+union bosses are endorsing a failure.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529634614861826
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @GWKohn1: @dbongino None of the MEN I know
+are either.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529731352223746
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @VanhortonM: @dbongino Smoke and mirrors
+Biden.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529772355788803
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529634614861826
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529731352223746
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @chrisgogarty: @dbongino Add me to your
+list Dan. I am furious that the board would make such an announcement without
+even taking the me…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529840727142400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529772355788803
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @JCryptoseed: @dbongino Never Supporting a
+Fireman's Ball again...
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123529863267323905
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529840727142400
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123529863267323905
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @firemanbrawls: @dbongino I know a couple
+in my department. Granted I am in Alabama but most of the firefighters I talk to
+ are voting @r…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123530270362173440
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123530270362173440
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @blinddog007: @dbongino I know  the police
+officers Union is backing Donald Trump...I back the blue #bluelivesmatter
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123530309931360256
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @KRobbio: @dbongino He used there dues when
+ they  support trump
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123530415137067008
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123530309931360256
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123530415137067008
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @flamingoHeels: @dbongino Joe Biden is not
+even his party’s candidate yet. Firemen 🚒 can’t say they endorse him. He may not
+ even be on b…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123530650903097345
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123530650903097345
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @RealDanKida: @dbongino The Unions have
+become Corporations representing themselves, Our President represents the
+people. #MAGA @realDon…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123530816225722370
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123530816225722370
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @gIamourizes: @dbongino My husband a New
+York City firefighter for 15 years will be voting Trump 2020 all the way!!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531015509762048
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @harrypeterson_: @dbongino It doesn’t
+matter who they endorse, the only person winning in 2020 is President Trump!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531059801489409
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531015509762048
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531059801489409
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @kshaferus: @dbongino This statement is
+like so many others—liberal lies. Why would the military or emergency workers
+support a candidat…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531153707868162
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531153707868162
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @mr36561: @dbongino Stick in the eye by
+union...Trump has worked very hard for our first responders and union
+members...fighting very ha…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531496374063104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @OmastaSkip: @dbongino As a retired FF I
+know that the majority of the rank and file are conservative or moderate and DO
+NOT support lib…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531572563578882
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531496374063104
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @tedbartley: @dbongino As a retired
+Firefighter, I can only speak for my fellow retirees,and I can assure you NONE
+of us support him,OR…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531626061938688
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531572563578882
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @TheDJDaniel01: @dbongino Why would any
+firefighter of service vote for him? @realDonaldTrump is the way to go.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531711353118720
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531626061938688
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @gr84u2c: @dbongino @DebbieB1230 Lousy
+choice
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531763651891201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531711353118720
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @BIGGeorgeAZ: @dbongino Nope not me either.
+ I’m not voting for crazy Joe. My support is behind @realDonaldTrump in 2020!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531812964376576
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @proudtexanbrew: @dbongino I’m a retired
+volunteer firefighter and I’d be PISSED if my dues were going to this
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531848343224322
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531763651891201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531812964376576
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531848343224322
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @Jrag19601: @dbongino The ONLY reason why
+Joe Biden is able to get into this race is he knows for a fact that the democrat
+ media will ne…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531933898743809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @TomLewi86961554: @dbongino Im a
+Firefighter and I’m a YUGE trump supporter! I got banned from the IAFF web.
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123531974751203328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531974751203328
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123531933898743809
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @ScottBepler: @dbongino 24 years plus
+firefighter here,&amp; there’s no chance Biden is my choice. #NoMoJoe  Actually,
+ no one on the left ha…
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123532045626630144
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: RT @saulpavsr: @dbongino I cannot wait to vote
+ for the greatest president ever
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123532065956298752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123532065956298752
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123532045626630144
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1123528099151454209,
+                       'id_str': '1123528099151454209',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1556706466721'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1123528099151454209
+on account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 1123528099151454209 for
+account realDonaldTrump
+ERROR: unable to read line "['7"']" because: need more than 1 value to unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/1123528099151454209	RT @wargs8: @dbongino Fact!!
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from realDonaldTrump: “The Democrats can’t come to grips with the
+fact that there was No Collusion, there was No Conspiracy, there was No…
+https://t.co/VhDOammML9
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123536601462788096
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123536601462788096
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: I am overriding the Decommission Order of the
+magnificent aircraft carrier Harry S. Truman, built in 1998 (fairly n…
+https://t.co/1v3Rv3csjZ
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123540207104667649
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123540207104667649
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Gallup Poll: 56% of Americans rate their
+financial situation as excellent or good. This is the highest number since…
+https://t.co/shw5rCYkIs
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123542897960390657
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123542897960390657
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from SecretaryAcosta: With 7.1 million job openings, job openings
+have exceeded job seekers for one year. @POTUS https://t.co/Uv5YtlXEAm
+
+archiving URL http://twitter.com/SecretaryAcosta/status/1123542942713569280
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/SecretaryAcosta/status/1123542942713569280
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: “No President in history has endured such
+vicious personal attacks by political opponents. Still, the President’s r…
+https://t.co/ggPAZWkqbn
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123545524924223491
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123545524924223491
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AmbJohnBolton: The majority of Venezuelans and the leading
+democracies in the region have called for the exit of foreign security…
+https://t.co/9d9vcYaDtJ
+
+archiving URL http://twitter.com/AmbJohnBolton/status/1123546104744882176
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AmbJohnBolton/status/1123546104744882176
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Comey: Sat down with the great Chuck Rosenberg for his new
+podcast.                                     Jim Comey: Mobster…
+https://t.co/WU0ox873L8
+
+archiving URL http://twitter.com/Comey/status/1123547477876125696
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Comey/status/1123547477876125696
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from IvankaTrump: RT @AtlanticCouncil: During the financial crisis
+of 2008, she guided the French economy with a steady hand and fresh thinking,
+@IvankaTrump…
+
+archiving URL http://twitter.com/IvankaTrump/status/1123554479369064449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/IvankaTrump/status/1123554479369064449
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Congress must change the Immigration Laws now,
+ Dems won’t act. Wall is being built - 400 miles by end of next year.…
+https://t.co/Uf8ROQK2ys
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123559234128502784
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123559234128502784
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @realDonaldTrump: I am overriding the Decommission Order
+ of the magnificent aircraft carrier Harry S. Truman, built in 1998 (fairly
+new)…
+
+archiving URL http://twitter.com/VP/status/1123563801146732544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1123563801146732544
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Why didn’t President Obama do something about
+Russia in September (before November Election) when told by the FBI?…
+https://t.co/uze56bgMY2
+
+archiving URL http://twitter.com/realDonaldTrump/status/1123564951203930112
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: .@ActingSecDef: “It’s Time to Create an American Space
+Force” https://t.co/8puyPZdaOF via @WSJ
+
+archiving URL http://twitter.com/VP/status/1123565030518210560
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1123564951203930112
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1123565030518210560
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+1123531015509762048,
+                       'id_str': '1123531015509762048',
+
+                       'user_id': 25073877,
+'user_id_str': '25073877'},
+            'timestamp_ms': '1556715120374'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 1123531015509762048
+on account realDonaldTrump
+INFO: get_archived_tweet() called to get tweet ID 1123531015509762048 for
+account realDonaldTrump
+ERROR: unable to read line "['7"']" because: need more than 1 value to unpack.
+INFO: found a tweet!		http://web.archive.org/*/http://twitter.com/realDonaldTrum
+p/status/1123531015509762048	RT @gIamourizes: @dbongino My husband a New York
+City firefighter for 15 years will be voting Trump 2020 all the way!!
+... adding to list of deleted tweets
+... added
+ ... and we're going to tweet about it
+
+
+New tweet from JessicaDitto45: RT @stevenmnuchin1: .@USTradeRep Ambassador
+Lighthizer and I just concluded productive meetings with China’s Vice Premier
+Liu He. We will c…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1123572185543651329
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1123572185543651329
+    ... archiving using prefix http://web.archive.org/save/
