@@ -1,0 +1,24 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='linawesome', release='4.15.0-20-generic', version='#21-Ubuntu SMP Tue Apr 24 06:16:15 UTC 2018', machine='x86_64')
+This log was begun Thursday, 16 May 2019 at 14:22
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined"); trying requests.packages.urllib3.exceptions
+instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1129114555714539527 for account @POTUS
+getting all tweets before ID #1122959027942588415
+ERROR: unable to get tweets for account @POTUS
+           the system said:
+about to get all tweets newer than ID #1129102710580621312 for account @realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said:
+about to get all tweets newer than ID #1129109804901949440 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said:
+about to get all tweets newer than ID #1126649446358556675 for account @mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said:
