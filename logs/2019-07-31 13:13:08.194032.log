@@ -1,0 +1,598 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='4.4.0-151-generic', version='#178-Ubuntu SMP Tue Jun 11 08:29:58 UTC 2019', machine='i686')
+This log was begun Wednesday, 31 July 2019 at 13:13
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1156574313446666240 for account
+@SecretarySonny
+ERROR: unable to get tweets for account @SecretarySonny
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretarySonny
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb695b90c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1155551808573624325 for account
+@GovernorPerry
+ERROR: unable to get tweets for account @GovernorPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=GovernorPerry
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb69721ac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1155183785379540993 for account
+@KellyannePolls
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=KellyannePolls
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6972c2c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156588093367083009 for account
+@realDonaldTrump
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=realDonaldTrump
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6975cac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156552079848198145 for account
+@statedeptspox
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=statedeptspox
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6976dcc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=BetsyDeVos (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6978e8c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1087333489853243392 for account
+@DepSecDef
+ERROR: unable to get tweets for account @DepSecDef
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=DepSecDef (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb69754cc>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156598232967012352 for account
+@Scaramucci
+ERROR: unable to get tweets for account @Scaramucci
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Scaramucci (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697282c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156419433209794560 for account
+@AshLeeStrong
+ERROR: unable to get tweets for account @AshLeeStrong
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=AshLeeStrong
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb695790c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156577555023110145 for account
+@JessicaDitto45
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=JessicaDitto45
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6978fcc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156622565571518466 for account @SecAzar
+ERROR: unable to get tweets for account @SecAzar
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecAzar (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb71abaec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156323031389786114 for account
+@SecretaryRoss
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryRoss
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb69579cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #-1 for account @jaredkushner
+ERROR: unable to get tweets for account @jaredkushner
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=jaredkushner
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb695baac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1154941159845875712 for account @FLOTUS
+ERROR: unable to get tweets for account @FLOTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=FLOTUS (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697880c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156572633716183042 for account
+@EnergyDepSec
+ERROR: unable to get tweets for account @EnergyDepSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=EnergyDepSec
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6979e2c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+ERROR: unable to get tweets for account @jeffsessions
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=jeffsessions
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb697636c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156590538403012609 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=POTUS (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697520c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156396437300797441 for account
+@Scavino45
+ERROR: unable to get tweets for account @Scavino45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Scavino45 (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697210c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1155848904946196480 for account
+@SecretaryCarson
+ERROR: unable to get tweets for account @SecretaryCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryCarson
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6979ccc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+ERROR: unable to get tweets for account @RepTomPrice
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=RepTomPrice (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68e6e8c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=IvankaTrumpHQ
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68e792c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156610786682445824 for account
+@WhiteHouse
+ERROR: unable to get tweets for account @WhiteHouse
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=WhiteHouse (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb69728cc>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+ERROR: unable to get tweets for account @PRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=PRyan (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695750c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156587295350415361 for account
+@IvankaTrump
+ERROR: unable to get tweets for account @IvankaTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=IvankaTrump (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb69750ec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156618207366733824 for account @VP
+ERROR: unable to get tweets for account @VP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=VP (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68e762c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1148123293721010182 for account @Reince
+ERROR: unable to get tweets for account @Reince
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Reince (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6979bac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+ERROR: unable to get tweets for account @GovPenceIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=GovPenceIN (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb69757ac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+ERROR: unable to get tweets for account @SecElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecElaineChao
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb695774c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1155897302021619717 for account
+@stevenmnuchin1
+ERROR: unable to get tweets for account @stevenmnuchin1
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=stevenmnuchin1
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb69729cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=MELANIATRUMP
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68ea72c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156565178684715009 for account
+@BetsyDeVosED
+ERROR: unable to get tweets for account @BetsyDeVosED
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=BetsyDeVosED
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68e7b8c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156603699407577088 for account
+@SecretaryPerry
+ERROR: unable to get tweets for account @SecretaryPerry
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryPerry
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb69729cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=ElaineChao (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695774c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1154877841290518528 for account
+@StephGrisham45
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=StephGrisham45
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb697514c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1116735612898414597 for account @SBALinda
+ERROR: unable to get tweets for account @SBALinda
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SBALinda (Caused by
+ NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68ec74c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156597843060232193 for account
+@DepSecHargan
+ERROR: unable to get tweets for account @DepSecHargan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=DepSecHargan
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6979e0c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1128442085005254656 for account
+@SpeakerRyan
+ERROR: unable to get tweets for account @SpeakerRyan
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SpeakerRyan (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695750c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Reince45 (Caused by
+ NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697590c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156365666640977922 for account
+@Linda_McMahon
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Linda_McMahon
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb69728ac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryZinke
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68e972c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+ERROR: unable to get tweets for account @FirstLadyIN
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=FirstLadyIN (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68eb6ec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156299286952513537 for account
+@SecWilkie
+ERROR: unable to get tweets for account @SecWilkie
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecWilkie (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6972d0c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+ERROR: unable to get tweets for account @StephenMillerAL
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=StephenMillerAL
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6975fac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1155660978295623680 for account @Comey
+ERROR: unable to get tweets for account @Comey
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Comey (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6957d8c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=EPAScottPruitt
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68eb76c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156587529543585792 for account
+@SecPompeo
+ERROR: unable to get tweets for account @SecPompeo
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecPompeo (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68ea96c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156390200052015106 for account
+@DanScavino
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=DanScavino (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695798c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156370297458692101 for account
+@seanspicer
+ERROR: unable to get tweets for account @seanspicer
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=seanspicer (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb69753ec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156618087988367360 for account
+@SecondLady
+ERROR: unable to get tweets for account @SecondLady
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecondLady (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb697226c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156589265435971585 for account
+@MattWhitaker46
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=MattWhitaker46
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68f388c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1155954692326772737 for account @PressSec
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=PressSec (Caused by
+ NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb71abaec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1154870382178054144 for account
+@USTradeRep
+ERROR: unable to get tweets for account @USTradeRep
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=USTradeRep (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695bcac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1149688089213714432 for account
+@SecretaryAcosta
+ERROR: unable to get tweets for account @SecretaryAcosta
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryAcosta
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68e946c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+ERROR: unable to get tweets for account @SecPriceMD
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecPriceMD (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695758c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=nikkihaley (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68ef44c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SenDanCoats (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68ec4ac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+ERROR: unable to get tweets for account @SecShulkin
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecShulkin (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68f380c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+ERROR: unable to get tweets for account @TomBossert45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=TomBossert45
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6975e2c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156608615752642560 for account @Cabinet
+ERROR: unable to get tweets for account @Cabinet
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Cabinet (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb695bd8c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+ERROR: unable to get tweets for account @MickMulvaneyOMB
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=MickMulvaneyOMB
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68f488c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156337672589336576 for account
+@AmbJohnBolton
+ERROR: unable to get tweets for account @AmbJohnBolton
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=AmbJohnBolton
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68f83cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+ERROR: unable to get tweets for account @WilburRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=WilburRoss (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6975cac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1115755187258515458 for account
+@SecNielsen
+ERROR: unable to get tweets for account @SecNielsen
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecNielsen (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6957dac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1156354419849617411 for account
+@RealBenCarson
+ERROR: unable to get tweets for account @RealBenCarson
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=RealBenCarson
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb68f43cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1156285416347189249 for account
+@mike_pence
+ERROR: unable to get tweets for account @mike_pence
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=mike_pence (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb68f82ec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+... OK, we're set up, and about to watch 842072478834909184, 18906561,
+471672239, 25073877, 1967216306, 599530439, 2480087918, 24578794, 296060169,
+836724024688410625, 956283913835614208, 836305915452272641, 29547260,
+818876014390603776, 894923298374651904, 986781648, 822215679726100480,
+823367015830323201, 828613457020870657, 6577802, 798195585824104449,
+822215673812119553, 733751245, 52544275, 818910970567344128, 20733972, 15985455,
+ 826065858548133888, 799764016885329921, 108471631, 828997388920619008,
+830128820447539208, 105267762, 823638938590085124, 819992522109894658,
+920035992073064450, 18916432, 803703725730779136, 65522706, 827258161841135623,
+1923451808, 1024390184090181633, 728361177986797568, 2334193741,
+832672006113931269, 988573326376427520, 620571475, 20776147, 822127086194348032,
+ 6672532, 818927131883356161, 862405301693296640, 819980276570976256,
+829782369670410240, 37666984, 212262370, 831482588246196225, 866746592853979137,
+ 818928162449068032, 888031054141022209, 118756393, 809836066316451840,
+935148134505828353, 1180379185, 22203756
