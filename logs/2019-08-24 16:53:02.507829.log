@@ -1,0 +1,1061 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='4.4.0-157-generic', version='#185-Ubuntu SMP Tue Jul 23 09:15:44 UTC 2019', machine='i686')
+This log was begun Saturday, 24 August 2019 at 16:53
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1165280439122223104 for account
+@Scaramucci
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1014519079284199424 for account
+@EPAScottPruitt
+ERROR: unable to get tweets for account @EPAScottPruitt
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #529836079659384833 for account
+@jeffsessions
+about to get all tweets newer than ID #856041462164836355 for account
+@FirstLadyIN
+about to get all tweets newer than ID #1149688089213714432 for account
+@SecretaryAcosta
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1138787334101569536
+    ...400 tweets downloaded so far
+getting all tweets before ID #1117627903959863295
+    ...600 tweets downloaded so far
+getting all tweets before ID #1092459317863813119
+    ...755 tweets downloaded so far
+getting all tweets before ID #1080195496407388164
+ERROR: unable to get tweets for account @nikkihaley
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=nikkihaley&max_id=1
+080195496407388164 (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb66d816c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1164910290653368320 for account
+@SecretaryCarson
+about to get all tweets newer than ID #1164934996936876032 for account @Cabinet
+about to get all tweets newer than ID #1157038299053285390 for account
+@DepSecDef
+getting all tweets before ID #1156699586175676415
+    ...32 tweets downloaded so far
+
+
+New tweet from DepSecDef: RT @EsperDoD: Leaving @Andrews_JBA for Hawaii, where
+ we will meet with @INDOPACOM Commander Adm. Phil Davidson ahead of #AUSMIN.
+Looking fo…
+
+archiving URL http://twitter.com/DepSecDef/status/1157394384238850048
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165227535992598529 for account
+@SecretarySonny
+about to get all tweets newer than ID #1164945536648130560 for account
+@SecPompeo
+
+archiving URL https://twitter.com/DepSecDef/status/1157394384238850048
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @SecPompeo
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecPompeo (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb676b2ac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1165232357663760384 for account
+@statedeptspox
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @statedeptspox
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=statedeptspox
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb676b2cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1164593355998793728 for account
+@SecWilkie
+
+
+New tweet from DepSecDef: RT @EsperDoD: There’s nothing ordinary about
+refueling an aircraft in mid-air. Thank you to the incredible E-4B flight crew,
+and the KC-10…
+
+archiving URL http://twitter.com/DepSecDef/status/1157394412265230336
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165329930311233537 for account
+@SecretaryPerry
+about to get all tweets newer than ID #1164890177468325888 for account @Reince
+about to get all tweets newer than ID #1165013074421661696 for account
+@USTradeRep
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+about to get all tweets newer than ID #1080509257441837057 for account
+@SecretaryZinke
+ERROR: unable to get tweets for account @SecretaryZinke
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryZinke
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb626144c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1165379905267404800 for account
+@JessicaDitto45
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @JessicaDitto45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=JessicaDitto45
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb671fbec>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1163944910946521090 for account
+@SecondLady
+
+archiving URL https://twitter.com/DepSecDef/status/1157394412265230336
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: Mahalo for the warm welcome! I was
+greeted by @INDOPACOM Commander Adm. Phil Davidson and staff members of
+America's largest…
+
+archiving URL http://twitter.com/DepSecDef/status/1157394434968948738
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1156354419849617411 for account
+@RealBenCarson
+
+archiving URL https://twitter.com/DepSecDef/status/1157394434968948738
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1164348835415625729 for account
+@DanScavino
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @DanScavino
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=DanScavino (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb62d544c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1164975595664502784 for account
+@BetsyDeVosED
+about to get all tweets newer than ID #913881045652688901 for account
+@SecPriceMD
+
+
+New tweet from DepSecDef: RT @EsperDoD: Today I had the opportunity to engage
+with @INDOPACOM Commander Adm. Phil Davidson and his leadership team to dive
+deeper int…
+
+archiving URL http://twitter.com/DepSecDef/status/1157445130636410880
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1157445130636410880
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: Was great to see Ambassador Culvahouse
+ upon arrival in Australia this evening for #AUSMIN. Looking forward to meeting
+with @S…
+
+archiving URL http://twitter.com/DepSecDef/status/1157643445974044674
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165252417014755328 for account @SecAzar
+
+archiving URL https://twitter.com/DepSecDef/status/1157643445974044674
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165337983127441408 for account
+@SecretaryRoss
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @SecretaryRoss
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SecretaryRoss
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb6714cac>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #-1 for account @ElaineChao
+ERROR: unable to get tweets for account @ElaineChao
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=ElaineChao (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb670854c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1159511786695069697 for account @FLOTUS
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+about to get all tweets newer than ID #830074939298414592 for account
+@RepTomPrice
+
+
+New tweet from DepSecDef: RT @secnav76: 2yrs ago, I was privileged to take the
+ Dept's helm. I focused on people, processes &amp; capabilities to build the
+Naval Force th…
+
+archiving URL http://twitter.com/DepSecDef/status/1157720089124311041
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1154877841290518528 for account
+@StephGrisham45
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @StephGrisham45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=StephGrisham45
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb66d958c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1165385401353289728 for account @VP
+
+archiving URL https://twitter.com/DepSecDef/status/1157720089124311041
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: Great meeting with @SecPompeo,
+Australian MinDef @lindareynoldswa and Foreign Minister @MarisePayne to reaffirm
+ the enduring…
+
+archiving URL http://twitter.com/DepSecDef/status/1157804194025353217
+    ... archiving using prefix http://web.archive.org/save/
+getting all tweets before ID #1154417620730429442
+    ...400 tweets downloaded so far
+
+
+New tweet from VP: RT @realDonaldTrump: France and President @EmmanuelMacron
+have done a really great job thus far with a very important G-7. Lunch with
+Emman…
+
+archiving URL http://twitter.com/VP/status/1165396788649570305
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #-1 for account @jaredkushner
+
+archiving URL https://twitter.com/VP/status/1165396788649570305
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1115755187258515458 for account
+@SecNielsen
+
+archiving URL https://twitter.com/DepSecDef/status/1157804194025353217
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1161410426548174848 for account @Comey
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @Comey
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Comey (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb62d4fcc>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #816846808789958656 for account
+@SenDanCoats
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @SenDanCoats
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=SenDanCoats (Caused
+ by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb63e45ac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1165393850711625729 for account
+@WhiteHouse
+getting all tweets before ID #1161376653374828543
+    ...400 tweets downloaded so far
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Our great Economy is the talk
+of everyone!
+
+archiving URL http://twitter.com/WhiteHouse/status/1165397370806382592
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165015853324222464 for account
+@IvankaTrump
+
+
+New tweet from DepSecDef: RT @EsperDoD: We are working together to ensure a
+#FreeAndOpenIndoPacific that is stable, secure and safeguards the rules-based
+internation…
+
+archiving URL http://twitter.com/DepSecDef/status/1157804202825068544
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165038066140176384 for account
+@AmbJohnBolton
+
+archiving URL https://twitter.com/DepSecDef/status/1157804202825068544
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165397370806382592
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+
+
+New tweet from DepSecDef: RT @EsperDoD: The entire @DeptofDefense stands
+shoulder to shoulder with Australia’s Armed Forces in support of a safe,
+prosperous, free an…
+
+archiving URL http://twitter.com/DepSecDef/status/1157946500334440449
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #824610180881117184 for account
+@GovPenceIN
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: France and President
+@EmmanuelMacron have done a really great job thus far with a very important G-7.
+ Lunch with Emman…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165397399076052992
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1157946500334440449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165397399076052992
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: We stand firmly against a disturbing
+pattern of aggressive behavior from China that destabilizes the region.
+
+archiving URL http://twitter.com/DepSecDef/status/1157946509142450177
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1116735612898414597 for account @SBALinda
+
+archiving URL https://twitter.com/DepSecDef/status/1157946509142450177
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1163835395383205888 for account
+@EnergyDepSec
+
+
+New tweet from DepSecDef: RT @EsperDoD: Here’s to another 100 years of
+“mateship.” Thank you @ScottMorrisonMP for the warm welcome!
+https://t.co/5azw6GJaJm
+
+archiving URL http://twitter.com/DepSecDef/status/1157980786861203457
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #890659905798983680 for account @Reince45
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @Reince45
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Reince45 (Caused by
+ NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb63abf8c>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1165286764124221442 for account @POTUS
+ERROR: unable to get tweets for account @POTUS
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=POTUS (Caused by
+NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb6708bac>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #1073709695809056768 for account
+@MickMulvaneyOMB
+about to get all tweets newer than ID #1165390440016859138 for account
+@Scavino45
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/DepSecDef/status/1157980786861203457
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: The incredible men &amp; women of our @USCG work
+tirelessly to ensure our Nation’s maritime safety, security, and stewa…
+https://t.co/Tr4w9M0rqS
+
+archiving URL http://twitter.com/DepSecDef/status/1157987198341394432
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165328366783754242 for account @PressSec
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @PressSec
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=PressSec (Caused by
+ NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb67001ec>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #832282841471918080 for account
+@BetsyDeVos
+ERROR: unable to get tweets for account @BetsyDeVos
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=BetsyDeVos (Caused
+by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at
+0xb66a51cc>: Failed to establish a new connection: [Errno -3] Temporary failure
+in name resolution',))
+about to get all tweets newer than ID #816290296048873472 for account
+@WilburRoss
+about to get all tweets newer than ID #1021844939473387520 for account
+@IvankaTrumpHQ
+ERROR: unable to get tweets for account @IvankaTrumpHQ
+           the system said: [{'message': 'Sorry, that page does not exist.',
+'code': 34}]
+about to get all tweets newer than ID #1165033753430806528 for account
+@GovernorPerry
+
+archiving URL https://twitter.com/DepSecDef/status/1157987198341394432
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: I had an extremely productive and
+successful day in Australia reaffirming the strong bonds between our nations.
+#AUSMIN #Free…
+
+archiving URL http://twitter.com/DepSecDef/status/1158078075944484867
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158078075944484867
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165395942792712196 for account
+@realDonaldTrump
+
+
+New tweet from DepSecDef: RT @EsperDoD: Leaving Australia after an amazing
+#AUSMIN. Next: New Zealand! https://t.co/sNUUctgG7I
+
+archiving URL http://twitter.com/DepSecDef/status/1158283544764002304
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158283544764002304
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @realDonaldTrump
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=realDonaldTrump
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb676c6cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1165263497086873600 for account
+@KellyannePolls
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @KellyannePolls
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=KellyannePolls
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb62c5d2c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #994396943421001728 for account
+@TomBossert45
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+about to get all tweets newer than ID #1128442085005254656 for account
+@SpeakerRyan
+about to get all tweets newer than ID #1165300076199251969 for account
+@mike_pence
+
+
+New tweet from DepSecDef: RT @EsperDoD: Just arrived in Auckland, New Zealand
+and looking forward to meeting with MinDef @RonMarkNZF to talk about enhancing
+security…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283644248764416
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165044608658759680 for account
+@MattWhitaker46
+
+archiving URL https://twitter.com/DepSecDef/status/1158283644248764416
+    ... archiving using prefix http://web.archive.org/save/
+ERROR: unable to get tweets for account @MattWhitaker46
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=MattWhitaker46
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb63cb1cc>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1165286613309677570 for account
+@Linda_McMahon
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @Linda_McMahon
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=Linda_McMahon
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb66d9c2c>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1165271509771923456 for account
+@stevenmnuchin1
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+about to get all tweets newer than ID #1165289792168439808 for account
+@seanspicer
+about to get all tweets newer than ID #978650205192044545 for account
+@SecShulkin
+about to get all tweets newer than ID #1165027173813477376 for account
+@AshLeeStrong
+
+
+New tweet from DepSecDef: RT @EsperDoD: Just arrived in Auckland, New Zealand
+and looking forward to discussions with MinDef @RonMarkNZF about enhancing our
+bilatera…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283663840358400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #1165037995461922817 for account
+@DepSecHargan
+
+archiving URL https://twitter.com/DepSecDef/status/1158283663840358400
+    ... archiving using prefix http://web.archive.org/save/
+about to get all tweets newer than ID #954801265732661248 for account
+@MELANIATRUMP
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+ERROR: unable to get tweets for account @MELANIATRUMP
+           the system said: Failed to send request:
+HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with
+ url: /1.1/statuses/user_timeline.json?count=200&screen_name=MELANIATRUMP
+(Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection
+object at 0xb62cfeec>: Failed to establish a new connection: [Errno -3]
+Temporary failure in name resolution',))
+... OK, we're set up, and about to watch 24578794, 826065858548133888,
+832672006113931269, 986781648, 1923451808, 819980276570976256, 37666984,
+828613457020870657, 818928162449068032, 2480087918, 842072478834909184,
+988573326376427520, 1967216306, 1024390184090181633, 830128820447539208,
+20733972, 862405301693296640, 827258161841135623, 836724024688410625,
+822127086194348032, 1180379185, 620571475, 828997388920619008,
+829782369670410240, 956283913835614208, 836305915452272641, 105267762,
+818876014390603776, 6577802, 823638938590085124, 818910970567344128, 29547260,
+935148134505828353, 2334193741, 212262370, 822215673812119553, 52544275,
+118756393, 728361177986797568, 15985455, 819992522109894658, 894923298374651904,
+ 803703725730779136, 822215679726100480, 888031054141022209, 823367015830323201,
+ 818927131883356161, 599530439, 809836066316451840, 798195585824104449,
+18906561, 25073877, 471672239, 866746592853979137, 18916432, 22203756, 6672532,
+65522706, 733751245, 799764016885329921, 20776147, 831482588246196225,
+296060169, 920035992073064450, 108471631
+
+
+New tweet from DepSecDef: RT @EsperDoD: Though I am overseas visiting our
+allies, it is heartbreaking to see news of the shootings in El Paso and Dayton –
+ the home o…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283693154295808
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158283693154295808
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from realDonaldTrump: The Media is destroying the Free Press! Mark
+Levin. So True!
+
+archiving URL http://twitter.com/realDonaldTrump/status/1165400505222389766
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from DepSecDef: RT @EsperDoD: Leah and I want to send our
+condolences to those communities impacted. The victims of this tragedy are in
+our thoughts and pr…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283699273838602
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158283699273838602
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1165400505222389766
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: Today during my meeting with MinDef
+@RonMarkNZF, we agreed security cooperation between our two Nations has never
+been better…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283775756906496
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/DepSecDef/status/1158283775756906496
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: The U.S. and New Zealand share a
+vision of the future for the region based on shared principles like sovereignty,
+ rule of law…
+
+archiving URL http://twitter.com/DepSecDef/status/1158283809185587201
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158283809185587201
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from DepSecDef: RT @EsperDoD: In Tokyo to meet with Japanese Prime
+Minister @AbeShinzo and Japanese Minister of Defense Takeshi Iwaya. The
+U.S.-Japan allia…
+
+archiving URL http://twitter.com/DepSecDef/status/1158846484747608064
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158846484747608064
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: Today in Tokyo, Japanese Prime
+Minister @AbeShinzo and I committed to ensuring our U.S.-Japan alliance
+continues to adapt, to…
+
+archiving URL http://twitter.com/DepSecDef/status/1158910995911385088
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1158910995911385088
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: Today is the 237th anniversary of the Purple Heart,
+awarded to U.S. service members who have endured great sufferin…
+https://t.co/FOiEeNHIUP
+
+archiving URL http://twitter.com/DepSecDef/status/1159185723976814595
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1159185723976814595
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: Congratulations to GEN McConville for assuming the
+duties of the 40th @ArmyChiefStaff. GEN McConville’s exceptional…
+https://t.co/rZrBH5Qw4d
+
+archiving URL http://twitter.com/DepSecDef/status/1159942730581254149
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/DepSecDef/status/1159942730581254149
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: And to GEN Milley, thank you for your steadfast
+leadership for the past 4 years. I look forward to working with you…
+https://t.co/VVVUWyovz8
+
+archiving URL http://twitter.com/DepSecDef/status/1159942732896460805
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1159942732896460805
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: As @EsperDoD mentioned, “The Army is in the midst of
+ a renaissance…” and @15thSMA Dailey was the consummate leader…
+https://t.co/le6aQsCfqX
+
+archiving URL http://twitter.com/DepSecDef/status/1159942734410592259
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1159942734410592259
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from DepSecDef: RT @EsperDoD: At my confirmation hearing, I
+committed to actively seek opportunities to reallocate resources &amp; reinvest
+back into our top p…
+
+archiving URL http://twitter.com/DepSecDef/status/1160187915814735872
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/DepSecDef/status/1160187915814735872
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: The Media is destroying the
+Free Press! Mark Levin. So True!
+
+archiving URL http://twitter.com/WhiteHouse/status/1165401634635206661
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from POTUS: RT @realDonaldTrump: The Media is destroying the Free
+Press! Mark Levin. So True!
+
+archiving URL http://twitter.com/POTUS/status/1165401644466626562
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165401634635206661
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/POTUS/status/1165401644466626562
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: President @realDonaldTrump catches up with other @G7
+ leaders tonight in Biarritz, France, after their great dinner,…
+https://t.co/HZUu5q2QdE
+
+archiving URL http://twitter.com/Scavino45/status/1165402566261379072
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1165402566261379072
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: President @realDonaldTrump catches
+up with other @G7 leaders tonight in Biarritz, France, after their great dinner,
+ hosted b…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165405053403967488
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/WhiteHouse/status/1165405053403967488
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+
+New tweet from Scaramucci: You can’t walk back full blown CRAZY. People know.
+The Fall is appropriately named for @realDonaldTrump. Real chang…
+https://t.co/Z7VfOsHxoq
+
+archiving URL http://twitter.com/Scaramucci/status/1165407264649465859
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/Scaramucci/status/1165407264649465859
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: The @PastorDScott already knows. People are talking
+ all around the country.  Pastor please pray for country so that…
+https://t.co/h62D5rJYEv
+
+archiving URL http://twitter.com/Scaramucci/status/1165407737804668928
+    ... archiving using prefix http://web.archive.org/save/
+WARNING: attempt to archive timed out, sleeping for 10 seconds
+
+archiving URL https://twitter.com/Scaramucci/status/1165407737804668928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @jonathanvswan: That is an insane amount of
+fentanyl. https://t.co/VD7AmROyAH
+
+archiving URL http://twitter.com/JessicaDitto45/status/1165411654160572417
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1165411654160572417
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: President @realDonaldTrump's
+meetings with leaders of @G7 nations will further our cooperation and relations
+with several o…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1165411706484473856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1165411706484473856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: Nations that empower women to fully participate in
+civic and economic life—and do away with barriers that hold them…
+https://t.co/dNcIsx1coF
+
+archiving URL http://twitter.com/WhiteHouse/status/1165412224778874881
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165412224778874881
+    ... archiving using prefix http://web.archive.org/save/
+INFO: handling a deletion for data:
+
+{'delete': {'status': {'id':
+729593859278254080,
+                       'id_str': '729593859278254080',
+
+                       'user_id': 471672239,
+'user_id_str': '471672239'},
+            'timestamp_ms': '1566691376285'}}
+INFO: successfully dumped raw data to JSON file
+INFO: We're handling a deletion notification for tweet ID# 729593859278254080 on
+ account KellyannePolls
+INFO: get_archived_tweet() called to get tweet ID 729593859278254080 for account
+ KellyannePolls
+INFO: found a tweet!		http://web.archive.org/*/https://twitter.com/KellyannePoll
+s/status/729593859278254080	RT @ssharpeLIFE: Fantastic article by Dominic Lawson
+ in the Daily Mail about NIPT &amp; the eradication of people with Down's
+syndrome https://…
+... adding to list of deleted tweets
+... added
+... but we're not going to tweet about it because KellyannePolls is not in the
+list of accounts we tweet about
+
+
+New tweet from statedeptspox: The outlaw regime in Iran issued a threat today
+against @FDD, an American think tank, and its CEO. The U.S. takes t…
+https://t.co/3tHQUwBzaS
+
+archiving URL http://twitter.com/statedeptspox/status/1165419298539655175
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/statedeptspox/status/1165419298539655175
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President @realDonaldTrump will work with our
+partners at @G7 to tackle the rise of unfair trade practices.…
+https://t.co/Ub5FnmZhjk
+
+archiving URL http://twitter.com/WhiteHouse/status/1165423800747515904
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165423800747515904
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: Be a pastor. Seek Christ and
+pray. And ask yourself if we should be this divided because of this one man.
+https://t.co…
+
+archiving URL http://twitter.com/Scaramucci/status/1165450143333867520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1165450143333867520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: Ummm it was a charity event where @JoeBiden spoke.
+Many republicans there. Let’s cut the nonsense and replace…
+https://t.co/ytf494qetz
+
+archiving URL http://twitter.com/Scaramucci/status/1165452377748643842
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1165452377748643842
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: RT @DeidreScaramuc2: Aren’t Pastors supposed to be
+loving, supportive, accepting &amp; humble? Why would you get involved in
+politics @PastorDS…
+
+archiving URL http://twitter.com/Scaramucci/status/1165453267897393152
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1165453267897393152
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from JessicaDitto45: RT @WhiteHouse: President @realDonaldTrump will
+ work with our partners at @G7 to tackle the rise of unfair trade practices.
+#G7Biarritz htt…
+
+archiving URL http://twitter.com/JessicaDitto45/status/1165455742368960512
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/JessicaDitto45/status/1165455742368960512
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from VP: RT @Scavino45: President @realDonaldTrump and Prime
+Minister @BorisJohnson catching up with each other tonight in France!
+#G7Biarritz https…
+
+archiving URL http://twitter.com/VP/status/1165460479843676160
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/VP/status/1165460479843676160
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from AshLeeStrong: My dad and I caught about 20 of these monster
+trout today. ;) https://t.co/18Ssz84qNN
+
+archiving URL http://twitter.com/AshLeeStrong/status/1165468710296936449
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/AshLeeStrong/status/1165468710296936449
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Before I arrived in France, the Fake and
+Disgusting News was saying that relations with the 6 others countries in t…
+https://t.co/i2zmu1EZrK
+
+archiving URL http://twitter.com/realDonaldTrump/status/1165499459259772928
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: ....bad Economic times, the worse the better,
+anything to make my Election more difficult to win. Well, we are havi…
+https://t.co/r29vbTSqGp
+
+archiving URL http://twitter.com/realDonaldTrump/status/1165499461268836352
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1165499459259772928
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1165499461268836352
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Such False and Inaccurate reporting thus far
+on the G-7. The Fake News knows this but they can’t help themselves! L…
+https://t.co/Si4nNUoLEF
+
+archiving URL http://twitter.com/realDonaldTrump/status/1165500375870427136
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1165500375870427136
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Such False and Inaccurate
+reporting thus far on the G-7. The Fake News knows this but they can’t help
+themselves! Leav…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165500571295592448
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165500571295592448
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: President @realDonaldTrump met with Prime Minister
+@BorisJohnson to discuss the special relationship between the Un…
+https://t.co/mOpuqfDVOC
+
+archiving URL http://twitter.com/WhiteHouse/status/1165528394345385984
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165528394345385984
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scaramucci: A bully with regrets. . . It’s as if Roy Cohn and
+Joe McCarthy had a baby and his name is @realDonaldTrump:  the fe…
+https://t.co/Gjc8sEiTiv
+
+archiving URL http://twitter.com/Scaramucci/status/1165529001080872960
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scaramucci/status/1165529001080872960
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from realDonaldTrump: Great working breakfast this morning with
+Prime Minister @BorisJohnson at the Hôtel du Palais in Biarritz, France!…
+https://t.co/emii9PkdlD
+
+archiving URL http://twitter.com/realDonaldTrump/status/1165535548766920704
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/realDonaldTrump/status/1165535548766920704
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: RT @realDonaldTrump: Great working breakfast this
+morning with Prime Minister @BorisJohnson at the Hôtel du Palais in Biarritz,
+France! #G7…
+
+archiving URL http://twitter.com/PressSec/status/1165535867089358848
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1165535867089358848
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: RT @realDonaldTrump: Great working breakfast this
+morning with Prime Minister @BorisJohnson at the Hôtel du Palais in Biarritz,
+France! #G7…
+
+archiving URL http://twitter.com/Scavino45/status/1165536242076921856
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1165536242076921856
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @realDonaldTrump: Great working breakfast this
+morning with Prime Minister @BorisJohnson at the Hôtel du Palais in Biarritz,
+France! #G7…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165536284636516353
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165536284636516353
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @BorisJohnson: This morning I met with @POTUS at
+ the #G7 Summit.
+
+We discussed the special relationship between our two
+countries 🇬🇧🇺🇸…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165540753759723520
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165540753759723520
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @10DowningStreet: This morning PM @BorisJohnson
+met @POTUS Donald Trump for the first time since becoming Prime Minister at the
+#G7 Summ…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165540814027706368
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165540814027706368
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @statedeptspox: The outlaw regime in Iran issued
+ a threat today against @FDD, an American think tank, and its CEO. The U.S.
+takes the re…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165543974309957633
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165543974309957633
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from PressSec: Busy day as @POTUS attends back-to-back meetings
+representing our country here at the #G7 in Biarritz, France.…
+https://t.co/jwUDoSN1Ot
+
+archiving URL http://twitter.com/PressSec/status/1165564249810329600
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/PressSec/status/1165564249810329600
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @PressSec: Busy day as @POTUS attends back-to-
+back meetings representing our country here at the #G7 in Biarritz, France.
+@realDonaldTru…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165564347088662529
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165564347088662529
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from Scavino45: Earlier this morning, President @realDonaldTrump
+attends a @G7 Working Session on Global Economy, Foreign Policy an…
+https://t.co/kgAR7fBerj
+
+archiving URL http://twitter.com/Scavino45/status/1165579952160419840
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/Scavino45/status/1165579952160419840
+    ... archiving using prefix http://web.archive.org/save/
+
+
+New tweet from WhiteHouse: RT @Scavino45: Earlier this morning, President
+@realDonaldTrump attends a @G7 Working Session on Global Economy, Foreign Policy
+ and Securit…
+
+archiving URL http://twitter.com/WhiteHouse/status/1165580646993092609
+    ... archiving using prefix http://web.archive.org/save/
+
+archiving URL https://twitter.com/WhiteHouse/status/1165580646993092609
+    ... archiving using prefix http://web.archive.org/save/
