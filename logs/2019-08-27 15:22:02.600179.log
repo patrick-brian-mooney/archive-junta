@@ -1,0 +1,39 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='4.4.0-157-generic', version='#185-Ubuntu SMP Tue Jul 23 09:15:44 UTC 2019', machine='i686')
+This log was begun Tuesday, 27 August 2019 at 15:22
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1166389407588466690 for account
+@realDonaldTrump
+about to get all tweets newer than ID #1164348835415625729 for account
+@DanScavino
+about to get all tweets newer than ID #1166450266239045638 for account
+@SecretarySonny
+about to get all tweets newer than ID #1077568647110017024 for account @PRyan
+about to get all tweets newer than ID #1165033753430806528 for account
+@GovernorPerry
+about to get all tweets newer than ID #1160187915814735872 for account
+@DepSecDef
+about to get all tweets newer than ID #836780744810844161 for account
+@StephenMillerAL
+about to get all tweets newer than ID #1166174435637944321 for account
+@Scavino45
+about to get all tweets newer than ID #1166380940903485442 for account
+@IvankaTrump
+about to get all tweets newer than ID #903694300306923521 for account
+@SecElaineChao
+about to get all tweets newer than ID #1166404045059383296 for account
+@JessicaDitto45
+about to get all tweets newer than ID #1080170559101718528 for account
+@nikkihaley
+getting all tweets before ID #1139514993911783424
+    ...400 tweets downloaded so far
+getting all tweets before ID #1118917843725238271
+    ...600 tweets downloaded so far
+getting all tweets before ID #1093257972040564736

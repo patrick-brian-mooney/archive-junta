@@ -1,0 +1,13 @@
+Hello, traveler. This is the beginning of a log file called: "Fascist Tweet Archiver".
+Some basic system info about the host machine: posix.uname_result(sysname='Linux', nodename='file-server', release='4.4.0-157-generic', version='#185-Ubuntu SMP Tue Jul 23 09:15:44 UTC 2019', machine='i686')
+This log was begun Tuesday, 27 August 2019 at 15:23
+
+
+
+INFO: read target account data; we're tracking 65 accounts
+WARNING: no ProtocolError (got exception "name 'ProtocolError' is not defined");
+ trying requests.packages.urllib3.exceptions instead
+NOTE: successfully imported from requests
+Starting up...
+about to get all tweets newer than ID #1115755187258515458 for account
+@SecNielsen
