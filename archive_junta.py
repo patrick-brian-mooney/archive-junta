@@ -383,7 +383,7 @@ def export_web_page():
            the new account(s);
         3. Waiting for enough of the archiving to complete so that all of the
            necessary files have been generated and archived (begun uploading to
-           DropBox, archived in GitHub, etc.) so that the appropriate URLs have been
+           Dropbox, archived in GitHub, etc.) so that the appropriate URLs have been
            created and can be found;
         4. Adding the relevant URLs to users_data.csv;
         5. From an interactive Python console, importing the script and running
@@ -468,8 +468,8 @@ def export_web_page():
         header = next(reader)                                # Skip the header line
         for the_row in reader:
             the_row = dict(zip(header, the_row))
-            if the_row['IA search'] and the_row['GitHub index'] and the_row['DropBox index']:
-                the_page += """\n    <tr class="vevent"><td><abbr class="summary description" title="Tweet archiving began for @%s"><a rel="nofollow" href="http://twitter.com/%s">@%s</a></abbr></td><td><abbr class="dtstart" title="%s">%s</abbr></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td>%s</td></tr>""" % (the_row['username'], the_row['username'], the_row['username'], the_row['ISO date'], the_row['text date'], the_row['DropBox index'], the_row['GitHub index'], the_row['IA search'], the_row['description'])
+            if the_row['IA search'] and the_row['GitHub index'] and the_row['Dropbox index']:
+                the_page += """\n    <tr class="vevent"><td><abbr class="summary description" title="Tweet archiving began for @%s"><a rel="nofollow" href="http://twitter.com/%s">@%s</a></abbr></td><td><abbr class="dtstart" title="%s">%s</abbr></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td><a href="%s">here</a></td> <td>%s</td></tr>""" % (the_row['username'], the_row['username'], the_row['username'], the_row['ISO date'], the_row['text date'], the_row['Dropbox index'], the_row['GitHub index'], the_row['IA search'], the_row['description'])
             else:
                 the_page += """\n    <tr class="vevent"><td><abbr class="summary description" title="Tweet archiving began for @%s"><a rel="nofollow" href="https://twitter.com/%s">@%s</a></abbr></td><td><abbr class="dtstart" title="%s">%s</abbr></td> <td colspan="3" style="text-align:center">(has not yet tweeted)</td> <td>%s</td></tr>""" % (the_row['username'], the_row['username'], the_row['username'], the_row['ISO date'], the_row['text date'], the_row['description'])
 
